@@ -27,16 +27,19 @@ def transcribe(elements):
     katakana = katakana.replace('スル', '') # JMdict doesn't have entries for する verbs but for the noun only
     kks = pykakasi.kakasi()
     result = kks.convert(katakana)
+    kanji = elements[2][:-1]
+    if kanji.endswith('する'):
+        kanji = kanji[:-2]
 
     # Extract the JMdict definitions
-    entries = str(Jamdict().lookup(elements[2][0:-1]).entries)
+    entries = str(Jamdict().lookup(kanji).entries)
     definitions = ''.join(entries.split(":")[1:])
     for i in range(2, 20):
         definitions = definitions.replace(f' {i}. ', '$')
     definitions = definitions.replace(' 1. ', '')
     english = ' | '.join(definitions.replace('/', ', ').split('$'))[:-1]
 
-    return '\t'.join([elements[0], str(transcribed_index), result[0]['hepburn'], result[0]['hira'], elements[2][:-1], english])+'\n'
+    return '\t'.join([elements[0], str(transcribed_index), result[0]['hepburn'], result[0]['hira'], kanji, english])+'\n'
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:

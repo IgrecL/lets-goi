@@ -141,8 +141,8 @@ class _GameScreen extends State<GameScreen> {
                           ),
                         );
                       },
-                      icon: Icon(Icons.add),
-                        label: Text('Anki', style: TextStyle(fontWeight: FontWeight.bold)),
+                      icon: Icon(Icons.question_mark),
+                        label: Text('Words', style: TextStyle(fontWeight: FontWeight.bold)),
                       backgroundColor: Colors.white,
                     ),
                   ),

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:letsgoi/screens/achievements.dart';
 import 'package:letsgoi/screens/quizzes.dart';
-import 'package:letsgoi/screens/settings.dart';
+import 'package:letsgoi/screens/credits.dart';
 
 void main() {
   runApp(const MyApp());
@@ -37,7 +37,7 @@ class _MyHomePageState extends State<MyHomePage> {
   final List<Widget> _children = [
     AchievementsScreen(),
     QuizzesScreen(),
-    SettingsScreen(),
+    CreditsScreen(),
   ];
 
   void onTabTapped(int index) {
@@ -69,8 +69,8 @@ class _MyHomePageState extends State<MyHomePage> {
               label: 'Quizzes',
             ),
             BottomNavigationBarItem(
-              icon: Icon(_currentIndex == 2 ? Icons.settings : Icons.settings_outlined),
-              label: 'Settings',
+              icon: Icon(_currentIndex == 2 ? Icons.person : Icons.person_outlined),
+              label: 'Credits',
             ),
           ],
         ),

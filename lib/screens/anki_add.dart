@@ -1,5 +1,15 @@
 import 'package:flutter/material.dart';
+import 'package:url_launcher/url_launcher.dart';
 import 'dart:io';
+
+void _launchURL(String url) async {
+  if (await canLaunchUrl(Uri.parse(url))) {
+    await launchUrl(Uri.parse(url));
+  } else {
+    throw 'Could not launch $url';
+  }
+}
+
 
 class AnkiAdd extends StatelessWidget {
   final int level;
@@ -42,14 +52,6 @@ class AnkiAdd extends StatelessWidget {
 
             return Scaffold(
               backgroundColor: Colors.black,
-              floatingActionButton: FloatingActionButton.extended(
-                onPressed: () {
-                  // Handle onPressed for the button
-                },
-                backgroundColor: Colors.white,
-                label: Text('Add all', style: TextStyle(fontWeight: FontWeight.bold)),
-                icon: Icon(Icons.multiple_stop),
-              ),
               body: ListView.builder(
                 itemCount: wrong.length,
                 itemBuilder: (context, index) {
@@ -63,7 +65,7 @@ class AnkiAdd extends StatelessWidget {
                         IconButton(
                           icon: Icon(Icons.add),
                           onPressed: () {
-                            // Handle onPressed
+                            _launchURL('https://jisho.org/search/${wrong[index][4]}');
                           },
                           color: Colors.white,
                         ),
