@@ -32,7 +32,7 @@ class _GameScreen extends State<GameScreen> {
     final completed = prefs.getInt('completed${(widget.level - 1) ~/ 50}') ?? 0;
  
     if (!_finished) {
-      return 'レベル${widget.level} + ${(widget.level - 1) ~/ 50} + $completed';
+      return 'Level ${widget.level} + ${(widget.level - 1) ~/ 50} + $completed';
     }
 
     int count = 0;
@@ -42,7 +42,7 @@ class _GameScreen extends State<GameScreen> {
       }
     }
 
-    return 'レベル${widget.level} – $count/100';
+    return 'Level ${widget.level} – $count/100';
   }
 
   Future<bool> completedIcon() async {
@@ -142,7 +142,7 @@ class _GameScreen extends State<GameScreen> {
                         );
                       },
                       icon: Icon(Icons.add),
-                        label: Text('ANKI', style: TextStyle(fontWeight: FontWeight.bold)),
+                        label: Text('Anki', style: TextStyle(fontWeight: FontWeight.bold)),
                       backgroundColor: Colors.white,
                     ),
                   ),
@@ -164,7 +164,7 @@ class _GameScreen extends State<GameScreen> {
                       },
                       backgroundColor: Colors.white,
                       icon: Icon(Icons.check),
-                      label: Text('終了', style: TextStyle(fontWeight: FontWeight.bold)),
+                      label: Text('Finish', style: TextStyle(fontWeight: FontWeight.bold)),
                     ),
                   ),
                 ],
@@ -198,7 +198,7 @@ class _GameScreen extends State<GameScreen> {
                                       "${lines[index][1]} (${lines[index][0]})",
                                       style: TextStyle(
                                         color: Colors.white,
-                                        fontSize: 10,
+                                        fontSize: MediaQuery.of(context).size.width / 50,
                                       ),
                                       textAlign: TextAlign.center,
                                     ),
@@ -206,7 +206,7 @@ class _GameScreen extends State<GameScreen> {
                                       lines[index][4],
                                       style: TextStyle(
                                         color: Colors.white,
-                                        fontSize: 20,
+                                        fontSize: MediaQuery.of(context).size.width / 30,
                                       ),
                                       textAlign: TextAlign.center,
                                     ),

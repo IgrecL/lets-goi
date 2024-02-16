@@ -21,7 +21,7 @@ class AnkiAdd extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.black,
       appBar: AppBar(
-        title: Text('レベル$level', style: TextStyle(color: Colors.white)),
+        title: Text('Level $level', style: TextStyle(color: Colors.white)),
         backgroundColor: Color.fromARGB(255, 20, 20, 20),
         iconTheme: IconThemeData(color: Colors.white),
       ),
@@ -47,7 +47,7 @@ class AnkiAdd extends StatelessWidget {
                   // Handle onPressed for the button
                 },
                 backgroundColor: Colors.white,
-                label: Text('全部', style: TextStyle(fontWeight: FontWeight.bold)),
+                label: Text('Add all', style: TextStyle(fontWeight: FontWeight.bold)),
                 icon: Icon(Icons.multiple_stop),
               ),
               body: ListView.builder(
@@ -57,17 +57,22 @@ class AnkiAdd extends StatelessWidget {
                     title: Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
-                        Text('${wrong[index][4]} (${wrong[index][3]})', style: TextStyle(fontSize: 24, color: Colors.white)),
-                          IconButton(
-                            icon: Icon(Icons.add),
-                            onPressed: () {
-                              // Handle onPressed
-                            },
-                            color: Colors.white, // Change the color to red
-                          ),
-                        ],
+                        Text(
+                          '${wrong[index][4]} (${wrong[index][3]})',
+                          style: TextStyle(fontSize: MediaQuery.of(context).size.width / 20, color: Colors.white)),
+                        IconButton(
+                          icon: Icon(Icons.add),
+                          onPressed: () {
+                            // Handle onPressed
+                          },
+                          color: Colors.white,
+                        ),
+                      ],
                     ),
-                    subtitle: Text('- ${wrong[index][5].replaceAll(' | ', '\n- ')}', style: TextStyle(color: Colors.grey)),
+                    subtitle: Text(
+                      '- ${wrong[index][5].replaceAll(' | ', '\n- ')}',
+                      style: TextStyle(fontSize: MediaQuery.of(context).size.width / 35, color: Colors.grey)
+                    ),
                   );
                 },
               ),

@@ -3,7 +3,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'package:letsgoi/screens/game.dart';
 
 String getLevelText(int index, int level) {
-  return 'レベル${index + level + 1}\n${(index + level) * 100 + 1}-${(index + level + 1) * 100}';
+  return 'Level ${index + level + 1}\n${(index + level) * 100 + 1}-${(index + level + 1) * 100}';
 }
 
 Color getColorByIndex(int index) {
@@ -52,7 +52,7 @@ class _LevelsScreen extends State<LevelsScreen> {
     return Scaffold(
       backgroundColor: Colors.black,
       appBar: AppBar(
-        title: Text('レベル${widget.level+1}-${widget.level+100}', style: TextStyle(color: Colors.white)),
+        title: Text('Level ${widget.level+1}-${widget.level+100}', style: TextStyle(color: Colors.white)),
         backgroundColor: Color.fromARGB(255, 20, 20, 20),
         iconTheme: IconThemeData(color: Colors.white), 
       ),
@@ -93,7 +93,7 @@ class _LevelsScreen extends State<LevelsScreen> {
                             getLevelText(index, widget.level),
                             style: TextStyle(
                               color: snapshot.data!,
-                              fontSize: 16,
+                              fontSize: MediaQuery.of(context).size.width / 35,
                               fontWeight: FontWeight.bold,
                             ),
                             textAlign: TextAlign.center,
