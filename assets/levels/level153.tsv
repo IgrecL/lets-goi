@@ -1,4 +1,4 @@
-18659	15201	shingensuru	しんげんする	進言する	
+18659	15201	shingen	しんげん	進言	 advice (to a superior), counsel, proposal, suggestion, recommendation
 18659	15202	jouin	じょういん	乗員	 crew
 18659	15203	suashi	すあし	素足	 bare feet
 18659	15204	suisanbutsu	すいさんぶつ	水産物	 marine products
@@ -7,10 +7,10 @@
 18659	15207	takaraka	たからか	高らか	 loud, sonorous, ringing
 18659	15208	tasuuha	たすうは	多数派	 majority group (party, faction)
 18659	15209	chiikinai	ちいきない	地域内	
-18659	15210	chozousuru	ちょぞうする	貯蔵する	
-18659	15211	tsuugakusuru	つうがくする	通学する	
+18659	15210	chozou	ちょぞう	貯蔵	 storage, preservation
+18659	15211	tsuugaku	つうがく	通学	 commuting to school, school commute
 18659	15212	tsuukoku	つうこく	通告	 announcement, notice
-18659	15213	tsuukokusuru	つうこくする	通告する	
+18659	15213	tsuukoku	つうこく	通告	 announcement, notice
 18659	15214	tsukuribanashi	つくりばなし	作り話	 fiction, made-up story, fable, fabrication, myth
 18659	15215	tsukekomu	つけこむ	漬け込む	 to pickle thoroughly, to pickle a large amount
 18659	15216	tearai	てあらい	手洗い	washing one's hands, water (or basin, etc.) for washing one's hands | restroom, lavatory, toilet | hand-washing (laundry, etc.)
@@ -19,12 +19,12 @@
 18659	15219	nankin	なんきん	南京	Nanjing, Nanking | pumpkin, squash | Chinese, Southeast Asian, foreign | rare, precious, cute
 18659	15220	nigemawaru	にげまわる	逃げ回る	 to run around trying to escape, to run from place to place
 18659	15221	nipponterebi	にっぽんてれび	日本テレビ	
-18659	15222	nyuukokusuru	にゅうこくする	入国する	
+18659	15222	nyuukoku	にゅうこく	入国	 entry into a country
 18659	15223	nyuujouken	にゅうじょうけん	入場券	admission ticket, entrance ticket | platform ticket, ticket allowing a non-traveller access to a railway station platform
 18659	15224	nyuuseihin	にゅうせいひん	乳製品	 dairy products
 18659	15225	nesage	ねさげ	値下げ	 cut in price
-18659	15226	nounyuusuru	のうにゅうする	納入する	
-18659	15227	hanjousuru	はんじょうする	繁盛する	
+18659	15226	nounyuu	のうにゅう	納入	payment (taxes, fees, etc.) | supply (of goods), delivery
+18659	15227	hanjou	はんじょう	繁盛	 prosperity, flourishing, thriving
 18659	15228	hanmei	はんめい	判明	 establishing, proving, ascertaining, identifying, confirming
 18659	15229	hitoaji	ひとあじ	一味	clan, partisans, conspirators, gang, ring, crew | participation (e.g. in a plot) | one flavour, one charm | one ingredient (in traditional Chinese medicine) | universality (of the teachings of Buddha), ひとあじ (一味) unique flavor (flavour), (degree of) flavouring | distinctive quality, special charm
 18659	15230	fukiageru	ふきあげる	吹き上げる	 to blow up (i.e. wind), to blow upwards, to spout into the air
@@ -34,7 +34,7 @@
 18659	15234	hou	ほう	報	information, news, report | reward, retribution
 18659	15235	houjinzeihou	ほうじんぜいほう	法人税法	 Corporation Tax Act
 18659	15236	houchi	ほうち	放置	 leaving as is, leaving alone, leaving to chance, neglecting, abandoning
-18659	15237	maibotsusuru	まいぼつする	埋没する	
+18659	15237	maibotsu	まいぼつ	埋没	being buried | remaining unknown, being forgotten | being absorbed (e.g. in research), being immersed
 18659	15238	misuborashii	みすぼらしい	見窄らしい	 shabby, seedy
 18659	15239	munashisa	むなしさ	空しさ	
 18659	15240	monotachi	ものたち	物達	
@@ -43,7 +43,7 @@
 18659	15243	ryakushou	りゃくしょう	略称	 abbreviation
 18741	15244	akiko	あきこ	晶子	 crystallite
 18741	15245	ansei	あんせい	安静	 rest, quiet, repose
-18741	15246	ippakusuru	いっぱくする	一泊する	
+18741	15246	ippaku	いっぱく	一泊	 stopping one night
 18741	15247	utaidasu	うたいだす	歌い出す	 to break into song, to burst into song, to begin singing
 18741	15248	uranaishi	うらないし	占い師	 diviner, fortune teller, soothsayer
 18741	15249	urushi	うるし	漆	seven | hepta-, うるし (漆) East-Asian lacquer, japan | Chinese lacquer tree (Toxicodendron vernicifluum, formerly Rhus verniciflua)
@@ -51,9 +51,9 @@
 18741	15251	oyurushi	おゆるし	御許し	
 18741	15252	kamite	かみて	上手	skillful, skilled, proficient, good (at), adept, clever | flattery, うわて (上手) upper part | upper stream, upper course of a river | right side of the stage (audience's or camera's POV), stage left (actor's POV) | skillful (in comparisons), dexterity | over-arm grip on opponent's belt
 18741	15253	kansaiin	かんさいいん	監査委員	 supervisory auditor, member of inspection committee
-18741	15254	kansuru	かんする	冠する	to crown, to cap | to prefix with, to start with, to begin with
+18741	15254	kan	かん	冠	traditional cap worn by Shinto clergy and courtiers | crown, diadem, coronet | top kanji radical | first verse of a haikai, etc. | best, peerless, first | name, title, named sponsorship of a program, event, team, etc., かぶり (冠)  order, rank
 18741	15255	kantongo	かんとんご	広東語	 Cantonese (language)
-18741	15256	gassansuru	がっさんする	合算する	
+18741	15256	gassan	がっさん	合算	 adding up, totalling, totaling
 18741	15257	kitaguni	きたぐに	北国	northern country | northern provinces, northern regions, northland
 18741	15258	kyakutachi	きゃくたち	客達	
 18741	15259	kyoutou	きょうとう	教頭	 deputy head teacher, vice principal
@@ -61,7 +61,7 @@
 18741	15261	kuchikukan	くちくかん	駆逐艦	 destroyer (ship)
 18741	15262	keizaiseichouritsu	けいざいせいちょうりつ	経済成長率	 rate of economic growth
 18741	15263	kengi	けんぎ	嫌疑	 suspicion
-18741	15264	kenchikusuru	けんちくする	建築する	
+18741	15264	kenchiku	けんちく	建築	 construction, architecture (of buildings)
 18741	15265	gesshi	げっし	月子	
 18741	15266	gen	げん	現	 reality, consciousness, げん (現)  present (e.g. government, administration), current, existing
 18741	15267	genriteki	げんりてき	原理的	
@@ -69,7 +69,7 @@
 18741	15269	koutsuushudan	こうつうしゅだん	交通手段	 means of transportation, transportation system, way of getting around
 18741	15270	gojitsu	ごじつ	後日	 in the future, another day, later
 18741	15271	saishutsusougaku	さいしゅつそうがく	歳出総額	
-18741	15272	saibunkasuru	さいぶんかする	細分化する	
+18741	15272	saibunka	さいぶんか	細分化	 subdivision, segmentation, fractionalization, fragmentation
 18741	15273	saihensei	さいへんせい	再編成	 reorganization, reorganisation, reshuffle
 18741	15274	saiboumaku	さいぼうまく	細胞膜	 cellular membrane
 18741	15275	sanae	さなえ	早苗	 rice seedling
@@ -77,7 +77,7 @@
 18741	15277	shigaku	しがく	私学	 private (non-governmental) school (college, university)
 18741	15278	shijuu	しじゅう	始終	 continuously, from beginning to end, from first to last
 18741	15279	shinikata	しにかた	死に方	way to die, means of dying | quality of one's death
-18741	15280	shusshasuru	しゅっしゃする	出社する	
+18741	15280	shussha	しゅっしゃ	出社	 going to work (e.g. in the morning), coming to work
 18741	15281	shunkanteki	しゅんかんてき	瞬間的	 momentary, instantaneous
 18741	15282	shokuinsuu	しょくいんすう	職員数	
 18741	15283	jidoushameekaa	じどうしゃめーかー	自動車メーカー	
@@ -89,7 +89,7 @@
 18741	15289	soudandekiru	そうだんできる	相談出来る	
 18741	15290	sokubaku	そくばく	束縛	restraint, restriction, fetters, yoke, shackles | binding, confinement with rope
 18741	15291	sokkoku	そっこく	即刻	 immediately, at once, instantly
-18741	15292	tainousuru	たいのうする	滞納する	
+18741	15292	tainou	たいのう	滞納	 falling behind (with a payment), being in arrears, non-payment, default, delinquency
 18741	15293	tanaoroshishisan	たなおろししさん	棚卸し資産	 inventory, stock on hand
 18741	15294	chihei	ちへい	地平	level ground | horizon | field of view
 18741	15295	chanoma	ちゃのま	茶の間	 living room (Japanese-style)

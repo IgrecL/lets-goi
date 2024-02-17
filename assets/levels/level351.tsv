@@ -13,7 +13,7 @@
 44119	35013	kihontekijikou	きほんてきじこう	基本的事項	
 44119	35014	kimarigoto	きまりごと	決まり事	 rule, established routine, standard operating procedure, SOP
 44119	35015	kyuukyuuiryou	きゅうきゅういりょう	救急医療	 emergency medicine
-44119	35016	kyuushuusuru	きゅうしゅうする	急襲する	
+44119	35016	kyuushuu	きゅうしゅう	急襲	 raid, assault, descent
 44119	35017	kyuujinkoukoku	きゅうじんこうこく	求人広告	 help wanted advertisements
 44119	35018	kyuuyosuijun	きゅうよすいじゅん	給与水準	 pay level, pay scale
 44119	35019	kyuuryouchitai	きゅうりょうちたい	丘陵地帯	 hill country, hilly area
@@ -23,13 +23,13 @@
 44119	35023	kyozou	きょぞう	虚像	virtual image | false image, pretense, pretence
 44119	35024	kiyome	きよめ	清め	 purification
 44119	35025	kinkai	きんかい	近海	 coastal waters, adjacent seas
-44119	35026	kinkousuru	きんこうする	均衡する	
+44119	35026	kinkou	きんこう	均衡	 equilibrium, balance
 44119	35027	kinyuukikantou	きんゆうきかんとう	金融機関等	
 44119	35028	gyoumuteikei	ぎょうむていけい	業務提携	 business partnership
 44119	35029	gyogyouken	ぎょぎょうけん	漁業権	 fishing rights
 44119	35030	kubikiri	くびきり	首切り	decapitation, beheading | firings, dismissals, layoffs, downsizing | small samurai sword used for decapitation
 44119	35031	kubunshoyuusha	くぶんしょゆうしゃ	区分所有者	 unit owner (in a condominium or other multi-unit building)
-44119	35032	kurobikarisuru	くろびかりする	黒光りする	
+44119	35032	kurobikari	くろびかり	黒光り	 black lustre, black luster
 44119	35033	kuwaemazeru	くわえまぜる	加え混ぜる	
 44119	35034	kun	くん	君	you, buddy, pal | monarch, ruler, sovereign, (one's) master, くん (君)  Mr (junior), master, boy, ぎみ (君)  suffix appended to somebody else's family members, きんじ (君)  you
 44119	35035	guren	ぐれん	紅蓮	bright red | crimson lotus flower
@@ -42,7 +42,7 @@
 44119	35042	geshi	げし	夏至	 summer solstice
 44119	35043	genshi	げんし	原始	origin, beginning, genesis | primeval, primordial, primitive
 44119	35044	genshu	げんしゅ	原種	seed stock, seed grain, foundation seed | pure breed, original strain, ancestor
-44119	35045	gensenchoushuusuru	げんせんちょうしゅうする	源泉徴収する	
+44119	35045	gensenchoushuu	げんせんちょうしゅう	源泉徴収	 tax withholding at the source
 44119	35046	koiki	こいき	小粋	stylish, smart, chic, tasteful, snappy, dapper | conceited, cheeky
 44119	35047	kouekijouken	こうえきじょうけん	交易条件	 terms of trade
 44119	35048	koukaikouza	こうかいこうざ	公開講座	 extension lectures
@@ -58,7 +58,7 @@
 44119	35058	koureikaritsu	こうれいかりつ	高齢化率	
 44119	35059	kogara	こがら	小柄	small build, small stature, petite | small pattern, こづか (小柄)  knife attached to the sheath of a sword, しょうへい (小柄)  sterigma
 44119	35060	koseika	こせいか	個性化	
-44119	35061	kochakusuru	こちゃくする	固着する	
+44119	35061	kochaku	こちゃく	固着	 adherence, sticking (to), fixation
 44119	35062	kokkohojokin	こっこほじょきん	国庫補助金	
 44119	35063	kobukuro	こぶくろ	小袋	 small bag
 44119	35064	komogomo	こもごも	交々	 alternately, in succession
@@ -73,7 +73,7 @@
 44119	35073	saikousoku	さいこうそく	最高速	
 44119	35074	saihakken	さいはっけん	再発見	 rediscovery
 44119	35075	saihan	さいはん	再犯	 second offense, second offence
-44119	35076	saihousousuru	さいほうそうする	再放送する	
+44119	35076	saihousou	さいほうそう	再放送	 rebroadcasting, rerun
 44119	35077	sakamori	さかもり	酒盛り	 drinking bout, merrymaking
 44119	35078	saki	さき	崎	 small peninsula, cape, promontory, headland, みさき (岬)  cape (on coast)
 44119	35079	sanada	さなだ	真田	 plait, braid
@@ -96,5 +96,5 @@
 44119	35096	shibasu	しばす	市バス	 city bus
 44119	35097	shagaikansayaku	しゃがいかんさやく	社外監査役	
 44119	35098	shana	しゃな	赦那	
-44119	35099	shuuchitetteisuru	しゅうちてっていする	周知徹底する	
+44119	35099	shuuchitettei	しゅうちてってい	周知徹底	 dissemination, spreading of information
 44119	35100	shuutoku	しゅうとく	修得	 learning, acquisition (of a skill, knowledge, etc.)

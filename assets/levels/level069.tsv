@@ -4,7 +4,7 @@
 8185	6804	nanboku	なんぼく	南北	north and south, north to south | South Korea and North Korea
 8185	6805	hanran	はんらん	反乱	 insurrection, mutiny, rebellion, revolt, uprising
 8185	6806	bukatsu	ぶかつ	部活	 club activities, extracurricular activities
-8185	6807	ryuugakusuru	りゅうがくする	留学する	
+8185	6807	ryuugaku	りゅうがく	留学	 studying abroad
 8195	6808	kakuheiki	かくへいき	核兵器	 nuclear weapon
 8195	6809	kyouseiteki	きょうせいてき	強制的	 forced, compulsory
 8195	6810	kuru	くる	繰る	to reel, to wind, to spin (thread) | to turn (pages), to flip through (a book), to leaf through (a book), to consult (a dictionary), to refer to (an encyclopedia) | to count (e.g. the days) | to open one-by-one, to close one-by-one (e.g. shutters)
@@ -13,7 +13,7 @@
 8195	6813	zeiritsu	ぜいりつ	税率	tariff | tax rate
 8195	6814	choukou	ちょうこう	兆候	 sign, indication, omen, symptom
 8195	6815	rirekisho	りれきしょ	履歴書	 personal history, curriculum vitae, resume
-8195	6816	ruijisuru	るいじする	類似する	
+8195	6816	ruiji	るいじ	類似	 resemblance, similarity, likeness, analogy
 8205	6817	akeru	あける	空ける	to open (a door, etc.), to unwrap (e.g. parcel, package), to unlock | to open (for business, etc.) | to empty, to remove, to make space, to make room | to move out, to clear out | to be away from (e.g. one's house), to leave (temporarily) | to dawn, to grow light | to end (of a period, season) | to begin (of the New Year) | to leave (one's schedule) open, to make time (for) | to make (a hole), to open up (a hole), うつける (空ける) to become empty (hollow) | to relax from a tense situation into a vacant or absent minded state
 8205	6818	ishihyouji	いしひょうじ	意思表示	expressing one's feelings, communicating one's intention | declaration of intent
 8205	6819	ichiya	いちや	一夜	 one night, all night, overnight, one evening
@@ -27,10 +27,10 @@
 8205	6827	heizen	へいぜん	平然	 calm, composed, cool, quiet
 8205	6828	horyo	ほりょ	捕虜	 prisoner (of war)
 8205	6829	yokushitsu	よくしつ	浴室	 bathroom
-8220	6830	ijuusuru	いじゅうする	移住する	
+8220	6830	ijuu	いじゅう	移住	 migration, immigration
 8220	6831	saeru	さえる	冴える	to be clear (of a sight, sound, colour, etc.), to be bright, to be vivid, to be crisp | to be clear-headed, to be alert, to be on the ball, to be wide awake | to look upbeat, to be perky, to be cheerful | to master (a skill), to excel at, to cleanly execute | to be satisfying | to become frigid, to become intensely cold
 8220	6832	shimetsukeru	しめつける	締め付ける	 to tighten, to press hard
-8220	6833	shoutotsusuru	しょうとつする	衝突する	
+8220	6833	shoutotsu	しょうとつ	衝突	collision, crash, running into | conflict, quarrel, clashing
 8220	6834	shinjin	しんじん	新人	new face, newcomer, rookie, fresh recruit | modern humans (from Cro-Magnon man onwards)
 8220	6835	nansai	なんさい	何歳	 how old?, what age?
 8220	6836	hyakuguramu	ひゃくぐらむ	百グラム	
@@ -45,7 +45,7 @@
 8232	6845	kansoku	かんそく	観測	 observation, survey, measurement
 8232	6846	sentakuki	せんたくき	洗濯機	 washing machine (laundry)
 8232	6847	zeimusho	ぜいむしょ	税務署	 tax office
-8232	6848	hasshousuru	はっしょうする	発症する	
+8232	6848	hasshou	はっしょう	発症	 outbreak of an illness, onset of an illness, appearance of symptoms
 8232	6849	hekomu	へこむ	凹む	to be dented, to be indented, to yield, to give, to sink, to collapse, to cave in | to be beaten, to be overwhelmed, to yield, to give in, to give up | to be disheartened, to feel down, to feel depressed | to suffer a loss, to lose, くぼむ (窪む)  to cave in, to become depressed, to sink
 8232	6850	hourikomu	ほうりこむ	放り込む	 to throw into, to toss into
 8243	6851	itaku	いたく	委託	 entrusting (something to a person), consignment (of goods), putting in someone's charge, trust, commission
@@ -59,7 +59,7 @@
 8252	6859	chuuifukai	ちゅういふかい	注意深い	 attentive, cautious, careful, watchful
 8252	6860	tsukemono	つけもの	漬け物	 tsukemono, Japanese pickled vegetables
 8252	6861	tebanasu	てばなす	手放す	to let go of, to release, to drop | to part with (e.g. a possession), to relinquish, to spare, to sell | to send away (e.g. one's child), to let go, to part with | to temporarily stop working
-8252	6862	douyousuru	どうようする	動揺する	
+8252	6862	douyou	どうよう	動揺	shaking, trembling, pitching, rolling, oscillation | disturbance, unrest, agitation, excitement, commotion, turmoil, discomposure, feeling shaken
 8252	6863	fuuzoku	ふうぞく	風俗	manners, customs | sex service, sex industry, sex-oriented entertainment
 8252	6864	monooto	ものおと	物音	 sounds
 8252	6865	yukai	ゆかい	愉快	 pleasant, delightful, enjoyable, joyful, cheerful, amusing, happy
@@ -75,19 +75,19 @@
 8266	6875	deban	でばん	出番	one's turn, one's shift | one's turn on stage, screen time, screentime
 8266	6876	toukyoku	とうきょく	当局	authorities, relevant authorities, authorities concerned | this office
 8266	6877	ninshinchuu	にんしんちゅう	妊娠中	
-8266	6878	ninchisuru	にんちする	認知する	
+8266	6878	ninchi	にんち	認知	 acknowledgement, acknowledgment, recognition, cognition
 8266	6879	byousha	びょうしゃ	描写	 depiction, description, portrayal
 8266	6880	yusaburu	ゆさぶる	揺さぶる	to shake, to jolt, to rock, to swing, to sway | to shake (e.g. the political world), to disturb, to shock, to upset | to put off a batter (by varying one's type of pitch)
 8283	6881	kamishimeru	かみしめる	噛み締める	to chew thoroughly, to bite (e.g. one's lip) | to reflect upon, to digest
 8283	6882	gaishutsu	がいしゅつ	外出	 going out, outing, leaving (one's home, office, etc.)
-8283	6883	kikakusuru	きかくする	企画する	
-8283	6884	kougisuru	こうぎする	抗議する	
+8283	6883	kikaku	きかく	企画	 planning, project, plan, design
+8283	6884	kougi	こうぎ	抗議	 protest, objection
 8283	6885	kouhan'i	こうはんい	広範囲	 extensive, vast range, wide scope
 8283	6886	goryoushin	ごりょうしん	御両親	 (somebody else's) parents, both parents
 8283	6887	shikke	しっけ	湿気	 moisture, humidity, dampness
 8283	6888	shujii	しゅじい	主治医	 attending physician, physician in charge, (one's) family doctor
 8283	6889	seishain	せいしゃいん	正社員	 regular employee, permanent employee, full-time employee
-8283	6890	sonzokusuru	そんぞくする	存続する	
+8283	6890	sonzoku	そんぞく	存続	 duration, continuance, survival, persistence, retention
 8283	6891	zouki	ぞうき	臓器	 internal organs, viscera, intestines
 8283	6892	tabibito	たびびと	旅人	 traveller, traveler, wayfarer, tourist, たびにん (旅人)  itinerant (esp. itinerant gambler), drifter, nomad, rover
 8283	6893	chouri	ちょうり	調理	 cooking, food preparation

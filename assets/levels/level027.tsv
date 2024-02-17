@@ -3,12 +3,12 @@
 3092	2603	enkatsu	えんかつ	円滑	 smooth, undisturbed, uninterrupted, harmonious
 3092	2604	hikaku	ひかく	比較	 comparison
 3095	2605	shufu	しゅふ	主婦	 housewife, mistress (of the house), homemaker
-3096	2606	shikkarisuru	しっかりする	確りする	
+3096	2606	shikkari	しっかり	確り	tightly (holding on), firmly, securely | strongly (built), solidly, sturdily, steadily | properly, well, sufficiently, hard (working, etc.), fully, completely | reliably, dependably, levelheadedly, shrewdly, wisely, cleverly
 3096	2607	shougo	しょうご	正午	 noon, midday
 3098	2608	fukusou	ふくそう	服装	 garments, attire
-3099	2609	kanyuusuru	かにゅうする	加入する	
+3099	2609	kanyuu	かにゅう	加入	 joining (a club, organization, etc.), becoming a member, entry, admission, subscription, affiliation, signing (e.g. a treaty), taking out (insurance)
 3099	2610	shinrin	しんりん	森林	 forest, woods
-3102	2611	tanjousuru	たんじょうする	誕生する	
+3102	2611	tanjou	たんじょう	誕生	 birth, creation, formation
 3103	2612	iwa	いわ	岩	rock, boulder | crag, cliff | anchor
 3103	2613	kakushu	かくしゅ	各種	 every kind, all sorts
 3103	2614	yuzuru	ゆずる	譲る	to hand over, to transfer, to turn over, to assign, to convey, to bequeath | to give up (e.g. one's seat), to give way | to yield, to concede, to give ground, to surrender | to sell | to postpone, to put off, to defer
@@ -22,40 +22,40 @@
 3113	2622	katamukeru	かたむける	傾ける	to incline, to lean, to tip, to tilt, to slant, to bend, to list | to devote oneself to, to concentrate on, to pour one's energy into | to ruin, to squander, to empty | to drink (alcohol)
 3113	2623	kenkyuusha	けんきゅうしゃ	研究者	 researcher
 3113	2624	madoguchi	まどぐち	窓口	counter, window, teller window, ticket window | contact person, point of contact
-3117	2625	tekisuru	てきする	適する	 to fit, to suit
+3117	2625	teki	てき	適	occasionally, once in a while, seldom | casually, unexpectedly, accidentally, by chance, たま (偶)  occasional, infrequent, rare
 3118	2626	shougeki	しょうげき	衝撃	 shock, impact, crash
 3118	2627	nerai	ねらい	狙い	 aim
 3120	2628	atatameru	あたためる	温める	 to warm, to heat, ぬるめる (温める)  to cool something down (e.g. by adding water)
 3120	2629	kousei	こうせい	構成	 composition, construction, formation, makeup, structure, organization, organisation
-3120	2630	shibousuru	しぼうする	死亡する	
+3120	2630	shibou	しぼう	死亡	death, mortality | to die, to pass away
 3123	2631	shiken	しけん	試験	examination, exam, test | trial, experiment, test
 3123	2632	zensha	ぜんしゃ	前者	 the former
 3126	2633	itten	いってん	一点	 speck, dot, point, only a little, particle, only one
 3126	2634	gyuunyuu	ぎゅうにゅう	牛乳	 (cow's) milk
 3126	2635	nogareru	のがれる	逃れる	 to escape
 3131	2636	ke	け	毛	hair | fur, wool | down, plumage, feathers, もう (毛) one-thousandth, 0.03 mm (one-thousandth of a sun), 0.01 percent (one-thousandth of a wari), 3.75 milligrams (one-thousandth of a monme) | old monetary unit (0.0001 yen)
-3132	2637	yoteisuru	よていする	予定する	
+3132	2637	yotei	よてい	予定	 plans, arrangement, schedule, program, programme, expectation, estimate
 3134	2638	aimai	あいまい	曖昧	vague, ambiguous, unclear | shady, disreputable | fuzzy
-3134	2639	kenkyuusuru	けんきゅうする	研究する	
+3134	2639	kenkyuu	けんきゅう	研究	 study, research, investigation
 3136	2640	goshujin	ごしゅじん	御主人	 your husband, her husband
-3136	2641	zoudaisuru	ぞうだいする	増大する	
+3136	2641	zoudai	ぞうだい	増大	 enlargement, increase
 3138	2642	kyoukasho	きょうかしょ	教科書	 textbook, coursebook, schoolbook
 3138	2643	shisha	ししゃ	死者	 dead person, (the) deceased, (the) dead, casualties
-3140	2644	chousasuru	ちょうさする	調査する	
-3141	2645	iraisuru	いらいする	依頼する	
+3140	2644	chousa	ちょうさ	調査	 investigation, examination, inquiry, enquiry, survey
+3141	2645	irai	いらい	依頼	request, commission, entrusting (with a matter) | dependence, reliance
 3141	2646	yobikakeru	よびかける	呼び掛ける	to call out to, to hail, to address | to appeal
 3146	2647	ari	あり	有り	existing (at the present moment) | alright, acceptable, passable | to be (usu. of inanimate objects), to have
 3149	2648	yuderu	ゆでる	茹でる	to boil (something in hot water) | to treat with medicinal steam (a swelling, etc.)
 3150	2649	naguru	なぐる	殴る	 to strike, to hit, to beat, to punch
 3152	2650	heikin	へいきん	平均	average, mean | balance, equilibrium
 3154	2651	kappatsu	かっぱつ	活発	 lively, active, vigorous, animated, brisk
-3154	2652	nyuuinsuru	にゅういんする	入院する	
+3154	2652	nyuuin	にゅういん	入院	 hospitalization, hospitalisation
 3156	2653	yome	よめ	嫁	wife, bride | (one's) daughter-in-law
 3156	2654	warera	われら	我等	we, us | I, me | you (referring to a group of one's equals or inferiors)
 3158	2655	hinpan	ひんぱん	頻繁	 frequent, incessant
 3158	2656	machigaeru	まちがえる	間違える	to make a mistake (in), to commit an error (e.g. in calculation) | to confuse, to mistake something for something else
 3160	2657	furuu	ふるう	振るう	to swing, to wield (physically), to exert | to exercise (e.g. power, ability), to exhibit, to display, to wield (metaphorically) | to flourish, to prosper, to thrive
-3162	2658	kurousuru	くろうする	苦労する	
+3162	2658	kurou	くろう	苦労	trouble, hardship, difficulty, labour, labor, toil, pains | anxiety, worry, concern, cares
 3162	2659	keii	けいい	経緯	details, particulars, whole story, sequence of events, chronology, circumstances, how it started, how things got this way | longitude and latitude | warp and weft, warp and woof
 3162	2660	bara	ばら	薔薇	 rose
 3165	2661	machizukuri	まちづくり	町作り	 town planning, urban development, community development, creating a community

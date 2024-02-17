@@ -11,15 +11,15 @@
 12081	9911	kokuyuurin	こくゆうりん	国有林	 national forest
 12081	9912	koreigai	これいがい	此れ以外	
 12081	9913	goshinpai	ごしんぱい	御心配	
-12081	9914	zaisekisuru	ざいせきする	在籍する	
-12081	9915	shippitsusuru	しっぴつする	執筆する	
+12081	9914	zaiseki	ざいせき	在籍	 being enrolled (at a school), being registered, being a member (of a team, organization, etc.)
+12081	9915	shippitsu	しっぴつ	執筆	 writing (e.g. as a profession)
 12081	9916	shouhai	しょうはい	勝敗	 victory or defeat, issue (of battle), outcome
 12081	9917	touki	とうき	陶器	 porcelain (esp. soft-paste porcelain), china, chinaware, earthenware, pottery, ceramics, crockery, すえき (須恵器)  Sue ware (type of unglazed pottery made from the middle of the Kofun era through the Heian era)
 12081	9918	tooshi	とおし	遠し	
 12081	9919	nabiku	なびく	靡く	to bend, to flutter, to wave | to yield to, to be swayed by, to bow to, to obey
 12081	9920	bako	ばこ	箱	box, case, chest, package, pack, crate | car (of a train, etc.) | shamisen case, shamisen | public building, community building | man who carries a geisha's shamisen | receptacle for human waste, feces (faeces) | counter for boxes (or boxed objects)
 12081	9921	hikitateru	ひきたてる	引き立てる	to set off to advantage, to bring into prominence, to enhance | to support, to favor, to favour, to promote, to patronize | to rouse (spirits) | to march (a prisoner) off, to haul somebody off | to slide (a door) shut
-12081	9922	hyousuru	ひょうする	評する	 to evaluate, to appraise, to comment on
+12081	9922	hyou	ひょう	評	 criticism, commentary, review
 12081	9923	fukurami	ふくらみ	膨らみ	 swelling, bulge, puff
 12081	9924	mimoto	みもと	身元	 person's identity, ID, past, background
 12081	9925	mukanshin	むかんしん	無関心	 apathetic, indifferent
@@ -35,7 +35,7 @@
 12114	9935	jichishou	じちしょう	自治省	 Ministry of Home Affairs (1960-2001)
 12114	9936	suufun	すうふん	数分	 several minutes, a few minutes
 12114	9937	sukoyaka	すこやか	健やか	 vigorous, healthy, sound
-12114	9938	zeseisuru	ぜせいする	是正する	
+12114	9938	zesei	ぜせい	是正	 correction, revision, redressing, rectifying
 12114	9939	sokkin	そっきん	側近	 close associate, close aide, brains-truster
 12114	9940	soreikou	それいこう	其れ以降	
 12114	9941	chitsu	ちつ	膣	 vagina
@@ -50,7 +50,7 @@
 12114	9950	meshitsukai	めしつかい	召し使い	 servant, menial
 12114	9951	yamaguchiken	やまぐちけん	山口県	 Yamaguchi prefecture (Chūgoku area)
 12114	9952	youkai	ようかい	妖怪	 ghost, apparition, phantom, spectre, specter, demon, monster, goblin
-12114	9953	rensaisuru	れんさいする	連載する	
+12114	9953	rensai	れんさい	連載	 serialization, serialisation, serial story
 12114	9954	roshiajin	ろしあじん	ロシア人	 Russian person
 12146	9955	ichihyou	いちひょう	一表	
 12146	9956	ibutsu	いぶつ	遺物	 relic, remains, memento
@@ -73,7 +73,7 @@
 12146	9973	norou	のろう	呪う	 to curse, to put a curse on, to detest intensely, まじなう (呪う) to pray that one avoids disaster or illness | to pray for harm or death to come upon someone, to curse | to charm, to conjure, to cast a spell (on someone) | to treat illness (with a prayer)
 12146	9974	hayakuchi	はやくち	早口	 fast-talking, rapid talking
 12146	9975	haridasu	はりだす	張り出す	to project, to overhang, to stick out, to jut out, to overlie | to put up (a notice), to post
-12146	9976	funshutsusuru	ふんしゅつする	噴出する	
+12146	9976	funshutsu	ふんしゅつ	噴出	 spewing, gushing, spouting, eruption, effusion
 12146	9977	mata	また	股	crotch, crutch, groin, thigh | fork (in a tree, road, river, etc.), tines (of a fork), もも (股) thigh | femoral
 12179	9978	azuki	あずき	小豆	 adzuki bean (Vigna angularis)
 12179	9979	arukikata	あるきかた	歩き方	 way one walks, one's walk
@@ -88,13 +88,13 @@
 12179	9988	kettouchi	けっとうち	血糖値	 blood sugar level
 12179	9989	kounetsu	こうねつ	高熱	high fever | pyro-
 12179	9990	shitsuteki	しつてき	質的	 qualitative
-12179	9991	shuunousuru	しゅうのうする	収納する	
+12179	9991	shuunou	しゅうのう	収納	storage, putting or stowing away | receipt (of funds, payment, etc.) | harvesting
 12179	9992	shukuhaku	しゅくはく	宿泊	 accommodation, lodging
 12179	9993	jikkoudekiru	じっこうできる	実行出来る	
 12179	9994	jintsuu	じんつう	陣痛	 labour pains, labor pains, birth pains, contractions
 12179	9995	suion	すいおん	水温	 water temperature
 12179	9996	seikai	せいかい	政界	 (world of) politics, political world, political circles
-12179	9997	zoufukusuru	ぞうふくする	増幅する	
+12179	9997	zoufuku	ぞうふく	増幅	amplification (elec.) | magnification, amplification, making larger
 12179	9998	taisha	たいしゃ	代謝	metabolism | renewal, regeneration, replacing the old with the new
-12179	9999	nagaikisuru	ながいきする	長生きする	
+12179	9999	nagaiki	ながいき	長生き	 longevity, long life
 12179	10000	nebaru	ねばる	粘る	to be sticky, to be adhesive | to persevere, to persist, to stick to, to hold out, to linger

@@ -1,4 +1,4 @@
-5014	4201	sayousuru	さようする	作用する	
+5014	4201	sayou	さよう	作用	 action, operation, effect, function
 5014	4202	nameraka	なめらか	滑らか	smooth (of a surface), glassy, velvety, soft | smooth (of an action, proceedings, etc.), fluent (speech), fluid, trouble-free | continuously differentiable
 5020	4203	kuchimoto	くちもと	口元	mouth, lips | shape of the mouth | near an entrance, vicinity of an entrance
 5020	4204	sai	さい	差異	 difference, disparity, gap
@@ -9,30 +9,30 @@
 5027	4209	kagayaki	かがやき	輝き	 brightness, brilliance, brilliancy, radiance, glitter
 5027	4210	shokunin	しょくにん	職人	 craftsman, artisan, tradesman, worker, workman
 5027	4211	sentou	せんとう	戦闘	 battle, fight, combat
-5027	4212	tounyuusuru	とうにゅうする	投入する	
+5027	4212	tounyuu	とうにゅう	投入	throwing in, inserting, depositing (e.g. a ballot) | investment, commitment (of funds, personnel, etc.), injection, infusion | launching (a product into the market), introduction | submitting (a job to a computer), issuing (a command)
 5031	4213	kizuna	きずな	絆	bonds (between people), (emotional) ties, relationship, connection, link | tether, fetters
 5031	4214	somaru	そまる	染まる	to be dyed | to be tainted, to be infected, to be stained, to be steeped
 5031	4215	naname	ななめ	斜め	slanting, tilted, sloping, diagonal, oblique | distorted (feeling), slanted (e.g. view of the world), bad (mood), amiss, awry
 5031	4216	hayaku	はやく	早く	early, soon | quickly, swiftly, rapidly, fast
 5031	4217	risei	りせい	理性	 reason, reasoning power, (one's) sense
-5036	4218	kasuru	かする	課する	 to levy, to charge, to assess, to impose, to assign
+5036	4218	ka	か	課	lesson | section (in an organization), division, department | counter for lessons and chapters (of a book)
 5036	4219	shouchi	しょうち	承知	knowledge, awareness | consent, acceptance, assent, admitting, compliance, agreement, acknowledgment, acknowledgement | forgiving, pardoning, excusing
-5036	4220	bunkaisuru	ぶんかいする	分解する	
+5036	4220	bunkai	ぶんかい	分解	disassembly, dismantling, disaggregating, analysis, disintegrating, decomposing, degrading | factorization | decomposition, resolution | deblocking
 5039	4221	arukidasu	あるきだす	歩き出す	
 5039	4222	ikinokoru	いきのこる	生き残る	 to survive
 5039	4223	kizoku	きぞく	貴族	 noble, aristocrat, peer
 5039	4224	nyuuin	にゅういん	入院	 hospitalization, hospitalisation
-5039	4225	hokansuru	ほかんする	保管する	
+5039	4225	hokan	ほかん	保管	 charge, custody, safekeeping, deposit, storage
 5039	4226	masshiro	まっしろ	真っ白	pure white | blank (e.g. mind, paper)
 5045	4227	kurihirogeru	くりひろげる	繰り広げる	 to unfold, to unroll, to open
 5045	4228	kousokudouro	こうそくどうろ	高速道路	 highway, freeway, expressway, motorway
-5045	4229	jisatsusuru	じさつする	自殺する	
+5045	4229	jisatsu	じさつ	自殺	 suicide
 5045	4230	hiromaru	ひろまる	広まる	 to spread, to be propagated
 5049	4231	kogaisha	こがいしゃ	子会社	 subsidiary (company)
 5049	4232	taishitsu	たいしつ	体質	constitution (physical), physical make-up, predisposition (to disease), disposition, tendency | character (of a group, organization, etc.), innate characteristics, make-up, nature, culture
 5049	4233	tekubi	てくび	手首	 wrist
 5054	4234	gaman	がまん	我慢	endurance, patience, perseverance, bearing (with something) | self-control, self-restraint
-5054	4235	sokusuru	そくする	即する	 to conform to, to agree with, to be adapted to, to be based on
+5054	4235	soku	そく	即	instantly, immediately, at once | equals, means, is | oneness (of two opposing things), inseparability
 5054	4236	haken	はけん	派遣	dispatch, despatch, deployment | temporary employee (esp. from an agency), temporary worker, agency temp
 5054	4237	hieru	ひえる	冷える	 to grow cold (from room temperature, e.g. in refrigerator), to get chilly, to cool down
 5054	4238	yabureru	やぶれる	敗れる	 to be defeated, to be beaten, to be unsuccessful, to lose
@@ -43,7 +43,7 @@
 5063	4243	chokusetsu	ちょくせつ	直接	 direct, immediate, personal, firsthand
 5066	4244	tachiyoru	たちよる	立ち寄る	 to stop by, to drop in for a short visit
 5066	4245	hojo	ほじょ	補助	assistance, support, aid, help | subsidy, supplement, subvention, grant-in-aid | auxiliary, subsidiary | spot (in bodybuilding)
-5068	4246	ohanashisuru	おはなしする	御話しする	
+5068	4246	ohanashi	おはなし	御話し	story, tale | talk, discussion
 5068	4247	toumei	とうめい	透明	 transparent, clear
 5071	4248	shuuri	しゅうり	修理	 repair, mending, fixing, servicing
 5071	4249	denshi	でんし	電子	electron | electronic
@@ -57,28 +57,28 @@
 5078	4257	hitorigurashi	ひとりぐらし	独り暮らし	 living by oneself, living alone
 5078	4258	bunpu	ぶんぷ	分布	 distribution, allocation
 5078	4259	moukeru	もうける	儲ける	to profit, to get, to earn, to gain | to have (bear, beget) a child | to have a stroke of luck
-5084	4260	ninteisuru	にんていする	認定する	
+5084	4260	nintei	にんてい	認定	 authorization, authorisation, acknowledgment, acknowledgement, certification, recognition
 5086	4261	ukagaeru	うかがえる	窺える	
 5086	4262	chuuryaku	ちゅうりゃく	中略	 omission (of middle part of a text), ellipsis
 5086	4263	naikaku	ないかく	内閣	 cabinet (of a government), ministry
 5086	4264	midoriiro	みどりいろ	緑色	 green, emerald green, green color of new foliage, verdure
 5086	4265	wakamonotachi	わかものたち	若者達	
-5091	4266	ataisuru	あたいする	値する	 to be worth, to be worthy of, to deserve, to merit
+5091	4266	atai	あたい	値	price, cost | value, worth, merit | value, ち (値)  level, value, ね (値) price, cost | value, worth, merit
 5091	4267	kigi	きぎ	木々	 (many) trees, every tree, all kinds of trees
 5091	4268	shutoku	しゅとく	取得	 worth, merit, value, good point, redeeming feature, saving grace, しゅとく (取得)  acquisition, obtaining, gaining possession, purchase
 5091	4269	datou	だとう	妥当	 valid, proper, right, appropriate, reasonable
 5096	4270	kusaru	くさる	腐る	to rot, to go bad, to decay, to spoil, to fester, to decompose, to turn sour (e.g. milk) | to corrode, to weather, to crumble | to become useless, to blunt, to weaken (from lack of practice) | to become depraved, to be degenerate, to be morally bankrupt, to be corrupt | to be depressed, to be dispirited, to feel discouraged, to feel down | to have the audacity to, to be bastard enough to | to lose a bet | to be drenched, to become sopping wet
-5096	4271	shintensuru	しんてんする	進展する	
+5096	4271	shinten	しんてん	進展	 progress, development
 5096	4272	honki	ほんき	本気	 seriousness, earnestness, truth, sanctity
 5101	4273	shichou	しちょう	市長	 mayor
-5104	4274	shuuseisuru	しゅうせいする	修正する	
+5104	4274	shuusei	しゅうせい	修正	 amendment, correction, revision, modification, alteration, retouching, update, fix
 5104	4275	sou	そう	層	layer, stratum, seam, bed | class, stratum, bracket, group | sheaf | counter for stories (of a building)
 5106	4276	kanryou	かんりょう	官僚	 bureaucrat, government official, bureaucracy
 5106	4277	zaigen	ざいげん	財源	 source of funds, resources, finances
 5106	4278	buji	ぶじ	無事	safety, security, peace, quiet | safely, without incident, successfully | good health | inaction, ennui
 5109	4279	akogareru	あこがれる	憧れる	 to long for, to yearn after, to admire, to be attracted by
 5109	4280	issai	いっさい	一歳	 one-year-old
-5113	4281	kyousuru	きょうする	供する	to offer, to present, to submit, to supply | to serve (food and drink) | to offer (to the gods), to set up (before an alter)
+5113	4281	kyou	きょう	供	 companion, follower, attendant, retinue
 5113	4282	shuueki	しゅうえき	収益	 earnings, proceeds, returns, revenue
 5113	4283	shomin	しょみん	庶民	 common people, ordinary people, masses
 5113	4284	senpaku	せんぱく	船舶	 vessel, ship, shipping, seacraft
@@ -91,7 +91,7 @@
 5124	4291	hitsuji	ひつじ	羊	 sheep (Ovis aries)
 5126	4292	inori	いのり	祈り	 prayer, supplication
 5126	4293	kashikoi	かしこい	賢い	 wise, clever, smart
-5126	4294	shinshutsusuru	しんしゅつする	進出する	
+5126	4294	shinshutsu	しんしゅつ	進出	 advance (into a new market or stage of progress), launching (a new career or venture), expanding (into a new market), stepping forward, emerging
 5126	4295	zenmenteki	ぜんめんてき	全面的	 total, complete, all-out, general, extensive, full-scale
 5126	4296	sokonau	そこなう	損なう	to harm, to hurt, to injure, to damage, to spoil, to mar | to fail to ..., to miss one's opportunity to ...
 5126	4297	yawaraka	やわらか	柔らか	 soft, tender, limp, subdued (colour or light) (color), gentle, meek

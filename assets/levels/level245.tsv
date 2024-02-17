@@ -16,7 +16,7 @@
 30209	24416	tekigun	てきぐん	敵軍	 enemy army
 30209	24417	temahima	てまひま	手間暇	 time and effort, trouble
 30209	24418	tenkeirei	てんけいれい	典型例	 classic example, classic case, textbook example, representative example, typical case
-30209	24419	denraisuru	でんらいする	伝来する	
+30209	24419	denrai	でんらい	伝来	 ancestral, hereditary, imported, transmitted, handed down
 30209	24420	toushu	とうしゅ	党首	 party leader
 30209	24421	tokuhain	とくはいん	特派員	(special) correspondent (e.g. for a newspaper) | representative, delegate
 30209	24422	douran	どうらん	動乱	 disturbance, agitation, commotion, upheaval, riot
@@ -32,13 +32,13 @@
 30209	24432	baishin'in	ばいしんいん	陪審員	 juror, juryman
 30209	24433	banri	ばんり	万里	 thousands of miles
 30209	24434	hisoyaka	ひそやか	密やか	 quiet, still, surreptitious
-30209	24435	hyoushinukesuru	ひょうしぬけする	拍子抜けする	
+30209	24435	hyoushinuke	ひょうしぬけ	拍子抜け	 anticlimax, let-down, disappointment, loss of interest
 30209	24436	byou	びょう	廟	 mausoleum, (temporary) resting place of a corpse, びょう (廟) mausoleum | shrine | the (imperial) court
 30209	24437	byouingawa	びょういんがわ	病院側	
-30209	24438	fukushuusuru	ふくしゅうする	復習する	
+30209	24438	fukushuu	ふくしゅう	復習	 review (of learned material), revision
 30209	24439	fukusuukei	ふくすうけい	複数形	 plural form
 30209	24440	fukumen	ふくめん	覆面	mask, veil, disguise | anonymous, unmarked, incognito
-30209	24441	fugousuru	ふごうする	符合する	
+30209	24441	fugou	ふごう	符合	 agreement, coincidence, correspondence, conformity
 30209	24442	fusaku	ふさく	不作	poor crop, bad harvest, crop failure | low quality (e.g. of literary works)
 30209	24443	fuzokuhin	ふぞくひん	付属品	 accessory, fittings, appurtenances
 30209	24444	funayoi	ふなよい	船酔い	 seasickness
@@ -59,14 +59,14 @@
 30209	24459	moudouken	もうどうけん	盲導犬	 guide dog for the blind, seeing eye dog
 30209	24460	moshu	もしゅ	喪主	 chief mourner
 30209	24461	yakushin	やくしん	躍進	 making rapid progress, making great advances, rush, dash, onslaught
-30209	24462	yuuheisuru	ゆうへいする	幽閉する	
-30209	24463	yuurisuru	ゆうりする	遊離する	
-30209	24464	yokushisuru	よくしする	抑止する	
+30209	24462	yuuhei	ゆうへい	幽閉	 confinement, imprisonment, incarceration
+30209	24463	yuuri	ゆうり	遊離	separation, isolation | extrication, release, isolation
+30209	24464	yokushi	よくし	抑止	 check, checkmate, stave off, control, restraint, inhibit, deterrent, deterrence
 30209	24465	yowane	よわね	弱音	soft sound | dampening (of sound), よわね (弱音)  feeble complaint, whine
 30209	24466	raihousha	らいほうしゃ	来訪者	 visitor, caller
 30209	24467	rajiotaisou	らじおたいそう	ラジオ体操	 radio calisthenics
 30209	24468	rikukaigun	りくかいぐん	陸海軍	 army and navy
-30209	24469	ryuukisuru	りゅうきする	隆起する	
+30209	24469	ryuuki	りゅうき	隆起	protuberance, bulge, protrusion, projection, swell | rise, uplift, upheaval, elevation
 30209	24470	ryouyougatabyoushougun	りょうようがたびょうしょうぐん	療養型病床群	
 30209	24471	rusuden	るすでん	留守電	 answering machine, answerphone
 30209	24472	rentai	れんたい	連隊	 regiment
@@ -90,7 +90,7 @@
 30426	24490	urakata	うらかた	裏方	someone working behind-the-scenes, scene shifter | lady consort (to a high personage)
 30426	24491	unchiku	うんちく	蘊蓄	 great erudition, extensive knowledge, vast stock of knowledge
 30426	24492	eiyoubaransu	えいようばらんす	栄養バランス	
-30426	24493	etokusuru	えとくする	会得する	
+30426	24493	etoku	えとく	会得	 understanding, comprehension, grasp, perception, appreciation, mastery (of an art or skill)
 30426	24494	endan	えんだん	演壇	 rostrum, platform
 30426	24495	oodai	おおだい	大台	(major) mark, level, barrier | 100-yen unit (stock market)
 30426	24496	ooban	おおばん	大判	large size (paper, book, etc.) | ōban, large oval gold coin used in the Edo period

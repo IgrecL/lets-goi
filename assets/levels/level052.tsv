@@ -7,20 +7,20 @@
 6101	5107	enjiru	えんじる	演じる	 to perform (a play), to play (a part), to act (a part), to commit (a blunder)
 6101	5108	oshaberi	おしゃべり	御喋り	chattering, talk, idle talk, chat, chitchat, gossip | chatty, talkative, chatterbox, blabbermouth
 6101	5109	kaereru	かえれる	返れる	
-6101	5110	kushisuru	くしする	駆使する	
+6101	5110	kushi	くし	駆使	using freely, making full use of, having a good command of | working (someone) hard, driving (someone) on
 6101	5111	sagi	さぎ	詐欺	 fraud, swindle, graft, cheating, trick, scam
-6101	5112	sekkinsuru	せっきんする	接近する	
+6101	5112	sekkin	せっきん	接近	getting closer, drawing nearer, approaching | being not much different, being near (age, skill, etc.) | becoming close (i.e. friendly), becoming intimate
 6101	5113	nayamasu	なやます	悩ます	 to afflict, to torment, to harass, to molest
 6101	5114	hanasu	はなす	放す	to release, to let go, to free, to set free, to let loose, to turn loose | to add (pieces of eggplant, potato, etc.) to water, broth, etc.
 6101	5115	bakuzen	ばくぜん	漠然	 vague, obscure, indistinct, hazy, ambiguous
 6101	5116	machinami	まちなみ	町並み	 townscape, street (of stores and houses), (look of) stores and houses on street
 6113	5117	isan	いさん	遺産	 inheritance, bequest, legacy, heritage
 6113	5118	kitai	きたい	機体	 fuselage, airframe
-6113	5119	sanshutsusuru	さんしゅつする	算出する	
+6113	5119	sanshutsu	さんしゅつ	算出	 calculation, computation
 6113	5120	hyoushi	ひょうし	表紙	cover (of a book, magazine, etc.), binding | appearing on the cover of a magazine
 6113	5121	rusu	るす	留守	absence, being away from home | house-sitting, house-sitter | being left unattended to (of one's studies, etc.), neglecting
 6120	5122	awa	あわ	泡	 bubble, foam, froth, head on beer
-6120	5123	suikousuru	すいこうする	遂行する	
+6120	5123	suikou	すいこう	遂行	 accomplishment, execution
 6120	5124	neru	ねる	練る	to knead, to thicken into a paste (stirring over a flame) | to polish (a plan, etc.), to refine, to elaborate, to work out | to train, to drill, to exercise | to gloss (silk), to soften, to degum | to tan (leather) | to temper (steel) | to walk in procession, to parade, to march
 6120	5125	bentou	べんとう	弁当	 bento, Japanese box lunch
 6120	5126	machinaka	まちなか	町中	 downtown, まちじゅう (町中)  the whole town, all over the town, throughout the town
@@ -36,21 +36,21 @@
 6136	5136	shishou	ししょう	師匠	master, teacher | stable master
 6136	5137	soreijou	それいじょう	其れ以上	
 6136	5138	tsukameru	つかめる	掴める	
-6140	5139	ketsuisuru	けついする	決意する	
+6140	5139	ketsui	けつい	決意	 decision, determination, resolution
 6140	5140	koyuu	こゆう	固有	 characteristic, traditional, peculiar, inherent, native, eigen-
 6140	5141	jisho	じしょ	辞書	dictionary, lexicon | letter of resignation
 6140	5142	jinmin	じんみん	人民	 the people, citizens, the populace, おおみたから (大御宝)  imperial subjects, the people
 6140	5143	taira	たいら	平ら	flat, level, even, smooth | calm, tranquil, placid, composed, stable | relaxed (sitting posture), comfortable | plateau, tableland, plain, だいら (平)  plain, plateau, tableland
 6140	5144	toubun	とうぶん	当分	for the present, for the time being | for a while, for some time
 6140	5145	yakusha	やくしゃ	役者	actor, actress | man of wits, clever person, cunning fellow
-6150	5146	shobunsuru	しょぶんする	処分する	
+6150	5146	shobun	しょぶん	処分	disposal, throwing away, selling off | dealing with (a problem), measure | punishment, penalty | putting down (e.g. diseased animal)
 6150	5147	tannin	たんにん	担任	being in charge of (esp. a class or subject), taking charge of | class teacher, homeroom teacher, form teacher
 6150	5148	nasu	なす	茄子	 eggplant (Solanum melongena), aubergine
 6156	5149	shinsatsu	しんさつ	診察	 medical examination
 6156	5150	souon	そうおん	騒音	 noise, din
 6159	5151	areru	あれる	荒れる	to be stormy, to be rough | to be rough (of skin), to be chapped | to be ruined, to fall into ruin | to be in a bad temper, to lose one's temper
 6159	5152	odosu	おどす	脅す	 to threaten, to menace, to frighten (into doing)
-6159	5153	kateisuru	かていする	仮定する	
+6159	5153	katei	かてい	仮定	 assumption, supposition, hypothesis
 6159	5154	makura	まくら	枕	pillow, bolster | introduction (e.g. to a rakugo story), lead-in
 6163	5155	kureru	くれる	暮れる	to get dark, to grow dark | to end (of a day, year, season, etc.), to come to an end, to close | to be sunk in (e.g. despair), to be lost in (e.g. thought), to be overcome with
 6163	5156	chou	ちょう	蝶	 butterfly
@@ -75,9 +75,9 @@
 6184	5175	yabureru	やぶれる	破れる	to break, to be smashed | to split, to crack, to fissure, to be torn | to be divided (opinion, vote, etc.), to split (e.g. of a party) | to come to light, to become clear, to be identified, to be revealed | to be distorted (of a sound) | to be divisible (without a remainder) | to go below a minimum, やぶれる (破れる) to get torn, to tear, to rip, to break, to wear out | to be broken off (of negotiations, etc.), to break down, to collapse, to fall into ruin
 6190	5176	ikusa	いくさ	戦	war, battle, campaign, fight | troops, forces, せん (戦) war, battle | match, game, competition
 6190	5177	oshikomu	おしこむ	押し込む	to push into, to cram into, to stuff into, to crowd into | to break in, to burgle, to burglarize
-6190	5178	omachisuru	おまちする	御待ちする	
+6190	5178	omachi	おまち	御待ち	
 6190	5179	keijiban	けいじばん	掲示板	bulletin board, display board, notice board | electronic bulletin board, BBS
-6190	5180	satsugaisuru	さつがいする	殺害する	
+6190	5180	satsugai	さつがい	殺害	 killing, murder
 6190	5181	shogaikoku	しょがいこく	諸外国	 various foreign countries, several foreign countries
 6190	5182	senshuu	せんしゅう	先週	 last week, the week before
 6190	5183	maku	まく	幕	curtain, bunting | act (in play)
@@ -90,11 +90,11 @@
 6201	5190	fusoku	ふそく	付則	 additional rules, by-laws, supplementary provisions, additional clauses
 6207	5191	irui	いるい	衣類	 clothes, clothing, garments
 6207	5192	ookime	おおきめ	大きめ	 largish, biggish, a little bit larger
-6207	5193	kiseisuru	きせいする	規制する	
-6207	5194	kyougisuru	きょうぎする	協議する	
+6207	5193	kisei	きせい	規制	 regulation, (traffic) policing, control, restriction
+6207	5194	kyougi	きょうぎ	協議	 conference, consultation, discussion, negotiation
 6207	5195	keshou	けしょう	化粧	 make-up, makeup, cosmetics
 6207	5196	juunin	じゅうにん	住人	dweller, inhabitant, resident | user (of a website)
 6207	5197	jun'i	じゅんい	順位	 order, rank, position (e.g. in a race), precedence
-6207	5198	seiseisuru	せいせいする	生成する	
+6207	5198	seisei	せいせい	生成	 creation, generation, formation, derivation, きなり (生成り) unbleached cloth, unbleached colour (color) | unbleached, undyed
 6207	5199	hatarakikakeru	はたらきかける	働き掛ける	to work on (someone), to appeal to, to make approaches to, to pressure, to exert influence on, to seek action from | to begin to work
 6207	5200	hikaeme	ひかえめ	控えめ	 moderate, reserved, conservative, humble, mild-mannered, self-effacing, unassuming, well-behaved, low-key, temperate, in small quantities

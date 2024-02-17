@@ -10,7 +10,7 @@
 5636	4710	yosoou	よそおう	装う	to dress (oneself in), to attire oneself in, to adorn, to decorate | to pretend, to feign, to affect, to disguise oneself as, よそう (装う) to serve, to dish up, to dish out | to dress (oneself in), to attire oneself in, to adorn, to decorate
 5641	4711	kekka	けっか	結果	result, consequence, outcome, effect | coming to fruition, bearing fruit | as a result, consequently, therefore
 5641	4712	kekkan	けっかん	欠陥	 defect, fault, flaw, deformity, deficiency, shortage, gap
-5641	4713	kousatsusuru	こうさつする	考察する	
+5641	4713	kousatsu	こうさつ	考察	 consideration, inquiry, enquiry, investigation, study
 5641	4714	shanai	しゃない	車内	 inside a car (train, bus, etc.)
 5641	4715	taikei	たいけい	体系	 system, organization, organisation, architecture
 5641	4716	tatoeru	たとえる	例える	 to compare (something) to, to liken, to speak figuratively, to use a simile, to use a metaphor
@@ -19,7 +19,7 @@
 5649	4719	annai	あんない	案内	guidance, leading (the way), showing around | information, notice, notification | announcement (of one's arrival) | invitation | acquaintance, knowledge
 5649	4720	shikameru	しかめる	顰める	 to pull a wry face, to screw one's face up, to pucker one's face, to scowl, to grimace, to frown, ひそめる (顰める)  to knit (one's eyebrows)
 5649	4721	shinsou	しんそう	真相	 truth, real situation
-5649	4722	suru	する	擦る	 to rub, to scrub, to scrape, さする (摩る)  to rub, to pat, to stroke, to massage, する (擦る) to rub, to chafe, to strike (match), to file, to frost (glass) | to lose (e.g. a match), to forfeit, to squander one's money (e.g. through gambling, Pachinko, etc.), かする (掠る) to graze (e.g. bullet), to scratch, to touch lightly | to take a percentage, to exploit, to squeeze, なする (擦る) to rub in, to smear on, to spread on, to daub | to lay the blame on
+5649	4722			擦る	 to rub, to scrub, to scrape, さする (摩る)  to rub, to pat, to stroke, to massage, する (擦る) to rub, to chafe, to strike (match), to file, to frost (glass) | to lose (e.g. a match), to forfeit, to squander one's money (e.g. through gambling, Pachinko, etc.), かする (掠る) to graze (e.g. bullet), to scratch, to touch lightly | to take a percentage, to exploit, to squeeze, なする (擦る) to rub in, to smear on, to spread on, to daub | to lay the blame on
 5649	4723	risouteki	りそうてき	理想的	 ideal
 5654	4724	kenkyuusho	けんきゅうしょ	研究所	 research establishment, research institute, laboratory
 5654	4725	chiikijuumin	ちいきじゅうみん	地域住民	 local resident
@@ -30,12 +30,12 @@
 5659	4730	jouto	じょうと	譲渡	 transfer, assignment, conveyance
 5661	4731	amami	あまみ	甘み	sweetness, sugary taste | sweets, dessert, cake
 5661	4732	ihan	いはん	違反	 violation, offense, offence, breach, transgression, infringement, contravention, いへん (違変)  breaking (a contract, promise, etc.)
-5661	4733	shosuru	しょする	処する	to manage, to deal with, to cope with | to sentence, to condemn, to punish
-5661	4734	chuushisuru	ちゅうしする	中止する	
+5661	4733	sho	しょ	処	place, spot, scene, site | address | district, area, locality | one's house | point, aspect, side, facet | passage (in text), part | space, room | thing, matter | whereupon, as a result | about to, on the verge of | was just doing, was in the process of doing, have just done, just finished doing, どころ (処)  restaurant, specialist
+5661	4734	chuushi	ちゅうし	中止	 suspension, stoppage, discontinuance, interruption
 5665	4735	koru	こる	凝る	 to congeal, to freeze, こる (凝る) to become stiff (of muscles) | to get absorbed in, to develop a passion for, to devote oneself to, to become obsessed with, to get hooked on | to be elaborate, to be intricate, to be exquisite, to be particular about, to pay great attention to, しこる (凝る)  to stiffen, to harden
 5665	4736	shounin	しょうにん	商人	 merchant, trader, tradesman, dealer, shopkeeper
-5665	4737	seisuru	せいする	制する	to hold back (e.g. emotions), to rein in (e.g. a horse, unruly people), to bridle | to get the better of | to control, to command
-5665	4738	daisuru	だいする	題する	 to be titled (e.g. a book), to be named
+5665	4737	sei	せい	制	 system, organization, organisation, imperial command, laws, regulation, control, government, suppression, restraint, holding back, establishment
+5665	4738	dai	だい	題	title, subject, theme, topic | problem (on a test), question | counter for questions (on a test)
 5665	4739	chikatetsu	ちかてつ	地下鉄	 underground train, subway
 5665	4740	chosaku	ちょさく	著作	 writing, book
 5673	4741	akka	あっか	悪化	 (suffer) deterioration, growing worse, aggravation, degeneration, corruption
@@ -49,13 +49,13 @@
 5680	4749	shuto	しゅと	首都	 capital city, metropolis
 5680	4750	shounin	しょうにん	証人	 witness
 5680	4751	nenshuu	ねんしゅう	年収	 annual income
-5680	4752	hatsugensuru	はつげんする	発言する	
+5680	4752	hatsugen	はつげん	発言	 statement, remark, observation, utterance, speech, proposal
 5680	4753	meishi	めいし	名刺	 business card
 5686	4754	kinkyuu	きんきゅう	緊急	 urgency, emergency
 5686	4755	shouhou	しょうほう	商法	business practice, business method, commerce | commercial law
 5686	4756	junzuru	じゅんずる	準ずる	 to apply correspondingly, to correspond to, to be proportionate to, to conform to
 5686	4757	zeitaku	ぜいたく	贅沢	luxury, extravagance | to live in luxury, to indulge oneself | lavish (use of something), abundant, copious, wasteful | excessive (e.g. demands, expectations)
-5686	4758	teikousuru	ていこうする	抵抗する	
+5686	4758	teikou	ていこう	抵抗	resistance, opposition, standing up to | reluctance, repulsion, repugnance | resistance, drag, friction | electrical resistance | resistor
 5686	4759	tossa	とっさ	咄嗟	 moment, instant
 5686	4760	nichiyou	にちよう	日曜	 Sunday
 5686	4761	noudo	のうど	濃度	concentration, thickness, density | cardinality
@@ -65,11 +65,11 @@
 5695	4765	zujou	ずじょう	頭上	 overhead, above one's head, high in the sky
 5695	4766	fukkatsu	ふっかつ	復活	revival (e.g. musical), come-back | restoration, rebirth, resurrection
 5695	4767	youki	ようき	陽気	cheerful, jovial, merry, lively | weather, season | spirit of yang
-5695	4768	renzokusuru	れんぞくする	連続する	
+5695	4768	renzoku	れんぞく	連続	 continuation, succession, series
 5703	4769	saikou	さいこう	最高	most, highest, maximum, uppermost, supreme | best, wonderful, finest
 5703	4770	shirizoku	しりぞく	退く	to step aside, to move (i.e. out of the way), to make way | to resign, to retire, to quit, to secede, しりぞく (退く) to step back, to move back, to retreat | to withdraw (from the presence of a superior), to leave, to exit | to resign, to retire, to quit | to concede, ひく (退く) to move back, to draw back, to recede | to lessen, to subside, to ebb, to go down (e.g. of swelling) | to resign, to retire, to quit
 5703	4771	tomi	とみ	富	riches, wealth, fortune | resources | lottery
-5703	4772	yuushousuru	ゆうしょうする	優勝する	
+5703	4772	yuushou	ゆうしょう	優勝	 overall victory, championship
 5703	4773	yokogiru	よこぎる	横切る	 to cross (e.g. road), to traverse
 5708	4774	oitsumeru	おいつめる	追い詰める	 to corner, to drive to the wall, to run down, to track down, to chase after
 5708	4775	okiagaru	おきあがる	起き上がる	 to rise, to erect, to get up
@@ -83,15 +83,15 @@
 5713	4783	heiwa	へいわ	平和	 peace, harmony, ピンフ (平和)  concealed winning hand consisting of chows, a pair that isn't a value pair, and an open wait
 5720	4784	kasetsu	かせつ	仮説	 hypothesis, supposition, assumption, tentative theory
 5720	4785	joukyaku	じょうきゃく	乗客	 passenger
-5720	4786	senkousuru	せんこうする	先行する	
+5720	4786	senkou	せんこう	先行	going ahead, going first | preceding, coming before, being ahead (e.g. of the times), occurring first, happening prior | scoring first, getting off to a lead | stalker
 5720	4787	touhoku	とうほく	東北	north-east | Tōhoku (northernmost six prefectures of Honshu), Tohoku
 5724	4788	ippun	いっぷん	一分	 one tenth, one hundredth, one percent, one tenth of a sun, one quarter ryō (an old coin), いちぶん (一分)  duty, honor, honour, いっぷん (一分)  (a) minute
-5724	4789	itensuru	いてんする	移転する	
+5724	4789	iten	いてん	移転	moving, relocation, change of address | transfer (of deeds, property, etc.), demise
 5724	4790	eikyuu	えいきゅう	永久	eternity, permanence, perpetuity | Eikyū era (1113.7.13-1118.4.3)
 5724	4791	seigo	せいご	生後	 post-natal, since birth
 5724	4792	souzou	そうぞう	創造	 creation
-5724	4793	deirisuru	でいりする	出入りする	
-5724	4794	tougousuru	とうごうする	統合する	
+5724	4793	deiri	でいり	出入り	going in and out, entering and exiting | visiting regularly, frequenting, having regular dealings with | income and expenditure, incomings and outgoings | increase and decrease, surplus and deficit, fluctuation | fight, trouble, quarrel, dispute | indentations (e.g. of a coastline)
+5724	4794	tougou	とうごう	統合	 integration, unification, unity, combination, consolidation, synthesis
 5724	4795	honshou	ほんしょう	本章	 this chapter
 5732	4796	kaitou	かいとう	解答	 answer, solution
 5732	4797	kokuou	こくおう	国王	king, queen, monarch, sovereign | the Crown (as a focus of authority in the UK, etc.), the throne

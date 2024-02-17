@@ -5,14 +5,14 @@
 29537	23905	hiyoutaikouka	ひようたいこうか	費用対効果	 cost-effectiveness
 29537	23906	bimyou	びみょう	美妙	 elegant, exquisite
 29537	23907	fuubutsushi	ふうぶつし	風物詩	thing that reminds one of a particular season | poem about natural scenery, poem about a particular season
-29537	23908	fukasuru	ふかする	孵化する	
+29537	23908	fuka	ふか	孵化	 incubation, hatching
 29537	23909	fukusouhin	ふくそうひん	副葬品	 grave goods, burial accessories
 29537	23910	futanzou	ふたんぞう	負担増	 cost increase
 29537	23911	funzen	ふんぜん	憤然	 angry, indignant, wrathful, enraged
 29537	23912	bunki	ぶんき	分岐	 divergence, ramification, bifurcation, branching off
-29537	23913	heitensuru	へいてんする	閉店する	
+29537	23913	heiten	へいてん	閉店	closing up shop (for the day) | stopping business, going out of business
 29537	23914	henkyoku	へんきょく	編曲	arrangement | to arrange, to orchestrate
-29537	23915	hensousuru	へんそうする	変装する	
+29537	23915	hensou	へんそう	変装	 disguise, masquerade
 29537	23916	houki	ほうき	蜂起	 uprising, revolt
 29537	23917	houshaseihaikibutsu	ほうしゃせいはいきぶつ	放射性廃棄物	 radioactive waste
 29537	23918	hoshin	ほしん	保身	 self-protection
@@ -20,7 +20,7 @@
 29537	23920	honjo	ほんじょ	本所	main office | this office
 29537	23921	honsuji	ほんすじ	本筋	 main thread (of a story)
 29537	23922	honpou	ほんぽう	本邦	 this country, our country
-29537	23923	mabatakisuru	まばたきする	瞬きする	
+29537	23923	mabataki	まばたき	瞬き	blink (of eyes), wink | twinkling (of stars), flicker (of light), blink (of light)
 29537	23924	mawaseru	まわせる	回せる	
 29537	23925	mizugame	みずがめ	水瓶	 water jug, すいびょう (水瓶)  portable water vessel (for drinking or washing up)
 29537	23926	minkanbumon	みんかんぶもん	民間部門	 private sector
@@ -36,7 +36,7 @@
 29537	23936	ryuuketsu	りゅうけつ	流血	 bloodshed
 29537	23937	ryuudoushisan	りゅうどうしさん	流動資産	 current assets
 29537	23938	rekishisho	れきししょ	歴史書	 history book
-29537	23939	rentaisuru	れんたいする	連帯する	
+29537	23939	rentai	れんたい	連帯	solidarity | joint, collective
 29737	23940	aipiidenwa	あいぴーでんわ	ＩＰ電話	 voice over IP (VoIP), Internet protocol telephony, IP telephony, Internet telephony
 29737	23941	aobaku	あおばく	青葉区	
 29737	23942	akahata	あかはた	赤旗	red flag | Red Flag (Communist Party newspaper)
@@ -47,7 +47,7 @@
 29737	23947	ararageru	あららげる	荒らげる	 to roughen (e.g. one's attitude), to raise (one's voice)
 29737	23948	arehateru	あれはてる	荒れ果てる	 to fall into ruin, to be desolated
 29737	23949	iidaseru	いいだせる	言い出せる	
-29737	23950	ijousuru	いじょうする	委譲する	
+29737	23950	ijou	いじょう	委譲	 transfer, assignment
 29737	23951	ichishi	いちし	一死	dying, laying down one's life | one out
 29737	23952	itteigaku	いっていがく	一定額	
 29737	23953	ippuu	いっぷう	一風	 oddity, eccentricity, peculiarity
@@ -59,7 +59,7 @@
 29737	23959	uragirisha	うらぎりしゃ	裏切り者	 betrayer, traitor, turncoat, informer
 29737	23960	eigoban	えいごばん	英語版	 English version
 29737	23961	egakihajimeru	えがきはじめる	描き始める	to begin to write, to begin writing | to begin to draw, to begin drawing, to begin painting
-29737	23962	enjousuru	えんじょうする	炎上する	
+29737	23962	enjou	えんじょう	炎上	going up in flames, destruction by fire (esp. of a large building) | stirring up a storm of criticism online (of an article, tweet, statement, etc.), becoming the target of an Internet pitchfork mob
 29737	23963	osame	おさめ	長女	 eldest daughter, first-born daughter
 29737	23964	oshizu	おしず	お静	
 29737	23965	ochiiriyasui	おちいりやすい	陥り易い	 prone (to), liable (to), apt (to), tending (to)
@@ -82,14 +82,14 @@
 29737	23982	gattai	がったい	合体	union, coalescence, amalgamation, combination, alliance, annexation, incorporation | copulation, penetration
 29737	23983	kikagaku	きかがく	幾何学	 geometry
 29737	23984	kigyoushuudan	きぎょうしゅうだん	企業集団	
-29737	23985	kikousuru	きこうする	寄稿する	
+29737	23985	kikou	きこう	寄稿	 contribution (e.g. to newspaper)
 29737	23986	kyuukei	きゅうけい	球形	 globular shape, spherical shape
 29737	23987	kyo	きょ	居	 residence, い (居) being (somewhere) | sitting
 29737	23988	kyouikugyousei	きょういくぎょうせい	教育行政	 educational administration
 29737	23989	kyouikuteki	きょういくてき	教育的	 educational, instructive
 29737	23990	kyoudouseimei	きょうどうせいめい	共同声明	 joint declaration
 29737	23991	kyokushoteki	きょくしょてき	局所的	 local, localized, partial, topical (application)
-29737	23992	gimonshisuru	ぎもんしする	疑問視する	
+29737	23992	gimonshi	ぎもんし	疑問視	 doubting, questioning, being skeptical (of)
 29737	23993	kunichuu	くにちゅう	国中	 all over the country, everywhere in the country, throughout the nation
 29737	23994	kurashikkuongaku	くらしっくおんがく	クラシック音楽	 classical music
 29737	23995	kurisageru	くりさげる	繰り下げる	 to defer, to postpone, to move down
@@ -97,4 +97,4 @@
 29737	23997	keirou	けいろう	敬老	 respect for the aged
 29737	23998	ken	けん	腱	 tendon
 29737	23999	kenkouzoushin	けんこうぞうしん	健康増進	
-29737	24000	gezansuru	げざんする	下山する	
+29737	24000	gezan	げざん	下山	 descending (mountain)

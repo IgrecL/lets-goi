@@ -22,14 +22,14 @@
 10493	8622	ishibumi	いしぶみ	碑	 stone monument bearing an inscription (esp. memorial for future generations), stele, stela
 10493	8623	omori	おもり	重り	weight | sinker (fishing)
 10493	8624	kangeki	かんげき	感激	 deep emotion, impression, inspiration
-10493	8625	kyoujusuru	きょうじゅする	享受する	
+10493	8625	kyouju	きょうじゅ	享受	 reception, acceptance, enjoyment, being given
 10493	8626	shirieru	しりえる	知り得る	 to acquire knowledge
 10493	8627	chikushou	ちくしょう	畜生	beast (i.e. any animal other than man) | person reborn into the animal realm | brute (i.e. a contemptible human being) | damn it, damn, Christ, for Christ's sake
 10493	8628	tsuke	つけ	付け	bill, bill of sale, payment invoice | tab (for later payment), credit | contact move (in go), direct attack to an enemy stone | sound effect produced by striking with clappers a wooden board in kabuki | letter | reason, motive, pretext | one's fortune, one's luck, づけ (付け)  dated, date, fixed, external
 10493	8629	nigekomu	にげこむ	逃げ込む	 to take refuge in, to succeed in running away
 10493	8630	nuki	ぬき	抜き	leaving out, omitting, skipping, dispensing with | (beating) in succession, in a row
 10493	8631	nenpi	ねんぴ	燃費	 fuel consumption, gas mileage
-10493	8632	bunretsusuru	ぶんれつする	分裂する	
+10493	8632	bunretsu	ぶんれつ	分裂	 split, division, break up
 10493	8633	mimai	みまい	見舞い	visiting ill or distressed people, writing get-well letters | get-well gifts, get-well letters | expression of sympathy, expression of concern, enquiry, inquiry
 10510	8634	iwateken	いわてけん	岩手県	 Iwate prefecture (Tōhoku area)
 10510	8635	okikasekudasaru	おきかせくださる	御聞かせ下さる	
@@ -39,8 +39,8 @@
 10510	8639	kakusha	かくしゃ	各社	 all companies, each company
 10510	8640	kakko	かっこ	確固	 firm, unshakeable, resolute
 10510	8641	kankyoushou	かんきょうしょう	環境省	 Ministry of the Environment
-10510	8642	gutaikasuru	ぐたいかする	具体化する	
-10510	8643	keikokusuru	けいこくする	警告する	
+10510	8642	gutaika	ぐたいか	具体化	 embodiment, materialization, actualization, realization, taking form, taking shape
+10510	8643	keikoku	けいこく	警告	 warning, advice
 10510	8644	koushuukai	こうしゅうかい	講習会	 class, short course
 10510	8645	kousoku	こうそく	高速	high-speed, rapid, express | highway, freeway, expressway, motorway
 10510	8646	shizumeru	しずめる	静める	 to appease, to suppress, to calm
@@ -51,7 +51,7 @@
 10510	8651	denpou	でんぽう	電報	 telegram
 10510	8652	tokugawaieyasu	とくがわいえやす	徳川家康	
 10510	8653	nengan	ねんがん	念願	 one's heart's desire, one's dearest wish
-10510	8654	hakkutsusuru	はっくつする	発掘する	
+10510	8654	hakkutsu	はっくつ	発掘	excavation, exhumation | discovery (e.g. new talent)
 10510	8655	yugamu	ゆがむ	歪む	to warp, to bend, to contort | to be perverted, to be warped (of a view, mind, etc.), to be distorted, to be cross-grained, ひずむ (歪む)  to warp, to become strained, to become distorted, to become crooked
 10510	8656	wabiru	わびる	詫びる	 to apologize, to apologise
 10538	8657	ogamu	おがむ	拝む	to assume the posture of praying, to press the palms and fingers of both hands together, to do reverence (e.g. before a statue of the Buddha), to pay one's respects | to beg, to make a supplication | to see (something or someone of high status)
@@ -64,23 +64,23 @@
 10538	8664	chikaku	ちかく	知覚	 perception, sensation, awareness
 10538	8665	naisou	ないそう	内装	 interior design, interior, upholstery
 10538	8666	hirugaesu	ひるがえす	翻す	to turn over, to turn around | to change (one's mind), to reverse (one's decision), to take back (one's words) | to fly (flag, etc.), to wave (skirt, cape, etc.), こぼす (零す) to spill, to drop, to shed (tears) | to grumble, to complain | to let one's feelings show
-10538	8667	buntansuru	ぶんたんする	分担する	
+10538	8667	buntan	ぶんたん	分担	 taking on one's share (e.g. of work), dividing (work, expenses, etc.) between, apportionment, allotment, allocation, assignment
 10538	8668	yowayowashii	よわよわしい	弱々しい	 frail, slender, feminine
 10556	8669	arinomama	ありのまま	有りの侭	
 10556	8670	anken	あんけん	案件	matter (to discuss), item (on the agenda), issue, topic | (court) case
 10556	8671	irai	いらい	以来	 since, henceforth
 10556	8672	iru	いる	射る	 to shoot (arrow, bolt, dart)
 10556	8673	gakari	がかり	係	charge, duty, person in charge, official, clerk | connection, linking, がかり (係)  charge, duty, person in charge, official, clerk
-10556	8674	kyouikusuru	きょういくする	教育する	
+10556	8674	kyouiku	きょういく	教育	education, schooling, training, instruction, teaching, upbringing | culture, cultivation, education
 10556	8675	kensetsugyou	けんせつぎょう	建設業	 construction industry, construction business
 10556	8676	gorannasaru	ごらんなさる	御覧為さる	
-10556	8677	shinkokusuru	しんこくする	申告する	
+10556	8677	shinkoku	しんこく	申告	 report, return (e.g. tax), statement, declaration, notification, filing
 10556	8678	hangaku	はんがく	半額	 half the amount (of money), half price, half fare
 10556	8679	hekimen	へきめん	壁面	 surface of a wall
-10556	8680	bottousuru	ぼっとうする	没頭する	
+10556	8680	bottou	ぼっとう	没頭	 immersing oneself in, being absorbed in, devoting oneself to, giving oneself up entirely to
 10556	8681	masui	ますい	麻酔	 anaesthesia, anesthesia
 10556	8682	mitodokeru	みとどける	見届ける	 to make sure of, to assure oneself of, to see with one's own eyes, to ascertain
-10556	8683	ryuutsuusuru	りゅうつうする	流通する	
+10556	8683	ryuutsuu	りゅうつう	流通	circulation (money, goods, etc.), distribution | circulation (air, water, etc.), ventilation, flow | negotiable (e.g. shares), distributional, circulating
 10556	8684	rouryoku	ろうりょく	労力	 labour, labor, effort, toil, trouble
 10578	8685	uyoku	うよく	右翼	right-wing (politics) | extreme right-wing group | right wing (bird, plane, etc.) | right field, right flank, right wing | right fielder | high rank, high grade, A-student
 10578	8686	kiyaku	きやく	規約	 agreement, rules, code, protocol, convention, bylaw

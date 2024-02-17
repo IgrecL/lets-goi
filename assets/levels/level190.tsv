@@ -1,5 +1,5 @@
 23256	18901	shokou	しょこう	諸侯	 princes, lords
-23256	18902	shinpousuru	しんぽうする	信奉する	
+23256	18902	shinpou	しんぽう	信奉	 belief, faith, adherence, espousal
 23256	18903	shinyaku	しんやく	新薬	 new medicine, new drug
 23256	18904	jitsuwa	じつわ	実話	 true story
 23256	18905	joutatsu	じょうたつ	上達	improvement (e.g. in skill, ability), advance, progress | communication of opinions of the general populace to those of high rank
@@ -18,7 +18,7 @@
 23256	18918	tsukainikui	つかいにくい	使い難い	
 23256	18919	tsuriai	つりあい	釣り合い	 balance, equilibrium
 23256	18920	tsuribe	つりべ	釣部	
-23256	18921	teijuusuru	ていじゅうする	定住する	
+23256	18921	teijuu	ていじゅう	定住	 settlement, permanent residency
 23256	18922	denkyoku	でんきょく	電極	 electrode
 23256	18923	tourokudekiru	とうろくできる	登録出来る	
 23256	18924	tozandou	とざんどう	登山道	 mountain trail, path up a mountain
@@ -35,7 +35,7 @@
 23256	18935	hikarigousei	ひかりごうせい	光合成	 photosynthesis
 23256	18936	furyo	ふりょ	不慮	 unforeseen, unexpected, sudden, accidental
 23256	18937	bunkajin	ぶんかじん	文化人	 person of culture, cultured person
-23256	18938	heikousuru	へいこうする	閉口する	
+23256	18938	heikou	へいこう	閉口	to be stumped, to be at a loss, to be at one's wits' end, to be nonplussed | to be fed up, to be tired (of), to be unable to bear, to be annoyed
 23256	18939	heisei	へいせい	平静	 calm, serenity, tranquillity, tranquility
 23256	18940	heitachi	へいたち	兵達	
 23256	18941	houshasenchiryou	ほうしゃせんちりょう	放射線治療	 radiation therapy
@@ -72,10 +72,10 @@
 23392	18972	kashikingyousha	かしきんぎょうしゃ	貸し金業者	
 23392	18973	katarikuchi	かたりくち	語り口	 way of reciting, way of telling a story
 23392	18974	kanshou	かんしょう	感傷	 sentiment, sentimentality
-23392	18975	kizousuru	きぞうする	寄贈する	
+23392	18975	kizou	きぞう	寄贈	 donation, presentation, gift
 23392	18976	kyoushinshou	きょうしんしょう	狭心症	 heart attack, angina pectoris
 23392	18977	kyoumishinshin	きょうみしんしん	興味津々	 very interesting, of absorbing interest, having a keen interest (in), being immensely curious (about)
-23392	18978	kinsetsusuru	きんせつする	近接する	
+23392	18978	kinsetsu	きんせつ	近接	proximity, nearness, being nearby, being adjacent | approaching, drawing near, coming close
 23392	18979	gyuudon	ぎゅうどん	牛丼	 gyudon, rice covered with sliced beef, usu. with vegetables
 23392	18980	girishago	ぎりしゃご	ギリシャ語	 Greek (language)
 23392	18981	kunaichou	くないちょう	宮内庁	 Imperial Household Agency
@@ -87,9 +87,9 @@
 23392	18987	koukenjin	こうけんじん	後見人	 guardian
 23392	18988	kouhou	こうほう	工法	 method of construction
 23392	18989	saishuubi	さいしゅうび	最終日	 last day, final day
-23392	18990	sakuretsusuru	さくれつする	炸裂する	
+23392	18990	sakuretsu	さくれつ	炸裂	 violent explosion, bursting
 23392	18991	shitatariochiru	したたりおちる	滴り落ちる	 to trickle down
-23392	18992	shuutokusuru	しゅうとくする	修得する	
+23392	18992	shuutoku	しゅうとく	修得	 learning, acquisition (of a skill, knowledge, etc.)
 23392	18993	shouhyouken	しょうひょうけん	商標権	 trademark rights
 23392	18994	shinden	しんでん	新田	new rice field, newly developed rice field | wasteland or marshland newly reclaimed as a rice field (Edo period)
 23392	18995	jinkouhi	じんこうひ	人口比	

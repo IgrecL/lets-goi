@@ -3,15 +3,15 @@
 13050	10703	zanshin	ざんしん	斬新	 novel, original, new, innovative
 13050	10704	shiire	しいれ	仕入れ	 stocking, buying up
 13050	10705	shiki	しき	士気	 morale (of troops, team, etc.), esprit de corps
-13050	10706	shuugousuru	しゅうごうする	集合する	
-13050	10707	shuushukusuru	しゅうしゅくする	収縮する	
+13050	10706	shuugou	しゅうごう	集合	meeting up, gathering, assembly | set
+13050	10707	shuushuku	しゅうしゅく	収縮	 deflation, contraction, shrinking, constriction
 13050	10708	shuuchaku	しゅうちゃく	執着	 attachment, adhesion, tenacity, fixation, obsession
 13050	10709	shintaiteki	しんたいてき	身体的	
 13050	10710	taikyuusei	たいきゅうせい	耐久性	 durability
 13050	10711	tantei	たんてい	探偵	detective, investigator, sleuth | detective work, secret investigation
 13050	10712	daiichisen	だいいちせん	第一線	 the front (of a battlefield), forefront
 13050	10713	chiken	ちけん	知見	 expertise, experience, knowledge
-13050	10714	bouchousuru	ぼうちょうする	膨張する	
+13050	10714	bouchou	ぼうちょう	膨張	 expansion, swelling, increase, growth
 13050	10715	muyou	むよう	無用	useless, futile | unnecessary, needless | not on business, unrelated, unauthorised, unauthorized | prohibited, banned, forbidden
 13050	10716	yarigai	やりがい	遣り甲斐	 being worth doing
 13050	10717	yukuefumei	ゆくえふめい	行方不明	 missing (of a person), lost, unaccounted for, whereabouts unknown
@@ -24,12 +24,12 @@
 13077	10724	kaimamiru	かいまみる	垣間見る	 to take a peep at, to catch a glimpse of
 13077	10725	kanrensei	かんれんせい	関連性	 relatedness, associativity, relation, relationship, relevance
 13077	10726	kiyohara	きよはら	清原	
-13077	10727	keisokusuru	けいそくする	計測する	
+13077	10727	keisoku	けいそく	計測	 measuring, measurement
 13077	10728	kensatsu	けんさつ	検察	 examination, investigation, prosecution
 13077	10729	geinou	げいのう	芸能	public entertainment, performing arts | accomplishments, attainments
-13077	10730	koshousuru	こしょうする	故障する	
+13077	10730	koshou	こしょう	故障	breakdown, failure, fault, accident, out of order | damage, hurt | objection, protest
 13077	10731	saishin	さいしん	細心	 meticulous, careful, discreet, scrupulous, prudent
-13077	10732	shimatsusuru	しまつする	始末する	
+13077	10732	shimatsu	しまつ	始末	management, dealing with, settlement, cleaning up, disposal | course of events, circumstances, particulars | end result (usu. bad), outcome | economizing, economising, frugality, being thrifty
 13077	10733	shokuhi	しょくひ	食費	 food expense
 13077	10734	shinjou	しんじょう	信条	 creed, belief, conviction, article of faith
 13077	10735	shinbunkiji	しんぶんきじ	新聞記事	 newspaper story (article, account)
@@ -41,7 +41,7 @@
 13077	10741	touitsuteki	とういつてき	統一的	 united, unified
 13077	10742	torokeru	とろける	蕩ける	to melt (and become soft or liquid) | to be enchanted (by), to be charmed, to be bewitched
 13077	10743	nourinshou	のうりんしょう	農林省	
-13077	10744	hakisuru	はきする	破棄する	
+13077	10744	haki	はき	破棄	tearing up and discarding (e.g. documents), disposal (e.g. weaponry), destruction | annulment, cancellation, abrogation, voiding, breaking (e.g. treaty) | reversal (of an original ruling)
 13077	10745	hanbaiten	はんばいてん	販売店	 store, shop
 13077	10746	houdai	ほうだい	放題	 (doing) as one pleases, to one's heart's content, letting (something) go unchecked, leaving uncontrolled, leaving (something) to take its own course
 13077	10747	matsuyama	まつやま	松山	 Matsuyama (city in Ehime)
@@ -63,18 +63,18 @@
 13116	10763	kotenteki	こてんてき	古典的	 classical, classic
 13116	10764	kodomosan	こどもさん	子供さん	
 13116	10765	goshoukai	ごしょうかい	御紹介	
-13116	10766	sansakusuru	さんさくする	散策する	
+13116	10766	sansaku	さんさく	散策	 walking, strolling, roaming, wandering, exploring
 13116	10767	shoumeidekiru	しょうめいできる	証明出来る	
 13116	10768	jisseikakaku	じっせいかかく	実勢価格	 market price
 13116	10769	juushoku	じゅうしょく	住職	 chief priest (of a Buddhist temple)
-13116	10770	suishousuru	すいしょうする	推奨する	
+13116	10770	suishou	すいしょう	推奨	 recommendation, endorsement
 13116	10771	soutei	そうてい	想定	 hypothesis, supposition, assumption
-13116	10772	danteisuru	だんていする	断定する	
+13116	10772	dantei	だんてい	断定	conclusion, decision, judgement, declaration | affirmative
 13116	10773	chihoujichi	ちほうじち	地方自治	 local (governmental) autonomy
 13116	10774	douteido	どうていど	同程度	 same level, same extent
 13116	10775	nakajima	なかじま	中島	 island in a pond or river
 13116	10776	nagashi	ながし	流し	sink (e.g. in a kitchen) | cruising (e.g. taxi), strolling (entertainer, musician, etc.) | washing area (in a Japanese-style bath) | back-washing service (in a public bath) | floating (something on water), setting adrift, washing away
-13116	10777	haikisuru	はいきする	廃棄する	
+13116	10777	haiki	はいき	廃棄	disposal, abandonment, scrapping, discarding, abolition | annulment, cancellation, abrogation, repeal
 13116	10778	hametsu	はめつ	破滅	 ruin, destruction, fall
 13116	10779	hayasu	はやす	生やす	 to grow, to cultivate, to wear a beard
 13116	10780	banji	ばんじ	万事	 all, everything
@@ -82,8 +82,8 @@
 13116	10782	hibi	ひび	皹	crack, fissure | rift, split | chaps, skin fissure
 13116	10783	hyougo	ひょうご	兵庫	Hyogo (prefecture) | armory, armoury, arsenal
 13116	10784	hirakinaoru	ひらきなおる	開き直る	 to become defiant, to fight back, to turn upon, to take the offensive
-13116	10785	houshisuru	ほうしする	奉仕する	
-13116	10786	maisousuru	まいそうする	埋葬する	
+13116	10785	houshi	ほうし	奉仕	service, ministry, attendance, church work | offering goods at a reduced price, providing a service for free
+13116	10786	maisou	まいそう	埋葬	 burial
 13116	10787	makiageru	まきあげる	巻き上げる	to roll up, to hoist, to heave up | to take away, to rip off (e.g. money from someone) | to blow up (dust)
 13116	10788	muzai	むざい	無罪	 innocence, being not guilty
 13116	10789	mecha	めちゃ	目茶	absurd, ridiculous, nonsense | excessive, extreme

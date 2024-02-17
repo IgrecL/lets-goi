@@ -77,7 +77,6 @@ class QuizzesScreen extends StatelessWidget {
                                       style: TextStyle(
                                         fontSize: 110,
                                         color: getLevel(i*2+j).color,
-                                        fontFamily: 'YourFontFamily',
                                       ),
                                     ),
                                     Text(

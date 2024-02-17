@@ -1,7 +1,7 @@
 59564	47001	zainichikankokuchousenjin	ざいにちかんこくちょうせんじん	在日韓国・朝鮮人	
 59564	47002	zairyuuhoujin	ざいりゅうほうじん	在留邦人	 Japanese residents in another country, Japanese expatriates
-59564	47003	zashousuru	ざしょうする	座礁する	
-59564	47004	zansatsusuru	ざんさつする	斬殺する	
+59564	47003	zashou	ざしょう	座礁	 running aground, being stranded, grounding, beaching
+59564	47004	zansatsu	ざんさつ	斬殺	 putting to the sword
 59564	47005	zanshin	ざんしん	残心	continued alertness, unrelaxed alertness, remaining on one's guard, being prepared for a counterstroke | follow-through (e.g. in archery) | lingering affection, attachment, regret, regrets, reluctance
 59564	47006	shi	し	師	teacher, master, one's mentor | religious leader | specialist | five-battalion brigade comprising 2500 men (Zhou-dynasty Chinese army)
 59564	47007	shiki	しき	始期	 beginning period, initial term
@@ -28,7 +28,7 @@
 59564	47028	sharaku	しゃらく	洒落	 free and easy, open-hearted, relaxed, not fussy, frank, しゃれ (洒落) joke, pun, jest, witticism, wordplay | smartly dressed, stylish, fashion-conscious, refined, しゃら (洒落) impertinent | fresh, fashionable | prostitute
 59564	47029	sharyoudeeta	しゃりょうでーた	車両データ	
 59564	47030	shuukyoutetsugaku	しゅうきょうてつがく	宗教哲学	 philosophy of religion
-59564	47031	shuutaiseisuru	しゅうたいせいする	集大成する	
+59564	47031	shuutaisei	しゅうたいせい	集大成	(large) compilation | culmination (of hard work)
 59564	47032	shuseki	しゅせき	首席	head, chief | chairman, governor, president | top student, head of the class | top seat, first desk (in orchestra)
 59564	47033	shutchouchuu	しゅっちょうちゅう	出張中	
 59564	47034	shutsudaisha	しゅつだいしゃ	出題者	 person who sets questions (for an exam or quiz)
@@ -43,7 +43,7 @@
 59564	47043	shoukanshuu	しょうかんしゅう	商慣習	 commercial practice
 59564	47044	shoukeimoji	しょうけいもじ	象形文字	 hieroglyph, hieroglyphic character
 59564	47045	shoukohin	しょうこひん	証拠品	 piece of evidence, evidence
-59564	47046	shousuisuru	しょうすいする	憔悴する	
+59564	47046	shousui	しょうすい	憔悴	 haggardness, emaciation, wasting away, being tired out, being worn out, exhaustion
 59564	47047	shouzen	しょうぜん	悄然	 dejected, dispirited, crestfallen, discouraged
 59564	47048	shoutaiken	しょうたいけん	招待券	 complimentary ticket, invitation card, invitation ticket
 59564	47049	shoutaichou	しょうたいちょう	小隊長	 platoon commander, section commander
@@ -77,9 +77,9 @@
 59564	47077	jimotoshi	じもとし	地元紙	 local newspaper
 59564	47078	jaaku	じゃあく	邪悪	 wicked, evil
 59564	47079	juuikko	じゅういっこ	十一個	
-59564	47080	juushoukasuru	じゅうしょうかする	重症化する	
+59564	47080	juushouka	じゅうしょうか	重症化	 aggravation (of an illness), exacerbation, worsening
 59564	47081	juushotou	じゅうしょとう	住所等	
-59564	47082	juujitsukyoukasuru	じゅうじつきょうかする	充実強化する	
+59564	47082	juujitsukyouka	じゅうじつきょうか	充実強化	
 59564	47083	juujitsuburi	じゅうじつぶり	充実振り	
 59564	47084	juutakukakaku	じゅうたくかかく	住宅価格	
 59564	47085	juutarou	じゅうたろう	従太郎	
@@ -87,7 +87,7 @@
 59564	47087	juuminkansaseikyuu	じゅうみんかんさせいきゅう	住民監査請求	 resident audit request to local government authority
 59564	47088	jukendekiru	じゅけんできる	受験出来る	
 59564	47089	juzousha	じゅぞうしゃ	受贈者	
-59564	47090	jufunsuru	じゅふんする	受粉する	
+59564	47090	jufun	じゅふん	受粉	 pollination
 59564	47091	jun'ichi	じゅんいち	順一	
 59564	47092	junshusu	じゅんしゅす	順守す	
 59564	47093	jokou	じょこう	女工	 female factory worker

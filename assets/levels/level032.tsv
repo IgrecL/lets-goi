@@ -12,7 +12,7 @@
 3691	3112	moppara	もっぱら	専ら	wholly, solely, entirely, exclusively, devotedly, fixedly | principally, mostly, chiefly, mainly
 3693	3113	azayaka	あざやか	鮮やか	vivid, bright, brilliant, clear, fresh, vibrant | skillful, skilful, adept, adroit, deft, brilliant, beautiful, fine, excellent
 3693	3114	kongotomo	こんごとも	今後共	 from now on
-3693	3115	shuppansuru	しゅっぱんする	出版する	
+3693	3115	shuppan	しゅっぱん	出版	 publication
 3693	3116	hyakupaasento	ひゃくぱーせんと	百パーセント	 100 percent
 3693	3117	musubitsukeru	むすびつける	結び付ける	 to combine, to join, to tie on, to attach with a knot, to bind (e.g. an address)
 3698	3118	kasho	かしょ	箇所	place, point, part, spot, area, passage, portion | counter for places, parts, passages, etc.
@@ -23,20 +23,20 @@
 3705	3123	toiawasesaki	といあわせさき	問い合わせ先	contact information (for inquiries) (e.g. corporate phone number) | reference (e.g. personal reference)
 3705	3124	motoyori	もとより	固より	from the beginning, from the first, all along, originally | of course
 3705	3125	youji	ようじ	幼児	young child, toddler | child over 1 but not yet of school age
-3709	3126	teichakusuru	ていちゃくする	定着する	
+3709	3126	teichaku	ていちゃく	定着	sticking (in one place, position, etc.), settling, fixing, adherence | becoming established (of a custom, system, etc.), taking hold, taking root | fixation (photography), fixing
 3710	3127	touben	とうべん	答弁	 response, reply, answer, defence, defense
 3713	3128	ohayou	おはよう	御早う	 good morning
-3714	3129	houmonsuru	ほうもんする	訪問する	
-3715	3130	boushisuru	ぼうしする	防止する	
+3714	3129	houmon	ほうもん	訪問	 call, visit
+3715	3130	boushi	ぼうし	防止	 prevention, check
 3715	3131	moushiwakenai	もうしわけない	申し訳無い	I'm sorry, (it's) inexcusable, I feel regretful, I feel guilty | thank you very much (for help, etc.)
-3717	3132	keijousuru	けいじょうする	計上する	
+3717	3132	keijou	けいじょう	計上	including a sum of money in one's calculations | appropriation (a sum of money)
 3717	3133	sayou	さよう	作用	 action, operation, effect, function
 3717	3134	chinmoku	ちんもく	沈黙	silence, being silent, quiet, hush | reticence, inaction
 3720	3135	hyakuen	ひゃくえん	百円	 100 yen
 3721	3136	osewa	おせわ	御世話	 help, aid, assistance
 3721	3137	kaiin	かいいん	会員	 member, the membership
 3721	3138	gakusha	がくしゃ	学者	 scholar
-3721	3139	koufunsuru	こうふんする	興奮する	
+3721	3139	koufun	こうふん	興奮	 excitement, stimulation, agitation, arousal
 3725	3140	chuugakkou	ちゅうがっこう	中学校	 junior high school, middle school, lower secondary school
 3725	3141	hikkakaru	ひっかかる	引っ掛かる	to be caught in, to be stuck in | to stop by, to drop in for a short visit, to be delayed, to take time | to get mixed up in (trouble), to get entangled in (a problem), to be involved with | to fall for (a trick), to be deceived, to be cheated | to be on one's mind, to worry one, to be bothered by, to feel uneasy | to be obstructed, to be hindered | to splash
 3727	3142	katsuyaku	かつやく	活躍	activity (esp. energetic), great efforts, conspicuous service | to flourish, to participate actively, to play an active role
@@ -45,7 +45,7 @@
 3730	3145	ensou	えんそう	演奏	 musical performance
 3730	3146	kazukazu	かずかず	数々	 often, again and again, frequently, repeatedly, かずかず (数々)  many, numerous, various, large number of
 3730	3147	shokumu	しょくむ	職務	 professional duties
-3733	3148	gironsuru	ぎろんする	議論する	
+3733	3148	giron	ぎろん	議論	 argument, discussion, dispute, controversy
 3735	3149	sougo	そうご	相互	 mutual, reciprocal
 3737	3150	en	えん	円	yen (Japanese monetary unit) | circle, まる (丸) circle | entirety, whole, full, complete | money, dough, moola | enclosure inside a castle's walls | soft-shelled turtle | suffix for ship names, suffix for names of people (esp. infants), suffix for names of swords, armour, musical instruments, etc., suffix for names of dogs, horses, etc.
 3740	3151	sankasha	さんかしゃ	参加者	 participant, entrant
@@ -79,7 +79,7 @@
 3768	3179	mashi	まし	増し	better, preferable, less objectionable, least-worst | more, increase, extra | increase, growth
 3773	3180	shouhi	しょうひ	消費	 consumption, expenditure
 3774	3181	sasageru	ささげる	捧げる	to lift up, to hold up, to hold above eye level | to give, to offer, to consecrate | to devote, to sacrifice, to dedicate
-3774	3182	seisansuru	せいさんする	生産する	
+3774	3182	seisan	せいさん	生産	 production, manufacture, せいざん (生産)  live birth
 3774	3183	tachidomaru	たちどまる	立ち止まる	 to stop (in one's tracks), to come to a stop, to halt, to pause, to stand still
 3774	3184	nigedasu	にげだす	逃げ出す	to run away, to flee, to make off, to take to one's heels, to escape | to start to run away
 3779	3185	kakunindekiru	かくにんできる	確認出来る	
@@ -88,13 +88,13 @@
 3782	3188	kosu	こす	越す	to cross over (e.g. mountain), to go across | to get over (e.g. hardship) | to pass time (e.g. a winter) | to surpass, to be better than, to exceed | to move house | to go, to come
 3782	3189	teikiteki	ていきてき	定期的	 periodic, regular, routine
 3782	3190	heishi	へいし	兵士	 soldier
-3786	3191	chokumensuru	ちょくめんする	直面する	
+3786	3191	chokumen	ちょくめん	直面	confrontation | to face, to confront, to encounter, ひためん (直面)  performing without a mask (noh)
 3786	3192	niitarumade	にいたるまで	に至るまで	
 3786	3193	yaruki	やるき	遣る気	 willingness (e.g. to do something), eagerness, motivation, inspiration, determination, high aspirations
 3791	3194	shinjiru	しんじる	信じる	 to believe, to believe in, to place trust in, to confide in, to have faith in
 3791	3195	tetsugaku	てつがく	哲学	 philosophy
 3793	3196	jishin	じしん	自身	 (one's) self, oneself
 3793	3197	mibun	みぶん	身分	(social) standing, status, position, rank | identity, birth, origin | one's circumstances, one's means
-3793	3198	yuusensuru	ゆうせんする	優先する	
+3793	3198	yuusen	ゆうせん	優先	 preference, priority, precedence
 3797	3199	katate	かたて	片手	 one hand
 3797	3200	kateru	かてる	勝てる	

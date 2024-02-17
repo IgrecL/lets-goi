@@ -20,14 +20,14 @@
 24629	20020	zenkaku	ぜんかく	全角	 em, em quad (printing), full-width character
 24629	20021	soyogu	そよぐ	戦ぐ	 to rustle, to sway, to stir, to flutter
 24629	20022	taikakusen	たいかくせん	対角線	 diagonal (line)
-24629	20023	taishutsusuru	たいしゅつする	退出する	
+24629	20023	taishutsu	たいしゅつ	退出	 leaving (e.g. work at end of day), withdrawal (e.g. from a noble's or superior's presence), exit (e.g. from a market)
 24629	20024	tanjouhi	たんじょうひ	誕生日	 birthday
 24629	20025	daiikkouchuu	だいいっこうちゅう	第一項中	
 24629	20026	daiyou	だいよう	代用	 substitution
 24629	20027	daiyokujou	だいよくじょう	大浴場	 large public bath
 24629	20028	dattai	だったい	脱退	 withdrawal (e.g. from an organization), secession, leaving, pulling out
-24629	20029	chakuninsuru	ちゃくにんする	着任する	
-24629	20030	chinbotsusuru	ちんぼつする	沈没する	
+24629	20029	chakunin	ちゃくにん	着任	 taking up a new post
+24629	20030	chinbotsu	ちんぼつ	沈没	sinking, foundering, going down, submersion | getting dead drunk | having too much fun (esp. in a red-light district, etc.) and missing work or neglecting one's duties | staying in one place for a long time
 24629	20031	tsuushin'eisei	つうしんえいせい	通信衛星	 communication satellite, Broadcast Satellite, BS
 24629	20032	tsukuritsuzukeru	つくりつづける	作り続ける	
 24629	20033	tekkyo	てっきょ	撤去	withdrawal, revocation, repeal | demolition, removal
@@ -44,7 +44,7 @@
 24629	20044	naridasu	なりだす	成り出す	
 24629	20045	neiru	ねいる	寝入る	 to fall asleep
 24629	20046	hattatsudankai	はったつだんかい	発達段階	 developmental stage
-24629	20047	bakuhasuru	ばくはする	爆破する	
+24629	20047	bakuha	ばくは	爆破	 destructive blast, blowing up, explosion
 24629	20048	himeji	ひめじ	姫路	
 24629	20049	biyoueki	びようえき	美容液	 essence, liquid foundation, beauty lotion, serum
 24629	20050	fuitchi	ふいっち	不一致	 discrepancy, discord, disagreement, mismatch, dissonance
@@ -56,18 +56,18 @@
 24629	20056	fundo	ふんど	憤怒	 anger, rage, resentment, indignation, exasperation
 24629	20057	bukai	ぶかい	部会	 section meeting
 24629	20058	butoukai	ぶとうかい	舞踏会	 ball, dance
-24629	20059	houkatsusuru	ほうかつする	包括する	
+24629	20059	houkatsu	ほうかつ	包括	 inclusion, complete coverage, comprehensiveness
 24629	20060	hosomichi	ほそみち	細道	 narrow path, narrow lane
 24629	20061	hobune	ほぶね	帆船	 sailing ship, sailing boat, sailing vessel
 24629	20062	boki	ぼき	簿記	 journalization (accounts), journalisation, bookkeeping
 24629	20063	matsuoka	まつおか	松岡	
 24629	20064	matomeageru	まとめあげる	纏め上げる	 to compile, to bring together, to weave, to put together, to bring to a conclusion, to wrap up
 24629	20065	manjirou	まんじろう	万次郎	
-24629	20066	mikikisuru	みききする	見聞きする	
+24629	20066	mikiki	みきき	見聞き	 information, experience, observation, seeing and hearing
 24629	20067	menzen	めんぜん	面前	 (in the) presence (of), in front (of), before (someone)
 24629	20068	yaneura	やねうら	屋根裏	 attic, loft
 24629	20069	yarinasaru	やりなさる	遣り為さる	
-24629	20070	youkaisuru	ようかいする	溶解する	
+24629	20070	youkai	ようかい	溶解	dissolution, dissolving, solution (e.g. chemical) | melting, liquefying, fusion
 24629	20071	youfuu	ようふう	洋風	 Western style
 24629	20072	yorokeru	よろける	蹌踉ける	 to stagger, to stumble
 24629	20073	yowaki	よわき	弱気	timid, weak-kneed, fainthearted | bearish (e.g. market)
@@ -78,7 +78,7 @@
 24783	20078	ikagawashii	いかがわしい	如何わしい	suspicious, dubious, unreliable | indecent, unseemly
 24783	20079	ishokujuu	いしょくじゅう	衣食住	 necessities of life (food, clothing and shelter)
 24783	20080	ishin	いしん	維新	reformation, revolution, renewal | Meiji Restoration
-24783	20081	itazurasuru	いたずらする	悪戯する	
+24783	20081	itazura	いたずら	悪戯	mischief, prank, trick, practical joke | pastime, hobby | playing with (a lighter, etc.), fooling around with, messing around with, amusing oneself with, tampering with | lewd behaviour, sexual misconduct, sexual assault, molestation, rape, わるじゃれ (悪洒落)  offensive joke
 24783	20082	ichiza	いちざ	一座	the whole company, the party, all those present, everyone in attendance | attendance (at a gathering), presence | banquet, dinner, party | troupe, (theatrical) company | (one) statue | top seat, head (of the table)
 24783	20083	ichiman'ensatsu	いちまんえんさつ	一万円札	 10,000 yen bill
 24783	20084	ukiuki	うきうき	浮き浮き	 cheerfully, buoyantly, happily, in high spirits
@@ -92,9 +92,9 @@
 24783	20092	otoshidama	おとしだま	御年玉	 New Year's gift (usu. money given to a child by relatives and visitors)
 24783	20093	onryou	おんりょう	怨霊	 revengeful ghost, apparition
 24783	20094	kaikyo	かいきょ	快挙	 brilliant achievement, spectacular feat, splendid accomplishment, remarkable deed
-24783	20095	kaibousuru	かいぼうする	解剖する	
+24783	20095	kaibou	かいぼう	解剖	dissection, autopsy | analysis
 24783	20096	kakiireru	かきいれる	書き入れる	 to write in
 24783	20097	kashiwa	かしわ	柏	 oak, daimyo oak, Japanese emperor oak, Quercus dentata
 24783	20098	kama	かま	鎌	sickle | leading question, trick question | sickle-and-chain (weapon) | spear with curved cross-blades | gooseneck tenon and mortise joint | noisiness | part of a fish around the gills
 24783	20099	kandagawa	かんだがわ	神田川	
-24783	20100	kantetsusuru	かんてつする	貫徹する	
+24783	20100	kantetsu	かんてつ	貫徹	 accomplishment, realization, realisation, penetration

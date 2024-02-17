@@ -4,7 +4,7 @@
 50929	40204	kakun	かくん	家訓	 family precepts, family motto, rule of the home
 50929	40205	kashiori	かしおり	菓子折	 box of cakes
 50929	40206	kashikiri	かしきり	貸し切り	 reserving (for exclusive use), (full) booking, chartering, block reservation
-50929	40207	kasuru	かする	嫁する	to wed, to be married | to shift blame to someone else
+50929	40207	ka	か	嫁	wife, bride | (one's) daughter-in-law
 50929	40208	kazuko	かずこ	一子	one child | only child | one of several children (esp. the son and heir) | one stone (in the game of go)
 50929	40209	kateigomi	かていごみ	家庭塵	 household garbage, household trash, household refuse
 50929	40210	kabunushimeibo	かぶぬしめいぼ	株主名簿	
@@ -20,7 +20,7 @@
 50929	40220	kankoujigyou	かんこうじぎょう	観光事業	
 50929	40221	kangoshoku	かんごしょく	看護職	
 50929	40222	kanjin	かんじん	勧進	 temple solicitation
-50929	40223	kansuisuru	かんすいする	完遂する	
+50929	40223	kansui	かんすい	完遂	 successful execution, accomplishment, completion, fulfillment, carrying through
 50929	40224	kannei	かんねい	甘寧	
 50929	40225	kanrei	かんれい	寒冷	 cold, coldness, chilliness
 50929	40226	gaitou	がいとう	外灯	 outside light
@@ -28,7 +28,7 @@
 50929	40228	gakukan	がくかん	額間	
 50929	40229	gakuto	がくと	学徒	 student, follower, students and pupils
 50929	40230	gakkousuu	がっこうすう	学校数	
-50929	40231	gatensuru	がてんする	合点する	
+50929	40231	gaten	がてん	合点	 consent, assent, understanding, agreement, comprehension, grasp
 50929	40232	kiekakaru	きえかかる	消え掛かる	
 50929	40233	kigyoujin	きぎょうじん	企業人	
 50929	40234	kisarazushi	きさらづし	木更津市	
@@ -41,7 +41,7 @@
 50929	40241	kyouikujissen	きょういくじっせん	教育実践	
 50929	40242	kyoukatsuzai	きょうかつざい	恐喝罪	 (the crime of) extortion
 50929	40243	kyouko	きょうこ	協子	
-50929	40244	kyoujusuru	きょうじゅする	教授する	
+50929	40244	kyouju	きょうじゅ	教授	professor | teaching, instruction
 50929	40245	kinsaku	きんさく	金策	 (means of) raising money
 50929	40246	gienkin	ぎえんきん	義捐金	 donation money (esp. disaster relief or charity), contribution
 50929	40247	gyoukaizentai	ぎょうかいぜんたい	業界全体	
@@ -69,11 +69,11 @@
 50929	40269	koukyoujigyoutou	こうきょうじぎょうとう	公共事業等	
 50929	40270	kouku	こうく	鉱区	 mining area, mine lot
 50929	40271	koukenkantokujin	こうけんかんとくじん	後見監督人	
-50929	40272	kousatsusuru	こうさつする	絞殺する	
+50929	40272	kousatsu	こうさつ	絞殺	 strangulation, strangling
 50929	40273	koushokusenkyohou	こうしょくせんきょほう	公職選挙法	 Public Office Election Law
 50929	40274	kouseisa	こうせいさ	公正さ	
 50929	40275	koutsuuanzen'undou	こうつうあんぜんうんどう	交通安全運動	
-50929	40276	koudeisuru	こうでいする	拘泥する	
+50929	40276	koudei	こうでい	拘泥	 adhering to, being a stickler for, being particular about, worrying too much about
 50929	40277	koutou	こうとう	高等	 high class, high grade
 50929	40278	kounin	こうにん	弘仁	 Kōnin era (810.9.19-824.1.5)
 50929	40279	koumai	こうまい	高邁	 noble, lofty, high-minded
@@ -85,16 +85,16 @@
 50929	40285	kojiin	こじいん	孤児院	 orphanage
 50929	40286	kokkoushou	こっこうしょう	国交省	 Ministry of Land, Infrastructure, Transport and Tourism
 50929	40287	koteishisanzeitoshikeikakuzei	こていしさんぜいとしけいかくぜい	固定資産税・都市計画税	
-50929	40288	kotosuru	ことする	事する	
+50929	40288	koto	こと	事	thing, matter | incident, occurrence, event, something serious, trouble, crisis | circumstances, situation, state of affairs | work, business, affair | after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to | nominalizing suffix | pretending to ..., playing make-believe ... | alias, also known as, otherwise known as, or | necessity, need | you should ..., I advise that you ..., it's important to ..., じ (事)  individual concrete phenomenon (as opposed to a general principle), ごと (事) nominalizing suffix | pretending to ..., playing make-believe ...
 50929	40289	kotobatoori	ことばとおり	言葉通り	 exactly as stated, verbatim
 50929	40290	kobushi	こぶし	辛夷	 kobus magnolia, Magnolia praecocissima, Magnolia kobus
 50929	40291	komachi	こまち	小町	 belle, (town) beauty
 50929	40292	korigori	こりごり	懲り懲り	having had enough (of), fed up (with), sick and tired (of) | to learn one's lesson, to learn from a bad experience
-50929	40293	koromogaesuru	ころもがえする	衣替えする	
-50929	40294	kowakesuru	こわけする	小分けする	
+50929	40293	koromogae	ころもがえ	衣替え	seasonal change of clothing, changing one's dress for the season | renovation, facelift, redesign, redecoration, new appearance, fresh look
+50929	40294	kowake	こわけ	小分け	 subdivision
 50929	40295	konnansei	こんなんせい	困難性	
 50929	40296	konranjoutai	こんらんじょうたい	混乱状態	 state of confusion
-50929	40297	goaisatsusuru	ごあいさつする	御挨拶する	
+50929	40297	goaisatsu	ごあいさつ	御挨拶	greeting | a fine thing to say
 50929	40298	gougitai	ごうぎたい	合議体	 collegiate body, collegial body, judicial panel
 50929	40299	goumeigaisha	ごうめいがいしゃ	合名会社	 unlimited company, unlimited partnership
 50929	40300	gooubo	ごおうぼ	御応募	

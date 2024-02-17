@@ -1,4 +1,4 @@
-10066	8301	aiyousuru	あいようする	愛用する	
+10066	8301	aiyou	あいよう	愛用	 favorite, favourite, habitually used
 10066	8302	anteisei	あんていせい	安定性	 stability, security, equilibrium
 10066	8303	oshikakeru	おしかける	押し掛ける	to go uninvited, to call on without an invitation, to barge in on, to gatecrash | to throng to, to crowd into, to converge upon, to pile in
 10066	8304	ochi	おち	落ち	slip, omission | outcome, final result, the end | punch line (of a joke)
@@ -6,7 +6,7 @@
 10066	8306	jin	じん	陣	battle formation | camp, encampment, position | group, gang, party, corps | war, battle, campaign
 10066	8307	sukoburu	すこぶる	頗る	 extremely, very much
 10066	8308	taiboku	たいぼく	大木	 large tree
-10066	8309	tanshukusuru	たんしゅくする	短縮する	
+10066	8309	tanshuku	たんしゅく	短縮	 shortening, contraction, reduction, curtailment, abbreviation
 10066	8310	tebayai	てばやい	手早い	 nimble, quick, agile
 10066	8311	wagahai	わがはい	我が輩	I, me, myself | we, us, ourselves
 10086	8312	ikenkoukan	いけんこうかん	意見交換	 exchange of ideas, exchange of opinions, brainstorming
@@ -49,7 +49,7 @@
 10132	8349	otoku	おとく	御得	 economical, bargain, good value, good-value
 10132	8350	gen	げん	弦	bowstring | string (of shamisen, guitar, violin, etc.) | bail (arched pot handle) | diagonal levelling wire across the top of a masu, げん (弦) bowstring | string (of a shamisen, etc.), stringed instrument | chord | hypotenuse
 10132	8351	satsuma	さつま	薩摩	Satsuma (former province located in the west of present-day Kagoshima Prefecture) | sweet potato (Ipomoea batatas)
-10132	8352	shuurisuru	しゅうりする	修理する	
+10132	8352	shuuri	しゅうり	修理	 repair, mending, fixing, servicing
 10132	8353	tagayasu	たがやす	耕す	 to till, to plow, to plough, to cultivate
 10132	8354	tsure	つれ	連れ	companion, company | tritagonist, づれ (連れ) in the company of, accompanied by ..., as a group comprising ... | likes of ...
 10132	8355	teitai	ていたい	停滞	 stagnation, tie-up, standstill, congestion, delay, accumulation, falling into arrears
@@ -61,8 +61,8 @@
 10148	8361	unnun	うんぬん	云々	and so on, and so forth, et cetera, and such, and the like | comment, criticism
 10148	8362	oogata	おおがた	大型	 large, large-sized, large-scale, big
 10148	8363	okiniiri	おきにいり	御気に入り	favorite, favourite, pet (e.g. teacher's pet) | bookmark (in web browser)
-10148	8364	kaigyousuru	かいぎょうする	開業する	
-10148	8365	kaizousuru	かいぞうする	改造する	
+10148	8364	kaigyou	かいぎょう	開業	 opening a business, opening a practice
+10148	8365	kaizou	かいぞう	改造	remodeling, remodelling, restructuring, reconstruction, reshuffling (e.g. cabinet) | modding
 10148	8366	ganmen	がんめん	顔面	 face (of person)
 10148	8367	koukan	こうかん	好感	 good feeling, good will, favourable impression, favorable impression
 10148	8368	satsu	さつ	札	 banknote, bill, note, paper money, ふだ (札) ticket, token, check, receipt | label, tag | sign, card, plate | playing card | charm, talisman | slip of paper posted on shrine pillars by pilgrims, さね (札)  armor platelet
@@ -77,14 +77,14 @@
 10148	8377	fukabukato	ふかぶかと	深々と	
 10148	8378	rakuten	らくてん	楽天	 optimism
 10171	8379	ikan	いかん	如何	 how, in what way, how about, いかん (如何) how, in what way | circumstances, いかが (如何) how, in what way, how about | questionable
-10171	8380	ikkatsusuru	いっかつする	一括する	
+10171	8380	ikkatsu	いっかつ	一括	 lumping together, summing up, bundle, lump, batch
 10171	8381	iyarashii	いやらしい	嫌らしい	unpleasant, disagreeable, nasty | lewd, lascivious, obscene, filthy, dirty
 10171	8382	kaisetsu	かいせつ	開設	 establishment, opening, setting up, inauguration
 10171	8383	kakoku	かこく	過酷	 severe, harsh, hard, cruel, rigorous
 10171	8384	kanjusei	かんじゅせい	感受性	 sensitivity, susceptibility
 10171	8385	koukyuu	こうきゅう	高級	high class, high grade | high rank, seniority
 10171	8386	goto	ごと	事	thing, matter | incident, occurrence, event, something serious, trouble, crisis | circumstances, situation, state of affairs | work, business, affair | after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to | nominalizing suffix | pretending to ..., playing make-believe ... | alias, also known as, otherwise known as, or | necessity, need | you should ..., I advise that you ..., it's important to ..., じ (事)  individual concrete phenomenon (as opposed to a general principle), ごと (事) nominalizing suffix | pretending to ..., playing make-believe ...
-10171	8387	shuukakusuru	しゅうかくする	収穫する	
+10171	8387	shuukaku	しゅうかく	収穫	harvest, crop, ingathering | fruits (of one's labors), gain, result, returns
 10171	8388	jidou	じどう	自動	automatic | intransitive verb
 10171	8389	taichou	たいちょう	隊長	 commanding officer
 10171	8390	noroi	のろい	呪い	 curse, spell, malediction, まじない (呪い)  charm, incantation, spell, curse

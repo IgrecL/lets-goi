@@ -17,13 +17,13 @@
 4651	3917	ijime	いじめ	苛め	 bullying, teasing
 4652	3918	takumi	たくみ	巧み	 skillful, adroit, dexterous, masterful, clever, ingenious, cunning
 4652	3919	futou	ふとう	不当	 injustice, impropriety, unreasonableness, undeserved, unfair, invalid
-4654	3920	jissensuru	じっせんする	実践する	
+4654	3920	jissen	じっせん	実践	practice, putting into practice, implementation | praxis (philosophy)
 4654	3921	senchakujun	せんちゃくじゅん	先着順	 order of arrival, first-come-first-served basis
 4656	3922	joui	じょうい	上位	superior (in rank), top, ranking | higher order (e.g. byte) | host computer (of connected device)
 4656	3923	sode	そで	袖	sleeve | wing (of a stage, desk, gate, etc.)
 4659	3924	kansatsu	かんさつ	観察	 observation, survey, watching
 4659	3925	gouin	ごういん	強引	 overbearing, coercive, pushy, forcible, high-handed
-4659	3926	jushinsuru	じゅしんする	受診する	
+4659	3926	jushin	じゅしん	受診	 having a medical examination, seeing a doctor
 4663	3927	oira	おいら	己等	we, us | I, me, うぬら (汝等) ye, you | me, I, us, we
 4663	3928	shibou	しぼう	脂肪	 fat, grease, blubber, lard, suet
 4663	3929	shokuseikatsu	しょくせいかつ	食生活	 eating habits
@@ -39,7 +39,7 @@
 4672	3939	tokurei	とくれい	特例	 special case, exception
 4677	3940	ohiru	おひる	御昼	lunch | noon, midday | daytime | waking up, getting up, rising
 4677	3941	kototou	こととう	事等	
-4681	3942	tousaisuru	とうさいする	搭載する	
+4681	3942	tousai	とうさい	搭載	loading (on board), equipping | equipped (with), built-in
 4681	3943	hikitsukeru	ひきつける	引き付ける	to attract, to draw near | to charm, to attract, to fascinate, to entice | to have a convulsion
 4683	3944	enchou	えんちょう	延長	extension, elongation, prolongation, lengthening | Enchō era (923.4.11-931.4.26)
 4683	3945	ouen	おうえん	応援	aid, assistance, help, support, reinforcement | cheering, rooting (for), support
@@ -50,17 +50,17 @@
 4683	3950	shingi	しんぎ	審議	 deliberation
 4683	3951	tsubasa	つばさ	翼	wing | Chinese "Wings" constellation (one of the 28 mansions) | counter for birds or bird wings
 4683	3952	fuseru	ふせる	伏せる	to turn over (face down), to lay face down, to lay upside down | to point downwards (eyes, head, etc.), to cast down (eyes) | to lie (one's body) face down, to lie flat (on the ground) | to conceal, to hide, to keep secret, to place in hiding (e.g. troops for an ambush) | to lie down, to retire, to go to bed (with an illness)
-4683	3953	houkaisuru	ほうかいする	崩壊する	
+4683	3953	houkai	ほうかい	崩壊	collapse, crumbling, breaking down, caving in | (radioactive) decay, disintegration
 4694	3954	ashioto	あしおと	足音	sound of footsteps | sense or sign that something is approaching
 4694	3955	ichiin	いちいん	一員	 person, member
 4694	3956	kagu	かぐ	家具	 furniture
 4694	3957	ketsugi	けつぎ	決議	 resolution, vote, decision
 4694	3958	hojokin	ほじょきん	補助金	 assistance payment, subsidiary aid
-4700	3959	shinseisuru	しんせいする	申請する	
+4700	3959	shinsei	しんせい	申請	 application, request, petition
 4701	3960	kuttsuku	くっつく	くっ付く	to adhere to, to stick to, to cling to | to keep close to, to go along with | to get involved with, to be thick with, to become intimate
 4701	3961	tsubureru	つぶれる	潰れる	to be crushed, to be smashed, to be broken, to collapse | to become useless, to cease functioning, to be wasted (e.g. time) | to go bankrupt, to go out of business, to fail
 4703	3962	kinshi	きんし	禁止	 prohibition, inhibition, ban
-4703	3963	jikakusuru	じかくする	自覚する	
+4703	3963	jikaku	じかく	自覚	 self-consciousness, self-awareness
 4703	3964	tasu	たす	足す	to add (numbers) | to add (something), to top up (with something) | to take care of (e.g. one's business)
 4706	3965	chuusei	ちゅうせい	中世	 Middle Ages (in Japan esp. the Kamakura and Muromachi periods), medieval times, mediaeval times
 4706	3966	nanimono	なにもの	何者	 who, what kind of person
@@ -68,12 +68,12 @@
 4710	3968	arasoi	あらそい	争い	 dispute, strife, quarrel, dissension, conflict, rivalry, contest
 4710	3969	gendo	げんど	限度	 limit, bounds
 4710	3970	juukyo	じゅうきょ	住居	dwelling, house, residence, address | living, life, じゅうきょ (住居)  dwelling, house, residence, address
-4714	3971	shinraisuru	しんらいする	信頼する	
+4714	3971	shinrai	しんらい	信頼	 reliance, trust, faith, confidence
 4715	3972	ryaku	りゃく	略	 almost, roughly, approximately, りゃく (略) abbreviation, omission | outline, gist | plan, strategy, scheme
 4718	3973	iyagaru	いやがる	嫌がる	 to hate, to dislike
-4718	3974	shisasuru	しさする	示唆する	
+4718	3974	shisa	しさ	示唆	 suggestion, hint, implication
 4718	3975	chiru	ちる	散る	to fall (e.g. blossoms, leaves) | to scatter, to be dispersed | to disappear, to dissolve, to break up | to spread, to run, to blur | to die a noble death
-4721	3976	kakushinsuru	かくしんする	確信する	
+4721	3976	kakushin	かくしん	確信	 conviction, belief, confidence
 4722	3977	utsusu	うつす	写す	to transcribe, to duplicate, to reproduce, to imitate, to trace | to describe | to film, to picture, to photograph
 4722	3978	henshuu	へんしゅう	編集	 editing, compilation
 4725	3979	kousou	こうそう	構想	 plan, plot, idea, conception, vision, scheme
@@ -90,9 +90,9 @@
 4737	3990	shuryuu	しゅりゅう	主流	mainstream, commonplace | main course (of a river), main stream
 4737	3991	tsukaeru	つかえる	仕える	 to serve, to work for, to attend
 4737	3992	bi	び	美	 beauty, み (御) august | beautiful
-4741	3993	jikkansuru	じっかんする	実感する	
+4741	3993	jikkan	じっかん	実感	real feeling, actual feeling | to actually feel, to have a real feeling (that ...), to experience personally
 4741	3994	yasashisa	やさしさ	優しさ	
-4741	3995	yunyuusuru	ゆにゅうする	輸入する	
+4741	3995	yunyuu	ゆにゅう	輸入	import, importation, introduction | afferent
 4746	3996	iseki	いせき	遺跡	 historic ruins (remains, relics), archeological site
 4746	3997	kannen	かんねん	観念	idea, notion, concept, conception | sense (e.g. of duty) | resignation, preparedness, acceptance | observation and contemplation, meditation
 4746	3998	kuiki	くいき	区域	limits, boundary, domain, zone, sphere, territory | area (e.g. in programming languages)

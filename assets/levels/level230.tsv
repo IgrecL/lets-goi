@@ -1,4 +1,4 @@
-28287	22901	jakutaikasuru	じゃくたいかする	弱体化する	
+28287	22901	jakutaika	じゃくたいか	弱体化	 weakening
 28287	22902	juugou	じゅうごう	十号	 ten epithets (of Buddha)
 28287	22903	joumu	じょうむ	常務	managing director, executive director | routine business, regular business
 28287	22904	joseiteki	じょせいてき	女性的	 feminine, effeminate
@@ -9,7 +9,7 @@
 28287	22909	sekaiyuusuu	せかいゆうすう	世界有数	 world-leading
 28287	22910	sen'i	せんい	戦意	 fighting spirit
 28287	22911	sen'ensatsu	せんえんさつ	千円札	 1,000 yen bill
-28287	22912	senjousuru	せんじょうする	洗浄する	
+28287	22912	senjou	せんじょう	洗浄	washing, cleansing, cleaning, laundering | cleansing (one's mind and body)
 28287	22913	souryoku	そうりょく	総力	 total energy, all efforts
 28287	22914	takuwae	たくわえ	貯え	 store, reserve, stock, savings
 28287	22915	tabou	たぼう	多忙	 being very busy, busyness
@@ -19,7 +19,7 @@
 28287	22919	chuuiryoku	ちゅういりょく	注意力	 attentiveness
 28287	22920	chokumei	ちょくめい	勅命	 imperial command
 28287	22921	tsuunen	つうねん	通年	 all year, year round
-28287	22922	tsuuyakusuru	つうやくする	通訳する	
+28287	22922	tsuuyaku	つうやく	通訳	interpretation (i.e. oral translation) | interpreter
 28287	22923	tsukurimono	つくりもの	作り物	artificial product, man-made product, imitation, fake, sham | fiction, made-up story | decoration (e.g. for a festival) | theatrical prop (esp. a large prop in noh or kyogen, e.g. tree, well, boat) | crop
 28287	22924	tsutsumi	つつみ	堤	 bank, embankment, dike
 28287	22925	tsuyayaka	つややか	艶やか	 glamorous, charming, beguiling, bewitching, beautiful, fascinatingly elegant, つややか (艶やか)  glossy (e.g. hair), sleek, shiny, lustrous
@@ -37,7 +37,7 @@
 28287	22937	hatsumimi	はつみみ	初耳	 something heard for the first time, hearing something for the first time
 28287	22938	hanawa	はなわ	花輪	 wreath, garland
 28287	22939	hareru	はれる	張れる	
-28287	22940	hirunesuru	ひるねする	昼寝する	
+28287	22940	hirune	ひるね	昼寝	 nap (afternoon), siesta
 28287	22941	fukushijimusho	ふくしじむしょ	福祉事務所	 welfare office, social security office
 28287	22942	futansu	ふたんす	負担す	
 28287	22943	furyouhin	ふりょうひん	不良品	 inferior goods, defective product, defective goods
@@ -63,7 +63,7 @@
 28287	22963	yakiharau	やきはらう	焼き払う	 to burn down (to the ground), to clear away by burning, to reduce to ashes, to burn off
 28287	22964	yuudachi	ゆうだち	夕立	 (sudden) evening shower (rain)
 28287	22965	yushutsugaku	ゆしゅつがく	輸出額	 export value, value of exports
-28287	22966	yokensuru	よけんする	予見する	
+28287	22966	yoken	よけん	予見	 foresight, foreknowledge, divination
 28287	22967	rakuin	らくいん	烙印	 brand, mark
 28287	22968	ryouke	りょうけ	両家	 both families
 28287	22969	ryokouchuu	りょこうちゅう	旅行中	
@@ -93,7 +93,7 @@
 28477	22993	kanshi	かんし	漢詩	 Chinese poetry
 28477	22994	kansei	かんせい	閑静	 quiet (e.g. neighbourhood), peaceful, tranquil
 28477	22995	kitaafurika	きたあふりか	北アフリカ	
-28477	22996	kichakusuru	きちゃくする	帰着する	
+28477	22996	kichaku	きちゃく	帰着	return, conclusion | reduction
 28477	22997	kissui	きっすい	生っ粋	 pure, genuine, trueborn, natural-born
 28477	22998	kyouseiryoku	きょうせいりょく	強制力	 compelling force, legal force
 28477	22999	kinyuugyou	きんゆうぎょう	金融業	 finance business, moneylending business

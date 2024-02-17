@@ -1,12 +1,12 @@
 19257	15701	zaibatsu	ざいばつ	財閥	 zaibatsu, financial conglomerate, industrial group
 19257	15702	shinajina	しなじな	品々	 various articles
-19257	15703	shoushuusuru	しょうしゅうする	召集する	
+19257	15703	shoushuu	しょうしゅう	召集	 convening, calling together (e.g. parliament), call-up (for military service)
 19257	15704	shokubunka	しょくぶんか	食文化	 food culture, dietary culture, cuisine
 19257	15705	shirewataru	しれわたる	知れ渡る	 to be well-known
 19257	15706	shirou	しろう	志郎	
 19257	15707	jisa	じさ	時差	 time difference
 19257	15708	jushin	じゅしん	受信	 receiving (a message, letter, email, etc.), reception (radio, TV, etc.)
-19257	15709	juryousuru	じゅりょうする	受領する	
+19257	15709	juryou	じゅりょう	受領	 receipt (of a letter, money, etc.), acceptance, receiving, ずりょう (受領)  provincial governor (from the middle of the Heian period)
 19257	15710	jouhoushisutemu	じょうほうしすてむ	情報システム	 information system
 19257	15711	suiminbusoku	すいみんぶそく	睡眠不足	 lack of sleep
 19257	15712	senkoku	せんこく	宣告	 sentence, verdict, pronouncement
@@ -28,23 +28,23 @@
 19257	15728	dokubutsu	どくぶつ	毒物	 poisonous substance, toxic substance, poison
 19257	15729	nenreibetsu	ねんれいべつ	年齢別	
 19257	15730	nomasu	のます	飲ます	to make someone drink, to force someone to drink, to let someone drink | to serve (alcohol), to treat someone (to drinks) | to be drinkable (esp. of alcohol), to be palatable
-19257	15731	haigousuru	はいごうする	配合する	
+19257	15731	haigou	はいごう	配合	combination, arrangement, distribution, mixture, match, harmony | marrying off
 19257	15732	hake	はけ	刷毛	 brush (e.g. for painting, basting, etc.), whisk
 19257	15733	hatsudenki	はつでんき	発電機	 dynamo, power generator
 19257	15734	hantoshigo	はんとしご	半年後	
 19257	15735	hanbaigyousha	はんばいぎょうしゃ	販売業者	 dealer, distributor
 19257	15736	baichi	ばいち	培地	 culture medium, growth medium
 19257	15737	hikitori	ひきとり	引き取り	 leaving, accepting
-19257	15738	hounousuru	ほうのうする	奉納する	
+19257	15738	hounou	ほうのう	奉納	 dedication, offering, presentation, oblation
 19257	15739	homekotoba	ほめことば	誉め言葉	 words of praise, eulogy, compliment
 19257	15740	mizuwari	みずわり	水割り	 cutting an alcoholic beverage (usu. whisky or shōchū), diluting an alcoholic beverage, cut drink, diluted drink, watered-down drink
 19257	15741	minshu	みんしゅ	民主	democracy, popular sovereignty | Democratic Party (esp. DPJ)
 19257	15742	murosan	むろさん	室さん	
 19257	15743	yarisugi	やりすぎ	遣り過ぎ	 overdoing (something), doing too much, going too far, overkill
-19257	15744	ritsuansuru	りつあんする	立案する	
+19257	15744	ritsuan	りつあん	立案	planning, devising (a plan) | drafting, drawing up
 19257	15745	ryou	りょう	料	fee, charge, rate | material, はやし (栄)  ornament, adornment, decoration
 19257	15746	ryouhanten	りょうはんてん	量販店	 volume retailer, mass marketer, emporium
-19257	15747	rufusuru	るふする	流布する	
+19257	15747	rufu	るふ	流布	 circulation, dissemination
 19343	15748	usude	うすで	薄手	thin (paper, cloth, porcelain, etc.), of thin make, light (e.g. coat) | superficial (knowledge, critique, etc.), shallow, poor | slight wound, slight cut
 19343	15749	urikireru	うりきれる	売り切れる	 to be sold out
 19343	15750	oosu	おおす	仰す	
@@ -52,7 +52,7 @@
 19343	15752	kachuu	かちゅう	渦中	vortex, maelstrom, whirlpool | (in the middle of a) scandal, controversy, quarrel, turmoil
 19343	15753	kabushikitou	かぶしきとう	株式等	
 19343	15754	karai	からい	辛い	spicy, hot | salty | harsh (criticism), severe (punishment), strict | painful, bitter, difficult, tough, つらい (辛い) painful, bitter, heart-breaking, difficult (emotionally) | tough, difficult, hard (usu. of situations) | cruel, harsh, cold, づらい (辛い)  difficult to ..., hard to ...
-19343	15755	kangensuru	かんげんする	換言する	
+19343	15755	kangen	かんげん	換言	 saying in other words, putting (something) another way
 19343	15756	kanbatsu	かんばつ	間伐	 periodic thinning (e.g. forest)
 19343	15757	kanrei	かんれい	慣例	 custom, practice, convention, precedent
 19343	15758	kanrengaisha	かんれんがいしゃ	関連会社	 associated company
@@ -77,13 +77,13 @@
 19343	15777	shikenminzei	しけんみんぜい	市・県民税	
 19343	15778	shuutou	しゅうとう	周到	 careful, thorough, meticulous, scrupulous
 19343	15779	shouhishakinyuu	しょうひしゃきんゆう	消費者金融	 consumer credit (finance, loan)
-19343	15780	shindousuru	しんどうする	振動する	
+19343	15780	shindou	しんどう	振動	 oscillation, vibration, swing (e.g. of a pendulum)
 19343	15781	suii	すいい	水位	 water level
 19343	15782	suitou	すいとう	水筒	 canteen, flask, water bottle, thermos
 19343	15783	sukikatte	すきかって	好き勝手	 doing whatever one pleases
 19343	15784	sude	すで	素手	 bare hand, empty hand
-19343	15785	zushisuru	ずしする	図示する	
-19343	15786	soukinsuru	そうきんする	送金する	
+19343	15785	zushi	ずし	図示	 showing by a diagram, illustrating, representing graphically
+19343	15786	soukin	そうきん	送金	 remittance, sending money
 19343	15787	sougyou	そうぎょう	操業	 operation (of a machine, factory, fishing boat, etc.), work
 19343	15788	daisha	だいしゃ	台車	platform truck, hand truck, trolley, dolly, cart | (railway) truck, bogie, flatcar, wagon, waggon
 19343	15789	chikoku	ちこく	遅刻	 lateness, tardiness, arriving late

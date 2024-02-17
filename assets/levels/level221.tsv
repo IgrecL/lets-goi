@@ -1,6 +1,6 @@
-27205	22001	kaikansuru	かいかんする	開館する	
+27205	22001	kaikan	かいかん	開館	opening (for that day's business; of a library, museum, cinema, etc.) | opening (of a new library, museum, cinema, etc.)
 27205	22002	kaigyou	かいぎょう	改行	new line, new paragraph | newline (e.g. LF, CR, CRLF)
-27205	22003	kaishuusuru	かいしゅうする	改宗する	
+27205	22003	kaishuu	かいしゅう	改宗	 religious conversion
 27205	22004	kaishoku	かいしょく	会食	 dining together, mess
 27205	22005	kaitsuke	かいつけ	買い付け	 buying, purchasing
 27205	22006	kainushisan	かいぬしさん	飼い主さん	
@@ -18,16 +18,16 @@
 27205	22018	kyoutaku	きょうたく	供託	 deposit
 27205	22019	gyakusetsu	ぎゃくせつ	逆説	 paradox
 27205	22020	kuuran	くうらん	空欄	 blank column, blank space
-27205	22021	gugenkasuru	ぐげんかする	具現化する	
+27205	22021	gugenka	ぐげんか	具現化	 embodiment, realization, materialization
 27205	22022	kei	けい	景	shadow, silhouette, figure, shape | reflection, image | ominous sign | light (stars, moon) | trace, shadow (of one's former self), けい (景) vista, view, scene, scenic view | counter for scenes (in a play)
 27205	22023	keizaikiki	けいざいきき	経済危機	 economic crisis
 27205	22024	ken'eki	けんえき	権益	 (one's) interests
 27205	22025	kenchou	けんちょう	県庁	 prefectural office
 27205	22026	gekkan	げっかん	月間	 month-long period, (during) month
-27205	22027	gentaisuru	げんたいする	減退する	
+27205	22027	gentai	げんたい	減退	 decline, ebb, failure, decay, decrease, loss
 27205	22028	kokufukudekiru	こくふくできる	克服出来る	
 27205	22029	kokurensoukai	こくれんそうかい	国連総会	 United Nations General Assembly, General Assembly of the United Nations
-27205	22030	kojinmarisuru	こぢんまりする	小ぢんまりする	
+27205	22030	kojinmari	こぢんまり	小ぢんまり	 snugly, neatly, compactly, cosily
 27205	22031	kotokomaka	ことこまか	事細か	 detailed, minute
 27205	22032	kodomozure	こどもづれ	子供連れ	 accompanied by children
 27205	22033	komado	こまど	小窓	 small window, fenestella, scuttle (type of hatch on a ship)
@@ -40,7 +40,7 @@
 27205	22040	shimari	しまり	締まり	closing, shutting | firmness, tightness, discipline, control
 27205	22041	shuiro	しゅいろ	朱色	 vermilion, scarlet
 27205	22042	shuuonrai	しゅうおんらい	周恩来	
-27205	22043	shuusokusuru	しゅうそくする	収束する	
+27205	22043	shuusoku	しゅうそく	収束	conclusion, resolution, firming up (plans, etc.), coming together, returning to normal | gathering and bundling | convergence | focusing (e.g. light), convergence
 27205	22044	shutsuganjin	しゅつがんじん	出願人	 applicant
 27205	22045	shokuniku	しょくにく	食肉	 meat (for consumption)
 27205	22046	shiyouhindo	しようひんど	使用頻度	 frequency of use
@@ -60,7 +60,7 @@
 27205	22060	setsumeisekinin	せつめいせきにん	説明責任	 accountability, being held accountable
 27205	22061	takashi	たかし	隆	
 27205	22062	takizawa	たきざわ	滝沢	
-27205	22063	tankyuusuru	たんきゅうする	探究する	
+27205	22063	tankyuu	たんきゅう	探究	 research, investigation, enquiry, inquiry, study
 27205	22064	daigakujuken	だいがくじゅけん	大学受験	
 27205	22065	dainouhishitsu	だいのうひしつ	大脳皮質	 cerebral cortex
 27205	22066	daiyouryou	だいようりょう	大容量	 high capacity
@@ -78,7 +78,7 @@
 27205	22078	toshikinou	としきのう	都市機能	
 27205	22079	todoufukenkeisatsu	とどうふけんけいさつ	都道府県警察	
 27205	22080	tobinukeru	とびぬける	飛び抜ける	 to be preeminent, to be outstanding
-27205	22081	torosuru	とろする	吐露する	
+27205	22081	toro	とろ	吐露	 expressing one's mind, speaking out
 27205	22082	doutei	どうてい	童貞	virginity (of a male), virgin | (Catholic) nun, sister
 27205	22083	naegi	なえぎ	苗木	 seedling, sapling, young tree
 27205	22084	nagakura	ながくら	長倉	

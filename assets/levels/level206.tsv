@@ -1,6 +1,6 @@
 25249	20501	jukou	じゅこう	受講	 taking a lecture, attending a class, taking a course
 25249	20502	jousai	じょうさい	城塞	 fortress, stronghold, citadel
-25249	20503	joubisuru	じょうびする	常備する	
+25249	20503	joubi	じょうび	常備	 standing, reserve, always having ready
 25249	20504	joshiseito	じょしせいと	女子生徒	 schoolgirl, female student
 25249	20505	suminareru	すみなれる	住み慣れる	 to get used to living in
 25249	20506	seikyou	せいきょう	生協	 cooperative association, co-op store
@@ -21,7 +21,7 @@
 25249	20521	teikiken	ていきけん	定期券	 commuter pass, season ticket
 25249	20522	teikokuhoteru	ていこくほてる	帝国ホテル	
 25249	20523	teisatsu	ていさつ	偵察	 scouting, reconnaissance
-25249	20524	tenbaisuru	てんばいする	転売する	
+25249	20524	tenbai	てんばい	転売	 resale
 25249	20525	deaikei	であいけい	出会い系	 online dating website
 25249	20526	toukyouumare	とうきょううまれ	東京生まれ	
 25249	20527	tomeki	とめき	留喜	
@@ -55,7 +55,7 @@
 25249	20555	rakuyou	らくよう	洛陽	
 25249	20556	rikei	りけい	理系	 science
 25249	20557	ryuuchou	りゅうちょう	流暢	 fluent (in a language), flowing
-25249	20558	ryuuyousuru	りゅうようする	流用する	
+25249	20558	ryuuyou	りゅうよう	流用	diversion, appropriation (e.g. of funds), misappropriation | re-use (e.g. old computer parts), recycling
 25249	20559	rusubandenwa	るすばんでんわ	留守番電話	 answering machine, answer phone
 25249	20560	wagonsha	わごんしゃ	ワゴン車	station wagon, estate car | minivan, people carrier
 25249	20561	wadachi	わだち	轍	 rut, wheel track, furrow
@@ -65,9 +65,9 @@
 25394	20565	akashi	あかし	赤し	
 25394	20566	akashingou	あかしんごう	赤信号	red light (traffic) | red light, signal to stop, sign of danger
 25394	20567	ashigakari	あしがかり	足掛かり	 foothold, footing, toehold, stepping stone
-25394	20568	assensuru	あっせんする	斡旋する	
+25394	20568	assen	あっせん	斡旋	kind offices, services, through the good offices of, influence | intercession, mediation
 25394	20569	iisoeru	いいそえる	言い添える	 to add (to what was said before), to say in addition
-25394	20570	ikansuru	いかんする	移管する	
+25394	20570	ikan	いかん	移管	 transfer of control
 25394	20571	iken	いけん	違憲	 unconstitutionality
 25394	20572	igo	いご	囲碁	 go, board game of capturing territory
 25394	20573	ishoku	いしょく	異色	unique, distinctive, novel, singular, unusual, special | different color (colour)
@@ -86,10 +86,10 @@
 25394	20586	kisoshiryou	きそしりょう	基礎資料	
 25394	20587	kiten	きてん	機転	 quick wittedness, tact, cleverness
 25394	20588	kyuufukin	きゅうふきん	給付金	 (state) benefit, allowance, (social security) payment, entitlement
-25394	20589	kyouseisuru	きょうせいする	共生する	
+25394	20589	kyousei	きょうせい	共生	coexistence, living together | symbiosis | paragenesis
 25394	20590	kinkyuusei	きんきゅうせい	緊急性	
 25394	20591	gire	ぎれ	切れ	piece, slice, strip, scrap | cloth | sharpness | agility | counter for scraps, pieces, etc., ぎれ (切れ)  completely using up ..., running out of ..., exhausting ...
-25394	20592	kussetsusuru	くっせつする	屈折する	
+25394	20592	kussetsu	くっせつ	屈折	bending, curving, twisting, turning, winding | warping (of feelings, logic, etc.), distortion, twisting | refraction | inflection
 25394	20593	kumago	くまご	熊吾	
 25394	20594	kumotsu	くもつ	供物	 offering (e.g. to the gods), votive offering
 25394	20595	kurumaru	くるまる	包まる	 to be wrapped up (e.g. in a blanket), to cover oneself

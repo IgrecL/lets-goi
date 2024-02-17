@@ -1,6 +1,6 @@
 2272	1901	tsumu	つむ	積む	to pile up, to stack | to load (car, ship, etc.), to pack | to acquire, to accumulate
 2275	1902	kenkou	けんこう	健康	health | healthy, sound, fit, wholesome
-2275	1903	shippaisuru	しっぱいする	失敗する	
+2275	1903	shippai	しっぱい	失敗	 failure, mistake, blunder
 2275	1904	dantai	だんたい	団体	 organization, organisation, association
 2278	1905	tamaru	たまる	堪る	 to bear, to endure
 2280	1906	kinniku	きんにく	筋肉	 muscle, すじにく (すじ肉)  sinewy meat
@@ -9,7 +9,7 @@
 2283	1909	kyouju	きょうじゅ	教授	professor | teaching, instruction
 2283	1910	ken	けん	県	 prefecture (Japan), county (China, Taiwan, Norway, etc.), department (France), province (Italy, Spain, etc.), あがた (県) territory (pre-Taika under the Yamato court; Heian under a provincial governor, etc.) | countryside
 2285	1911	abiru	あびる	浴びる	to dash over oneself (e.g. water), to take (e.g. shower), to bask in (e.g. the sun), to bathe in, to be flooded with (e.g. light), to be covered in | to suffer (e.g. an attack), to draw (e.g. criticism, attention, praise), to have heaped upon, to be showered with
-2286	1912	kaizensuru	かいぜんする	改善する	
+2286	1912	kaizen	かいぜん	改善	betterment, improvement | kaizen (Japanese business philosophy of continuous improvement)
 2286	1913	zenshin	ぜんしん	全身	whole (body), full-length (e.g. portrait) | systemic
 2289	1914	youkyuu	ようきゅう	要求	 demand, firm request, requisition, requirement, desire
 2290	1915	eizou	えいぞう	映像	image (on a screen), picture (e.g. on a TV) | video, film, footage | reflection | image (in one's mind), mental picture
@@ -20,7 +20,7 @@
 2297	1920	nageru	なげる	投げる	to throw, to hurl, to fling, to toss, to cast | to give up, to abandon, to throw away | to cast (a glance, shadow, doubt, etc.)
 2298	1921	kichou	きちょう	貴重	 precious, valuable
 2298	1922	shuuhen	しゅうへん	周辺	circumference, outskirts, environs, around, in the area of, in the vicinity of | (computer) peripheral
-2300	1923	kankeisuru	かんけいする	関係する	
+2300	1923	kankei	かんけい	関係	relation, relationship, connection | participation, involvement, concern | influence, effect | sexual relations, sexual relationship | related to, connected to
 2301	1924	haku	はく	吐く	to breathe out, to breathe | to tell (a lie), to use (foul language) | to vomit, to throw up, to spit up, はく (吐く) to vomit, to throw up, to spit up | to emit, to send forth, to breathe out | to give (an opinion), to make (a comment), to express, to tell | to confess
 2302	1925	saiban	さいばん	裁判	 trial, judgement, judgment
 2302	1926	nenkin	ねんきん	年金	 annuity, pension
@@ -32,12 +32,12 @@
 2311	1932	jimusho	じむしょ	事務所	 office
 2313	1933	kaimono	かいもの	買い物	 shopping, purchased goods
 2314	1934	kakkouyoi	かっこうよい	格好良い	 attractive, good-looking, stylish, cool, smooth, neat, with-it, groovy
-2315	1935	satsueisuru	さつえいする	撮影する	
+2315	1935	satsuei	さつえい	撮影	 photography (still or motion), photographing, filming, shooting, (video) recording
 2316	1936	nakusu	なくす	無くす	to lose (something), to mislay | to get rid of, to eliminate, to remove
 2316	1937	nabe	なべ	鍋	saucepan, pot | stew, hot pot
 2318	1938	kehai	けはい	気配	indication, sign, hint, sensation, feeling | tone (of the market)
 2318	1939	hitomi	ひとみ	瞳	pupil (of eye) | eye
-2320	1940	shihaisuru	しはいする	支配する	
+2320	1940	shihai	しはい	支配	domination, rule, control | direction, management, guidance | control (e.g. over one's emotions), determining (e.g. one's fate), governing, influence, holding sway over
 2321	1941	uchigawa	うちがわ	内側	 inside, interior, inner part
 2321	1942	juyou	じゅよう	需要	 demand, request
 2321	1943	yuuki	ゆうき	勇気	 courage, bravery, valour, valor, nerve, boldness
@@ -54,9 +54,9 @@
 2338	1954	sokumen	そくめん	側面	side, flank, profile, sidelight, lateral | aspect, dimension
 2340	1955	otokotachi	おとこたち	男達	chivalrous man who helps the weak and fights the strong, knight in shining armor | ruffians who act under the pretence of being chivalrous
 2340	1956	seijika	せいじか	政治家	 politician, statesman
-2340	1957	tasseisuru	たっせいする	達成する	
+2340	1957	tassei	たっせい	達成	 achievement, attainment, accomplishment, realization
 2340	1958	waki	わき	脇	armpit, under one's arm, side, flank | beside, close to, near, by | aside, to the side, away, out of the way | off-track, off-topic | deuteragonist, supporting role | second verse (in a linked series of poems), かたわら (傍ら) side, edge, beside, besides, nearby | while (doing), in addition to, at the same time
-2345	1959	katsuyakusuru	かつやくする	活躍する	
+2345	1959	katsuyaku	かつやく	活躍	activity (esp. energetic), great efforts, conspicuous service | to flourish, to participate actively, to play an active role
 2345	1960	waku	わく	沸く	to grow hot (e.g. water), to boil | to get excited (at), to erupt (in applause, cheering, etc.), to be in a ferment, to take place energetically | to ferment | to melt (of metal)
 2350	1961	sakka	さっか	作家	 author, writer, novelist, artist
 2351	1962	kaze	かぜ	風邪	 (common) cold, influenza, flu, ague, inflammatory respiratory system illness (in general)
@@ -64,7 +64,7 @@
 2353	1964	kakureru	かくれる	隠れる	 to hide, to be hidden, to conceal oneself, to disappear
 2353	1965	kouryuu	こうりゅう	交流	exchange (e.g. cultural), interchange, interaction, mingling, mixing, coming together | alternating current, AC
 2355	1966	kaeri	かえり	帰り	 return, coming back
-2356	1967	shorisuru	しょりする	処理する	
+2356	1967	shori	しょり	処理	 processing, dealing with, treatment, disposition, disposal
 2356	1968	zen'in	ぜんいん	全員	 all members, all hands, everyone, everybody, whole crew
 2358	1969	juudai	じゅうだい	重大	 serious, important, significant, grave, weighty
 2358	1970	soreigai	それいがい	其れ以外	

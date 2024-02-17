@@ -3,7 +3,7 @@
 37899	30503	rikyuu	りきゅう	離宮	 imperial villa, royal villa, detached palace
 37899	30504	ryouji	りょうじ	両耳	 both ears
 37899	30505	riisuryou	りーすりょう	リース料	
-37899	30506	ruisekisuru	るいせきする	累積する	
+37899	30506	ruiseki	るいせき	累積	 accumulation
 37899	30507	reika	れいか	零下	 below zero, sub-zero
 37899	30508	reegandaitouryou	れーがんだいとうりょう	レーガン大統領	
 37899	30509	roudouryokubusoku	ろうどうりょくぶそく	労働力不足	 labor shortage (labour)
@@ -20,7 +20,7 @@
 38314	30520	ayumidasu	あゆみだす	歩み出す	
 38314	30521	awamori	あわもり	泡盛	 awamori, strong Okinawan liquor distilled from rice or millet
 38314	30522	anzensouchi	あんぜんそうち	安全装置	 safety device
-38314	30523	iatsusuru	いあつする	威圧する	
+38314	30523	iatsu	いあつ	威圧	coercion, overpowering | to overpower, to overawe, to daunt
 38314	30524	iei	いえい	遺影	 portrait of deceased person
 38314	30525	ichiaaru	いちあーる	一Ｒ	
 38314	30526	ichikeitai	いちけいたい	一形態	 one form (of), a form of
@@ -75,7 +75,7 @@
 38314	30575	ganbarisugiru	がんばりすぎる	頑張り過ぎる	
 38314	30576	kizukeru	きづける	気付ける	
 38314	30577	kibera	きべら	木箆	 wooden spatula
-38314	30578	kyuugyousuru	きゅうぎょうする	休業する	
+38314	30578	kyuugyou	きゅうぎょう	休業	 suspension of business, temporary closure (of a store, school, etc.), shutdown, holiday
 38314	30579	kyoutan	きょうたん	驚嘆	 wonder, admiration, being struck with admiration
 38314	30580	kyoudoujuutaku	きょうどうじゅうたく	共同住宅	 apartment house, residential complex
 38314	30581	kyokashou	きょかしょう	許可証	 permit, license, licence
@@ -97,4 +97,4 @@
 38314	30597	kou	こう	幸	good luck, fortune, happiness | harvest, yield
 38314	30598	kougyoudanchi	こうぎょうだんち	工業団地	 industrial park
 38314	30599	kousho	こうしょ	高所	high place, high altitude, heights, elevation | broad view
-38314	30600	kousosuru	こうそする	控訴する	
+38314	30600	kouso	こうそ	控訴	 appeal to a higher court, intermediate appeal

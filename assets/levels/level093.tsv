@@ -16,7 +16,7 @@
 11217	9216	jikosekinin	じこせきにん	自己責任	 self-responsibility, on one's own responsibility, at one's own risk
 11217	9217	juuminzei	じゅうみんぜい	住民税	 municipal tax
 11217	9218	zensen	ぜんせん	前線	(weather) front | front line, forward area, action zone
-11217	9219	dousasuru	どうさする	動作する	
+11217	9219	dousa	どうさ	動作	 action, movements, motions, bearing, behaviour, behavior, execution, actuation, operation, manners
 11217	9220	nigami	にがみ	苦味	 bitterness, bitter taste
 11217	9221	mangetsu	まんげつ	満月	 full moon
 11217	9222	yagi	やぎ	山羊	 goat
@@ -31,7 +31,7 @@
 11239	9231	kiwamaru	きわまる	極まる	to reach an extreme, to reach a limit, to terminate, to come to an end | extremely | to be stuck, to be in a dilemma, to be at a loss | to be decided, to be settled
 11239	9232	kinmusaki	きんむさき	勤務先	 place of employment
 11239	9233	gi	ぎ	義	morality, righteousness, justice, honour (honor) | meaning | teachings, doctrine | nonconsanguineous relationship (i.e. of in-laws) | prosthesis
-11239	9234	goukeisuru	ごうけいする	合計する	
+11239	9234	goukei	ごうけい	合計	 sum total, total amount
 11239	9235	shihaika	しはいか	支配下	 under control (e.g. of territory)
 11239	9236	shuryou	しゅりょう	狩猟	 hunting
 11239	9237	shougai	しょうがい	傷害	wound, injury, accident, casualty | assault, inflicting bodily injury
@@ -50,22 +50,22 @@
 11269	9250	kyousanshugi	きょうさんしゅぎ	共産主義	 communism, collectivism
 11269	9251	guroobaruka	ぐろーばるか	グローバル化	 globalization, globalisation
 11269	9252	koshou	こしょう	呼称	naming, giving a name, designation, denomination | nominal
-11269	9253	shadansuru	しゃだんする	遮断する	
+11269	9253	shadan	しゃだん	遮断	 isolation, cut off, blockade, quarantine, interception, deprivation
 11269	9254	shuuroku	しゅうろく	収録	compilation, editing | recording
 11269	9255	suiyouhi	すいようひ	水曜日	 Wednesday
 11269	9256	zehitomo	ぜひとも	是非共	 by all means, at all costs, absolutely
 11269	9257	takibi	たきび	焚き火	open-air fire (e.g. for garden refuse), bonfire | open fire (e.g. in a kitchen)
-11269	9258	tosshinsuru	とっしんする	突進する	
+11269	9258	tosshin	とっしん	突進	 rush, charge
 11269	9259	nipponrettou	にっぽんれっとう	日本列島	 the Japanese islands
 11269	9260	hankan	はんかん	反感	 antipathy, antagonism, animosity, revulsion, ill feeling
 11269	9261	hyoumenteki	ひょうめんてき	表面的	 superficial, apparent, seeming, surface, cosmetic
 11269	9262	henshin	へんしん	返信	 reply (e.g. email, fax, letter), answer
 11269	9263	meisho	めいしょ	名所	famous place | name of a part (of an instrument, etc.) | name and address
-11269	9264	rekkyosuru	れっきょする	列挙する	
+11269	9264	rekkyo	れっきょ	列挙	 enumeration, list
 11269	9265	renga	れんが	煉瓦	 brick
 11292	9266	ashiba	あしば	足場	scaffold, scaffolding | foothold, footing | foothold (e.g. in business), foundation, base | convenience for transportation, convenience of access (by road or rail)
 11292	9267	ikinuku	いきぬく	生き抜く	 to live through, to survive
-11292	9268	kizokusuru	きぞくする	帰属する	
+11292	9268	kizoku	きぞく	帰属	belonging, ascription, attribution, imputation, possession, jurisdiction | reversion, return, restoration
 11292	9269	kyoudou	きょうどう	協働	 cooperation
 11292	9270	shinkokusho	しんこくしょ	申告書	 report, declaration
 11292	9271	nijiru	にじる	煮汁	 broth
@@ -75,11 +75,11 @@
 11292	9275	youhou	ようほう	用法	 directions, rules of use
 11303	9276	ukibori	うきぼり	浮き彫り	relief, embossed carving | bringing to the fore, throwing something into relief
 11303	9277	karei	かれい	華麗	 splendid, magnificent, gorgeous
-11303	9278	shokeisuru	しょけいする	処刑する	
+11303	9278	shokei	しょけい	処刑	 execution
 11303	9279	jinmyaku	じんみゃく	人脈	 personal connections
 11303	9280	seimei	せいめい	晴明	
 11303	9281	sensuikan	せんすいかん	潜水艦	 submarine
-11303	9282	taijisuru	たいじする	対峙する	
+11303	9282	taiji	たいじ	対峙	standing facing each other (e.g. mountains, buildings), standing opposite each other | confrontation, squaring off against (adversaries, armies, forces), standing off against, holding one's own with
 11303	9283	dainashi	だいなし	台無し	 mess, spoiled, spoilt, (come to) nothing, ruin
 11303	9284	chuuiten	ちゅういてん	注意点	 important point, point to make note of
 11303	9285	hageshisa	はげしさ	激しさ	
@@ -93,7 +93,7 @@
 11323	9293	oroka	おろか	疎か	 negligent, neglectful, careless, remiss, おろか (疎か) not to mention ..., needless to say ..., not to speak of ..., not only ... | negligent, neglectful, careless, remiss
 11323	9294	katte	かって	勝手	one's own convenience, one's way, selfishness | surroundings, environment, way of doing things | convenience, ease of use | financial circumstances, living, livelihood | kitchen | right hand (in archery), hand that pulls the bowstring | unauthorised (e.g. phone app, WWW site), unofficial
 11323	9295	gaimudaijin	がいむだいじん	外務大臣	 Minister for Foreign Affairs
-11323	9296	kyoudousuru	きょうどうする	共同する	
+11323	9296	kyoudou	きょうどう	共同	 doing together (as equals), sharing, common (land, etc.), joint (statement, etc.), cooperation, co-operation, collaboration, association
 11323	9297	kuchiguse	くちぐせ	口癖	pet saying, favorite phrase (favorite), stock phrase | manner of talking
 11323	9298	kobu	こぶ	瘤	 bump, lump, protuberance, swelling
 11323	9299	shuuseki	しゅうせき	集積	 accumulation

@@ -4,9 +4,9 @@
 19514	15904	gaiki	がいき	外気	 open air
 19514	15905	kitaichi	きたいち	期待値	 expected value, expectation value, expectation
 19514	15906	kinenshashin	きねんしゃしん	記念写真	 commemorative photograph, souvenir photograph
-19514	15907	kyuushisuru	きゅうしする	休止する	
+19514	15907	kyuushi	きゅうし	休止	 pause, cessation, rest
 19514	15908	kyouzuru	きょうずる	興ずる	 to amuse oneself, to make merry
-19514	15909	kuppukusuru	くっぷくする	屈伏する	
+19514	15909	kuppuku	くっぷく	屈伏	 yielding, submission, surrender, giving way, succumbing
 19514	15910	kouyaku	こうやく	公約	 public commitment, public promise, campaign pledge, official vow
 19514	15911	kora	こら	子等	 children
 19514	15912	kori	こり	凝り	muscle stiffness (esp. in shoulders) | lump (in tissue, esp. breast), swelling, hardening, lesion | lingering discomfort, uneasiness, bad aftertaste, unpleasant feeling, こごり (凝り) congealing, jelly | jellied fish broth
@@ -23,11 +23,11 @@
 19514	15923	shouko	しょうこ	笙子	
 19514	15924	shokuinshitsu	しょくいんしつ	職員室	 staff room
 19514	15925	shinshouhin	しんしょうひん	新商品	 new product
-19514	15926	shinbousuru	しんぼうする	辛抱する	
+19514	15926	shinbou	しんぼう	辛抱	 patience, endurance
 19514	15927	jikasei	じかせい	自家製	 homemade
 19514	15928	jikkenshitsu	じっけんしつ	実験室	 laboratory
-19514	15929	jifusuru	じふする	自負する	
-19514	15930	sukoshisuru	すこしする	少しする	
+19514	15929	jifu	じふ	自負	 pride, self-confidence, thinking highly of oneself, being proud of one's abilities or achievements
+19514	15930	sukoshi	すこし	少し	small quantity, little, few, something | little while | short distance
 19514	15931	seishikimeishou	せいしきめいしょう	正式名称	 official name, formal name
 19514	15932	seizougyousha	せいぞうぎょうしゃ	製造業者	 manufacturer, maker
 19514	15933	senzen	せんぜん	戦前	 pre-war days, before the war
@@ -38,7 +38,7 @@
 19514	15938	daikonran	だいこんらん	大混乱	 chaos, turmoil, pandemonium, havoc
 19514	15939	chikarakankei	ちからかんけい	力関係	 balance of power (in a relationship), power dynamic
 19514	15940	chuukosha	ちゅうこしゃ	中古車	 used car, secondhand car
-19514	15941	chokinsuru	ちょきんする	貯金する	
+19514	15941	chokin	ちょきん	貯金	putting money aside, savings, deposit (e.g. in a bank) | accumulated surplus of wins, wins in the bank
 19514	15942	teiden	ていでん	停電	 power outage, electricity outage, blackout, failure of electricity supply
 19514	15943	to	と	徒	 party, set, gang, company, person, むだ (無駄)  futility, waste, uselessness, pointlessness, idleness, ただ (只) ordinary, common, usual | free of charge | unaffected, as is, safe | only, merely, just, simply | but, however, nevertheless, あだ (徒)  vain, futile, transient, frivolous, ず (徒)  imprisonment (for one to three years), かち (徒) foot soldier (Edo period), samurai on foot | going on foot, walking, いたずら (徒)  useless, vain, aimless, idle
 19514	15944	netsuppoi	ねつっぽい	熱っぽい	feverish | enthusiastic
@@ -46,7 +46,7 @@
 19514	15946	hihyouka	ひひょうか	批評家	 critic
 19514	15947	fukai	ふかい	不快	displeasure, discomfort, unpleasantness | indisposition, ailment
 19514	15948	fuchuu	ふちゅう	付注	 annotation, comment
-19514	15949	fuhaisuru	ふはいする	腐敗する	
+19514	15949	fuhai	ふはい	腐敗	decomposition, putrefaction, putrescence, spoilage | corruption, degeneracy, decay, depravity
 19514	15950	fumon	ふもん	不問	 not asking (about), letting go unquestioned, disregarding, ignoring, overlooking
 19514	15951	furitsuzuku	ふりつづく	降り続く	 to continue to rain or snow
 19514	15952	hougeki	ほうげき	砲撃	 bombarding, shelling, bombardment
@@ -60,7 +60,7 @@
 19514	15960	yuuki	ゆうき	有紀	
 19514	15961	yunomi	ゆのみ	湯飲み	 teacup
 19514	15962	youjinfukai	ようじんふかい	用心深い	 careful, cautious, wary, watchful, vigilant, prudent
-19514	15963	rikkyakusuru	りっきゃくする	立脚する	
+19514	15963	rikkyaku	りっきゃく	立脚	 being based on
 19514	15964	rinko	りんこ	凛子	
 19514	15965	rettoukan	れっとうかん	劣等感	 inferiority complex
 19514	15966	roureikisonenkin	ろうれいきそねんきん	老齢基礎年金	
@@ -82,8 +82,8 @@
 19610	15982	kura	くら	鞍	 saddle
 19610	15983	koten	こてん	個展	 solo exhibition, one-man exhibition, one-woman exhibition
 19610	15984	saigaitaisaku	さいがいたいさく	災害対策	 disaster response, measures to deal with natural disasters, disaster control, disaster recovery
-19610	15985	saishuusuru	さいしゅうする	採集する	
-19610	15986	saininshikisuru	さいにんしきする	再認識する	
+19610	15985	saishuu	さいしゅう	採集	 collecting, gathering
+19610	15986	saininshiki	さいにんしき	再認識	 recognizing anew, seeing something in a new light
 19610	15987	sagiri	さぎり	沙霧	
 19610	15988	shigotojou	しごとじょう	仕事上	
 19610	15989	shijoukakaku	しじょうかかく	市場価格	 market price or value

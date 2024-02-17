@@ -4,7 +4,7 @@
 47039	37304	goyuujin	ごゆうじん	御友人	
 47039	37305	goyouken	ごようけん	御用件	
 47039	37306	saishin'ei	さいしんえい	最新鋭	 state-of-the-art, cutting-edge
-47039	37307	saisensuru	さいせんする	再選する	
+47039	37307	saisen	さいせん	再選	 re-election
 47039	37308	saidan	さいだん	裁断	cutting (cloth, paper) | judgement, judgment, decision
 47039	37309	saichousa	さいちょうさ	再調査	 re-examination, reinvestigation
 47039	37310	saimin	さいみん	催眠	 hypnosis
@@ -41,11 +41,11 @@
 47039	37341	shousouin	しょうそういん	正倉院	
 47039	37342	shouhinfu	しょうひんふ	商品ファンド	
 47039	37343	shouhon	しょうほん	抄本	 excerpt, abridgment, abridgement, book of selections
-47039	37344	shouyousuru	しょうようする	称揚する	
+47039	37344	shouyou	しょうよう	称揚	 praise, admiration, exalting, extolling
 47039	37345	shoureikin	しょうれいきん	奨励金	 subsidy, incentive, bounty
 47039	37346	shokika	しょきか	初期化	initialization, initialisation | formatting, resetting
 47039	37347	shoshu	しょしゅ	諸種	 various kinds
-47039	37348	shoshousuru	しょしょうする	所掌する	
+47039	37348	shoshou	しょしょう	所掌	 under one's jurisdiction, having jurisdiction
 47039	37349	shoshinhyoumei	しょしんひょうめい	所信表明	
 47039	37350	shirakawa	しらかわ	白川	
 47039	37351	shirasu	しらす	白子	soft roe, milt | albino, しらす (白子) whitebait | elver (young eel)
@@ -64,7 +64,7 @@
 47039	37364	jikeidan	じけいだん	自警団	 vigilance committee, vigilante corps
 47039	37365	jikochuu	じこちゅう	自己中	 selfishness, egotism, egoism, egocentricity
 47039	37366	jijo	じじょ	自助	 self-help, self-reliance
-47039	37367	jiseisuru	じせいする	自制する	
+47039	37367	jisei	じせい	自制	 self control, self restraint
 47039	37368	jiseki	じせき	事跡	 evidence, trace, vestige
 47039	37369	jichijimu	じちじむ	自治事務	
 47039	37370	jiten	じてん	自転	 rotation (usu. on an axis), turning, spin
@@ -74,7 +74,7 @@
 47039	37374	juuippun	じゅういっぷん	十一分	
 47039	37375	juuoumujin	じゅうおうむじん	縦横無尽	 freely, right and left, as one pleases
 47039	37376	juuoku	じゅうおく	十億	 1,000,000,000, billion
-47039	37377	juudansuru	じゅうだんする	縦断する	
+47039	37377	juudan	じゅうだん	縦断	running through (north-south), cutting across, travelling across | cutting vertically, sectioning longitudinally
 47039	37378	juubee	じゅうべえ	重兵衛	
 47039	37379	juuboku	じゅうぼく	従僕	 attendant male servant
 47039	37380	juuyoujinbutsu	じゅうようじんぶつ	重要人物	 important person, strategic person, key figure
@@ -93,7 +93,7 @@
 47039	37393	suenaga	すえなが	季長	
 47039	37394	sugamo	すがも	巣鴨	
 47039	37395	sumie	すみえ	墨絵	 ink painting
-47039	37396	zuihansuru	ずいはんする	随伴する	
+47039	37396	zuihan	ずいはん	随伴	attendance, accompanying, following | adjoint
 47039	37397	zurugashikoi	ずるがしこい	狡賢い	 devious, cunning, sly, crafty
 47039	37398	seikatsuishiki	せいかついしき	生活意識	
 47039	37399	seisakuhi	せいさくひ	制作費	 production cost

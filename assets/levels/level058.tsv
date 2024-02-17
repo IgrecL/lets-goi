@@ -23,7 +23,7 @@
 6869	5723	genshi	げんし	原子	 atom
 6869	5724	nakamura	なかむら	中村	
 6869	5725	hikisageru	ひきさげる	引き下げる	 to pull down, to lower, to reduce, to withdraw
-6869	5726	fuyosuru	ふよする	付与する	
+6869	5726	fuyo	ふよ	付与	 grant, allowance, endowment, bestowal, assignment, conferment
 6869	5727	ryoukoku	りょうこく	両国	both countries | Ryōgoku (area of Tokyo)
 6869	5728	wakusei	わくせい	惑星	 planet
 6878	5729	anka	あんか	安価	low-priced, cheap, inexpensive | shallow (e.g. sympathy), superficial, cheap (e.g. government)
@@ -60,20 +60,20 @@
 6906	5760	fugimi	ふぎみ	不気味	 weird, ominous, eerie, uncanny, ghastly
 6906	5761	warusa	わるさ	悪さ	 badness, mean mischief
 6919	5762	oosakashi	おおさかし	大阪市	 Osaka city
-6919	5763	kaishuusuru	かいしゅうする	回収する	
+6919	5763	kaishuu	かいしゅう	回収	 collection, recovery, withdrawal, retrieval
 6919	5764	gaikou	がいこう	外交	diplomacy | selling (e.g. door-to-door), canvassing
 6919	5765	kyokumen	きょくめん	局面	position in a game of go or shogi, state of the game | aspect of an affair, situation
 6919	5766	keizokuteki	けいぞくてき	継続的	 continuous
 6919	5767	shouryou	しょうりょう	少量	small quantity, small amount | narrowmindedness
 6919	5768	sugoseru	すごせる	過ごせる	
-6919	5769	sogaisuru	そがいする	阻害する	
+6919	5769	sogai	そがい	阻害	 obstruction, inhibition
 6919	5770	daimei	だいめい	題名	 title, caption, heading
 6919	5771	teiban	ていばん	定番	 standard, routine, regular, basic, staple, じょうばん (定番) standing guard, watchman | watchman at the shogun's palaces (Edo period)
 6930	5772	arai	あらい	荒い	rough, wild, violent, rude, coarse, harsh, fierce, heavy (e.g. breathing) | immoderate, extravagant, reckless
 6930	5773	oanisan	おあにさん	御兄さん	older brother, elder brother | young man, buddy, fella, laddie
 6930	5774	katayoru	かたよる	偏る	to lean (to one side), to incline | to be unbalanced (e.g. diet), to be unduly weighted towards, to be concentrated on | to be partial, to be biased, to be prejudiced
 6930	5775	kokuminnenkin	こくみんねんきん	国民年金	 national pension, government pension system
-6930	5776	saisuru	さいする	際する	 to arrive, to come to pass
+6930	5776	sai	さい	際	edge, brink, verge, side | time, moment of, さい (際)  on the occasion of, circumstances, juncture
 6930	5777	shuukai	しゅうかい	集会	 meeting, assembly, gathering, congregation, convention, rally
 6930	5778	nagarekomu	ながれこむ	流れ込む	 to flow into, to pour into, to stream into
 6930	5779	nyuuyouji	にゅうようじ	乳幼児	 infants, babies and very young children
@@ -96,5 +96,5 @@
 6955	5796	najimi	なじみ	馴染み	 intimacy, friendship, familiarity
 6955	5797	futago	ふたご	双子	 twins, twin
 6963	5798	gijutsusha	ぎじゅつしゃ	技術者	 engineer, technical expert, technician, craftsperson
-6963	5799	joseisuru	じょせいする	助成する	
+6963	5799	josei	じょせい	助成	 assisting, assistance, fostering, aiding
 6963	5800	suwarikomu	すわりこむ	座り込む	 to sit down (and refuse to move), to sit-in (in protest)

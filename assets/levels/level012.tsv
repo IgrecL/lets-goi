@@ -2,16 +2,16 @@
 1324	1102	junbi	じゅんび	準備	 preparation, arrangements, getting ready, provision, setup, reserving
 1325	1103	kaori	かおり	香り	 aroma, fragrance, scent, smell
 1325	1104	kyori	きょり	距離	 distance, range
-1325	1105	hyoukasuru	ひょうかする	評価する	
+1325	1105	hyouka	ひょうか	評価	valuation, appraisal, evaluation, assessment, estimation, rating, judging | appreciation, recognition, acknowledgement, rating highly, praising
 1325	1106	yutaka	ゆたか	豊か	abundant, wealthy, plentiful, rich, affluent | very, extremely, full of, great
 1329	1107	heru	へる	経る	to pass, to elapse, to go by | to pass through, to go through | to experience, to go through, to undergo
-1330	1108	seikousuru	せいこうする	成功する	
+1330	1108	seikou	せいこう	成功	 success, hit
 1330	1109	masumasu	ますます	益々	 increasingly, more and more, decreasingly (when declining), less and less
 1332	1110	kasaneru	かさねる	重ねる	to pile up, to heap up, to stack up, to put on top of another | to repeat many times over, to go through repeatedly, to accumulate
 1332	1111	suishin	すいしん	推進	propulsion, drive | promotion (e.g. of a government policy), furtherance, implementation
 1334	1112	katsu	かつ	勝つ	 to win, to gain victory
 1335	1113	konnan	こんなん	困難	difficulty, hardship, trouble, distress | infeasibility, inability (to carry out)
-1336	1114	shuchousuru	しゅちょうする	主張する	
+1336	1114	shuchou	しゅちょう	主張	 claim, insistence, assertion, advocacy, emphasis, contention, opinion, tenet
 1337	1115	kinou	きのう	昨日	 yesterday
 1338	1116	sagaru	さがる	下がる	to come down, to go down, to fall, to drop, to sink, to get lower | to hang, to dangle | to move back, to step back, to withdraw, to retire | to deteriorate, to fall off, to be downgraded | to get closer to the present day | to go south
 1338	1117	jisshi	じっし	実施	 enforcement, implementation, putting into practice, carrying out, operation, working (e.g. working parameters), enactment
@@ -36,14 +36,14 @@
 1359	1136	yasai	やさい	野菜	 vegetable
 1360	1137	juunen	じゅうねん	十年	 ten years, decade
 1361	1138	midori	みどり	緑	green | greenery (esp. fresh verdure)
-1362	1139	shitsumonsuru	しつもんする	質問する	
+1362	1139	shitsumon	しつもん	質問	 question, inquiry, enquiry
 1363	1140	samui	さむい	寒い	cold (e.g. weather) | uninteresting (esp. joke), lame, dull, weak, corny
 1365	1141	tasukeru	たすける	助ける	to save, to rescue | to help, to assist | to support (financially), to contribute (to), to provide aid | to facilitate, to stimulate, to promote, to contribute to
 1366	1142	kankaku	かんかく	感覚	 sense, sensation, feeling, intuition
-1367	1143	seiritsusuru	せいりつする	成立する	
+1367	1143	seiritsu	せいりつ	成立	formation, establishment, materialization, coming into existence | conclusion (e.g. of a deal), reaching (e.g. an agreement), approval, completion, closing, enacting, arrangement | being valid (of a theory, argument, etc.), holding, applying
 1369	1144	jiyuu	じゆう	自由	 freedom, liberty
 1369	1145	furu	ふる	降る	to descend, to go down, to come down | to be handed down (of an order, judgment, etc.) | to pass (of time) | to surrender, to capitulate | to be less than, to be inferior to | to have the runs, to have diarrhea | to pass (in stool), to be discharged from the body | to depreciate oneself, to be humble, ふる (降る) to fall (of rain, snow, ash, etc.), to come down | to form (of frost) | to beam down (of sunlight or moonlight), to pour in | to visit (of luck, misfortune, etc.), to come, to arrive
-1371	1146	kakuhosuru	かくほする	確保する	
+1371	1146	kakuho	かくほ	確保	securing, obtaining, ensuring, guarantee, maintaining | belay, belaying
 1372	1147	tada	ただ	只	ordinary, common, usual | free of charge | unaffected, as is, safe | only, merely, just, simply | but, however, nevertheless
 1373	1148	mawasu	まわす	回す	to turn, to rotate, to spin, to twist, to gyrate | to pass around, to send around, to hand around, to circulate | to move (someone or something to where its needed), to send, to bring, to transfer, to forward, to direct, to submit | to turn (to a new use), to use (for something else) | to turn on (something that turns or has a rotating part, e.g. a washing machine), to start up (e.g. an engine), to give (something) a spin | to put (someone in a position), to make (e.g. an enemy of) | to ... around (e.g. chase, fool, play), to do all over, to do everywhere, to do completely | to surround (something) with, to enclose with | to put (an arm) around (e.g. someone's waist), to reach around | to invest (money), to lend | to dial (a telephone number) | to gang-rape
 1374	1149	saku	さく	咲く	 to bloom, to flower, to blossom, to open
@@ -51,7 +51,7 @@
 1376	1151	mizukara	みずから	自ら	 naturally, in due course, by itself, of its own accord, みずから (自ら) oneself | oneself, for oneself, personally, in person
 1377	1152	kaigai	かいがい	海外	 foreign, abroad, overseas
 1377	1153	hirogeru	ひろげる	広げる	to spread, to extend, to expand, to enlarge, to widen, to broaden | to unfold, to open, to unroll, to unwrap | to scatter about, to spread around | to make flourish, to cause to prosper
-1379	1154	hyougensuru	ひょうげんする	表現する	
+1379	1154	hyougen	ひょうげん	表現	expression, presentation | representation, notation
 1380	1155	shiharau	しはらう	支払う	 to pay
 1381	1156	kokka	こっか	国家	 state, country, nation
 1382	1157	jiten	じてん	時点	 point in time, occasion
@@ -59,7 +59,7 @@
 1385	1159	ka	か	火	 fire, flame, blaze, か (火) Tuesday | fire (second of the five elements)
 1386	1160	ikinari	いきなり	行成	 abruptly, suddenly, all of a sudden, without warning
 1387	1161	se	せ	背	 height, stature, せ (背) back, spine | reverse, rear side | height, stature | ridge (of a mountain)
-1388	1162	kaishisuru	かいしする	開始する	
+1388	1162	kaishi	かいし	開始	 start, commencement, beginning, initiation
 1389	1163	tsutawaru	つたわる	伝わる	 to be handed down, to be introduced, to be transmitted, to be circulated, to go along, to walk along
 1391	1164	shimin	しみん	市民	citizen, citizenry, public | city inhabitant, townspeople | bourgeoisie, middle class
 1392	1165	seito	せいと	生徒	 pupil, student, schoolchild
@@ -76,7 +76,7 @@
 1403	1176	rikai	りかい	理解	 understanding, comprehension, appreciation, sympathy
 1405	1177	toridasu	とりだす	取り出す	to take out, to produce, to pick out | to fetch, to retrieve
 1406	1178	tsumaru	つまる	詰まる	to be packed (with), to be full (space, schedule, etc.) | to be blocked (road, pipe, nose, etc.), to be clogged, to be plugged up | to shorten (width, interval, etc.), to shrink (shirt, word form, etc.), to narrow | to be at a loss, to be hard pressed | to end up, to be settled | to become a geminate consonant | to hit the ball near the handle of the bat
-1406	1179	henkousuru	へんこうする	変更する	
+1406	1179	henkou	へんこう	変更	 change, modification, alteration, revision, amendment
 1408	1180	eki	えき	駅	railway station, train station | staging post on a highway (in pre-modern Japan) | counter for railway stations and bus stations
 1409	1181	iru	いる	要る	 to be needed, to be wanted
 1410	1182	ukabu	うかぶ	浮かぶ	to float, to be suspended | to rise to the surface, to appear, to emerge, to show up, to loom (up) | to come to mind, to have inspiration
@@ -85,7 +85,7 @@
 1413	1185	shijou	しじょう	市場	 (town) market, (street) market, marketplace, しじょう (市場) market (financial, stock, domestic, etc.), marketplace, exchange | (street) market
 1414	1186	imada	いまだ	未だ	still, as yet, only | (not) yet | more, (more) still | at least, comparatively, relatively | unfinished, incomplete, not yet done
 1415	1187	nemuru	ねむる	眠る	to sleep | to die, to rest (in peace), to lie (buried), to sleep (in the grave) | to lie idle (e.g. of resources), to lie unused, to lie untapped, to lie untouched | to close one's eyes
-1416	1188	kisaisuru	きさいする	記載する	
+1416	1188	kisai	きさい	記載	 mention (in a document), record, entry, statement, listing
 1416	1189	shima	しま	島	island | one's territory (e.g. of a sex worker, organized crime gang), one's turf, とう (島) Island | insula, island, islet
 1416	1190	fuku	ふく	服	clothes (esp. Western clothes) | counter for doses of medicine, gulps of tea, drags of a cigarette, etc., ぶく (服) mourning clothes | mourning, period of mourning
 1419	1191	bi	び	日	day, days | sun, sunshine, sunlight | (the) day, daytime, daylight | date, deadline | (past) days, time (e.g. of one's childhood) | case (esp. unfortunate), event, にち (日) Sunday | day (of the month) | counter for days | Japan, か (日) day of month | counter for days

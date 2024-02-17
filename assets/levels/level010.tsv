@@ -2,7 +2,7 @@
 1093	902	sa	さ	差	difference, variation | difference, さし (差し) between (e.g. two people), face to face | hindrance, impediment | arrhythmic section of recitative in noh music | playing with only 2 players | prefix used for stress or emphasis | counter for traditional dance songs
 1094	903	kakaeru	かかえる	抱える	to hold or carry under or in the arms | to have (esp. problems, debts, etc.) | to employ, to engage, to hire
 1095	904	jibuntachi	じぶんたち	自分達	
-1096	905	shitekisuru	してきする	指摘する	
+1096	905	shiteki	してき	指摘	 pointing out, identification
 1097	906	uso	うそ	嘘	lie, fib, falsehood, untruth | mistake, error | unwise move, bad decision | no way!, unbelievable!, really?!
 1098	907	kikan	きかん	期間	 period, term, interval
 1099	908	tonari	となり	隣り	next (to), adjoining, adjacent | house next door, neighbouring house, next-door neighbour, next-door neighbor
@@ -10,14 +10,14 @@
 1101	910	kijun	きじゅん	基準	 standard, basis, criterion, norm, reference, datum
 1102	911	kiku	きく	利く	to be effective, to take effect, to be good (for) | to work, to function well | to be possible (to do, use, etc.), to be able to | to taste (alcohol), to try
 1103	912	undou	うんどう	運動	exercise, physical training, work-out | appeal, campaign, drive, crusade, movement, lobbying | motion, movement
-1104	913	handansuru	はんだんする	判断する	
+1104	913	handan	はんだん	判断	judgment, judgement, decision, conclusion, adjudication | divination | judgement
 1105	914	nenrei	ねんれい	年齢	 age, years
 1106	915	meiji	めいじ	明治	 Meiji era (1868.9.8-1912.7.30)
 1107	916	ippon	いっぽん	一本	one long cylindrical thing, one film, TV show, etc., one goal, home run, etc., one telephone call | one version | one book, a certain book | ippon, one point, a blow | geisha | single-minded focus on ...
 1107	917	rei	れい	零	 zero, nought, ゼロ (０) zero, nought, nil | nothing, zilch
 1109	918	mizukara	みずから	自ら	 naturally, in due course, by itself, of its own accord, みずから (自ら) oneself | oneself, for oneself, personally, in person
 1110	919	gensoku	げんそく	原則	principle, general rule | as a rule, in principle, in general
-1111	920	youisuru	よういする	用意する	
+1111	920	youi	ようい	用意	 preparation, arrangements, provision, getting ready, laying out (e.g. a meal)
 1112	921	kakaku	かかく	価格	 price, value, cost
 1113	922	nobiru	のびる	伸びる	to stretch, to extend, to lengthen, to grow (of hair, height, grass, etc.) | to straighten out, to be flattened, to become smooth | to spread (of paint, cream, etc.) | to stretch out (e.g. of a hand), to extend | to lose elasticity, to become slack, to become soggy (e.g. noodles) | to make progress, to develop, to expand, to increase, to improve | to be exhausted, to be groggy, to pass out, to collapse | to be prolonged (meeting, life span, etc.), to be extended (e.g. deadline), to lengthen (e.g. of the days) | to be postponed, to be delayed, to be put off
 1114	923	hara	はら	腹	abdomen, belly, stomach | womb | one's mind, one's real intentions, one's true motive | courage, nerve, willpower | generosity, magnanimity | feelings, emotions | wide middle part, bulging part | inside, interior, inner part | anti-node | counter for hard roe | counter for containers with bulging middles (pots, vases, etc.)
@@ -32,7 +32,7 @@
 1125	932	mousu	もうす	申す	to say, to be called | to do
 1128	933	sakana	さかな	魚	 fish
 1128	934	tokubetsu	とくべつ	特別	 special, particular, extraordinary, exceptional, especial
-1130	935	jitsugensuru	じつげんする	実現する	
+1130	935	jitsugen	じつげん	実現	 implementation (e.g. of a system), materialization, materialisation, realization, realisation, actualization, actualisation
 1131	936	omise	おみせ	御店	merchant's home (esp. used by apprentices, etc.) | (your) rental home, おみせ (お店)  store, shop
 1134	937	mori	もり	森	forest | shrine grove
 1136	938	okoru	おこる	怒る	to get angry, to get mad | to tell someone off, to scold | to be angular, to be square
@@ -44,7 +44,7 @@
 1142	944	heru	へる	減る	 to decrease (in size or number), to diminish, to abate
 1143	945	kankoku	かんこく	韓国	South Korea, Republic of Korea | Korean Empire (1897-1910), からくに (唐国)  China, Korea
 1144	946	watakushidomo	わたくしども	私共	we, us | I, me, my store (business, etc.)
-1145	947	chuuisuru	ちゅういする	注意する	
+1145	947	chuui	ちゅうい	注意	 caution, being careful, attention (heed), warning, advice
 1146	948	kakusu	かくす	隠す	 to hide, to conceal
 1147	949	kuroi	くろい	黒い	black | dark, blackish, sun-tanned (skin) | suspicious, criminal, illicit | darkened and dirty, sooty, covered in dirt | evil, wicked, black-hearted | inauspicious, ill-boding, unlucky
 1148	950	katai	かたい	固い	hard, solid, tough | stiff, tight, wooden, unpolished (e.g. writing) | strong, firm (not viscous or easily moved) | safe, steady, honest, steadfast | obstinate, stubborn | bookish, formal, stuffy
@@ -60,7 +60,7 @@
 1158	960	nandaka	なんだか	何だか	 (a) little, somewhat, somehow
 1160	961	otagai	おたがい	御互い	 each other, one another
 1161	962	kyaku	きゃく	客	guest, visitor | customer, client, shopper, spectator, audience, tourist, sightseer, passenger | counter for containers used to entertain guests, まろうど (客賓)  visitor from afar, guest, まれびと (客) visitor from afar | joy-bringing spirit from the divine realms
-1162	963	taisuru	たいする	対する	to face (each other), to be facing | to be directed toward (the future, etc.), to be in response to, to be related to | to receive (a client, etc.) | to compare with, to contrast with, to be in opposition with, to be opposed to | to confront, to oppose, to compete with
+1162	963	tai	たい	対	opposite, opposition | versus, vs., v. | to (e.g. "winning a game five to three") | equal footing, equal terms | against ..., anti-, toward ..., to ..., つい (対) pair, couple, set | antithesis | counter for items that come in pairs | counter for sets (of clothes, small furniture, utensils, etc.)
 1162	964	makeru	まける	負ける	to lose, to be defeated | to succumb, to give in, to surrender, to yield | to be inferior to | to break out in a rash due to (e.g. lacquer, shaving, etc.) | to reduce the price, to give a discount, to throw in (something extra) for free
 1164	965	han'i	はんい	範囲	 extent, scope, sphere, range, span
 1166	966	handan	はんだん	判断	judgment, judgement, decision, conclusion, adjudication | divination | judgement
@@ -70,15 +70,15 @@
 1170	970	shounen	しょうねん	少年	 boy, juvenile, young boy, youth, lad
 1171	971	ugokasu	うごかす	動かす	to move, to shift, to stir, to budge, to change position | to inspire, to rouse, to move (e.g. feeling), to influence | to change, to alter, to deny | to operate, to set in motion, to get going | to mobilize (e.g. troops), to mobilise, to deploy | to manage (e.g. funds)
 1173	972	sugureru	すぐれる	優れる	 to surpass, to outstrip, to excel
-1174	973	toujousuru	とうじょうする	登場する	
+1174	973	toujou	とうじょう	登場	entry (on stage), appearance (on screen) | entrance, introduction (into a market)
 1175	974	kurasu	くらす	暮らす	to live, to get along | to spend (time)
 1176	975	kachi	かち	価値	 value, worth, merit
-1177	976	henkasuru	へんかする	変化する	
+1177	976	henka	へんか	変化	change, variation, alteration, mutation, transition, transformation, transfiguration, metamorphosis | variety, diversity | inflection, declension, conjugation | sidestepping, へんげ (変化) shapeshifting (of an animal or spirit), goblin, ghost, apparition, bugbear | incarnation | transformation
 1179	977	suuji	すうじ	数字	 numeral, figure, digit, numeric character
 1180	978	kariru	かりる	借りる	to borrow, to have a loan | to rent, to hire
 1181	979	bunshou	ぶんしょう	文章	writing, composition, essay, article, passage, prose, (writing) style | sentence
 1182	980	meikaku	めいかく	明確	 clear, precise, definite, distinct
-1183	981	aisuru	あいする	愛する	 to love
+1183	981	ai	あい	愛	love, affection, care | attachment, craving, desire | agape | Ireland, まな (愛)  beloved, dear
 1185	982	ginkou	ぎんこう	銀行	 bank, banking institution
 1185	983	hen	へん	変	strange, odd, peculiar, weird, curious, queer, eccentric, funny, suspicious, fishy | unexpected | change | incident, disturbance, disaster, accident | flat
 1188	984	machi	まち	街	 ... street, ... quarter, ... district, まち (町) town, block, neighbourhood, neighborhood | downtown, main street | street, road | 109.09 m | 0.99 hectares
@@ -95,6 +95,6 @@
 1201	995	toriageru	とりあげる	取り上げる	to pick up | to adopt (e.g. a proposal), to accept, to take up (a topic, complaint, etc.), to listen to, to deal with, to feature | to take away, to confiscate, to deprive (someone) of, to revoke | to deliver (a baby) | to collect (taxes)
 1202	996	nozomu	のぞむ	望む	to desire | to wish for, to expect | to see, to command (a view of)
 1203	997	tsukiau	つきあう	付き合う	to associate with, to keep company with, to go out with, to go steady with, to get on with | to go along with, to follow someone's lead, to accompany someone, to compromise
-1204	998	genshousuru	げんしょうする	減少する	
+1204	998	genshou	げんしょう	減少	 decrease, reduction, decline
 1204	999	shi	し	市	 market, fair, し (市)  city
 1206	1000	kanjou	かんじょう	感情	 emotion, feeling, feelings, sentiment

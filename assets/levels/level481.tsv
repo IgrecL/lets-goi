@@ -1,7 +1,7 @@
 60601	48001	taijiki	たいじき	胎児期	
 60601	48002	tainaitokei	たいないとけい	体内時計	 biological clock
 60601	48003	taihei	たいへい	太平	peace, tranquility, tranquillity | happy-go-lucky
-60601	48004	taibousuru	たいぼうする	待望する	
+60601	48004	taibou	たいぼう	待望	waiting expectantly, waiting eagerly, looking forward to | long-awaited
 60601	48005	tairachuu	たいらちゅう	平中	
 60601	48006	takaakira	たかあきら	高彬	
 60601	48007	taketonbo	たけとんぼ	竹蜻蛉	 small wooden Japanese toy that flies when spun between the palms of one's hands
@@ -25,7 +25,7 @@
 60601	48025	daijoubusa	だいじょうぶさ	大丈夫さ	
 60601	48026	daiseikai	だいせいかい	大正解	 bang on the money, spot on, right answer
 60601	48027	daihyoushikkouyaku	だいひょうしっこうやく	代表執行役	
-60601	48028	daketsusuru	だけつする	妥結する	
+60601	48028	daketsu	だけつ	妥結	 settlement, an agreement
 60601	48029	dafuya	だふや	だふ屋	 scalper, ticket tout
 60601	48030	dangomushi	だんごむし	団子虫	 pillbug, pill bug, woodlouse, sowbug, sow bug, slater
 60601	48031	dantoudai	だんとうだい	断頭台	 (beheading) block, guillotine, scaffold
@@ -49,8 +49,8 @@
 60601	48049	chouryou	ちょうりょう	張良	
 60601	48050	chosakukenshingai	ちょさくけんしんがい	著作権侵害	 infringement of copyright, (software, etc.) piracy
 60601	48051	chirihajimeru	ちりはじめる	散り始める	 to begin falling (e.g. leaves, petals, etc.)
-60601	48052	chinkasuru	ちんかする	沈下する	
-60601	48053	chinseisuru	ちんせいする	鎮静する	
+60601	48052	chinka	ちんか	沈下	 sinking, subsidence
+60601	48053	chinsei	ちんせい	鎮静	 calm, quiet, tranquility, tranquillity, appeasement, pacification
 60601	48054	tsuushinsha	つうしんしゃ	通信社	 news agency
 60601	48055	tsujigiri	つじぎり	辻斬り	 killing a passerby in order to test a new sword
 60601	48056	tsubujou	つぶじょう	粒状	 granular, granulated
@@ -77,7 +77,7 @@
 60601	48077	denkitsuushin'ekimuriyouhousou	でんきつうしんえきむりようほうそう	電気通信役務利用放送	
 60601	48078	denshijouhoushorisoshiki	でんしじょうほうしょりそしき	電子情報処理組織	
 60601	48079	denshoku	でんしょく	電飾	 decorative lights, illumination
-60601	48080	denrisuru	でんりする	電離する	
+60601	48080	denri	でんり	電離	ionization, ionisation | electrolytic dissociation
 60601	48081	touin	とういん	桐院	
 60601	48082	tougaishitei	とうがいしてい	当該指定	
 60601	48083	tougeikyoushitsu	とうげいきょうしつ	陶芸教室	

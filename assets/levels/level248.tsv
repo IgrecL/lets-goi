@@ -8,7 +8,7 @@
 30652	24708	kyousougenri	きょうそうげんり	競争原理	
 30652	24709	kyotaku	きょたく	居宅	 residence, dwelling, home
 30652	24710	kindaishakai	きんだいしゃかい	近代社会	 modern society
-30652	24711	gizousuru	ぎぞうする	偽造する	
+30652	24711	gizou	ぎぞう	偽造	 forgery, falsification, fabrication, counterfeiting
 30652	24712	kumikae	くみかえ	組み替え	 rearrangement (of classes), recomposition, recombination, reclassification
 30652	24713	kumikawasu	くみかわす	汲み交わす	
 30652	24714	keieijou	けいえいじょう	経営上	 administrative, managerial, operational
@@ -17,7 +17,7 @@
 30652	24717	kekkonyubiwa	けっこんゆびわ	結婚指輪	 wedding ring, wedding band
 30652	24718	kessha	けっしゃ	結社	 association, society
 30652	24719	gezan	げざん	下山	 descending (mountain)
-30652	24720	geshukusuru	げしゅくする	下宿する	
+30652	24720	geshuku	げしゅく	下宿	boarding, lodging, board and lodging, room and board | boarding house, lodging house, lodgings
 30652	24721	genshibangou	げんしばんごう	原子番号	 atomic number
 30652	24722	kouin	こういん	工員	 factory worker
 30652	24723	kouei	こうえい	公営	 public management
@@ -53,7 +53,7 @@
 30652	24753	junrieki	じゅんりえき	純利益	 net income, net profit
 30652	24754	joseikyaku	じょせいきゃく	女性客	
 30652	24755	suihei	すいへい	水平	 horizontal, level, even
-30652	24756	suibotsusuru	すいぼつする	水没する	
+30652	24756	suibotsu	すいぼつ	水没	 submerge
 30652	24757	zushi	ずし	逗子	
 30652	24758	seichoudekiru	せいちょうできる	成長出来る	
 30652	24759	seibugeki	せいぶげき	西部劇	 western (film genre)
@@ -66,28 +66,28 @@
 30652	24766	sonkin	そんきん	損金	 financial loss
 30652	24767	sonzaishieru	そんざいしえる	存在し得る	
 30652	24768	sonshoku	そんしょく	遜色	 inferiority
-30652	24769	zougensuru	ぞうげんする	増減する	
+30652	24769	zougen	ぞうげん	増減	 increase and decrease, fluctuation
 30652	24770	taijou	たいじょう	退場	exit (from a stage), exeunt | leaving, exit
 30652	24771	tadano	ただの	唯野	
 30652	24772	tarako	たらこ	鱈子	 cod roe (roe of any fish from family Gadidae, esp. salted walleye pollack roe)
 30652	24773	tansa	たんさ	探査	 probe, inquiry, enquiry, investigation
-30652	24774	danzetsusuru	だんぜつする	断絶する	
+30652	24774	danzetsu	だんぜつ	断絶	extinction, discontinuation, interruption | severance, rupture | to become extinct, to cease to exist | to sever, to break off, to divide (between two things)
 30652	24775	chiikihoukatsushiensentaa	ちいきほうかつしえんせんたー	地域包括支援センター	
 30652	24776	chakasu	ちゃかす	茶化す	 to poke fun at, to make fun of, to send up
 30652	24777	chuukajinminkyouwakoku	ちゅうかじんみんきょうわこく	中華人民共和国	 People's Republic of China
 30652	24778	chuugata	ちゅうがた	中型	 medium size
 30652	24779	chiryouhoushin	ちりょうほうしん	治療方針	
 30652	24780	teisen	ていせん	停戦	 armistice, ceasefire
-30652	24781	teinentaishokusuru	ていねんたいしょくする	定年退職する	
+30652	24781	teinentaishoku	ていねんたいしょく	定年退職	 (compulsory) retirement (e.g. on reaching the age of 65), mandatory retirement, reaching retirement age
 30652	24782	tenmaku	てんまく	天幕	decorative curtain hung from the ceiling | tent, pavilion, marquee
-30652	24783	toiawasesuru	といあわせする	問い合わせする	
+30652	24783	toiawase	といあわせ	問い合わせ	 enquiry, inquiry, query, interrogation, ENQ
 30652	24784	tousuu	とうすう	頭数	 number of persons, numerical strength, head count, とうすう (頭数)  number of (large) animals
 30652	24785	toudai	とうだい	当代	 the present age, these days, (present) head of the family
 30652	24786	torisoroeru	とりそろえる	取り揃える	 to assemble (e.g. goods into a set), to gather, to put together
 30652	24787	douka	どうか	同化	assimilation, absorption | adaptation | assimilation, anabolism | assimilation (phonology)
 30652	24788	doukyojin	どうきょじん	同居人	person living with a family, lodger | housemate, flatmate, roommate
 30652	24789	douken	どうけん	同県	 the same prefecture
-30652	24790	douhansuru	どうはんする	同伴する	
+30652	24790	douhan	どうはん	同伴	 accompanying, being accompanied by, going with
 30652	24791	donichishuku	どにちしゅく	土日祝	 Saturdays, Sundays, and holidays
 30652	24792	doyomeki	どよめき	響動めき	 commotion, stir
 30652	24793	doryou	どりょう	度量	generosity, magnanimity, tolerance | length and capacity, measures

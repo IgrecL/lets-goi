@@ -3,7 +3,7 @@
 61723	48803	jinminkousha	じんみんこうしゃ	人民公社	 people's commune
 61723	48804	suidouhou	すいどうほう	水道法	
 61723	48805	suiriken	すいりけん	水利権	 water rights
-61723	48806	suiryousuru	すいりょうする	推量する	
+61723	48806	suiryou	すいりょう	推量	 guess, conjecture, supposition, inference
 61723	48807	sudousan	すどうさん	須藤さん	
 61723	48808	supootsuka	すぽーつか	スポーツ課	
 61723	48809	zuiikeiyaku	ずいいけいやく	随意契約	 negotiated contract, limited tender contract
@@ -17,7 +17,7 @@
 61723	48817	seisakuun'ei	せいさくうんえい	政策運営	
 61723	48818	seisakusha	せいさくしゃ	制作者	
 61723	48819	seishinkinou	せいしんきのう	精神機能	
-61723	48820	seisousuru	せいそうする	正装する	
+61723	48820	seisou	せいそう	正装	 full dress, formal dress, uniform
 61723	48821	seisouhi	せいそうひ	清掃費	
 61723	48822	seitouteki	せいとうてき	正統的	
 61723	48823	seinenkoukenjin	せいねんこうけんじん	成年後見人	 adult guardian, guardian of adult
@@ -42,7 +42,7 @@
 61723	48842	zensou	ぜんそう	全草	
 61723	48843	zendai	ぜんだい	前代	 previous generation, former ages
 61723	48844	zennensuijun	ぜんねんすいじゅん	前年水準	
-61723	48845	zenryokushissousuru	ぜんりょくしっそうする	全力疾走する	
+61723	48845	zenryokushissou	ぜんりょくしっそう	全力疾走	 running as fast as one can
 61723	48846	soi	そい	沿い	 along
 61723	48847	sougougakushuu	そうごうがくしゅう	総合学習	
 61723	48848	soushou	そうしょう	宗匠	 master, teacher
@@ -58,7 +58,7 @@
 61723	48858	soumuchouseishounentaisakuhonbu	そうむちょうせいしょうねんたいさくほんぶ	総務庁青少年対策本部	
 61723	48859	sokorachuu	そこらちゅう	其処等中	
 61723	48860	sogo	そご	蘇護	
-61723	48861	sojousuru	そじょうする	遡上する	
+61723	48861	sojou	そじょう	遡上	 going upstream, swimming upstream
 61723	48862	sosei	そせい	蘇生	revival, resuscitation | revitalization, rejuvenation, regeneration
 61723	48863	sotchokusa	そっちょくさ	率直さ	
 61723	48864	zouhanha	ぞうはんは	造反派	
@@ -87,8 +87,8 @@
 61723	48887	daiichikibou	だいいちきぼう	第一希望	
 61723	48888	daigotennou	だいごてんのう	醍醐天皇	
 61723	48889	daitaiteki	だいたいてき	代替的	
-61723	48890	dakkansuru	だっかんする	奪還する	
-61723	48891	dadensuru	だでんする	打電する	
+61723	48890	dakkan	だっかん	奪還	 recovery, rescue, recapture
+61723	48891	daden	だでん	打電	 sending a telegram, telegraph
 61723	48892	datou	だとう	打倒	 knockdown (e.g. in boxing), overthrow, defeat
 61723	48893	dan	だん	団	 body, group, party, company, troupe
 61723	48894	danshikou	だんしこう	男子校	 boys' school

@@ -7,13 +7,13 @@
 6723	5607	ninaite	にないて	担い手	bearer, carrier | person bearing responsibility, person in charge, supporter
 6723	5608	honma	ほんま	本真	 truth, reality
 6734	5609	oosakafu	おおさかふ	大阪府	 Osaka prefecture
-6734	5610	kisuru	きする	期する	to fix (a time, date, etc.), to set | to expect, to hope for, to look forward to, to foresee, to anticipate | to resolve (to do), to decide upon, to prepare for, to promise, to pledge
+6734	5610	ki	き	期	period, time | opportunity, chance, occasion | age | term (e.g. in office) | session (e.g. of parliament) | stage (e.g. of a disease) | season (e.g. of a TV series), ご (期) time, moment, limit | time of death, last moment | midnight in red-light districts during the Edo period
 6734	5611	jou	じょう	条	muscle, tendon, sinew | vein, artery | fiber, fibre, string | line, stripe, streak | reason, logic | plot, storyline | lineage, descent | school (e.g. of scholarship or arts) | aptitude, talent | source (of information, etc.), circle, channel | well-informed person (in a transaction) | logical move (in go, shogi, etc.) | ninth vertical line | seam on a helmet | gristly fish paste (made of muscle, tendons, skin, etc.) | social position, status | on (a river, road, etc.), along | counter for long thin things, counter for roads or blocks when giving directions | (Edo period) counter for hundreds of mon (obsolete unit of currency), じょう (条) article (in document), provision | stripe, streak, line | although, though | since, as, because, inasmuch as, くだり (件)  passage, paragraph
-6734	5612	chuudansuru	ちゅうだんする	中断する	
+6734	5612	chuudan	ちゅうだん	中断	 interruption, suspension, break
 6734	5613	doushi	どうし	動詞	 verb
 6734	5614	yousou	ようそう	様相	aspect, phase, condition | modality (philosophy)
 6742	5615	katasumi	かたすみ	片隅	 corner, nook
-6742	5616	fusuru	ふする	付する	to affix, to append, to attach | to entrust, to refer, to handle (as such) | to follow (the leader) | to submit (a document, etc.)
+6742	5616	fu	ふ	付	furnished with, including | attached to | impression, appearance | luck | sociality | under, assistant (e.g. to a manager) | soup base, づけ (付)  dated (e.g. a letter), date of effect (e.g. a rule change)
 6747	5617	usureru	うすれる	薄れる	 to fade, to become dim
 6747	5618	kaihatsutojoukoku	かいはつとじょうこく	開発途上国	 developing country, emerging nation
 6747	5619	kaeru	かえる	孵る	 to hatch out
@@ -21,16 +21,16 @@
 6747	5621	torimatomeru	とりまとめる	取り纏める	to collect, to gather, to compile, to assemble | to arrange, to settle
 6747	5622	hashirimawaru	はしりまわる	走り回る	 to run around
 6756	5623	ajiwaeru	あじわえる	味わえる	
-6756	5624	itakusuru	いたくする	委託する	
+6756	5624	itaku	いたく	委託	 entrusting (something to a person), consignment (of goods), putting in someone's charge, trust, commission
 6756	5625	koumuru	こうむる	被る	to put on (one's head), to wear, to have on, to pull over (one's head), to crown (oneself) | to be covered with (dust, snow, etc.), to pour (water, etc.) on oneself, to dash on oneself, to ship water | to bear (e.g. someone's debts, faults, etc.), to take (blame), to assume (responsibility), to shoulder (burden) | to overlap (e.g. sound or color) | to be similar, to be redundant | to be fogged (due to overexposure, etc.) | to close, to come to an end | to get a full house, to sell out | to blunder, to bungle, to fail | to be deceived, こうむる (被る)  to suffer, to receive (kindness, rebuke, support), to sustain (damage)
 6756	5626	saigetsu	さいげつ	歳月	 time, years
 6756	5627	hankou	はんこう	犯行	 crime, criminal act, offence, offense
-6762	5628	kubunsuru	くぶんする	区分する	
+6762	5628	kubun	くぶん	区分	 division, section, demarcation, partition, segmentation, subdivision, (traffic) lane, compartment, classification, sorting
 6762	5629	saru	さる	然る	a particular, a certain | that kind of, such a
 6762	5630	shourei	しょうれい	症例	 case
 6762	5631	setsuzoku	せつぞく	接続	connection, attachment, union, join, joint, link | changing trains | conjunction
 6762	5632	sonata	そなた	其方	that way, that direction | there | that (one) | you, your family, your company | that person
-6762	5633	baikyakusuru	ばいきゃくする	売却する	
+6762	5633	baikyaku	ばいきゃく	売却	 selling off, disposal by sale, sale
 6762	5634	horobosu	ほろぼす	滅ぼす	 to destroy, to overthrow, to wreck, to ruin
 6762	5635	misueru	みすえる	見据える	to stare fixedly at, to fix one's gaze on | to make sure of, to set one's eyes on (e.g. the future), to focus on
 6771	5636	ganrai	がんらい	元来	originally, essentially, naturally, by nature, really, actually | in the first place, to begin with
@@ -51,7 +51,7 @@
 6786	5651	chikubi	ちくび	乳首	 nipple, teat
 6786	5652	fureai	ふれあい	触れ合い	 contact, connectedness, rapport, mutual touching
 6791	5653	iryoku	いりょく	威力	 power, might, authority, influence
-6791	5654	enshutsusuru	えんしゅつする	演出する	
+6791	5654	enshutsu	えんしゅつ	演出	 production (e.g. play), direction
 6791	5655	geri	げり	下痢	 diarrhea, diarrhoea
 6791	5656	jimukyoku	じむきょく	事務局	 secretariat, executive office
 6791	5657	souzoudekiru	そうぞうできる	想像出来る	
@@ -60,14 +60,14 @@
 6800	5660	kyokuryoku	きょくりょく	極力	 to the utmost, to the best of one's ability
 6800	5661	gimi	ぎみ	気味	sensation, feeling | tendency, propensity, ぎみ (気味)  -like, -looking, -looked, tending to ..., きあじ (気味)  market sentiment (stock market), market tone
 6800	5662	kokuhaku	こくはく	告白	confession, acknowledgement, acknowledgment | confession of love, professing one's feelings | confession of sins (e.g. the confessional)
-6800	5663	gouisuru	ごういする	合意する	
+6800	5663	goui	ごうい	合意	 (coming to an) agreement, consent, mutual understanding, accord, consensus
 6800	5664	suzuki	すずき	鈴木	
 6800	5665	seisansha	せいさんしゃ	生産者	 producer, grower, maker, manufacturer
 6800	5666	taiho	たいほ	逮捕	 arrest, apprehension, capture
 6800	5667	tanpo	たんぽ	担保	 security, guarantee, collateral (e.g. mortgage)
 6800	5668	daishou	だいしょう	大小	size | large and small (sizes), various sizes | daishō (matched pair of long and short swords) | large and small drums | long months and short months | sic bo (Macao dice game), tai sai, dai siu, big and small
 6800	5669	ban	ばん	番	number (in a series) | (one's) turn | watch, guard, lookout | rank, standing, position | bout, match | pieces (in a collection), つがい (番い) pair (esp. of mated animals), brace, couple | (anatomical) joint
-6810	5670	kasokusuru	かそくする	加速する	
+6810	5670	kasoku	かそく	加速	 acceleration, speeding up
 6810	5671	kinkou	きんこう	均衡	 equilibrium, balance
 6810	5672	sasai	ささい	些細	 trivial, slight
 6810	5673	toikakeru	といかける	問い掛ける	to ask a question | to begin to ask a question
@@ -83,18 +83,18 @@
 6825	5683	sashihiku	さしひく	差し引く	to deduct, to take away, to dock | to make allowances for something, to bear something in mind | to ebb and flow
 6825	5684	teishu	ていしゅ	亭主	household head, master, host (e.g. of a tea gathering), innkeeper, owner (e.g. of a hotel) | husband
 6825	5685	yowaru	よわる	弱る	to weaken, to grow weak, to wane, to decline (of one's health) | to be downcast, to be dejected, to be dispirited | to be troubled, to be at a loss, to be perplexed, to be annoyed
-6825	5686	rokuonsuru	ろくおんする	録音する	
+6825	5686	rokuon	ろくおん	録音	 (audio) recording
 6832	5687	uchiageru	うちあげる	打ち上げる	to launch, to shoot up | (of waves) to dash, to wash up (ashore) | to finish (e.g. a theater run, sumo tournament), to close | to report (to boss, etc.), ぶちあげる (ぶち上げる)  to make a bold speech, to make a bold statement
 6832	5688	kakikomi	かきこみ	書き込み	writing | entry (e.g. to a form) | posting (e.g. to a blog)
 6832	5689	kansayaku	かんさやく	監査役	 auditor, inspector
 6832	5690	kousaten	こうさてん	交差点	 crossing, intersection
-6832	5691	jourikusuru	じょうりくする	上陸する	
+6832	5691	jouriku	じょうりく	上陸	 landing, disembarkation, landfall
 6832	5692	daiissetsu	だいいっせつ	第一節	
 6838	5693	kusari	くさり	鎖	 chain, chains, じょう (錠) lock, padlock | tablet, lozenge, pill
 6838	5694	soreirai	それいらい	其れ以来	
 6838	5695	daigakuin	だいがくいん	大学院	 graduate school
 6838	5696	toubu	とうぶ	頭部	head, cranium | cephalic
-6838	5697	hanteisuru	はんていする	判定する	
+6838	5697	hantei	はんてい	判定	 judgement, judgment, decision, adjudication, award, verdict, determination
 6838	5698	byounin	びょうにん	病人	 sick person, patient, invalid
 6838	5699	matsuwaru	まつわる	纏わる	to coil around, to follow about | to be related to, to concern, to be associated with
 6838	5700	yamada	やまだ	山田	

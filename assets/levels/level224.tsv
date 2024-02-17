@@ -29,18 +29,18 @@
 27555	22329	sesshou	せっしょう	摂政	 regency, regent, せっせい (摂政)  advisor (to the Ryukyuan King)
 27555	22330	senkou	せんこう	専攻	 major subject, special study
 27555	22331	taai	たあい	他愛	 altruism, たわい (他愛) sanity, soundness of mind, prudence and discretion | drunkenness
-27555	22332	taijousuru	たいじょうする	退場する	
+27555	22332	taijou	たいじょう	退場	exit (from a stage), exeunt | leaving, exit
 27555	22333	tainou	たいのう	滞納	 falling behind (with a payment), being in arrears, non-payment, default, delinquency
 27555	22334	tanba	たんば	丹波	 Tanba (former province located in parts of present-day Kyōto, Hyōgo and Ōsaka prefectures)
-27555	22335	daihittosuru	だいひっとする	大ヒットする	
-27555	22336	dassensuru	だっせんする	脱線する	
+27555	22335	daihitto	だいひっと	大ヒット	 big hit, smash hit, popular item (e.g. movie, music)
+27555	22336	dassen	だっせん	脱線	derailment | digression, deviation
 27555	22337	datsumou	だつもう	脱毛	hair loss | hair removal, epilation, depilation
 27555	22338	chikurin	ちくりん	竹林	 bamboo thicket, bamboo grove
 27555	22339	tsuujiau	つうじあう	通じ合う	to be understood by each other (of thoughts, feelings, etc.), to be comprehended | to exchange with each other (thoughts, feelings, etc.), to express to each other (e.g. intentions), to communicate with each other
 27555	22340	tsukiugokasu	つきうごかす	突き動かす	 to stimulate, to stir up, to arouse
 27555	22341	dendenkousha	でんでんこうしゃ	電電公社	
 27555	22342	toushigaku	とうしがく	投資額	
-27555	22343	toujousuru	とうじょうする	搭乗する	
+27555	22343	toujou	とうじょう	搭乗	 embarkation, boarding (an aeroplane, airplane)
 27555	22344	touseki	とうせき	透析	 dialysis
 27555	22345	toutosa	とうとさ	尊さ	
 27555	22346	tokuibunya	とくいぶんや	得意分野	 one's field of expertise, one's strong area
@@ -50,7 +50,7 @@
 27555	22350	naminami	なみなみ	並々	 ordinary
 27555	22351	nitsuke	につけ	煮付け	 vegetables or fish boiled in soy sauce
 27555	22352	ningyo	にんぎょ	人魚	 mermaid, merman
-27555	22353	neagesuru	ねあげする	値上げする	
+27555	22353	neage	ねあげ	値上げ	 price hike, mark-up
 27555	22354	nokisaki	のきさき	軒先	 edge of the eaves, house frontage
 27555	22355	hattori	はっとり	服部	
 27555	22356	hatsuyuushou	はつゆうしょう	初優勝	 first championship win (esp. sumo)
@@ -62,7 +62,7 @@
 27555	22362	hidarisaido	ひだりさいど	左サイド	
 27555	22363	hittakuru	ひったくる	引っ手繰る	 to snatch from, to steal from
 27555	22364	hitozukuri	ひとづくり	人作り	 personnel training, human resources development, character building
-27555	22365	hitomeboresuru	ひとめぼれする	一目惚れする	
+27555	22365	hitomebore	ひとめぼれ	一目惚れ	 love at first sight, being taken with someone at the first meeting
 27555	22366	pi	ぴ	日	day, days | sun, sunshine, sunlight | (the) day, daytime, daylight | date, deadline | (past) days, time (e.g. of one's childhood) | case (esp. unfortunate), event, にち (日) Sunday | day (of the month) | counter for days | Japan, か (日) day of month | counter for days
 27555	22367	fu	ふ	経	the vertical, height | front-to-back, length | north-to-south | vertical (relationship), hierarchy | (weaving) warp, たていと (縦糸)  (weaving) warp, きょう (経)  sutra, Buddhist scriptures, ふ (経) to pass, to elapse, to go by | to pass through, to go through | to experience, to go through, けい (経) warp (weaving) | longitude | scripture, sutra | trans-
 27555	22368	fuutai	ふうたい	風体	 appearance, look, dress
@@ -73,7 +73,7 @@
 27555	22373	purasuchikkusei	ぷらすちっくせい	プラスチック製	 (made of) plastic
 27555	22374	hesaki	へさき	舳先	 bow (of a ship), prow
 27555	22375	houri	ほうり	法理	 legal principle
-27555	22376	hosokusuru	ほそくする	捕捉する	
+27555	22376	hosoku	ほそく	捕捉	capture, seizure, prehension, trapping | apprehension, understanding, grasp
 27555	22377	boukuugou	ぼうくうごう	防空壕	 air-raid shelter, bomb shelter
 27555	22378	boukun	ぼうくん	暴君	 tyrant, despot
 27555	22379	machida	まちだ	町田	
@@ -89,8 +89,8 @@
 27555	22389	yakyuusenshu	やきゅうせんしゅ	野球選手	 baseball player, ballplayer
 27555	22390	yakujippun	やくじっぷん	約十分	
 27555	22391	yobisute	よびすて	呼び捨て	 addressing (someone) without using a suffix such as "-san" or "-chan" (considered impolite)
-27555	22392	rakusuru	らくする	楽する	
-27555	22393	rannyuusuru	らんにゅうする	乱入する	
+27555	22392	raku	らく	楽	comfort, ease, relief, (at) peace, relaxation | easy, simple, without trouble, without hardships | (economically) comfortable | raku pottery | sukha (happiness), がく (楽) music | old Japanese court music, gagaku
+27555	22393	rannyuu	らんにゅう	乱入	trespassing, intrusion | to barge into, to burst into, to trespass
 27555	22394	ryoukinsho	りょうきんしょ	料金所	 tollgate, toll booth
 27555	22395	ryounin	りょうにん	両人	 both people
 27555	22396	ryokoudairiten	りょこうだいりてん	旅行代理店	 travel agent

@@ -1,9 +1,9 @@
 18513	15101	takako	たかこ	貴子	
-18513	15102	dankousuru	だんこうする	断行する	
-18513	15103	chakurikusuru	ちゃくりくする	着陸する	
+18513	15102	dankou	だんこう	断行	 decisive action, carrying out, resolute enforcement, execution, だんぎょう (断行)  asceticism, practices that eliminate afflictions
+18513	15103	chakuriku	ちゃくりく	着陸	 landing, alighting, touch down
 18513	15104	tsuitachiikou	ついたちいこう	一日以降	
 18513	15105	tsukisoi	つきそい	付き添い	attendance (on), chaperonage | attendant, escort, entourage, chaperon, retinue
-18513	15106	denjusuru	でんじゅする	伝授する	
+18513	15106	denju	でんじゅ	伝授	 (giving) instruction, initiation
 18513	15107	douzuru	どうずる	動ずる	 to be perturbed, to be agitated
 18513	15108	nafuda	なふだ	名札	 name plate, name tag, label
 18513	15109	nikugan	にくがん	肉眼	naked eye | the physical eye
@@ -11,7 +11,7 @@
 18513	15111	nunoji	ぬのじ	布地	 cloth, fabric
 18513	15112	nenjuu	ねんじゅう	年中	whole year, all year round, throughout the year | always, all the time, perpetually | during an era | middle class (of a nursery school, etc.), としなか (年半)  middle of a year
 18513	15113	hiroshimashi	ひろしまし	広島市	
-18513	15114	bikousuru	びこうする	尾行する	
+18513	15114	bikou	びこう	尾行	 shadow, tail, following
 18513	15115	bisai	びさい	微細	 minute, micro, detailed, delicate, subtle
 18513	15116	furiko	ふりこ	振り子	 pendulum
 18513	15117	bungakubu	ぶんがくぶ	文学部	 department (faculty) of literature
@@ -43,7 +43,7 @@
 18587	15143	shiryuu	しりゅう	支流	 tributary, branch
 18587	15144	shirokuro	しろくろ	白黒	black and white, monochrome | good and evil, right and wrong, guilt and innocence
 18587	15145	shinshoumen	しんしょうめん	真正面	 directly opposite, right in front
-18587	15146	juudensuru	じゅうでんする	充電する	
+18587	15146	juuden	じゅうでん	充電	charging (electrically) | electrification
 18587	15147	juseiran	じゅせいらん	受精卵	 fertilized egg, fertilised egg
 18587	15148	joukachou	じょうかちょう	城下町	 castle town, city in Japan that developed around the castle of a feudal lord
 18587	15149	sukiiita	すきーいた	スキー板	 ski, skis
@@ -56,12 +56,12 @@
 18587	15156	chouisu	ちょういす	長椅子	 couch, bench, ottoman
 18587	15157	chosakusha	ちょさくしゃ	著作者	 writer, author
 18587	15158	tsuuin	つういん	通院	 going to the hospital for regular treatment
-18587	15159	toukatsusuru	とうかつする	統括する	
+18587	15159	toukatsu	とうかつ	統括	unification, bringing together, generalization | control, supervision
 18587	15160	toriyameru	とりやめる	取り止める	 to cancel, to call off
 18587	15161	nourinsuisandaijin	のうりんすいさんだいじん	農林水産大臣	 Minister of Agriculture, Forestry and Fisheries
 18587	15162	hasan	はさん	破産	 bankruptcy, insolvency
-18587	15163	hyoubousuru	ひょうぼうする	標榜する	
-18587	15164	fuuinsuru	ふういんする	封印する	
+18587	15163	hyoubou	ひょうぼう	標榜	 standing for, advocating, championing, professing (to be)
+18587	15164	fuuin	ふういん	封印	seal | to seal (e.g. a letter), to affix a seal, to seal up
 18587	15165	bunkiten	ぶんきてん	分岐点	 junction, crossroads, division point, parting of ways
 18587	15166	hosoku	ほそく	補足	 supplement, complement
 18587	15167	mitsumenaosu	みつめなおす	見詰め直す	 to take another good look at, to reconsider, to analyze, to reexamine

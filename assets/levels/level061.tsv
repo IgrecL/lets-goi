@@ -1,12 +1,12 @@
-7202	6001	zenshinsuru	ぜんしんする	前進する	
+7202	6001	zenshin	ぜんしん	前進	 advance, moving forward, progress
 7202	6002	tachinoboru	たちのぼる	立ち上る	 to rise up (e.g. pillar of smoke), to go up
 7202	6003	hantoshi	はんとし	半年	 half a year, six months
-7202	6004	fuchakusuru	ふちゃくする	付着する	
+7202	6004	fuchaku	ふちゃく	付着	 sticking to, clinging to, adhesion, cohesion, agglutination
 7212	6005	iikiru	いいきる	言い切る	to declare, to assert, to state definitively | to finish saying, to say it all, to finish one's sentence
 7212	6006	kakkiteki	かっきてき	画期的	 ground-breaking, revolutionary, unprecedented, epoch-making
 7212	6007	kanrisha	かんりしゃ	管理者	manager, landlord, warden, superintendent, supervisor, custodian | root (user)
 7212	6008	kesshin	けっしん	決心	 determination, resolution
-7212	6009	kousokusuru	こうそくする	拘束する	
+7212	6009	kousoku	こうそく	拘束	 restriction, restraint, binding, constraint
 7212	6010	denchi	でんち	電池	 battery, cell
 7212	6011	megami	めがみ	女神	 goddess, female deity, おみながみ (女神)  paper doll to which children pray for good weather
 7212	6012	ryouude	りょううで	両腕	 both arms
@@ -14,7 +14,7 @@
 7223	6014	kanyo	かんよ	関与	 participation, taking part in, participating in, being concerned in
 7223	6015	kou	こう	功	sympathy, consideration, carefulness, attention | service, labor, labour, trouble, meritorious deed | illness, disease, sickness, いさお (勲)  distinguished service, meritorious service, こう (功) merit, success, meritorious deed | achievement, accumulated experience
 7223	6016	sentakubutsu	せんたくぶつ	洗濯物	 laundry, the washing
-7223	6017	senrensuru	せんれんする	洗練する	
+7223	6017	senren	せんれん	洗練	 polish, refinement
 7223	6018	tsumikasaneru	つみかさねる	積み重ねる	 to pile up, to accumulate
 7223	6019	tokushuu	とくしゅう	特集	 feature (e.g. newspaper), special edition, report
 7223	6020	yokusei	よくせい	抑制	 control, restraint, suppression, constraint, curtailment, inhibition, check, curb
@@ -26,21 +26,21 @@
 7232	6026	moufu	もうふ	毛布	 blanket
 7232	6027	yatou	やとう	野党	 opposition party, political opposition, opposition
 7238	6028	kitagawa	きたがわ	北側	 north side, north bank
-7238	6029	koutaisuru	こうたいする	後退する	
+7238	6029	koutai	こうたい	後退	retreat, falling back, moving backwards, reversing, retrogression, retraction | recession, waning | backspace (key)
 7238	6030	kouhei	こうへい	公平	 chopped burdock root (and sometimes carrot) cooked in sugar and soy sauce, こうへい (公平)  fairness, impartiality, justice, objectivity
-7238	6031	senninsuru	せんにんする	選任する	
+7238	6031	sennin	せんにん	選任	 nomination (of a person to a position), selection, election, assignment, appointment
 7238	6032	nobiritsu	のびりつ	伸び率	 growth rate, coefficient of extension
 7238	6033	fusuma	ふすま	襖	 fusuma, Japanese sliding screen, あお (襖)  everyday garment worn by men in ancient Japan
 7238	6034	furusato	ふるさと	古里	home town, birthplace, native place, one's old home | ruins, historic remains
 7238	6035	minkankigyou	みんかんきぎょう	民間企業	 private enterprise, private business, private company, private firm, private-sector business, private-sector corporation
 7248	6036	aegu	あえぐ	喘ぐ	to gasp, to pant, to breathe hard | to suffer, to struggle
 7248	6037	urazukeru	うらづける	裏付ける	 to support (a theory, claim, etc.), to back up, to substantiate, to prove
-7248	6038	kaihousuru	かいほうする	開放する	
+7248	6038	kaihou	かいほう	開放	opening (a door, window, etc.), leaving open | opening up (e.g. to the public), allowing (public) access
 7248	6039	sake	さけ	鮭	salmon (Salmonidae spp.) | chum salmon (Oncorhynchus keta)
-7248	6040	susuru	すする	啜る	to slurp, to sip (loudly) | to sniffle, to sniff
+7248	6040	su	す	啜る	to slurp, to sip (loudly) | to sniffle, to sniff
 7248	6041	zumen	ずめん	図面	 drawing, diagram, plans, blueprint
 7248	6042	chuukaku	ちゅうかく	中核	 kernel, core, nucleus, center, centre
-7248	6043	tsuikyuusuru	ついきゅうする	追及する	
+7248	6043	tsuikyuu	ついきゅう	追及	investigation (e.g. into someone's guilt), questioning, pressing, hounding, pinning down | catching up, overtaking
 7248	6044	touge	とうげ	峠	(mountain) pass, highest point on a mountain road, ridge | peak (e.g. of summer), worst (e.g. of an illness), crisis, critical point, most difficult part
 7248	6045	furansujin	ふらんすじん	フランス人	 Frenchman, Frenchwoman
 7248	6046	hensai	へんさい	返済	 repayment, reimbursement, refund, redemption
@@ -81,15 +81,15 @@
 7299	6081	deaeru	であえる	出会える	
 7299	6082	hitoiki	ひといき	一息	one breath | time of one breath | pause, break, rest, breather | (doing in) one go, doing without stopping | small amount of effort, a little more effort
 7299	6083	meiryou	めいりょう	明瞭	 clear, plain, distinct, obvious, evident, articulate
-7299	6084	meireisuru	めいれいする	命令する	
+7299	6084	meirei	めいれい	命令	order, command, decree, directive | (software) instruction, statement
 7311	6085	isei	いせい	異性	the opposite sex | isomerism
-7311	6086	gaishutsusuru	がいしゅつする	外出する	
-7311	6087	gappeisuru	がっぺいする	合併する	
+7311	6086	gaishutsu	がいしゅつ	外出	 going out, outing, leaving (one's home, office, etc.)
+7311	6087	gappei	がっぺい	合併	 merger (of companies, towns, etc.), combination, union, amalgamation, consolidation, coalition, fusion, annexation, affiliation, incorporation
 7311	6088	kyoumibukai	きょうみぶかい	興味深い	 very interesting, of great interest
 7311	6089	kunou	くのう	苦悩	 (mental) agony, anguish, suffering, distress
 7311	6090	sakaeru	さかえる	栄える	 to prosper, to flourish, はえる (映える) to shine, to glow | to look attractive, to look nice, to be set off (by)
 7311	6091	jiyuu	じゆう	事由	 reason, cause
-7311	6092	dasshutsusuru	だっしゅつする	脱出する	
+7311	6092	dasshutsu	だっしゅつ	脱出	escape, break-out | prolapse, proptosis
 7311	6093	chirasu	ちらす	散らす	to scatter, to cause a shower of | to disperse, to distribute, to spread | to resolve (a symptom, condition, etc.), to relieve, to get rid of, to cure | to distract, to divert | to do ... wildly (i.e. disorderly or frequently), to do ... all over the place
 7321	6094	oufukuhagaki	おうふくはがき	往復葉書	 postcard with a reply card attached
 7321	6095	kyokusen	きょくせん	曲線	 curve

@@ -1,5 +1,5 @@
 30902	25001	harikaeru	はりかえる	張り替える	 to re-cover, to reupholster, to repaper
-30902	25002	hidaisuru	ひだいする	肥大する	
+30902	25002	hidai	ひだい	肥大	swelling, enlargement, becoming fat | hypertrophy
 30902	25003	hibakusha	ひばくしゃ	被爆者	 atomic bomb victim (esp. of Hiroshima and Nagasaki), hibakusha
 30902	25004	hifubyou	ひふびょう	皮膚病	 skin disease
 30902	25005	hyakumei	ひゃくめい	百名	
@@ -18,10 +18,10 @@
 30902	25018	heisha	へいしゃ	兵舎	 barracks
 30902	25019	besshu	べっしゅ	別種	 another kind, distinct species, variety
 30902	25020	houtei	ほうてい	法定	 legal, designated by law
-30902	25021	houryuusuru	ほうりゅうする	放流する	
+30902	25021	houryuu	ほうりゅう	放流	discharge (e.g. of water from a dam) | release (of young fish into a river, pond, etc.), stocking (a river, etc. with fish) | banishment, exile
 30902	25022	hosou	ほそう	舗装	 paving (a road), surfacing (with asphalt, concrete, etc.), pavement
 30902	25023	hotta	ほった	堀田	
-30902	25024	bourakusuru	ぼうらくする	暴落する	
+30902	25024	bouraku	ぼうらく	暴落	 slump, crash, heavy fall, sudden decline
 30902	25025	bonjin	ぼんじん	凡人	 ordinary person, average person, mediocre person
 30902	25026	makurasoushi	まくらそうし	枕草子	 The Pillow Book (by Sei Shonagon)
 30902	25027	michihaba	みちはば	道幅	 width of a road
@@ -52,7 +52,7 @@
 31154	25052	idenshichiryou	いでんしちりょう	遺伝子治療	 gene therapy
 31154	25053	iryoukankeisha	いりょうかんけいしゃ	医療関係者	 health care worker, medical personnel
 31154	25054	infuraseibi	いんふらせいび	インフラ整備	 infrastructure improvement
-31154	25055	edawakaresuru	えだわかれする	枝分かれする	
+31154	25055	edawakare	えだわかれ	枝分かれ	 ramification, branching off
 31154	25056	enukeeteiisaibou	えぬけーてぃーさいぼう	ＮＫＴ細胞	 natural killer T-cell, NKT cell
 31154	25057	engumi	えんぐみ	縁組	betrothal, wedding, marriage into a family, matrimonial alliance | adoption
 31154	25058	ookabunushi	おおかぶぬし	大株主	 major stockholder, large shareholder
@@ -80,7 +80,7 @@
 31154	25080	kanbutachi	かんぶたち	幹部達	
 31154	25081	gaisanyoukyuu	がいさんようきゅう	概算要求	 request for budgetary appropriations
 31154	25082	gakeppuchi	がけっぷち	崖っ縁	cliff edge, edge of a precipice | perilous position, critical moment, brink
-31154	25083	kikasuru	きかする	帰化する	
+31154	25083	kika	きか	帰化	 naturalization, naturalisation
 31154	25084	kikiteki	ききてき	危機的	 critical
 31154	25085	kigyousuu	きぎょうすう	企業数	
 31154	25086	kiso	きそ	木曽	

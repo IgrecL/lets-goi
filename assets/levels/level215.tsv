@@ -9,7 +9,7 @@
 26322	21409	minzokugaku	みんぞくがく	民俗学	 folklore studies, folkloristics
 26322	21410	muimi	むいみ	無意味	 nonsense, no meaning, meaningless
 26322	21411	meiseki	めいせき	明晰	 clear, distinct
-26322	21412	meiwakusuru	めいわくする	迷惑する	
+26322	21412	meiwaku	めいわく	迷惑	trouble, bother, annoyance, nuisance, inconvenience | to be troubled (by), to be bothered (by), to be inconvenienced (by)
 26322	21413	mousaikekkan	もうさいけっかん	毛細血管	 capillary vessel, capillary
 26322	21414	moushi	もうし	孟子	Mencius (372-289 BCE), Mengzi | Mencius (one of the Four Books)
 26322	21415	moushitatenin	もうしたてにん	申し立て人	 petitioner, complainant
@@ -17,13 +17,13 @@
 26322	21417	yarite	やりて	遣り手	skilled person, capable person, shrewd person, go-getter, hotshot | doer, performer, agent | giver, bestower | brothel madam
 26322	21418	youkyuujikou	ようきゅうじこう	要求事項	 requirement
 26322	21419	youjin	ようじん	要人	 important person
-26322	21420	yokodorisuru	よこどりする	横取りする	
+26322	21420	yokodori	よこどり	横取り	 snatching, stealing, seizure, usurpation
 26322	21421	yochi	よち	予知	 foresight, foreknowledge, intimation, premonition, prediction
-26322	21422	yochisuru	よちする	予知する	
+26322	21422	yochi	よち	予知	 foresight, foreknowledge, intimation, premonition, prediction
 26322	21423	yoha	よは	余波	waves that remain after the wind has subsided | after-effect, aftermath
 26322	21424	ryourikyoushitsu	りょうりきょうしつ	料理教室	 cooking class, cookery school
 26322	21425	riyouryoukin	りようりょうきん	利用料金	 usage charge, usage fee
-26322	21426	ririkusuru	りりくする	離陸する	
+26322	21426	ririku	りりく	離陸	 takeoff
 26322	21427	rekoodogaisha	れこーどがいしゃ	レコード会社	 record company
 26322	21428	roudouryokujinkou	ろうどうりょくじんこう	労働力人口	 labor force, labour force
 26483	21429	akitaru	あきたる	飽き足る	 to be satisfied
@@ -47,7 +47,7 @@
 26483	21447	ochiai	おちあい	落合	
 26483	21448	otesuu	おてすう	御手数	 trouble, bother
 26483	21449	omoshirookashii	おもしろおかしい	面白おかしい	 humorous, funny, amusing, laughable, hilarious, comical, jocular
-26483	21450	kaigyousuru	かいぎょうする	改行する	
+26483	21450	kaigyou	かいぎょう	改行	new line, new paragraph | newline (e.g. LF, CR, CRLF)
 26483	21451	kakariyasui	かかりやすい	掛かり易い	
 26483	21452	kakuhan	かくはん	各般	 all, every, various
 26483	21453	kazuyo	かずよ	和代	
@@ -55,7 +55,7 @@
 26483	21455	kankyakuseki	かんきゃくせき	観客席	 audience seating, (spectator) stands, auditorium, stadium
 26483	21456	kansen	かんせん	艦船	 (ocean) vessels, warship
 26483	21457	gaisou	がいそう	外装	 exterior, packaging, cladding, armor (armour), arm
-26483	21458	gashisuru	がしする	餓死する	
+26483	21458	gashi	がし	餓死	 (death from) starvation, starving to death
 26483	21459	kizudarake	きずだらけ	傷だらけ	
 26483	21460	kichijouji	きちじょうじ	吉祥寺	
 26483	21461	kiyasui	きやすい	気安い	 relaxed, familiar, easy to access, friendly
@@ -74,12 +74,12 @@
 26483	21474	koukou	こうこう	航行	 cruise, navigation, sailing
 26483	21475	koujoushin	こうじょうしん	向上心	 ambition, aspiration, desire to improve oneself
 26483	21476	kokusaku	こくさく	国策	 national policy
-26483	21477	kokorosuru	こころする	心する	 to take care, to mind, to be attentive
+26483	21477	kokoro	こころ	心	mind, heart, spirit | the meaning of a phrase (riddle, etc.), しん (心) heart, mind, spirit, vitality, inner strength | bottom of one's heart, core (of one's character), nature | centre, center, core, heart | heart (organ) | Chinese "Heart" constellation (one of the 28 mansions) | friend
 26483	21478	kozuku	こづく	小突く	 to poke, to push
 26483	21479	gokenin	ごけにん	御家人	 lower-ranking vassal in the Kamakura and Edo periods
 26483	21480	gosan	ごさん	誤算	 miscalculation
 26483	21481	goshushi	ごしゅし	御趣旨	
-26483	21482	goninsuru	ごにんする	誤認する	
+26483	21482	gonin	ごにん	誤認	 misrecognition, mistaking (x for y)
 26483	21483	saikaku	さいかく	才覚	ready wit, quick wits, resourcefulness | raising (money)
 26483	21484	sasoidasu	さそいだす	誘い出す	 to lure, to invite out
 26483	21485	shikeishuu	しけいしゅう	死刑囚	 criminal condemned to death, convict on death row
@@ -87,8 +87,8 @@
 26483	21487	shikouryoku	しこうりょく	思考力	 ability to think
 26483	21488	shijo	しじょ	子女	sons and daughters, children | girl
 26483	21489	shakaika	しゃかいか	社会化	 socialization, socialisation
-26483	21490	shugosuru	しゅごする	守護する	
-26483	21491	shukkousuru	しゅっこうする	出航する	
+26483	21490	shugo	しゅご	守護	protection, safeguard | shugo (Kamakura or Muromachi period military governor)
+26483	21491	shukkou	しゅっこう	出航	 departure (of a boat, plane), setting sail, leaving port, putting out to sea, takeoff
 26483	21492	shouninjinmon	しょうにんじんもん	証人尋問	
 26483	21493	shoumoji	しょうもじ	小文字	lowercase letter | small letter
 26483	21494	shiyouchuu	しようちゅう	使用中	 in use, occupied (e.g. toilet), engaged

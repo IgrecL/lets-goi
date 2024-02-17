@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:letsgoi/screens/anki_add.dart';
+import 'package:letsgoi/screens/definitions.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:io';
 
@@ -137,7 +137,7 @@ class _GameScreen extends State<GameScreen> {
                         Navigator.push(
                           context,
                           MaterialPageRoute(
-                            builder: (context) => AnkiAdd(level: widget.level, wrongIds: wrongIds),
+                            builder: (context) => Definitions(level: widget.level, wrongIds: wrongIds),
                           ),
                         );
                       },
@@ -179,6 +179,7 @@ class _GameScreen extends State<GameScreen> {
                           crossAxisCount: 4,
                           children: List.generate(
                             100,
+                            // cut ici je pense
                             (index) => Container(
                               margin: EdgeInsets.all(10),
                               decoration: BoxDecoration(

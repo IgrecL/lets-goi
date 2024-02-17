@@ -13,18 +13,18 @@
 11960	9813	iruka	いるか	海豚	 dolphin (or other small toothed whales, such as porpoises, belugas, etc.)
 11960	9814	useru	うせる	失せる	to disappear, to vanish, to fade away | to go, to leave | to die
 11960	9815	ganseki	がんせき	岩石	 rock
-11960	9816	kiyousuru	きようする	起用する	
+11960	9816	kiyou	きよう	起用	 appointment (to a position, job, etc.), being used for a role, promotion
 11960	9817	kounou	こうのう	効能	 effect, efficacy, virtue, benefit
-11960	9818	jininsuru	じにんする	辞任する	
+11960	9818	jinin	じにん	辞任	 resignation (from a position)
 11960	9819	toonoku	とおのく	遠退く	 to become distant, to recede
 11960	9820	ryouko	りょうこ	涼子	
 11960	9821	ryoutei	りょうてい	料亭	 ryotei, traditional Japanese restaurant (esp. a luxurious one)
 11960	9822	ryouwaki	りょうわき	両脇	 both sides
 11982	9823	antatachi	あんたたち	あんた達	
-11982	9824	ishokusuru	いしょくする	移植する	
+11982	9824	ishoku	いしょく	移植	transplanting (plants, organs, culture, etc.), transplant, grafting | porting (software)
 11982	9825	ouji	おうじ	皇子	 imperial prince, みこ (御子) Son of God | child of an emperor
-11982	9826	kankisuru	かんきする	喚起する	
-11982	9827	kanbensuru	かんべんする	勘弁する	
+11982	9826	kanki	かんき	喚起	 arousal, excitation, awakening, evocation
+11982	9827	kanben	かんべん	勘弁	 pardon, forgiveness, forbearance
 11982	9828	kumiireru	くみいれる	組み入れる	 to incorporate, to work into, to insert
 11982	9829	kuramu	くらむ	眩む	to be dazzled by, to be dizzied by, to be disoriented by | to be lost in (greed, lust, etc.) | to become dark
 11982	9830	gunkan	ぐんかん	軍艦	 warship, battleship
@@ -35,7 +35,7 @@
 11982	9835	taizennenhi	たいぜんねんひ	対前年比	 relative change from last year
 11982	9836	daishizen	だいしぜん	大自然	 nature, Mother Nature
 11982	9837	dan'atsu	だんあつ	弾圧	 oppression, suppression, pressure
-11982	9838	teishasuru	ていしゃする	停車する	
+11982	9838	teisha	ていしゃ	停車	 stopping (of a train, car, etc.), stop
 11982	9839	tomodomo	ともども	共々	 together, in company
 11982	9840	torinaosu	とりなおす	取り直す	to re-grip, to re-wrestle | to regroup (after some adverse event)
 11982	9841	nigiwai	にぎわい	賑わい	 prosperity, bustle, activity, crowd, turnout
@@ -50,7 +50,7 @@
 12015	9850	aratamaru	あらたまる	改まる	to be renewed, to change | to be improved, to be reformed, to be revised, to be corrected | to stand on ceremony, to be formal | to take a turn for the worse (of an illness), to take a serious turn
 12015	9851	anzenkakuho	あんぜんかくほ	安全確保	 maintenance of safety, safety guarantee, ensuring safety
 12015	9852	iawaseru	いあわせる	居合わせる	 to happen to be present
-12015	9853	ippankasuru	いっぱんかする	一般化する	
+12015	9853	ippanka	いっぱんか	一般化	generalization, generalisation, popularization, popularisation | to generalize, to generalise, to popularize, to popularise
 12015	9854	okayu	おかゆ	御粥	 thin rice porridge, watery cooked rice, rice gruel, congee
 12015	9855	kaizou	かいぞう	改造	remodeling, remodelling, restructuring, reconstruction, reshuffling (e.g. cabinet) | modding
 12015	9856	kanzei	かんぜい	関税	 tariff (import tax), duty, customs
@@ -58,12 +58,12 @@
 12015	9858	kisokenkyuu	きそけんきゅう	基礎研究	 basic research
 12015	9859	kime	きめ	木目	texture (e.g. skin, fabric) | grain (e.g. wood) | detail, もくめ (木目)  grain (of wood)
 12015	9860	kyuuchuu	きゅうちゅう	宮中	 imperial court
-12015	9861	saikensuru	さいけんする	再建する	
+12015	9861	saiken	さいけん	再建	rebuilding, reconstruction, rehabilitation | protoform reconstruction, さいこん (再建)  (temple or shrine) rebuilding
 12015	9862	saihen	さいへん	再編	 reorganization, reorganisation, reshuffle
 12015	9863	juudan	じゅうだん	銃弾	 bullet (from a rifle)
-12015	9864	jurisuru	じゅりする	受理する	
+12015	9864	juri	じゅり	受理	 acceptance
 12015	9865	sukitooru	すきとおる	透き通る	to be transparent, to be see-through, to be clear | to be clear (voice, sound)
-12015	9866	tenrakusuru	てんらくする	転落する	
+12015	9866	tenraku	てんらく	転落	fall, tumble, spill, plunge, dive | degradation, comedown, demotion, slump
 12015	9867	nagame	ながめ	長め	 longish, moderately long, somewhat long, fairly long
 12015	9868	hanpa	はんぱ	半端	remnant, fragment, incomplete set, incompleteness | fraction, odd sum | halfway, half-hearted, perfunctory | irresponsible, foolish
 12015	9869	hitotabi	ひとたび	一度	once, one time, on one occasion | temporarily, for a moment | one degree, one tone, one musical interval
@@ -83,7 +83,7 @@
 12052	9883	kenkoujoutai	けんこうじょうたい	健康状態	 (the condition of) one's health
 12052	9884	koyomi	こよみ	暦	 calendar, almanac
 12052	9885	gokurousama	ごくろうさま	御苦労様	 thank you for your hard work, I appreciate your efforts
-12052	9886	shutsuryokusuru	しゅつりょくする	出力する	
+12052	9886	shutsuryoku	しゅつりょく	出力	 output (electrical, signal, etc.)
 12052	9887	shougekiteki	しょうげきてき	衝撃的	 devastating, gut-wrenching, shocking, startling, sensational, astounding, astonishing
 12052	9888	jisshijoukyou	じっしじょうきょう	実施状況	 status of implementation, state of achievement
 12052	9889	seme	せめ	攻め	attack, offence, offense | dominant partner of a homosexual relationship | a barrage of, a flood of

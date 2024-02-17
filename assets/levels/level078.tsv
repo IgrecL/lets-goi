@@ -1,12 +1,12 @@
 9317	7701	ketsuekigata	けつえきがた	血液型	 blood type, blood group
 9317	7702	genzairyou	げんざいりょう	原材料	 raw materials, ingredients
 9317	7703	suzume	すずめ	雀	tree sparrow (Passer montanus) | talkative person, knowledgeable person
-9317	7704	toukousuru	とうこうする	投稿する	
+9317	7704	toukou	とうこう	投稿	 contribution (to a newspaper, magazine, etc.), submission, post (on a blog, social media, etc.)
 9317	7705	bashou	ばしょう	芭蕉	 Japanese fiber banana (Musa basjoo)
-9317	7706	bassuru	ばっする	罰する	 to punish, to penalize, to penalise
+9317	7706	batsu	ばっ	罰	 (divine) punishment, curse, retribution, ばつ (罰)  punishment, penalty
 9317	7707	hirouen	ひろうえん	披露宴	 reception (e.g. wedding), banquet, celebration, party
 9317	7708	fukureagaru	ふくれあがる	膨れ上がる	 to swell up
-9317	7709	hojosuru	ほじょする	補助する	
+9317	7709	hojo	ほじょ	補助	assistance, support, aid, help | subsidy, supplement, subvention, grant-in-aid | auxiliary, subsidiary | spot (in bodybuilding)
 9317	7710	mitsumori	みつもり	見積もり	 estimate, estimation, valuation, quotation
 9317	7711	mottomo	もっとも	尤も	 most, extremely, もっとも (尤も) but then, although, though | reasonable, natural, just
 9317	7712	yuufuku	ゆうふく	裕福	 wealthy, rich, affluent, well-off
@@ -15,7 +15,7 @@
 9336	7715	iwashi	いわし	鰯	 pilchard (esp. Japanese pilchard, Sardinops melanostictus), sardine
 9336	7716	kanshuu	かんしゅう	慣習	custom, convention, common practice | becoming accustomed (to)
 9336	7717	kikidasu	ききだす	聞き出す	to get information out of a person | to begin listening
-9336	7718	keibetsusuru	けいべつする	軽蔑する	
+9336	7718	keibetsu	けいべつ	軽蔑	 scorn, disdain, contempt
 9336	7719	koshiraeru	こしらえる	拵える	 to make, to manufacture
 9336	7720	saba	さば	鯖	mackerel (esp. the chub mackerel, Scomber japonicus) | server (in an online game)
 9336	7721	shuuchuu	しゅうちゅう	集中	concentration, focusing, convergence, centralization, integration, gathering together | within a collection of works
@@ -73,7 +73,7 @@
 9392	7773	nashi	なし	梨	 nashi (Pyrus pyrifolia, esp. var. culta), Japanese pear, Asian pear, sand pear, apple pear
 9392	7774	ningentachi	にんげんたち	人間達	
 9392	7775	hi	ひ	比	ratio, proportion | match, equal | explicit comparison (style of the Shi Jing) | Philippines | in comparison with ..., ころ (頃) (approximate) time, around, about, toward | suitable time (or condition) | time of year, season, たぐい (類い) kind, sort, type | equal, match, peer, ころおい (頃おい)  time, period, days
-9392	7776	heiyousuru	へいようする	併用する	
+9392	7776	heiyou	へいよう	併用	 using together (jointly), used at the same time
 9392	7777	yokuasa	よくあさ	翌朝	 next morning
 9410	7778	ashi	あし	悪し	 bad, evil
 9410	7779	irekawaru	いれかわる	入れ替わる	 to change places, to relieve one another, to replace someone
@@ -85,10 +85,10 @@
 9410	7785	juuzen	じゅうぜん	従前	 previous, former
 9410	7786	jouji	じょうじ	常時	usually, ordinarily, always | continuous, 24-hour (operation, care, etc.), constant, always on
 9410	7787	suzu	すず	鈴	 bell (often globular)
-9410	7788	hinansuru	ひなんする	避難する	
+9410	7788	hinan	ひなん	避難	 taking refuge, finding shelter, evacuation, escape, seeking safe haven
 9410	7789	yatai	やたい	屋台	cart (esp. a food cart), stall, stand | festival float, portable shrine dedicated to a god and shaped like a house, dancing platform | stage prop fashioned after a large building | framework (of a house, etc.) | house (esp. a small and miserable house)
 9410	7790	ryouma	りょうま	龍馬	splendid horse | promoted bishop
-9425	7791	konwakusuru	こんわくする	困惑する	
+9425	7791	konwaku	こんわく	困惑	 bewilderment, perplexity, embarrassment, discomfiture, bafflement
 9425	7792	souridaijin	そうりだいじん	総理大臣	 prime minister (as the head of a cabinet government), premier
 9425	7793	sofubo	そふぼ	祖父母	 grandparents
 9425	7794	taishou	たいしょう	大将	general, admiral | head, chief, leader, boss, kingpin | old chap, mate, boss, chief, man | athlete who competes in the last match of a team competition (kendo, judo, etc.)
@@ -96,5 +96,5 @@
 9425	7796	nyuukin	にゅうきん	入金	 deposit, payment, money received, money due
 9425	7797	handou	はんどう	反動	 reaction, recoil, kick, backlash
 9425	7798	hibikiwataru	ひびきわたる	響き渡る	 to resound, to echo, to reverberate
-9425	7799	bunpitsusuru	ぶんぴつする	分泌する	
+9425	7799	bunpitsu	ぶんぴつ	分泌	 secretion
 9435	7800	aitsura	あいつら	彼奴等	 they

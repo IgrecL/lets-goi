@@ -3,7 +3,7 @@
 54067	43003	hyoukeishiki	ひょうけいしき	表形式	 tabular, tabular form
 54067	43004	hirakihajimeru	ひらきはじめる	開き始める	
 54067	43005	hinja	ひんじゃ	貧者	 poor person
-54067	43006	bikkurigyoutensuru	びっくりぎょうてんする	びっくり仰天する	
+54067	43006	bikkurigyouten	びっくりぎょうてん	びっくり仰天	 astonished, stunned, startled out of one's wits, thunderstruck, open-eyed astonishment
 54067	43007	biryoku	びりょく	微力	little power, little influence | (one's) poor ability, limited ability, what little one can do
 54067	43008	biichiten	びーちてん	Ｂ地点	
 54067	43009	fuanteiyouin	ふあんていよういん	不安定要因	
@@ -26,7 +26,7 @@
 54067	43026	hengenjizai	へんげんじざい	変幻自在	 phantasmagoric, protean, shape-shifting, kaleidoscopic, capable of ever-changing appearance
 54067	43027	bessouchi	べっそうち	別荘地	 area of holiday homes, area of villas
 54067	43028	betsuryoukin	べつりょうきん	別料金	 extra cost, extra charge
-54067	43029	hougousuru	ほうごうする	縫合する	
+54067	43029	hougou	ほうごう	縫合	 sewing together, stitching up (a wound), suture
 54067	43030	houshisha	ほうししゃ	奉仕者	servant (of the people) | minister (of religion)
 54067	43031	houritsujimu	ほうりつじむ	法律事務	
 54067	43032	houwa	ほうわ	法話	 Buddhist sermon
@@ -35,7 +35,7 @@
 54067	43035	honshu	ほんしゅ	本種	
 54067	43036	honba	ほんば	本葉	 true leaf, foliage leaf, もとは (本葉)  trunk leaves, leaves near the base of a stem
 54067	43037	boukan	ぼうかん	暴漢	 hoodlum, ruffian
-54067	43038	boukensuru	ぼうけんする	冒険する	
+54067	43038	bouken	ぼうけん	冒険	adventure, venture | venture which is unlikely to succeed, risky attempt, danger, hazard, risk
 54067	43039	boushidekiru	ぼうしできる	防止出来る	
 54067	43040	maekawa	まえかわ	前川	
 54067	43041	magirasu	まぎらす	紛らす	to divert (e.g. one's mind), to distract, to relieve (e.g. boredom) | to conceal (e.g. one's sorrow with a smile), to shift (the conversation)
@@ -57,7 +57,7 @@
 54067	43057	miyako	みやこ	宮古	
 54067	43058	musaku	むさく	無策	 lack of policy, having no measures, lacking means
 54067	43059	mufuu	むふう	無風	windless, calm | quiet (state of affairs), peaceful, stable, safe (electoral seat)
-54067	43060	muryokukasuru	むりょくかする	無力化する	
+54067	43060	muryokuka	むりょくか	無力化	
 54067	43061	meiki	めいき	名器	famous utensil, excellent utensil | famed musical instrument (e.g. a Stradivarius), excellent musical instrument | excellent vagina, formidable vulva
 54067	43062	meikun	めいくん	名君	 wise ruler, enlightened monarch, benevolent lord
 54067	43063	meigen	めいげん	明言	 declaration, statement
@@ -95,6 +95,6 @@
 54067	43095	yobigun	よびぐん	予備軍	reserves (esp. troops), reserve army | potential members of some group (e.g. the elderly), people at risk (e.g. of a medical condition), wannabees
 54067	43096	yobouteki	よぼうてき	予防的	 preventive
 54067	43097	yoriwakeru	よりわける	選り分ける	 to classify, to sort out, to sift through
-54067	43098	raikousuru	らいこうする	来航する	
-54067	43099	rakujousuru	らくじょうする	落城する	
+54067	43098	raikou	らいこう	来航	 arrival of ships, arrival by ship
+54067	43099	rakujou	らくじょう	落城	 surrender (fall) of a castle
 54067	43100	ratenkei	らてんけい	ラテン系	

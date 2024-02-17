@@ -7,7 +7,7 @@
 14291	11707	itchoume	いっちょうめ	一丁目	
 14291	11708	oyakokankei	おやこかんけい	親子関係	 parent-child relationship
 14291	11709	kateikyoushi	かていきょうし	家庭教師	 private tutor, coach, governess
-14291	11710	kadousuru	かどうする	稼働する	
+14291	11710	kadou	かどう	稼働	 operation (of machine), operating, running, working
 14291	11711	sawagashii	さわがしい	騒がしい	noisy, boisterous | turbulent (era, etc.), troubled
 14291	11712	shikiri	しきり	仕切り	partition, division, boundary, compartment | settlement of accounts | preliminary warm-up ritual, toeing the mark | directing, controlling, managing, taking responsibility for
 14291	11713	shiteishikenkikan	していしけんきかん	指定試験機関	
@@ -16,7 +16,7 @@
 14291	11716	senmongakkou	せんもんがっこう	専門学校	 vocational school, technical school
 14291	11717	taisen	たいせん	対戦	 fighting (against), taking on (an opponent), facing, confronting, competing (with), battle, fight, contest, match
 14291	11718	tachiai	たちあい	立ち会い	presence (e.g. of an observer), observation, observer, witness | trading session (at an exchange)
-14291	11719	chuushasuru	ちゅうしゃする	注射する	
+14291	11719	chuusha	ちゅうしゃ	注射	 injection, jab, shot
 14291	11720	tsutome	つとめ	務め	service, duty, business, responsibility, task | Buddhist religious services
 14291	11721	toushou	とうしょう	東証	 Tokyo Stock Exchange
 14291	11722	torii	とりい	鳥居	 torii, Shinto shrine archway
@@ -30,9 +30,9 @@
 14291	11730	fukusei	ふくせい	複製	 reproduction, duplication, reprinting
 14291	11731	fuchi	ふち	縁	 connection (to a person, place, etc.), relation, affinity, えん (縁) fate, destiny (esp. as a mysterious force that binds two people together) | relationship (e.g. between two people), bond, link, connection | family ties, affinity | opportunity, chance (to meet someone and start a relationship) | pratyaya (indirect conditions, as opposed to direct causes) | narrow open-air veranda, ふち (縁)  rim, brim, edge, brink, よし (由) reason, significance, cause | piece of information that one has heard, I hear that ..., it is said that ..., よすが (縁) something to rely on, aid, clue, way, means | someone to rely on, relative | reminder, memento, へり (縁) edge (of a river, woods, etc.), shoulder (of a road) | rim, brim, hem, margin, fringe, selvage | fabric border (of a tatami mat, etc.), edging
 14291	11732	bunshin	ぶんしん	分身	other self, alter ego, part of oneself (in someone or something else), representation of oneself | incarnations of Buddha
-14291	11733	man'ensuru	まんえんする	蔓延する	
+14291	11733	man'en	まんえん	蔓延	 spread (e.g. of a disease), rampancy, infestation, proliferation, being widespread
 14291	11734	yuisho	ゆいしょ	由緒	 history, pedigree, lineage
-14328	11735	aihansuru	あいはんする	相反する	 to be contrary, to run counter (to), to conflict (with), to disagree (with)
+14328	11735	aihan	あいはん	相反	 inversion, opposition, conflicting, repulsion, contradiction
 14328	11736	issenchimeetoru	いっせんちめーとる	一センチメートル	
 14328	11737	iwai	いわい	祝い	congratulation, congratulations, celebration, festival | congratulatory gift, present
 14328	11738	uguisu	うぐいす	鶯	Japanese bush warbler (Horornis diphone), Japanese nightingale | greenish brown | having a beautiful voice
@@ -57,15 +57,15 @@
 14328	11757	tokugawa	とくがわ	徳川	
 14328	11758	tobikoeru	とびこえる	飛び越える	 to jump over, to clear, to walk over (someone)
 14328	11759	nanpun	なんぷん	何分	some, any, (a) little, of some kind, of some sort | please | anyway, anyhow, at any rate, after all, なんぷん (何分)  what minute, how many minutes
-14328	11760	haishinsuru	はいしんする	配信する	
+14328	11760	haishin	はいしん	配信	 distribution (of information, etc.), broadcast, delivery, transmission, streaming
 14328	11761	hamaki	はまき	葉巻	 cigar
-14328	11762	hankousuru	はんこうする	反抗する	
+14328	11762	hankou	はんこう	反抗	 opposition, resistance, insubordination, defiance, hostility, rebellion
 14328	11763	higaeri	ひがえり	日帰り	 day trip
 14328	11764	biki	びき	引き	pull, patronage, influence | tug | discount, びき (引き)  -off (price reduction)
 14328	11765	biigata	びーがた	Ｂ型	 type B (blood, influenza, hepatitis, etc.)
 14328	11766	fukiyou	ふきよう	不器用	clumsy, awkward, unskillfulness, lack of ability | tactless, awkward (e.g. socially), gauche | mean, cowardly, base
 14328	11767	fukuiken	ふくいけん	福井県	 Fukui prefecture (Hokuriku area)
-14328	11768	fukusuru	ふくする	服する	to obey, to submit to, to yield to, to accept, to abide by | to serve (in the army, a prison sentence, etc.) | to go into (mourning), to observe | to take (medicine, poison, etc.), to drink (tea)
+14328	11768	fuku	ふく	服	clothes (esp. Western clothes) | counter for doses of medicine, gulps of tea, drags of a cigarette, etc., ぶく (服) mourning clothes | mourning, period of mourning
 14328	11769	furushi	ふるし	古し	
 14328	11770	maishuu	まいしゅう	毎週	 every week
 14328	11771	yourei	ようれい	用例	 example, illustration
@@ -82,13 +82,13 @@
 14371	11782	kozoru	こぞる	挙る	to assemble everything together | to do something as a group
 14371	11783	sango	さんご	珊瑚	 coral
 14371	11784	zawameki	ざわめき	騒めき	 stir, commotion, noise
-14371	11785	shukkesuru	しゅっけする	出家する	
-14371	11786	jukuchisuru	じゅくちする	熟知する	
+14371	11785	shukke	しゅっけ	出家	entering the priesthood | priest, monk, bonze
+14371	11786	jukuchi	じゅくち	熟知	 being familiar with, having a thorough knowledge of, being well-informed about
 14371	11787	joudo	じょうど	浄土	pure land (esp. the Western Pure Land paradise of Amitabha), (Buddhist) paradise | Pure Land Buddhism
 14371	11788	seisai	せいさい	制裁	 sanctions, punishment
 14371	11789	sonchou	そんちょう	村長	 village headman, village mayor
 14371	11790	daichi	だいち	台地	 plateau, tableland, eminence
-14371	11791	dakyousuru	だきょうする	妥協する	
+14371	11791	dakyou	だきょう	妥協	 compromise, giving in
 14371	11792	chiikiteki	ちいきてき	地域的	 regional, local
 14371	11793	teigen	ていげん	低減	 decrease, reduction, fall, depreciation, mitigation
 14371	11794	najiru	なじる	詰る	to rebuke, to scold, to tell off, to find fault, to harp on, to reprove | to question persistently (in order to criticize or find fault with somebody)

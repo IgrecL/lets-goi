@@ -1,9 +1,9 @@
 48898	38701	kankeihouritsu	かんけいほうりつ	関係法律	
 48898	38702	kanshika	かんしか	監視下	 supervised, under surveillance
-48898	38703	kanninsuru	かんにんする	堪忍する	
+48898	38703	kannin	かんにん	堪忍	patience, forbearance, endurance, tolerance | forgiveness, pardon
 48898	38704	kanpanjou	かんぱんじょう	甲板上	
 48898	38705	gaishutsuchuu	がいしゅつちゅう	外出中	 while being out of the office or away from home
-48898	38706	gaisensuru	がいせんする	凱旋する	
+48898	38706	gaisen	がいせん	凱旋	 triumphal return
 48898	38707	gajou	がじょう	牙城	 stronghold (esp. of an enemy or opponent), inner citadel, bastion
 48898	38708	gazoushori	がぞうしょり	画像処理	 image processing
 48898	38709	kigurumi	きぐるみ	着ぐるみ	 cartoon-character costume
@@ -14,7 +14,7 @@
 48898	38714	kimidori	きみどり	黄緑	 pea green, yellow-green
 48898	38715	kyouikugakubu	きょういくがくぶ	教育学部	 faculty of education
 48898	38716	kyoukouha	きょうこうは	強硬派	 hard-liners, diehards, hawks
-48898	38717	kyoujisuru	きょうじする	教示する	
+48898	38717	kyouji	きょうじ	教示	 instruction, teaching
 48898	38718	kyouri	きょうり	教理	 doctrine
 48898	38719	kyokugei	きょくげい	曲芸	 acrobatics
 48898	38720	kyodaisa	きょだいさ	巨大さ	
@@ -42,20 +42,20 @@
 48898	38742	keijouitasu	けいじょういたす	計上致す	
 48898	38743	keitaisaito	けいたいさいと	携帯サイト	
 48898	38744	keihinrui	けいひんるい	景品類	
-48898	38745	keibisuru	けいびする	警備する	
+48898	38745	keibi	けいび	警備	 defense, defence, guard, policing, security
 48898	38746	keihoujou	けいほうじょう	刑法上	
-48898	38747	keimousuru	けいもうする	啓蒙する	
+48898	38747	keimou	けいもう	啓蒙	 enlightenment, instruction
 48898	38748	kenkoutaisou	けんこうたいそう	健康体操	
 48898	38749	gensui	げんすい	減衰	 attenuation, damping, decay
 48898	38750	genteihin	げんていひん	限定品	 limited stocks, limited lines, limited supplies
-48898	38751	gentensuru	げんてんする	減点する	
+48898	38751	genten	げんてん	減点	subtracting points | points deducted
 48898	38752	koishikawa	こいしかわ	小石川	
 48898	38753	koinegau	こいねがう	希う	 to beg, to request, to beseech, to implore, to entreat
 48898	38754	kouikirengou	こういきれんごう	広域連合	
 48898	38755	kouijitai	こういじたい	行為自体	
 48898	38756	kouka	こうか	校歌	 school song
 48898	38757	kousanshou	こうさんしょう	項参照	
-48898	38758	kouseisuru	こうせいする	更生する	
+48898	38758	kousei	こうせい	更生	rehabilitation, remaking one's life, starting life anew | rebirth, regeneration, reorganization, rebuilding, recovery, restoration, remaking | coming back to life, revival, resuscitation
 48898	38759	kouso	こうそ	光祖	
 48898	38760	kouzoukaizen	こうぞうかいぜん	構造改善	
 48898	38761	koutetsu	こうてつ	更迭	 change (of personnel), reshuffle (e.g. of a cabinet), shake-up, dismissal (e.g. of a minister), replacement
@@ -81,7 +81,7 @@
 48898	38781	sagyoukankyou	さぎょうかんきょう	作業環境	 work environment
 48898	38782	sakesakana	さけさかな	酒肴	 food and (alcoholic) drinks, food eaten with an alcoholic drink, accompaniment to a drink
 48898	38783	samugaru	さむがる	寒がる	 to be bothered by coldness, to complain about the cold
-48898	38784	sanyosuru	さんよする	参与する	
+48898	38784	sanyo	さんよ	参与	participation, taking part | consultant, councillor, adviser
 48898	38785	sanran	さんらん	散乱	 dispersion, scattering, spreading out, diffusion
 48898	38786	zaiseikouzoukaikakuhou	ざいせいこうぞうかいかくほう	財政構造改革法	
 48898	38787	zaichi	ざいち	在地	residence | countryside

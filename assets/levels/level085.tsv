@@ -1,14 +1,14 @@
 10189	8401	chichi	ちち	乳	milk | breast | loop | decorative bump (on a hanging bell)
-10189	8402	chuunyuusuru	ちゅうにゅうする	注入する	
+10189	8402	chuunyuu	ちゅうにゅう	注入	 pouring, injection
 10189	8403	nakigoe	なきごえ	泣き声	 cry, crying voice
 10189	8404	nanjuunen	なんじゅうねん	何十年	
 10189	8405	nemuke	ねむけ	眠気	 sleepiness, drowsiness
-10189	8406	haisuru	はいする	配する	to distribute, to arrange, to allot (to a position of authority, etc.) | to arrange, to lay out (as in decorating) | to marry off | to exile, to banish
+10189	8406	hai	はい	配	
 10189	8407	fukakachi	ふかかち	付加価値	 added value, value added
 10189	8408	houkatsuteki	ほうかつてき	包括的	 comprehensive, inclusive, encompassing
 10189	8409	boke	ぼけ	惚け	fool, idiot | dotage, senility, dementia | touched in the head (from), out of it (from), feeling sluggish (from), not yet up to par (after) | funny man (of a comedy duo), とぼけ (恍け)  assumed innocence, feigned ignorance
 10209	8410	kaiji	かいじ	開示	 release (e.g. information), disclosure (legal), show, indication, display
-10209	8411	kainyuusuru	かいにゅうする	介入する	
+10209	8411	kainyuu	かいにゅう	介入	 intervention
 10209	8412	kasumu	かすむ	霞む	to become misty, to become hazy | to get blurry, to grow dim | to be overshadowed, to be upstaged, to be outshone
 10209	8413	kangofusan	かんごふさん	看護婦さん	
 10209	8414	kojiki	こじき	古事記	 Kojiki, Records of Ancient Matters, Japan's oldest historical record
@@ -33,10 +33,10 @@
 10231	8433	jitsumu	じつむ	実務	 practical business, practical work experience, practicum, practice
 10231	8434	hamono	はもの	刃物	 edged tool, cutlery
 10231	8435	hikitomeru	ひきとめる	引き止める	 to detain, to check, to restrain
-10231	8436	funinsuru	ふにんする	赴任する	
+10231	8436	funin	ふにん	赴任	 moving to a different location to start a new job, (proceeding to) new appointment
 10231	8437	buji	ぶじ	無事	safety, security, peace, quiet | safely, without incident, successfully | good health | inaction, ennui
 10231	8438	muzan	むざん	無残	cruel, merciless, atrocious, ruthless, cold-blooded | pitiful, tragic, horrible, miserable | breaking a religious precept without shame
-10231	8439	reitousuru	れいとうする	冷凍する	
+10231	8439	reitou	れいとう	冷凍	 freezing, cold storage, refrigeration
 10249	8440	iku	いく	生く	to live, to exist | to bring to life
 10249	8441	ippanjin	いっぱんじん	一般人	 ordinary person, member of the general public, non-celebrity
 10249	8442	omoiegaku	おもいえがく	思い描く	 to imagine, to picture, to figure, to see
@@ -66,12 +66,12 @@
 10272	8466	dousentaa	どうせんたー	同センター	
 10272	8467	hatarakikake	はたらきかけ	働き掛け	 pressure, encouragement, urging, promoting
 10272	8468	fuka	ふか	不可	wrong, bad, improper, unjustifiable, inadvisable | not allowed, not possible | failing grade
-10272	8469	henkeisuru	へんけいする	変形する	
+10272	8469	henkei	へんけい	変形	 transformation, variation, metamorphosis, modification, deformation, variety, deformity, monster
 10272	8470	mangaichi	まんがいち	万が一	(if) by some chance, by some possibility, in the unlikely event that, 10000 to 1 | (unlikely event of) emergency, the worst(-case scenario)
 10272	8471	meidai	めいだい	命題	proposition, thesis, notion, theory | problem, issue, challenge
 10272	8472	yoru	よる	選る	 to choose, to select
 10292	8473	ukiagaru	うきあがる	浮き上がる	to float, to rise to the surface | to stand out, to be visible | to be alienated
-10292	8474	oufukusuru	おうふくする	往復する	
+10292	8474	oufuku	おうふく	往復	making a round trip, going and returning, coming and going | round-trip ticket, return ticket | correspondence, exchanging (letters) | socializing, visiting one another
 10292	8475	kakikaeru	かきかえる	書き替える	 to rewrite, to overwrite, to renew, to transfer
 10292	8476	keitou	けいとう	系統	system | lineage, ancestry, family line | group (e.g. of colors) (colours), family (e.g. of languages), party, school (of thought) | close (evolutionary) relationship | a population sharing a common ancestor (in genetics), strain (e.g. bacterial)
 10292	8477	kofun	こふん	古墳	 ancient burial mound, barrow, tumulus
@@ -86,7 +86,7 @@
 10309	8486	aiken	あいけん	愛犬	pet dog, beloved dog | love of dogs, fondness for dogs
 10309	8487	itoguchi	いとぐち	糸口	beginning, start, first step | clue, lead, hint | thread end
 10309	8488	ooya	おおや	大家	 landlord, landlady, たいか (大家) master, expert, authority, leading figure | mansion, large house | rich family, distinguished family, たいけ (大家)  rich family, distinguished family
-10309	8489	okotowarisuru	おことわりする	御断りする	
+10309	8489	okotowari	おことわり	御断り	
 10309	8490	kake	かけ	賭け	 bet, wager, stake, gamble
 10309	8491	ganzen	がんぜん	眼前	 before one's eyes
 10309	8492	gokigen	ごきげん	御機嫌	humour, humor, temper, mood, spirits | safety, health, well-being, one's situation | in a good mood, in high spirits, happy, cheery, merry, chipper

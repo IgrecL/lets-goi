@@ -3,7 +3,7 @@
 12307	10103	mokuto	もくと	目途	aim, goal | prospect, outlook
 12307	10104	yakuzaishi	やくざいし	薬剤師	 pharmacist, chemist
 12307	10105	yukute	ゆくて	行く手	 one's way, one's path
-12307	10106	ryourisuru	りょうりする	料理する	
+12307	10106	ryouri	りょうり	料理	cooking, cookery, cuisine, meal, food, dish, item on a menu | dealing with something, handling, administration, management
 12307	10107	rounin	ろうにん	浪人	ronin, masterless samurai | high school graduate waiting for another chance to enter university after having failed the yearly entrance examination | person out of work, jobless person | wanderer, drifter
 12338	10108	airashii	あいらしい	愛らしい	 pretty, charming, lovely, adorable
 12338	10109	oseji	おせじ	御世辞	 flattery, compliment
@@ -16,19 +16,19 @@
 12338	10116	gachi	がち	勝ち	 win, victory, がち (勝ち) apt to (do), liable to, prone to, inclined to, tend to | predominantly, mostly, having lots of | ... reaps the rewards, ... takes the prize, ... wins
 12338	10117	kikan	きかん	器官	 organ (of body, plant, etc.)
 12338	10118	keiren	けいれん	痙攣	 convulsion, cramp, spasm, tic, twitch, fit
-12338	10119	kegasuru	けがする	怪我する	
+12338	10119	kega	けが	怪我	 injury (to animate object), hurt
 12338	10120	geisha	げいしゃ	芸者	 geisha, professional female entertainer, usu. at traditional banquets
 12338	10121	shukanteki	しゅかんてき	主観的	 subjective
 12338	10122	sugisaru	すぎさる	過ぎ去る	 to pass, to pass by
 12338	10123	susumekata	すすめかた	進め方	 format, procedure, way of proceeding
-12338	10124	seishisuru	せいしする	静止する	
+12338	10124	seishi	せいし	静止	 stillness, repose, standing still
 12338	10125	tasukeau	たすけあう	助け合う	 to help each other, to cooperate
 12338	10126	tamagoyaki	たまごやき	卵焼き	rolled egg, rolled omelette (omelet) | fried egg | frying pan for making rolled eggs
 12338	10127	chimata	ちまた	巷	the public, the street (e.g. "word on the street") | street, district, quarters | location (e.g. of a battle), scene (e.g. of carnage) | divide (e.g. between life and death) | fork (in a road), crossroads
 12338	10128	nagashi	ながし	長し	
 12338	10129	nohara	のはら	野原	 field, plain, prairie, moor
 12338	10130	hohoemi	ほほえみ	微笑み	 smile
-12338	10131	bougaisuru	ぼうがいする	妨害する	
+12338	10131	bougai	ぼうがい	妨害	 disturbance, obstruction, hindrance, jamming, interference
 12338	10132	maeashi	まえあし	前足	 forefoot, forefeet, foreleg, forelimb
 12338	10133	manabi	まなび	学び	 learning, study
 12338	10134	yoshinobu	よしのぶ	慶喜	
@@ -44,9 +44,9 @@
 12367	10144	kenbutsu	けんぶつ	見物	sightseeing, watching, viewing | sightseer, watcher, spectator, みもの (見物)  sight, attraction, spectacle, something worth seeing
 12367	10145	kokizami	こきざみ	小刻み	mincing, chopping finely | short and repeated (movements) (e.g. trembling, stepping quickly) | gradual, bit by bit, little by little
 12367	10146	shinise	しにせ	老舗	 long-established shop, shop of long standing, old shop
-12367	10147	shujutsusuru	しゅじゅつする	手術する	
+12367	10147	shujutsu	しゅじゅつ	手術	surgery, operation, procedure | skill with one's hands, sleight of hand
 12367	10148	shounika	しょうにか	小児科	 pediatrics
-12367	10149	shoubusuru	しょうぶする	勝負する	
+12367	10149	shoubu	しょうぶ	勝負	victory or defeat | match, contest, game, bout
 12367	10150	jishaku	じしゃく	磁石	magnet | compass
 12367	10151	jissenteki	じっせんてき	実践的	 practical, pragmatic, hands-on, nuts and bolts
 12367	10152	zensou	ぜんそう	前走	
@@ -85,7 +85,7 @@
 12405	10185	hidarishita	ひだりした	左下	 lower left
 12405	10186	henpin	へんぴん	返品	 returned goods, returning purchased goods
 12405	10187	yakuwaribuntan	やくわりぶんたん	役割分担	 division (distribution) of roles, role-sharing
-12405	10188	yuukaisuru	ゆうかいする	誘拐する	
+12405	10188	yuukai	ゆうかい	誘拐	 abduction, kidnapping, kidnaping
 12405	10189	yooroppajin	よーろっぱじん	ヨーロッパ人	 European (person)
 12405	10190	rekidai	れきだい	歴代	 successive generations, successive emperors
 12435	10191	ikaseru	いかせる	生かせる	

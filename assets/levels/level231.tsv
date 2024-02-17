@@ -6,13 +6,13 @@
 28477	23006	kousei	こうせい	更生	rehabilitation, remaking one's life, starting life anew | rebirth, regeneration, reorganization, rebuilding, recovery, restoration, remaking | coming back to life, revival, resuscitation
 28477	23007	kouyougo	こうようご	公用語	 official language
 28477	23008	kourikakaku	こうりかかく	小売り価格	
-28477	23009	kokujisuru	こくじする	告示する	
+28477	23009	kokuji	こくじ	告示	 notice, bulletin
 28477	23010	kotou	ことう	孤島	 solitary island
 28477	23011	kobayashisan	こばやしさん	小林さん	
 28477	23012	konbou	こんぼう	棍棒	 stick, club, cudgel, bludgeon
 28477	23013	gobyuu	ごびゅう	誤謬	mistake, error | fallacy
 28477	23014	saitekika	さいてきか	最適化	 optimization, optimisation
-28477	23015	sankeisuru	さんけいする	参詣する	
+28477	23015	sankei	さんけい	参詣	 visit to a temple or shrine, worship, pilgrimage
 28477	23016	shiensha	しえんしゃ	支援者	 supporter
 28477	23017	shijin	しじん	私人	 private individual
 28477	23018	shisoku	しそく	子息	 son
@@ -62,11 +62,11 @@
 28477	23062	chouda	ちょうだ	長蛇	long snake | long line (of people, etc.)
 28477	23063	tsuujoukokkai	つうじょうこっかい	通常国会	 ordinary session of the Diet
 28477	23064	tsukamatsuru	つかまつる	仕る	 to serve, to do
-28477	23065	tenkasuru	てんかする	点火する	
+28477	23065	tenka	てんか	点火	 ignition, lighting, firing, setting off, とぼし (点火)  light, lamp
 28477	23066	tenpushorui	てんぷしょるい	添付書類	attached papers | attachment (mail, etc.)
 28477	23067	denkiteki	でんきてき	電気的	
 28477	23068	totsuzenhen'i	とつぜんへんい	突然変異	 mutation
-28477	23069	tobeisuru	とべいする	渡米する	
+28477	23069	tobei	とべい	渡米	 going to the United States
 28477	23070	tomareru	とまれる	泊まれる	
 28477	23071	torikumeru	とりくめる	取り組める	
 28477	23072	toritsugi	とりつぎ	取り次ぎ	agency, commission, distributor, intermediation | reception (of guests) | conveyance (of messages)
@@ -74,26 +74,26 @@
 28477	23074	nakanoooeno	なかのおおえの	中大兄	
 28477	23075	nigirimeshi	にぎりめし	握り飯	 rice ball
 28477	23076	noriko	のりこ	典子	
-28477	23077	hairetsusuru	はいれつする	配列する	
+28477	23077	hairetsu	はいれつ	配列	arrangement, disposition | array (programming)
 28477	23078	hasaki	はさき	刃先	 edge of blade
 28477	23079	hajimemashite	はじめまして	初めまして	 How do you do?, I am glad to meet you
 28477	23080	hanamichi	はなみち	花道	elevated walkway through the audience to the stage (kabuki) | honourable end to a career, かどう (華道)  flower arrangement
-28477	23081	hanbetsusuru	はんべつする	判別する	
+28477	23081	hanbetsu	はんべつ	判別	 distinction, discrimination, distinguishing, discernment
 28477	23082	hanryou	はんりょう	半量	 half the amount
 28477	23083	hikarabiru	ひからびる	干涸びる	 to dry up completely, to become stale
 28477	23084	hikumeru	ひくめる	低める	 to lower, to be lowered
 28477	23085	hijouji	ひじょうじ	非常時	 time of emergency, (in an) emergency
 28477	23086	hitsuji	ひつじ	未	the Sheep (eighth sign of the Chinese zodiac), the Ram, the Goat | hour of the Sheep (around 2pm, 1-3pm, or 2-4pm) | south-southwest | sixth month of the lunar calendar, み (未)  not yet, un-
 28477	23087	hyakumiririttoru	ひゃくみりりっとる	百ミリリットル	
-28477	23088	bikasuru	びかする	美化する	
+28477	23088	bika	びか	美化	 beautification, glorification
 28477	23089	bugaisha	ぶがいしゃ	部外者	 outsider, someone outside of a group
 28477	23090	butei	ぶてい	武帝	
 28477	23091	puri	ぷり	振り	swing, shake, wave, swinging | appearance, behaviour | pretence (pretense), show, pretending (to) | going to restaurant, hotel etc. without a reservation or introduction | move (dance), postures | lead in (e.g. to a running joke, asking a question), lead up | unsewn part of a hanging sleeve on a traditional Japanese woman's garment | counter for swords, blades, etc. | not wearing underwear or pants, ぶり (振り) style, manner, way | after (period of time) again (e.g. meeting again after a year), for the first time in (period of time)
-28477	23092	hekiekisuru	へきえきする	辟易する	
-28477	23093	henpinsuru	へんぴんする	返品する	
+28477	23092	hekieki	へきえき	辟易	to be fed up (with), to be tired (of), to be bored (with), to be unable to bear | to be stumped, to be nonplussed, to be disconcerted | to wince, to shrink back, to cringe
+28477	23093	henpin	へんぴん	返品	 returned goods, returning purchased goods
 28477	23094	hokoreru	ほこれる	誇れる	
 28477	23095	hoppouryoudomondai	ほっぽうりょうどもんだい	北方領土問題	 Northern Territories dispute, Kuril Islands dispute
-28477	23096	machibusesuru	まちぶせする	待ち伏せする	
+28477	23096	machibuse	まちぶせ	待ち伏せ	 ambush, lying in wait for an ambush
 28477	23097	mamerui	まめるい	豆類	 pulse (edible seeds of various leguminous crops), plant yielding pulse
 28477	23098	manpai	まんぱい	満杯	 full
 28477	23099	misui	みすい	未遂	 failed attempt (at a crime, suicide, etc.)

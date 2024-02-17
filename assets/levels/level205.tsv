@@ -26,11 +26,11 @@
 25093	20426	fushi	ふし	父子	 father and child, father and son, father and daughter
 25093	20427	hentetsu	へんてつ	変哲	 something unusual, something odd, something out of the ordinary
 25093	20428	matsuba	まつば	松葉	 pine needle
-25093	20429	manryousuru	まんりょうする	満了する	
+25093	20429	manryou	まんりょう	満了	 expiration, termination
 25093	20430	michinoku	みちのく	陸奥	 Mutsu (former province located in present-day Fukushima, Miyagi, Iwate, and Aomori prefectures), りくおう (陸奥)  Rikuō (former province located in parts of present-day Aomori and Iwate prefectures)
 25093	20431	meiyokison	めいよきそん	名誉毀損	 libel, defamation, slander, character assassination
-25093	20432	menkaisuru	めんかいする	面会する	
-25093	20433	mensetsusuru	めんせつする	面接する	
+25093	20432	menkai	めんかい	面会	 meeting (face-to-face), seeing, visit, interview
+25093	20433	mensetsu	めんせつ	面接	 interview (e.g. for a job)
 25093	20434	mochijikan	もちじかん	持ち時間	 amount of time one has
 25093	20435	motoru	もとる	悖る	 to go against, to act contrary to, to run counter to, to deviate from
 25093	20436	mofuku	もふく	喪服	 mourning dress
@@ -72,13 +72,13 @@
 25249	20472	kisei	きせい	帰省	 homecoming, returning home
 25249	20473	kiban	きばん	基板	 substrate, (computer) circuit board
 25249	20474	kimarimonku	きまりもんく	決まり文句	 cliche, platitude, formula, set phrase
-25249	20475	kyuurakusuru	きゅうらくする	急落する	
+25249	20475	kyuuraku	きゅうらく	急落	 sudden fall, sharp fall, sudden drop, sharp drop
 25249	20476	gijutsuiten	ぎじゅついてん	技術移転	 technology transfer
 25249	20477	kuroban	くろばん	黒番	 black to play (in go)
 25249	20478	keisatsuchoushirabe	けいさつちょうしらべ	警察庁調べ	
 25249	20479	keu	けう	希有	 rare, uncommon
 25249	20480	kenkyuutaishou	けんきゅうたいしょう	研究対象	 subject of research
-25249	20481	gekitsuisuru	げきついする	撃墜する	
+25249	20481	gekitsui	げきつい	撃墜	 shooting down (aircraft)
 25249	20482	genkanmae	げんかんまえ	玄関前	
 25249	20483	geemuki	げーむき	ゲーム機	 console, game console, game machine, gaming machine
 25249	20484	kouta	こうた	小歌	Heian era court lady's song (accompanying men's oouta), court lady singing a kouta | ditty, ballad, short, hummable, popular tune from Muromachi era to early Edo era | kyogen kouta, style of kyogen song based on the Muromachi songs, often love ballad | noh kouta, unusual style of noh song based on the Muromachi songs
@@ -88,7 +88,7 @@
 25249	20488	kokkou	こっこう	国交	 diplomatic relations
 25249	20489	gokurou	ごくろう	御苦労	trouble (I have put you through), (your) hard work | thank you for your hard work, I appreciate your efforts
 25249	20490	gochou	ごちょう	語調	tone (of voice), parlance, style | intonation, accent
-25249	20491	saishuppinsuru	さいしゅっぴんする	再出品する	
+25249	20491	saishuppin	さいしゅっぴん	再出品	
 25249	20492	saiteikion	さいていきおん	最低気温	 minimum temperature, lowest temperature, (today's) low
 25249	20493	saezuru	さえずる	囀る	 to sing, to chirp, to twitter
 25249	20494	shigai	しがい	市外	 outside the city area, suburbs

@@ -2,14 +2,14 @@
 29304	23602	iiowaru	いいおわる	良い終わる	
 29304	23603	ikue	いくえ	育江	
 29304	23604	ichioku	いちおく	一億	 100,000,000, one hundred million
-29304	23605	ichijunsuru	いちじゅんする	一巡する	
-29304	23606	ikkatsusuru	いっかつする	一喝する	
+29304	23605	ichijun	いちじゅん	一巡	 beat, round
+29304	23606	ikkatsu	いっかつ	一喝	sharp, loud rebuke, bark, roar | rebuke used in Zen to achieve enlightenment
 29304	23607	ippanshakai	いっぱんしゃかい	一般社会	 general public
 29304	23608	iryuubun	いりゅうぶん	遺留分	 heir's distributive share
 29304	23609	uyamuya	うやむや	有耶無耶	 indefinite, hazy, vague, unsettled, undecided
 29304	23610	eiyoujoutai	えいようじょうたい	栄養状態	
 29304	23611	ookisaki	おおきさき	大后	
-29304	23612	okikiwosuru	おききをする	御聞きをする	
+29304	23612	okikiwo	おききを	御聞きを	
 29304	23613	oshihakaru	おしはかる	推し量る	 to guess, to conjecture, to surmise
 29304	23614	osouji	おそうじ	御掃除	
 29304	23615	omikuji	おみくじ	御御籤	 fortune slip (usu. bought at a shrine)
@@ -37,7 +37,7 @@
 29304	23637	kirai	きらい	機雷	 (sea) mine
 29304	23638	kusai	くさい	臭い	stinking, smelly | suspicious, fishy | clumsy, unskilled | smelling of | looking like, appearing like, smacking of, -ish, におい (匂い) odour, odor, scent, smell, stench | aura, whiff, smacks of ..., sense, flavour, flavor
 29304	23639	kudakechiru	くだけちる	砕け散る	 to be smashed up
-29304	23640	gunseisuru	ぐんせいする	群生する	
+29304	23640	gunsei	ぐんせい	群生	growing en masse in one location (of plants) | living gregariously (of animals), living in flocks, herds, colonies, etc. | all animate creation
 29304	23641	keiki	けいき	刑期	 prison term
 29304	23642	keizaijoutai	けいざいじょうたい	経済状態	 economic conditions, economic situation, financial situation, financial circumstances
 29304	23643	kenami	けなみ	毛並み	coat (of hair or fur), lie of (dog's) hair | type, sort | lineage, breeding
@@ -51,7 +51,7 @@
 29304	23651	kotomonage	こともなげ	事も無気	
 29304	23652	go	ご	御	honorific, polite, humble prefix | honorific suffix, ぎょ (御) honorific affix | honorific prefix, み (御) august | beautiful, おおみ (大御)  august (in ref. to the emperor or the gods), imperial, divine, お (御)  honorific, polite, humble prefix
 29304	23653	goukin	ごうきん	合金	 alloy
-29304	23654	saihenseisuru	さいへんせいする	再編成する	
+29304	23654	saihensei	さいへんせい	再編成	 reorganization, reorganisation, reshuffle
 29304	23655	sakanatsuri	さかなつり	魚釣り	 fishing
 29304	23656	sashiki	さしき	挿し木	 cutting, planting (a cutting)
 29304	23657	saho	さほ	佐穂	
@@ -75,7 +75,7 @@
 29304	23675	jishinmanman	じしんまんまん	自信満々	 full of confidence, brimming with (self-)confidence, having great faith in oneself
 29304	23676	jisei	じせい	時勢	 (trend of) the times, current of the times, spirit of the age
 29304	23677	jippu	じっぷ	実父	 one's real father, natural father, biological father
-29304	23678	jininsuru	じにんする	自認する	
+29304	23678	jinin	じにん	自認	admission, (self-)acknowledgment, (self-)acknowledgement | self-identification
 29304	23679	jibasangyou	じばさんぎょう	地場産業	 local industry, traditional local industry
 29304	23680	jibeta	じべた	地べた	 bare earth, ground
 29304	23681	ju	じゅ	受	 vedana (sensation)
@@ -92,8 +92,8 @@
 29304	23692	sekiyuseihin	せきゆせいひん	石油製品	 petroleum products, petrochemical products
 29304	23693	sedaikoutai	せだいこうたい	世代交代	 alternation of generations
 29304	23694	senkyoku	せんきょく	戦局	 state of the war, war situation
-29304	23695	senseisuru	せんせいする	先制する	
-29304	23696	zeninsuru	ぜにんする	是認する	
+29304	23695	sensei	せんせい	先制	 head start, initiative, preemption
+29304	23696	zenin	ぜにん	是認	 approval
 29304	23697	zendankai	ぜんだんかい	前段階	 preliminary step, first step
 29304	23698	sokuhou	そくほう	速報	 news flash, prompt report, bulletin, quick announcement
 29304	23699	sokokoko	そこここ	其処此処	 here and there, in places

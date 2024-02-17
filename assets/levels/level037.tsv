@@ -1,6 +1,6 @@
 4270	3601	kangofu	かんごふ	看護婦	 (female) nurse
 4270	3602	tantou	たんとう	担当	 being in charge (of an area of responsibility), being responsible (for a work role, etc.)
-4270	3603	hoshousuru	ほしょうする	保障する	
+4270	3603	hoshou	ほしょう	保障	 guarantee, security, assurance, pledge, warranty
 4276	3604	asahi	あさひ	朝日	 morning sun
 4276	3605	shitamawaru	したまわる	下回る	 to fall below (esp. figures profits, unemployment rate, etc.), to be less than, to be lower than, to fall just short of, to be just under
 4276	3606	shotokuzei	しょとくぜい	所得税	 income tax
@@ -18,7 +18,7 @@
 4289	3618	tsukiru	つきる	尽きる	 to be used up, to be run out, to be exhausted, to be consumed, to come to an end
 4293	3619	koutsuu	こうつう	交通	 traffic, transportation, communication, exchange (of ideas, etc.), intercourse
 4293	3620	nittei	にってい	日程	 schedule, program, programme, agenda
-4293	3621	yosokusuru	よそくする	予測する	
+4293	3621	yosoku	よそく	予測	 prediction, estimation
 4296	3622	keisatsukan	けいさつかん	警察官	 police officer, policeman, policewoman
 4296	3623	shokuzai	しょくざい	食材	ingredient | foodstuff
 4296	3624	nezumi	ねずみ	鼠	mouse, rat | dark gray, dark grey, slate (color, colour)
@@ -31,11 +31,11 @@
 4306	3631	souchi	そうち	装置	equipment, device, installation, apparatus | stage setting
 4306	3632	tabitabi	たびたび	度々	 often, again and again, over and over again, repeatedly, frequently
 4311	3633	senjou	せんじょう	戦場	 battlefield, battleground
-4311	3634	ninshinsuru	にんしんする	妊娠する	
+4311	3634	ninshin	にんしん	妊娠	 conception, pregnancy
 4314	3635	tsuujiru	つうじる	通じる	to be open (to traffic), to lead to, to communicate (with) | to flow (liquid, current), to pass, to get through to | to be understood, to be comprehended | to be honored, to be good | to be well versed in, to be well-informed | to communicate clandestinely, to keep in touch (e.g. with the enemy) | to form a liaison, to be intimate | to spread widely, to disseminate
 4314	3636	buhin	ぶひん	部品	 parts, accessories, components
 4316	3637	hayashi	はやし	林	wood, woods, forest, grove, copse, thicket | bunch (of something), cluster, line, collection
-4317	3638	kidousuru	きどうする	起動する	
+4317	3638	kidou	きどう	起動	 startup, booting up, activation, starting (e.g. engine, computer), launch
 4317	3639	hikizuru	ひきずる	引き摺る	to drag along, to pull | to force someone along | to prolong, to drag out | to influence strongly, to seduce
 4317	3640	rei	れい	霊	 soul, spirit, departed soul, ghost, たましい (魂)  soul, spirit, み (神)  soul, spirit, divine spirit, りょう (霊)  vengeful spirit, revengeful ghost
 4320	3641	shougen	しょうげん	証言	 testimony, (verbal) evidence
@@ -44,7 +44,7 @@
 4322	3644	dakishimeru	だきしめる	抱き締める	 to hug someone close, to hold someone tight, to embrace closely
 4322	3645	chosho	ちょしょ	著書	 (written) work, book, writings
 4322	3646	najimu	なじむ	馴染む	 to become familiar with, to fit in, to adapt oneself, to get used to, to grow accustomed to
-4322	3647	fusokusuru	ふそくする	不足する	
+4322	3647	fusoku	ふそく	不足	insufficiency, deficiency, shortage, lack, scarcity, deficit | dissatisfaction, discontent, complaint
 4327	3648	pekin	ぺきん	北京	 Beijing (China), Peking
 4329	3649	ikou	いこう	意向	 intention, idea, inclination, wish
 4329	3650	obi	おび	帯	obi, kimono sash | paper wrapper on books, CDs, etc. | band, belt, strip | cingulum | radio or television program broadcast in the same time slot on all or most days, たい (帯)  band (e.g. conduction, valence), belt (e.g. Van-Allen, asteroid, etc.)
@@ -57,8 +57,8 @@
 4336	3657	hansei	はんせい	反省	reflection, reconsideration, introspection, meditation, contemplation | regret, repentance, remorse, being sorry
 4340	3658	ketten	けってん	欠点	fault, defect, flaw, weak point, weakness, shortcoming, drawback | failure (in an examination), failing grade
 4340	3659	jikoku	じこく	時刻	time, (the) hour | favourable time, opportunity, chance
-4340	3660	tenjisuru	てんじする	展示する	
-4343	3661	keieisuru	けいえいする	経営する	
+4340	3660	tenji	てんじ	展示	 exhibition, display
+4343	3661	keiei	けいえい	経営	 management, administration, operation, running (business), conducting
 4343	3662	tesuuryou	てすうりょう	手数料	 (handling) fee, charge (e.g. for a cancellation), commission, brokerage
 4346	3663	kantou	かんとう	関東	Kanto, region consisting of Tokyo and surrounding prefectures | Kanto, north-eastern half of Japan (during the feudal era)
 4346	3664	genjitsuteki	げんじつてき	現実的	 realistic, pragmatic
@@ -70,11 +70,11 @@
 4353	3670	sakujo	さくじょ	削除	 deletion, elimination, erasure, striking out
 4353	3671	fukyou	ふきょう	不況	 depression, recession, slump
 4353	3672	fukusayou	ふくさよう	副作用	 side effect, adverse reaction
-4357	3673	kiyosuru	きよする	寄与する	
+4357	3673	kiyo	きよ	寄与	 contribution, service
 4357	3674	tanjou	たんじょう	誕生	 birth, creation, formation
 4357	3675	fudousan	ふどうさん	不動産	 real estate
 4357	3676	musuu	むすう	無数	 innumerable, countless, numberless
-4362	3677	soshikisuru	そしきする	組織する	
+4362	3677	soshiki	そしき	組織	organization, organisation, formation | structure, construction, setup, constitution | system (e.g. railroad, transport, party, etc.) | tissue | texture (of a rock) | weave (of a fabric)
 4362	3678	daiichishou	だいいちしょう	第一章	 chapter one, first chapter
 4366	3679	oikomu	おいこむ	追い込む	to herd, to drive, to chase, to corral | to corner, to force someone into doing | to go hard, to push yourself, to make a last charge | to run on (e.g. lines in printing)
 4366	3680	kumiai	くみあい	組合	 association, union, guild
@@ -87,12 +87,12 @@
 4373	3687	maemuki	まえむき	前向き	front-facing | forward-looking, positive, constructive
 4376	3688	koube	こうべ	神戸	 Kobe (city)
 4376	3689	juuten	じゅうてん	重点	important point, emphasis, stress, importance, priority | iteration mark | colon (punctuation)
-4376	3690	sokuteisuru	そくていする	測定する	
+4376	3690	sokutei	そくてい	測定	 measurement
 4376	3691	tokai	とかい	都会	city | Tokyo Metropolitan Assembly
 4376	3692	manazashi	まなざし	眼差し	 (a) look, gaze
 4381	3693	sato	さと	里	village, hamlet | countryside, country | home (of one's parents, etc.), hometown | one's origins, one's upbringing, one's past, り (里) Japanese league, ri, old Japanese unit of distance, approx. 3.927km or 2.44 miles | neighbourhood (under the ritsuryo system; orig. of 50 homes) | unit of area (approx. 654m by 654m)
 4382	3694	kasa	かさ	傘	umbrella, parasol | something shaped like an umbrella or a conical hat, shade (of a lamp), mushroom cap, pileus, からかさ (から傘)  paper umbrella, bamboo-and-paper umbrella parasol
-4383	3695	kijutsusuru	きじゅつする	記述する	
+4383	3695	kijutsu	きじゅつ	記述	 description, account
 4384	3696	kikasu	きかす	聞かす	to let (someone) hear, to tell (e.g. a story), to inform (of) | to make (someone) listen, to make (someone) understand, to drum into (someone) | to grip (someone) with skilful singing, storytelling, etc., to hold (someone) enchanted by
 4386	3697	kusai	くさい	臭い	stinking, smelly | suspicious, fishy | clumsy, unskilled | smelling of | looking like, appearing like, smacking of, -ish, におい (匂い) odour, odor, scent, smell, stench | aura, whiff, smacks of ..., sense, flavour, flavor
 4386	3698	taishousha	たいしょうしゃ	対象者	 target group, target persons

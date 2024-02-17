@@ -12,7 +12,7 @@
 43153	34412	chokuei	ちょくえい	直営	 direct management
 43153	34413	chirimenjako	ちりめんじゃこ	縮緬雑魚	 dried young sardines
 43153	34414	ppe	っぺ	っ屁	
-43153	34415	tsuitotsusuru	ついとつする	追突する	
+43153	34415	tsuitotsu	ついとつ	追突	 rear-end collision
 43153	34416	tsuufuu	つうふう	通風	 ventilation, draft, airing
 43153	34417	tsukiawasu	つきあわす	付き合わす	
 43153	34418	tsukibetsu	つきべつ	月別	 by months
@@ -24,7 +24,7 @@
 43153	34424	tenki	てんき	天鬼	
 43153	34425	tenkizu	てんきず	天気図	 weather map
 43153	34426	tenmado	てんまど	天窓	skylight | head
-43153	34427	dekiaisuru	できあいする	溺愛する	
+43153	34427	dekiai	できあい	溺愛	 infatuation, adoration, blind love, doting (on a child)
 43153	34428	denwasaabisu	でんわさーびす	電話サービス	
 43153	34429	tougaijigyounendo	とうがいじぎょうねんど	当該事業年度	
 43153	34430	tougaitodokede	とうがいとどけで	当該届け出	
@@ -33,7 +33,7 @@
 43153	34433	toukei	とうけい	東経	 east longitude
 43153	34434	toujoujinbutsutachi	とうじょうじんぶつたち	登場人物達	
 43153	34435	touboku	とうぼく	倒木	 fallen tree
-43153	34436	toodesuru	とおでする	遠出する	
+43153	34436	toode	とおで	遠出	 trip, excursion, outing
 43153	34437	tomoko	ともこ	知子	
 43153	34438	torikeshitou	とりけしとう	取り消し等	
 43153	34439	toretate	とれたて	取れ立て	 just-harvested, something freshly harvested or gathered (usually produce)
@@ -49,14 +49,14 @@
 43153	34449	nikutarashii	にくたらしい	憎たらしい	 odious, hateful, awful, horrid, revolting
 43153	34450	nissha	にっしゃ	日射	 solar radiation, insolation
 43153	34451	nipponzendo	にっぽんぜんど	日本全土	
-43153	34452	ninshousuru	にんしょうする	認証する	
+43153	34452	ninshou	にんしょう	認証	certification, attestation, authentication, confirmation | Imperial attestation
 43153	34453	nukisashi	ぬきさし	抜き差し	addition and deletion, taking out and putting in, plugging and unplugging | making do, getting by, managing
 43153	34454	nunokire	ぬのきれ	布切れ	 piece of cloth
 43153	34455	ne	ね	寝	 sleep, ぬ (寝)  to lie down, to go to bed, to go to sleep
 43153	34456	nesshinsa	ねっしんさ	熱心さ	
 43153	34457	nougyoushotoku	のうぎょうしょとく	農業所得	
 43153	34458	haikishu	はいきしゅ	肺気腫	 pulmonary emphysema
-43153	34459	haichousuru	はいちょうする	拝聴する	
+43153	34459	haichou	はいちょう	拝聴	 listening respectfully
 43153	34460	haku	はく	拍	beat | mora
 43153	34461	hasantetsuzukikaishi	はさんてつづきかいし	破産手続き開始	
 43153	34462	hajirau	はじらう	羞じらう	 to feel shy, to be bashful, to blush
@@ -74,7 +74,7 @@
 43153	34474	hitorimi	ひとりみ	独り身	 unmarried man (woman)
 43153	34475	hinanmin	ひなんみん	避難民	 evacuees, displaced persons, refugees
 43153	34476	hiyakashi	ひやかし	冷やかし	banter, teasing, chaffing, raillery, josh | merely asking the price, just looking at goods, window-shopping, browsing
-43153	34477	hyouhensuru	ひょうへんする	豹変する	
+43153	34477	hyouhen	ひょうへん	豹変	 sudden change, complete change
 43153	34478	hyourou	ひょうろう	兵糧	 (army) provisions, food
 43153	34479	hinkonsou	ひんこんそう	貧困層	 underclasses, poorest segment of the population, the poor
 43153	34480	bika	びか	美化	 beautification, glorification
@@ -82,7 +82,7 @@
 43153	34482	fukushishisaku	ふくししさく	福祉施策	
 43153	34483	fukutsuu	ふくつう	腹痛	 stomach ache, abdominal pain
 43153	34484	fujino	ふじの	藤野	
-43153	34485	fujinsuru	ふじんする	布陣する	
+43153	34485	fujin	ふじん	布陣	battle formation | lineup (e.g. for a game)
 43153	34486	fukkidekiru	ふっきできる	復帰出来る	
 43153	34487	futsuuhanashi	ふつうはなし	普通話	 Standard Chinese, Modern Standard Mandarin, Putonghua
 43153	34488	fudoumyouou	ふどうみょうおう	不動明王	 Acala (Wisdom King), Acalanatha, Fudō Myōō (Myō-ō), fierce Buddhist deity
@@ -92,7 +92,7 @@
 43153	34492	beikokukeizai	べいこくけいざい	米国経済	
 43153	34493	beihan	べいはん	米飯	 cooked rice
 43153	34494	hoikushitsu	ほいくしつ	保育室	nursery school, day nursery | nursery room
-43153	34495	houkisuru	ほうきする	蜂起する	
+43153	34495	houki	ほうき	蜂起	 uprising, revolt
 43153	34496	housokusei	ほうそくせい	法則性	 law-like nature, regularity
 43153	34497	hoshiebi	ほしえび	干しえび	
 43153	34498	hokkaidoudaigaku	ほっかいどうだいがく	北海道大学	

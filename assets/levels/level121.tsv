@@ -1,11 +1,11 @@
 14623	12001	dansou	だんそう	断層	fault, dislocation | gap, discrepancy
 14623	12002	tsuppashiru	つっぱしる	突っ走る	 to run swiftly, to dash, to rush, to race
-14623	12003	touketsusuru	とうけつする	凍結する	
+14623	12003	touketsu	とうけつ	凍結	freezing (e.g. water) | freezing (prices, wages, assets, etc.), moratorium, suspension (e.g. investment)
 14623	12004	nyuusha	にゅうしゃ	入社	 joining a company, getting a job with a company, entering a company
 14623	12005	ningenrashii	にんげんらしい	人間らしい	 human, humane
 14623	12006	hikeru	ひける	弾ける	to burst open, to split open, to pop | to be bursting with (e.g. youth, laughter, flavor) | to bounce, to bound
 14623	12007	hisshi	ひっし	必至	inevitable, necessary, foregone | brinkmate (inevitable checkmate)
-14623	12008	henjisuru	へんじする	返事する	
+14623	12008	henji	へんじ	返事	 reply, answer, response
 14623	12009	ho	ほ	穂	ear (of plant), head (of plant) | point, tip | scion (in grafting), cion
 14623	12010	hoji	ほじ	保持	 retention, maintenance, preservation
 14623	12011	maryoku	まりょく	魔力	 magical powers, supernatural powers, spell, charm
@@ -29,7 +29,7 @@
 14664	12029	shuuyousho	しゅうようしょ	収容所	 internment camp, detention facility, POW camp, refugee camp
 14664	12030	shussekisha	しゅっせきしゃ	出席者	 those present, attendance
 14664	12031	shinseiji	しんせいじ	新生児	 newborn baby
-14664	12032	takuetsusuru	たくえつする	卓越する	
+14664	12032	takuetsu	たくえつ	卓越	 preeminence, excellence, superiority, transcendence
 14664	12033	tachi	たち	質	quality, value | nature, inherent quality, character | logical quality, たち (質) nature (of a person), disposition, temperament | nature (of something), character, kind, sort, しち (質) pawn, pawned article | pledge, security, guarantee
 14664	12034	tabisaki	たびさき	旅先	 destination, goal (of travel), place one stays during a journey
 14664	12035	chanoyu	ちゃのゆ	茶の湯	 tea ceremony
@@ -53,7 +53,7 @@
 14716	12053	ansei	あんせい	安政	 Ansei era (1854.11.27-1860.3.18)
 14716	12054	ikinokori	いきのこり	生き残り	survival | survivor, relic
 14716	12055	ichikiro	いちきろ	一キロ	
-14716	12056	oshaberisuru	おしゃべりする	御喋りする	
+14716	12056	oshaberi	おしゃべり	御喋り	chattering, talk, idle talk, chat, chitchat, gossip | chatty, talkative, chatterbox, blabbermouth
 14716	12057	kakuzuke	かくづけ	格付け	 rating, classification, allocation, grading
 14716	12058	kasseisanso	かっせいさんそ	活性酸素	 reactive oxygen (i.e. free radicals, which can be destructive at high concentrations)
 14716	12059	kaya	かや	蚊帳	 mosquito net
@@ -65,7 +65,7 @@
 14716	12065	samatage	さまたげ	妨げ	 obstruction, hindrance
 14716	12066	sansen	さんせん	参戦	participation in a war, going to war | taking part in a competition or contest
 14716	12067	shiina	しいな	椎名	
-14716	12068	shikyosuru	しきょする	死去する	
+14716	12068	shikyo	しきょ	死去	 death
 14716	12069	shizei	しぜい	市税	 city tax
 14716	12070	shusshouritsu	しゅっしょうりつ	出生率	 birth rate
 14716	12071	jimae	じまえ	自前	paying one's own expenses | going into business for oneself, working independently, person who earns their own living
@@ -75,7 +75,7 @@
 14716	12075	suwareru	すわれる	座れる	
 14716	12076	seiten	せいてん	晴天	 fine weather (i.e. little or no clouds), fair weather, clear weather, clear sky, fair skies
 14716	12077	sobaya	そばや	蕎麦屋	 soba restaurant
-14716	12078	taimensuru	たいめんする	対面する	
+14716	12078	taimen	たいめん	対面	meeting face-to-face, seeing in person | facing (each other), opposing (traffic, etc.), confronting, トイメン (対面) opposite player | opposite side, (person) directly opposite
 14716	12079	taresagaru	たれさがる	垂れ下がる	 to hang, to dangle
 14716	12080	chuukanhoukoku	ちゅうかんほうこく	中間報告	 interim report
 14716	12081	tsukaikiru	つかいきる	使い切る	 to use up, to exhaust, to wear out
@@ -87,7 +87,7 @@
 14716	12087	nyuugakushiki	にゅうがくしき	入学式	 school entrance ceremony
 14716	12088	norigokochi	のりごこち	乗り心地	 one's feeling while riding, comfort (of a vehicle), ride quality
 14716	12089	hashiritsuzukeru	はしりつづける	走り続ける	 to keep running
-14716	12090	hatsugasuru	はつがする	発芽する	
+14716	12090	hatsuga	はつが	発芽	 germination, sprouting, budding
 14716	12091	hayashi	はやし	林	wood, woods, forest, grove, copse, thicket | bunch (of something), cluster, line, collection
 14716	12092	handoutai	はんどうたい	半導体	 semiconductor, solid-state
 14716	12093	bakayarou	ばかやろう	馬鹿野郎	 goddamn idiot, moron, nitwit

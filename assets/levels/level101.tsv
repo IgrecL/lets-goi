@@ -6,7 +6,7 @@
 12179	10006	hinketsu	ひんけつ	貧血	 anemia, anaemia
 12179	10007	myou	みょう	妙	strange, weird, odd, curious | wonder, mystery, miracle, excellence | cleverness, adroitness, knack, skill
 12179	10008	meizu	めいず	命ず	
-12179	10009	ryoukaisuru	りょうかいする	了解する	
+12179	10009	ryoukai	りょうかい	了解	comprehension, consent, understanding, agreement | OK, roger (on two-way radio)
 12179	10010	wazawai	わざわい	災い	 disaster, calamity, misfortune, trouble, woes
 12179	10011	watakushinari	わたくしなり	私形	
 12218	10012	itteki	いってき	一滴	 one drop (of fluid)
@@ -16,7 +16,7 @@
 12218	10016	kyouhaku	きょうはく	脅迫	 threat, menace, coercion, terrorism
 12218	10017	kuchiguchi	くちぐち	口々	every person, every mouth | every entrance
 12218	10018	keiretsu	けいれつ	系列	series, sequence, system, succession | keiretsu (group), conglomeration of businesses linked by cross-shareholdings | affiliated, subsidiary
-12218	10019	koshitsusuru	こしつする	固執する	
+12218	10019	koshitsu	こしつ	固執	 sticking to (an opinion, theory, belief, etc.), clinging to, adherence, persistence, insistence
 12218	10020	shikichinai	しきちない	敷地内	
 12218	10021	shoubou	しょうぼう	消防	fire fighting | fire department, fire brigade
 12218	10022	zurui	ずるい	狡い	sly, cunning, sneaky, crafty, unfair, dishonest | miserly, mean, stingy
@@ -25,14 +25,14 @@
 12218	10025	setchakuzai	せっちゃくざい	接着剤	 adhesive, glue
 12218	10026	taikeiteki	たいけいてき	体系的	 systematic
 12218	10027	taishohou	たいしょほう	対処法	 coping method, approach, how to deal with (problem, etc.)
-12218	10028	tanposuru	たんぽする	担保する	
+12218	10028	tanpo	たんぽ	担保	 security, guarantee, collateral (e.g. mortgage)
 12218	10029	daigakujidai	だいがくじだい	大学時代	
 12218	10030	chikyuukankyou	ちきゅうかんきょう	地球環境	 global environment
 12218	10031	nagarederu	ながれでる	流れ出る	 to flow out, to stream out, to pour out, to gush forth, to leak, to ooze out, to drift away
 12218	10032	hiniku	ひにく	皮肉	irony, sarcasm, cynicism, satire | unexpected, different from what one expected, not as one had planned | (only) surface, something superficial | skin and bone, body
 12218	10033	fukigen	ふきげん	不機嫌	 pout, displeasure, ill humor, ill humour, sullenness
 12218	10034	beppyou	べっぴょう	別表	 annexed (statistical) table
-12218	10035	ryuushutsusuru	りゅうしゅつする	流出する	
+12218	10035	ryuushutsu	りゅうしゅつ	流出	discharge, outward flow, efflux, effluence, haemorrhage, hemorrhage, bleeding (e.g. ink into paper) | leak of (private) information or pictures
 12246	10036	aku	あく	灰汁	lye | harsh taste, bitter taste, alkaline taste, astringency | scum (on a soup, broth etc.) | (excessive) self-assertiveness, strong individuality, strong idiosyncrasy
 12246	10037	akujunkan	あくじゅんかん	悪循環	 vicious circle, vicious cycle
 12246	10038	ashishitsu	あししつ	脚質	running style (e.g. front runner) | riding style (of a keirin cyclist)
@@ -60,8 +60,8 @@
 12272	10060	kaisei	かいせい	快晴	 clear weather, cloudless weather, good weather
 12272	10061	kakihajimeru	かきはじめる	書き始める	to begin to write, to begin writing | to begin to draw, to begin drawing, to begin painting
 12272	10062	kumitate	くみたて	組み立て	 construction, framework, erection, assembly, organization, organisation
-12272	10063	kunrensuru	くんれんする	訓練する	
-12272	10064	kesshuusuru	けっしゅうする	結集する	
+12272	10063	kunren	くんれん	訓練	 training, drill, practice, discipline
+12272	10064	kesshuu	けっしゅう	結集	 concentration (of efforts, forces, etc.), gathering together, regimentation, marshalling, mobilization
 12272	10065	kenkouteki	けんこうてき	健康的	 hygienic, healthy, healthful, sanitary
 12272	10066	san	さん	酸	acid | sourness, sour taste, す (酢)  vinegar
 12272	10067	jouhoukoukai	じょうほうこうかい	情報公開	 freedom of information, access to information, disclosure of information (e.g. by the government)
@@ -74,9 +74,9 @@
 12272	10074	teichaku	ていちゃく	定着	sticking (in one place, position, etc.), settling, fixing, adherence | becoming established (of a custom, system, etc.), taking hold, taking root | fixation (photography), fixing
 12272	10075	hairetsu	はいれつ	配列	arrangement, disposition | array (programming)
 12272	10076	hakisuteru	はきすてる	吐き捨てる	 to spit out, to eject, to dump
-12272	10077	heikinsuru	へいきんする	平均する	
+12272	10077	heikin	へいきん	平均	average, mean | balance, equilibrium
 12272	10078	heike	へいけ	平家	Heike family, Taira family | The Tale of the Heike | chanting of the Heike Monogatari, ひらや (平家)  bungalow, one-story house
-12272	10079	hokujousuru	ほくじょうする	北上する	
+12272	10079	hokujou	ほくじょう	北上	 going north
 12272	10080	mabara	まばら	疎ら	 sparse, thin, scattered, straggling, sporadic
 12272	10081	mizuiro	みずいろ	水色	 light blue, pale blue, aqua, すいしょく (水色) colour of water (esp. in rivers, lakes, sea) | scenery of rivers, lakes, etc. | light blue, pale blue, aqua
 12272	10082	meibo	めいぼ	名簿	 register of names, list of names, roll, register, roster, みょうぶ (名簿)  proof of identity (for nobles, doctors, etc.) (Heian period)

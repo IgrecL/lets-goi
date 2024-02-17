@@ -1,7 +1,7 @@
 23392	19001	senshinteki	せんしんてき	先進的	
 23392	19002	senmonyougo	せんもんようご	専門用語	 technical term
 23392	19003	zenyou	ぜんよう	全容	 full portrait, whole aspect, full story
-23392	19004	sousakusuru	そうさくする	捜索する	
+23392	19004	sousaku	そうさく	捜索	search (esp. for someone or something missing), manhunt | legally authorized search of a person, building, etc.
 23392	19005	sokuteichi	そくていち	測定値	 measured value
 23392	19006	soroban	そろばん	算盤	 abacus
 23392	19007	takematsu	たけまつ	武松	
@@ -31,7 +31,7 @@
 23392	19031	maeoki	まえおき	前置き	 preface, introduction, preamble
 23392	19032	miko	みこ	御子	Son of God | child of an emperor, おこ (お子)  (someone else's) child
 23392	19033	mizusashi	みずさし	水差し	pitcher, water jug, watering can | container of fresh water for replenishing the kettle and rinsing bowls (tea ceremony)
-23392	19034	mondaishisuru	もんだいしする	問題視する	
+23392	19034	mondaishi	もんだいし	問題視	 viewing as a problem, problematizing
 23392	19035	yakutou	やくとう	屋久島	
 23392	19036	youmou	ようもう	羊毛	 wool
 23392	19037	rakka	らっか	落下	 fall, drop, descent, coming down
@@ -54,7 +54,7 @@
 23510	19054	kaerigiwa	かえりぎわ	帰り際	 time of departure, (on the) point of departure, just as one is leaving
 23510	19055	katsura	かつら	桂	 katsura (Cercidiphyllum japonicum), Japanese Judas tree, けい (桂)  knight
 23510	19056	kari	かり	借り	 borrowing, debt, loan
-23510	19057	kantsuusuru	かんつうする	貫通する	
+23510	19057	kantsuu	かんつう	貫通	piercing, penetrating, perforating, passing through | being well versed (in)
 23510	19058	kanriun'ei	かんりうんえい	管理運営	
 23510	19059	gakui	がくい	学位	 (academic) degree
 23510	19060	ganjitsu	がんじつ	元日	 New Year's Day
@@ -67,8 +67,8 @@
 23510	19067	kuroshio	くろしお	黒潮	 Kuroshio Current, Japan Current
 23510	19068	kuwadate	くわだて	企て	 plan, attempt, undertaking
 23510	19069	keshin	けしん	化身	 incarnation, impersonation, personification, avatar
-23510	19070	gekihasuru	げきはする	撃破する	
-23510	19071	kouensuru	こうえんする	講演する	
+23510	19070	gekiha	げきは	撃破	 crushing
+23510	19071	kouen	こうえん	講演	 lecture, address, speech
 23510	19072	kouon	こうおん	高温	 high temperature
 23510	19073	kousotsu	こうそつ	高卒	 high school graduate
 23510	19074	kouryosu	こうりょす	考慮す	

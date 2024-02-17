@@ -6,7 +6,7 @@
 17552	14306	kaitei	かいてい	改訂	 revision (of text), alteration, change
 17552	14307	kanki	かんき	換気	 ventilation
 17552	14308	kanbu	かんぶ	患部	 affected part, diseased part, wound
-17552	14309	kikansuru	きかんする	帰還する	
+17552	14309	kikan	きかん	帰還	repatriation, return | (electrical) feedback
 17552	14310	kyuujo	きゅうじょ	救助	 relief, aid, rescue
 17552	14311	kyodou	きょどう	挙動	 conduct, behavior, behaviour
 17552	14312	kinkyuujitai	きんきゅうじたい	緊急事態	 state of emergency, emergency, crisis
@@ -31,7 +31,7 @@
 17552	14331	tekigi	てきぎ	適宜	suitable, appropriate, fitting, proper | appropriately, accordingly, as required, at one's discretion
 17552	14332	tekihou	てきほう	適法	 legal, lawful, legitimate
 17552	14333	tekiyoudekiru	てきようできる	適用出来る	
-17552	14334	tenmetsusuru	てんめつする	点滅する	
+17552	14334	tenmetsu	てんめつ	点滅	 switching on and off (of a light), flashing, blinking, flickering
 17552	14335	toukai	とうかい	東海	region south of Tokyo on Pacific Ocean side of Japan, eastern sea | East Sea (Korean name for Sea of Japan)
 17552	14336	doushi	どうし	同市	 same city
 17552	14337	dokuritsugyouseihoujin	どくりつぎょうせいほうじん	独立行政法人	 independent administrative corporation (institution, agency)
@@ -63,7 +63,7 @@
 17617	14363	kanbi	かんび	甘美	sweet (taste), luscious | sweet (melody, dream, etc.), delightful, pleasant, mellow, mellifluous
 17617	14364	kikaika	きかいか	機械化	mechanization, mechanisation | computerization
 17617	14365	kigai	きがい	気概	 strong spirit, mettle, backbone, guts, fighting spirit
-17617	14366	kiseisuru	きせいする	帰省する	
+17617	14366	kisei	きせい	帰省	 homecoming, returning home
 17617	14367	kinshounichi	きんしょうにち	金正日	
 17617	14368	kinzokusei	きんぞくせい	金属製	 made of metal
 17617	14369	kensetsukouji	けんせつこうじ	建設工事	 construction work
@@ -71,12 +71,12 @@
 17617	14371	kokuminkeizai	こくみんけいざい	国民経済	 national economy
 17617	14372	koyousha	こようしゃ	雇用者	employee | employer, person hiring others
 17617	14373	goenryokudasaru	ごえんりょくださる	御遠慮下さる	
-17617	14374	sankasuru	さんかする	酸化する	
+17617	14374	sanka	さんか	酸化	 oxidation, oxidization
 17617	14375	sankousho	さんこうしょ	参考書	 reference book
 17617	14376	shushi	しゅし	主旨	meaning, point (e.g. of a statement), gist, effect | goal, intent, object, aim, point
 17617	14377	shoukaiseki	しょうかいせき	蔣介石	
 17617	14378	shoukan	しょうかん	償還	 repayment, redemption, amortization, amortisation
-17617	14379	shousuru	しょうする	証する	to prove, to verify | to guarantee, to promise
+17617	14379	shou	しょう	証	mark, sign | symbol, emblem | badge, crest, flag | evidence, proof | token (of gratitude, affection, etc.), あかし (証) proof, evidence, sign, testimony, vindication | certificate, license, membership card | to testify (usu. Christian religious context) | enlightenment | symptoms (in Chinese medicine), patient's condition
 17617	14380	shouhin	しょうひん	賞品	 prize, trophy
 17617	14381	shoufu	しょうふ	娼婦	 prostitute, harlot
 17617	14382	jiden	じでん	自伝	 autobiography
@@ -89,12 +89,12 @@
 17617	14389	taigai	たいがい	大概	generally, mainly, usually, normally, mostly, for the most part | nearly all, almost all, most | gist, summary, outline, main idea | staying within bounds, not overdoing (something), not getting carried away, not going too far, being moderate | probably, perhaps, in all likelihood | considerably, greatly, really
 17617	14390	takumi	たくみ	匠	workman, artisan, mechanic, carpenter | craft, skill | means, idea
 17617	14391	daburyuuhai	だぶりゅーはい	Ｗ杯	 World Cup
-17617	14392	chuushisuru	ちゅうしする	注視する	
+17617	14392	chuushi	ちゅうし	注視	 gazing steadily at, observing (a person) closely, maintain a watch over
 17617	14393	tsumekakeru	つめかける	詰め掛ける	 to crowd (a house), to throng to (a door)
-17617	14394	teppaisuru	てっぱいする	撤廃する	
+17617	14394	teppai	てっぱい	撤廃	 annulment, abolition, repeal, rescission
 17617	14395	temadoru	てまどる	手間取る	 to take more time than expected, to take a long time, to be delayed
 17617	14396	tokushima	とくしま	徳島	 Tokushima (city, prefecture)
 17617	14397	tokubetsuku	とくべつく	特別区	special ward, administrative subdivision of a prefecture that has a directly elected mayor and assembly | special economic zone (China) | special administrative region of China (e.g. Hong Kong)
 17617	14398	naritakuukou	なりたくうこう	成田空港	
 17617	14399	nokogiri	のこぎり	鋸	saw | musical saw
-17617	14400	haisetsusuru	はいせつする	排泄する	
+17617	14400	haisetsu	はいせつ	排泄	 excretion

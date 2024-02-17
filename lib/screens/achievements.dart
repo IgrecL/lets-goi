@@ -86,41 +86,9 @@ class AchievementsScreen extends StatelessWidget {
                         mainAxisAlignment: MainAxisAlignment.start,
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
-                          Container(
-                            margin: EdgeInsets.only(left: 10, right: 10, top: 10),
-                            child: Text(
-                              '${index.toString()}/${achievements.length}',
-                              style: TextStyle(
-                                color: snapshot.data,
-                                fontSize: MediaQuery.of(context).size.width / 50,
-                                fontWeight: FontWeight.bold,
-                              ),
-                              textAlign: TextAlign.left,
-                            ),
-                          ),
-                          Container(
-                            margin: EdgeInsets.only(left: 10, right: 10),
-                            child: Text(
-                              achievements[index][0],
-                              style: TextStyle(
-                                color: snapshot.data,
-                                fontSize: MediaQuery.of(context).size.width / 20,
-                                fontWeight: FontWeight.bold,
-                              ),
-                              textAlign: TextAlign.left,
-                            ),
-                          ),
-                          Container(
-                            margin: EdgeInsets.only(left: 10, right: 10, bottom: 10),
-                            child: Text(
-                              achievements[index][1],
-                              style: TextStyle(
-                                color: snapshot.data,
-                                fontSize: MediaQuery.of(context).size.width / 30,
-                              ),
-                              textAlign: TextAlign.left,
-                            ),
-                          ),
+                          _textContainer('${index.toString()}/${achievements.length}', true, false, 50, true, context, snapshot.data),
+                          _textContainer(achievements[index][0], false, false, 20, true, context, snapshot.data),
+                          _textContainer(achievements[index][1], false, true, 30, false, context, snapshot.data),
                         ],
                       ),
                     );
@@ -130,6 +98,21 @@ class AchievementsScreen extends StatelessWidget {
             ),
           ),
         ),
+      ),
+    );
+  }
+
+  Container _textContainer(String text, bool edgeTop, bool edgeBottom, int size, bool bold, BuildContext context, Color? color) {
+    return Container(
+      margin: edgeTop ? EdgeInsets.only(left: 10, right: 10, top: 10) : (edgeBottom ? EdgeInsets.only(left: 10, right: 10, bottom: 10) : EdgeInsets.only(left: 10, right: 10)),
+      child: Text(
+        text,
+        style: TextStyle(
+          color: color,
+          fontSize: MediaQuery.of(context).size.width / size,
+          fontWeight: bold ? FontWeight.bold : FontWeight.normal,
+        ),
+        textAlign: TextAlign.left,
       ),
     );
   }

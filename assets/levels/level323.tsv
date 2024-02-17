@@ -1,9 +1,9 @@
 40349	32201	jinkensoudan	じんけんそうだん	人権相談	
 40349	32202	jinjabukkaku	じんじゃぶっかく	神社仏閣	 (Shinto) shrines and (Buddhist) temples
-40349	32203	suikyosuru	すいきょする	推挙する	
+40349	32203	suikyo	すいきょ	推挙	 recommendation (of a person for a position), nomination
 40349	32204	suusen'en	すうせんえん	数千円	
 40349	32205	zukai	ずかい	図解	 schematic, schema, illustration, explanatory diagram
-40349	32206	seikansuru	せいかんする	生還する	
+40349	32206	seikan	せいかん	生還	returning alive, surviving | reaching the home plate
 40349	32207	seijouka	せいじょうか	正常化	 normalization, normalisation
 40349	32208	seibishi	せいびし	整備士	 mechanic
 40349	32209	setsurei	せつれい	設例	
@@ -12,11 +12,11 @@
 40349	32212	zensha	ぜんしゃ	全社	 whole company, all the companies
 40349	32213	zenshain	ぜんしゃいん	全社員	
 40349	32214	zenpen	ぜんぺん	前編	 first part, first volume, prequel
-40349	32215	soutaisuru	そうたいする	早退する	
-40349	32216	souchisuru	そうちする	送致する	
+40349	32215	soutai	そうたい	早退	 leaving early
+40349	32216	souchi	そうち	送致	 sending, forwarding
 40349	32217	soubou	そうぼう	相貌	 looks, features
 40349	32218	sochihou	そちほう	措置法	
-40349	32219	zouinsuru	ぞういんする	増員する	
+40349	32219	zouin	ぞういん	増員	 increasing the number of staff, hiring more people
 40349	32220	taigi	たいぎ	大儀	state ceremony | laborious, troublesome, irksome, arduous
 40349	32221	taishu	たいしゅ	太守	 viceroy, governor-general
 40349	32222	taiseiseibi	たいせいせいび	体制整備	
@@ -38,7 +38,7 @@
 40349	32238	chuukoushinsho	ちゅうこうしんしょ	中公新書	
 40349	32239	chuugokucha	ちゅうごくちゃ	中国茶	 Chinese tea
 40349	32240	chuumokudo	ちゅうもくど	注目度	 degree of attention, profile
-40349	32241	tsuigekisuru	ついげきする	追撃する	
+40349	32241	tsuigeki	ついげき	追撃	 pursuit (of a fleeing enemy), chase
 40349	32242	tsuukindensha	つうきんでんしゃ	通勤電車	 commuter train
 40349	32243	tsukaizurai	つかいづらい	使い辛い	
 40349	32244	tsutsumigami	つつみがみ	包み紙	 wrapping paper
@@ -83,11 +83,11 @@
 40349	32283	hasansha	はさんしゃ	破産者	 bankrupt person, insolvent person
 40349	32284	hashutsusho	はしゅつしょ	派出所	branch office | police box, local police station
 40349	32285	hashirikata	はしりかた	走り方	
-40349	32286	hatsuikusuru	はついくする	発育する	
+40349	32286	hatsuiku	はついく	発育	 (physical) growth, development
 40349	32287	hanashiaeru	はなしあえる	話し合える	
 40349	32288	haraiotosu	はらいおとす	払い落とす	 to brush off, to shake off
 40349	32289	han'enkei	はんえんけい	半円形	 semicircular
-40349	32290	hankyousuru	はんきょうする	反響する	
+40349	32290	hankyou	はんきょう	反響	echo, reverberation | response, reaction, repercussions, sensation, influence
 40349	32291	ban	ばん	晩	evening, night | dinner, evening meal | counter for nights
 40349	32292	higashiajiachiiki	ひがしあじあちいき	東アジア地域	
 40349	32293	hidaridonari	ひだりどなり	左隣	 neighbour to the left

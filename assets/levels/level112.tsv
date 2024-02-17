@@ -1,12 +1,12 @@
 13523	11101	hakama	はかま	袴	 hakama, man's formal divided skirt, パジ (袴)  traditional Korean pants
 13523	11102	harigami	はりがみ	張り紙	 paper patch, paper backing, poster, sticker, label
-13523	11103	funsuru	ふんする	扮する	 to dress up as, to disguise oneself as, to play the role of
+13523	11103	fun	ふん	扮	
 13523	11104	butsurigaku	ぶつりがく	物理学	 physics
-13523	11105	honkakukasuru	ほんかくかする	本格化する	
+13523	11105	honkakuka	ほんかくか	本格化	 regularization, regularisation, getting up speed, proceeding at full tilt
 13523	11106	yuru	ゆる	揺る	 to shake, to jolt, to rock (cradle), to swing
 13523	11107	reibou	れいぼう	冷房	 air conditioning, air cooling
 13564	11108	ichinen'inai	いちねんいない	一年以内	
-13564	11109	ittensuru	いってんする	一転する	
+13564	11109	itten	いってん	一転	one turn, spinning around | complete change, reversal, (an) about-face, sudden transformation
 13564	11110	ooitaken	おおいたけん	大分県	 Ōita prefecture (Kyūshū)
 13564	11111	oshiateru	おしあてる	押し当てる	 to push (something) against
 13564	11112	kawase	かわせ	為替	money order, draft | exchange (e.g. foreign)
@@ -15,10 +15,10 @@
 13564	11115	kyoudoukenkyuu	きょうどうけんきゅう	共同研究	 collaborative research
 13564	11116	kin'itsu	きんいつ	均一	 uniformity, equality
 13564	11117	kurumu	くるむ	包む	to wrap up, to pack, to bundle, to do up | to cover, to envelop, to shroud, to engulf | to conceal (a feeling), to hide | to give (money in an envelope; as a wedding gift, funeral offering, etc.), くるむ (包む)  to wrap up, to pack, to do up, to cover with, to dress in
-13564	11118	keitaisuru	けいたいする	携帯する	
+13564	11118	keitai	けいたい	携帯	carrying (on one's person or in the hand) | mobile phone, cell phone
 13564	11119	kentouchuu	けんとうちゅう	検討中	 under investigation, under consideration, under review, pending (decision, etc.), awaiting verification
 13564	11120	gehin	げひん	下品	 vulgar, indecent, coarse, crude
-13564	11121	kondousuru	こんどうする	混同する	
+13564	11121	kondou	こんどう	混同	 confusion, mixing, merger
 13564	11122	shisa	しさ	示唆	 suggestion, hint, implication
 13564	11123	shakaifukushikyougikai	しゃかいふくしきょうぎかい	社会福祉協議会	
 13564	11124	shuukei	しゅうけい	集計	 totalization, totalisation, aggregation, tally (e.g. of votes), adding up, summing up
@@ -37,7 +37,7 @@
 13564	11137	myaku	みゃく	脈	pulse | vein | chain (of mountains, etc.) | hope | thread (of an argument)
 13564	11138	mokugekisha	もくげきしゃ	目撃者	 eye-witness, witness
 13564	11139	yuudai	ゆうだい	雄大	 grand, magnificent, majestic, great, sublime
-13564	11140	yougosuru	ようごする	擁護する	
+13564	11140	yougo	ようご	擁護	protection, advocacy, support, defence, championship, vindication | to protect (e.g. rights, etc.), to advocate (e.g. free trade, etc.), to support, おうご (応護)  the Buddha's help (aid, succour)
 13564	11141	youbou	ようぼう	容貌	 looks, personal appearance, features
 13564	11142	yomikikase	よみきかせ	読み聞かせ	
 13564	11143	ranbou	らんぼう	乱暴	violence, assault, running riot | rough (e.g. handling), reckless, careless, coarse, rude, unreasonable (e.g. demand), wild (e.g. argument) | rape, sexual assault
@@ -59,7 +59,7 @@
 13608	11159	tsuusetsu	つうせつ	通説	 prevailing view, common opinion, commonly accepted theory
 13608	11160	tsubuyaki	つぶやき	呟き	murmur, mutter, murmuring | tweet, Twitter post
 13608	11161	tsumitatekin	つみたてきん	積み立て金	
-13608	11162	tentousuru	てんとうする	転倒する	
+13608	11162	tentou	てんとう	転倒	falling down, tumbling, overturning, turning over | reversing, inverting, inversion | getting upset, てんどう (顛倒)  cognitive distortion
 13608	11163	hisaisha	ひさいしゃ	被災者	 victim of (a disaster)
 13608	11164	hyoukadekiru	ひょうかできる	評価出来る	
 13608	11165	fugu	ふぐ	河豚	 puffer fish, blow fish, fugu, globefish, swellfish
@@ -73,7 +73,7 @@
 13642	11173	ourai	おうらい	往来	coming and going, traffic | road, street | association, socializing, socialising, fellowship, mutual visits | recurring (e.g. thoughts) | correspondence
 13642	11174	osoreiru	おそれいる	恐れ入る	to be sorry, to beg pardon, to be much obliged, to feel small | to be grateful | to be amazed, to be filled with awe, to be surprised | to be disconcerted, to be embarrassed
 13642	11175	omochi	おもち	御餅	 rice cakes, pounded mochi rice
-13642	11176	kaikosuru	かいこする	解雇する	
+13642	11176	kaiko	かいこ	解雇	 discharge, dismissal
 13642	11177	kagayakashii	かがやかしい	輝かしい	 brilliant, glorious, glittering, bright, splendid (e.g. achievement, success), promising (e.g. future)
 13642	11178	kashikomaru	かしこまる	畏まる	 to obey respectfully, to humble oneself, to sit straight (upright, respectfully, attentively)
 13642	11179	kyuusoku	きゅうそく	休息	 rest, relief, relaxation
@@ -81,13 +81,13 @@
 13642	11181	gokinjo	ごきんじょ	御近所	
 13642	11182	zaimushohyou	ざいむしょひょう	財務諸表	 financial statements
 13642	11183	shinkinkousoku	しんきんこうそく	心筋梗塞	 heart attack, myocardial infarction
-13642	11184	sougousuru	そうごうする	総合する	
+13642	11184	sougou	そうごう	総合	synthesis, coordination, putting together, integration, composite | comprehensive
 13642	11185	soushutsu	そうしゅつ	創出	 creation, generation
 13642	11186	dakyuu	だきゅう	打球	 batting, batted ball
 13642	11187	tsubame	つばめ	燕	swallow (bird of the Hirundinidae family), martin | barn swallow (Hirundo rustica) | younger man involved with an older woman, boy toy
 13642	11188	teisuu	ていすう	定数	fixed number, quorum (for an assembly) | constant, invariable | literal | fate
 13642	11189	dokyou	どきょう	度胸	 courage, bravery, pluck, nerve, grit, guts
-13642	11190	ninkasuru	にんかする	認可する	
+13642	11190	ninka	にんか	認可	 approval, license, licence, permission
 13642	11191	nettojou	ねっとじょう	ネット上	 (on the) net, (on the) Internet, (on the) Web
 13642	11192	binbou	びんぼう	貧乏	 poverty-stricken, destitute, poor, penurious
 13642	11193	futsugou	ふつごう	不都合	inconvenient, inexpedient, unfavourable, troublesome, difficult | wrong, improper, objectionable, unjustifiable

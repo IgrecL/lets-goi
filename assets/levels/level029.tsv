@@ -2,7 +2,7 @@
 3317	2802	toriatsukau	とりあつかう	取り扱う	to handle, to operate (a machine, etc.), to use | to deal with (an issue), to manage | to treat (someone), to deal with (someone) | to deal in, to carry, to sell
 3322	2803	gun	ぐん	軍	army, armed forces, troops | military authorities | team, group, troupe, いくさ (戦) war, battle, campaign, fight | troops, forces
 3322	2804	ren'ai	れんあい	恋愛	 love, love-making, passion, emotion, affections
-3325	2805	shouchisuru	しょうちする	承知する	
+3325	2805	shouchi	しょうち	承知	knowledge, awareness | consent, acceptance, assent, admitting, compliance, agreement, acknowledgment, acknowledgement | forgiving, pardoning, excusing
 3326	2806	kandou	かんどう	感動	 being deeply moved emotionally, excitement, passion, inspiration, deep emotion, strong impression
 3326	2807	konogoro	このごろ	此の頃	 these days, nowadays, now, at present, recently, lately, このころ (この頃)  in those days, at the time, then
 3326	2808	gorankudasaru	ごらんくださる	御覧下さる	
@@ -10,14 +10,14 @@
 3326	2810	choukan	ちょうかん	長官	 secretary (government), director, chief, かみ (長官)  director (highest of the four administrative positions of the ritsuryo system), chief
 3326	2811	maru	まる	丸	circle | entirety, whole, full, complete | money, dough, moola | enclosure inside a castle's walls | soft-shelled turtle | suffix for ship names, suffix for names of people (esp. infants), suffix for names of swords, armour, musical instruments, etc., suffix for names of dogs, horses, etc., がん (丸) fishball, meatball | pill
 3332	2812	kiji	きじ	生地	cloth, fabric, material, texture | dough, batter | inherent quality, one's true character, one's true colours | unglazed pottery | skin with no make-up | uncoated metal, せいち (生地)  birthplace
-3332	2813	kubetsusuru	くべつする	区別する	
+3332	2813	kubetsu	くべつ	区別	 distinction, differentiation, classification
 3332	2814	douki	どうき	動機	motive, incentive | motif
 3335	2815	anzensei	あんぜんせい	安全性	 safety, security
 3335	2816	negai	ねがい	願い	desire, wish, hope | request, entreaty, plea, appeal | prayer | (written) application
 3338	2817	kakugo	かくご	覚悟	 readiness, preparedness, resolution, resignation
 3338	2818	kion	きおん	気温	 air temperature
 3340	2819	nichiyouhi	にちようひ	日曜日	 Sunday
-3340	2820	hannousuru	はんのうする	反応する	
+3340	2820	hannou	はんのう	反応	 reaction, response
 3340	2821	hanbun	はんぶん	半分	 half, はんぷん (半分)  half minute
 3343	2822	shitsunai	しつない	室内	 indoor, inside the room
 3343	2823	jichitai	じちたい	自治体	 municipality, local government, self-governing body, autonomous body
@@ -26,12 +26,12 @@
 3348	2826	ayamaru	あやまる	謝る	 to apologize, to apologise
 3349	2827	setsubi	せつび	設備	 equipment, facilities, installation, accommodations, conveniences, arrangements
 3349	2828	tadaima	ただいま	只今	here I am, I'm home! | presently, right away, right now, just now, しこん (只今)  just now
-3351	2829	seikyuusuru	せいきゅうする	請求する	
+3351	2829	seikyuu	せいきゅう	請求	 claim, demand, charge, application, request, billing (for a service)
 3351	2830	nazukeru	なづける	名付ける	 to name, to call, to christen, to term
 3353	2831	sotogawa	そとがわ	外側	 exterior, outside, outer, external, lateral
 3353	2832	minzoku	みんぞく	民族	 people, race, nation, ethnic group, ethnos
 3355	2833	otonashii	おとなしい	大人しい	 obedient, docile, quiet
-3355	2834	shijisuru	しじする	指示する	
+3355	2834	shiji	しじ	指示	indication, denotation, designation | instructions, directions
 3358	2835	genni	げんに	現に	 actually, really
 3358	2836	seou	せおう	背負う	to carry on one's back | to be burdened with, to take responsibility for | to have (something) in the background, to be in front (of something) | to be conceited, to think highly of oneself
 3360	2837	ittai	いったい	一体	(what) the heck, (why) in the world, (who) on earth | one object, one body, unity | one form, one style | one Buddhist image (or carving, etc.) | generally, in general
@@ -49,7 +49,7 @@
 3374	2849	suji	すじ	筋	muscle, tendon, sinew | vein, artery | fiber, fibre, string | line, stripe, streak | reason, logic | plot, storyline | lineage, descent | school (e.g. of scholarship or arts) | aptitude, talent | source (of information, etc.), circle, channel | well-informed person (in a transaction) | logical move (in go, shogi, etc.) | ninth vertical line | seam on a helmet | gristly fish paste (made of muscle, tendons, skin, etc.) | social position, status | on (a river, road, etc.), along | counter for long thin things, counter for roads or blocks when giving directions | (Edo period) counter for hundreds of mon (obsolete unit of currency), きん (筋)  muscle
 3374	2850	himei	ひめい	悲鳴	 shriek, scream
 3376	2851	kiban	きばん	基盤	foundation, basis, base, footing, infrastructure | bedrock | substrate (circuit board)
-3376	2852	futansuru	ふたんする	負担する	
+3376	2852	futan	ふたん	負担	burden, load, responsibility | bearing (a cost, responsibility, etc.), shouldering
 3376	2853	mayu	まゆ	眉	 eyebrow, eyebrows
 3379	2854	antei	あんてい	安定	 stability, steadiness, equilibrium
 3379	2855	temoto	てもと	手元	at hand, on hand, nearby, close at hand | way of moving one's arms, skill | money at hand, pocket money | grip, handle
@@ -74,15 +74,15 @@
 3398	2874	nyoubou	にょうぼう	女房	wife (esp. one's own wife) | court lady, female court attache, woman who served at the imperial palace | woman (esp. as a love interest)
 3403	2875	taifuu	たいふう	台風	 typhoon, hurricane
 3403	2876	tokeru	とける	溶ける	to melt, to thaw, to fuse | to dissolve
-3403	2877	boshuusuru	ぼしゅうする	募集する	
+3403	2877	boshuu	ぼしゅう	募集	recruitment, invitation, selection, advertisement, taking applications | raising (funds, donations, etc.), collection, subscription, solicitation | flotation (of shares, loans, etc.)
 3406	2878	chuushoku	ちゅうしょく	昼食	lunch, midday meal | food served at a tea party (tea ceremony)
 3406	2879	himo	ひも	紐	string, cord | man who is financially dependent on a woman, gigolo, pimp | restrictions, conditions | mantle (shellfish, etc.) | small intestine (beef, pork), oviduct meat (chicken)
 3409	2880	kakuritsu	かくりつ	確率	 probability, likelihood, chances
 3411	2881	tsukamaru	つかまる	捕まる	to be caught, to be arrested | to hold on to, to grasp | to find (e.g. proof), to get (e.g. a taxi) | to be detained by
 3411	2882	monbushou	もんぶしょう	文部省	 Ministry of Education, Science and Culture (1871-2001)
-3413	2883	kaishousuru	かいしょうする	解消する	
+3413	2883	kaishou	かいしょう	解消	 cancellation, liquidation, resolution, reduction (e.g. of stress)
 3413	2884	sharyou	しゃりょう	車両	 rolling stock, railroad cars, wheeled vehicles
-3416	2885	kaihousuru	かいほうする	解放する	
+3416	2885	kaihou	かいほう	解放	release, unleashing, liberation, emancipation, setting free | deallocation (of computer memory)
 3416	2886	goui	ごうい	合意	 (coming to an) agreement, consent, mutual understanding, accord, consensus
 3418	2887	douhou	どうほう	同法	same law, the (said) law | same method, the (said) method
 3419	2888	otomodachi	おともだち	御友達	
@@ -90,11 +90,11 @@
 3421	2890	roudou	ろうどう	労働	manual labor, manual labour, toil, work | Labour Party
 3423	2891	kouhan	こうはん	後半	 second half, latter half
 3423	2892	jitsujou	じつじょう	実情	 real condition, actual circumstances, actual state of affairs
-3423	2893	houchisuru	ほうちする	放置する	
+3423	2893	houchi	ほうち	放置	 leaving as is, leaving alone, leaving to chance, neglecting, abandoning
 3423	2894	houdou	ほうどう	報道	 report (of news), reporting, news, information, (media) coverage
 3423	2895	rikon	りこん	離婚	 divorce
 3428	2896	katamari	かたまり	固まり	lump, mass, bundle, clump, clod, cluster | group, crowd | embodiment (of an idea, quality, feeling etc.), personification
 3428	2897	kikeru	きける	聞ける	 to tell
 3428	2898	kesa	けさ	今朝	 this morning
-3431	2899	tsuukasuru	つうかする	通過する	
+3431	2899	tsuuka	つうか	通過	passing through (a tunnel, station, town, etc.), passing by (e.g. of a typhoon), transit | passage (of a bill, e.g. through parliament), carriage | passing (an examination, inspection, etc.), clearing
 3433	2900	kirikaeru	きりかえる	切り替える	 to change, to exchange, to convert, to renew, to throw a switch, to replace, to switch over

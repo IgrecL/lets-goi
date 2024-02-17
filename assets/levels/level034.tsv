@@ -15,15 +15,15 @@
 3930	3315	kisha	きしゃ	記者	 reporter, journalist
 3930	3316	konasu	こなす	熟す	to ripen, to mature | to be ready for action, to be the right time (to act) | to be in common use, to come to sound natural | to become skilled, こなす (熟す) to digest | to break down, to break to pieces, to crush | to be able to use, to be good at, to have a good command of | to finish, to complete, to manage, to perform | to sell | to do ... well, to do ... completely
 3930	3317	saiaku	さいあく	最悪	worst | horrible, horrid, awful, terrible | in the worst case, if worst comes to worst
-3930	3318	sayuusuru	さゆうする	左右する	
+3930	3318	sayuu	さゆう	左右	left and right, right and left | (asserting) control, influence, domination | one's attendants, people accompanying one | (serving at somebody's) side | equivocation, とかく (兎角) (doing) various things, (doing) this and that | being apt to, being prone to, tending to | at any rate, anyhow, anyway | all sorts of (negative things), various | things that do not exist, rabbit horns
 3935	3319	ijou	いじょう	以上	not less than, ... and over, ... and above, ... and upwards, ... or more | beyond (e.g. one's expectations), above, more than, further than | above-mentioned, aforementioned, foregoing | since ..., seeing that ..., now that ..., once ... | that's all, that is the end, the end
 3935	3320	tokiori	ときおり	時折	 sometimes
 3935	3321	yakume	やくめ	役目	 duty, role, function
 3938	3322	jijitsu	じじつ	事実	 fact, truth, reality
 3938	3323	hade	はで	派手	 showy, loud, gay, flashy, gaudy
-3940	3324	shikousuru	しこうする	施行する	
+3940	3324	shikou	しこう	施行	execution, enforcing, carrying out | giving alms, giving food to the poor or monks
 3940	3325	fuantei	ふあんてい	不安定	 instability, insecurity, crankiness
-3940	3326	renshuusuru	れんしゅうする	練習する	
+3940	3326	renshuu	れんしゅう	練習	 practice, training, drill, (an) exercise, workout
 3943	3327	oreru	おれる	折れる	to break, to be broken, to snap, to fracture | to be folded | to give in, to back down, to yield, to submit | to turn (a corner)
 3945	3328	oyu	おゆ	御湯	hot water | hot bath
 3945	3329	tainai	たいない	体内	 interior of the body
@@ -38,10 +38,10 @@
 3955	3338	kuyashii	くやしい	悔しい	 vexing, annoying, frustrating, regrettable, mortifying
 3957	3339	shindan	しんだん	診断	 diagnosis, medical examination
 3957	3340	minato	みなと	港	 harbour, harbor, port, こう (港)  harbour
-3959	3341	ikousuru	いこうする	移行する	
+3959	3341	ikou	いこう	移行	 switching over to, migration, transition
 3959	3342	kizutsuku	きずつく	傷付く	to be wounded, to get injured | to get hurt feelings | to get damaged, to get chipped, to get scratched
 3959	3343	kekkateki	けっかてき	結果的	 concerning the result (as opposed to the means used to achieve this result or the original goal)
-3962	3344	shoumetsusuru	しょうめつする	消滅する	
+3962	3344	shoumetsu	しょうめつ	消滅	extinction, extinguishment, disappearance, vanishing, termination, lapse | annihilation
 3962	3345	fumei	ふめい	不明	unclear, obscure, indistinct, uncertain, ambiguous | unknown, unidentified | ignorance, lack of wisdom, lack of insight
 3964	3346	boushi	ぼうし	防止	 prevention, check
 3966	3347	kakumei	かくめい	革命	revolution | 58th year of the sexagenary cycle (in Onmyōdō)
@@ -67,7 +67,7 @@
 3983	3367	miorosu	みおろす	見下ろす	to overlook, to command a view of, to look down on | to despise, to look down on
 3987	3368	ichikou	いちこう	一項	 an item
 3987	3369	issai	いっさい	一切	all, everything, entirety, the whole | absolutely (not), (not) at all, (none) whatsoever, without exception
-3987	3370	sanshousuru	さんしょうする	参照する	
+3987	3370	sanshou	さんしょう	参照	 reference, bibliographical reference, consultation, browsing (e.g. when selecting a file to upload on a computer), checking out
 3987	3371	shikakeru	しかける	仕掛ける	to start, to begin, to commence | to challenge, to pick (a fight), to make (war), to draw (a reaction) from | to set (traps), to plant (explosives), to lay (mines) | to make a meld call
 3987	3372	tango	たんご	単語	 word, vocabulary, (usually) single-character word
 3987	3373	fujin	ふじん	夫人	wife, Mrs, madam | wife of a nobleman (aristocrat, etc.) | consort of the emperor
@@ -83,7 +83,7 @@
 4004	3383	taishite	たいして	大して	 (not so) much, (not) very
 4004	3384	daikigyou	だいきぎょう	大企業	 large company, large enterprise, large corporation
 4004	3385	mikomu	みこむ	見込む	to anticipate, to expect, to estimate, to count on, to allow for, to take into account | to place confidence in, to put trust in, to trust | to find promising, to see good prospects (in) | to set one's eye on (e.g. prey), to mark (e.g. as a victim), to hold spellbound
-4007	3386	teiketsusuru	ていけつする	締結する	
+4007	3386	teiketsu	ていけつ	締結	conclusion, execution (of a contract), entering (into treaty) | fastening (as in a joint)
 4007	3387	horu	ほる	掘る	to dig, to excavate, to hollow | to delve into | to dig up (e.g. vegetables) | (for two men) to have anal sex
 4007	3388	momo	もも	桃	 peach (Prunus persica)
 4007	3389	wakugumi	わくぐみ	枠組み	frame | framework, outline
@@ -97,4 +97,4 @@
 4019	3397	gappei	がっぺい	合併	 merger (of companies, towns, etc.), combination, union, amalgamation, consolidation, coalition, fusion, annexation, affiliation, incorporation
 4019	3398	kokumudaijin	こくむだいじん	国務大臣	 minister of state, cabinet minister (Japan)
 4024	3399	ichiji	いちじ	一時	a (short) time, a while, moment | one time (in the past), a period, former times | two-hour period, いちじ (一時) one o'clock | once, at one time, formerly, before | for a time, for a while, for the time being, for the present, for the moment, temporarily | a time, one time, once
-4026	3400	youseisuru	ようせいする	要請する	
+4026	3400	yousei	ようせい	要請	appeal, call for something, request, claim, demand | axiom

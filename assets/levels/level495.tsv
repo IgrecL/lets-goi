@@ -5,7 +5,7 @@
 62900	49405	kanjasanjishin	かんじゃさんじしん	患者さん自身	
 62900	49406	kanjoudouro	かんじょうどうろ	環状道路	
 62900	49407	kantokusekinin	かんとくせきにん	監督責任	
-62900	49408	kanpasuru	かんぱする	看破する	
+62900	49408	kanpa	かんぱ	看破	 seeing through (e.g. someone's lies), reading (e.g. thoughts), penetrating, detecting
 62900	49409	kanpu	かんぷ	完膚	 unwounded skin
 62900	49410	kanbouchou	かんぼうちょう	官房長	 Chief Cabinet Secretary
 62900	49411	kanbotsu	かんぼつ	陥没	 cave-in, collapse, sinking, depression (e.g. of the skull), subsidence
@@ -27,8 +27,8 @@
 62900	49427	kikisugiru	ききすぎる	利き過ぎる	
 62900	49428	kikokushijo	きこくしじょ	帰国子女	 child who has returned to Japan after living abroad, returnee child, (Japanese) person who lived abroad during (part of) their childhood
 62900	49429	kisha	きしゃ	喜捨	 almsgiving
-62900	49430	kishukusuru	きしゅくする	寄宿する	
-62900	49431	kijunsuru	きじゅんする	帰順する	
+62900	49430	kishuku	きしゅく	寄宿	lodging, boarding | boarding house, school dormitory
+62900	49431	kijun	きじゅん	帰順	 submission, return to allegiance
 62900	49432	kiseigainen	きせいがいねん	既成概念	 stereotype, preconceived idea, preconceived notion
 62900	49433	kiseisochi	きせいそち	規制措置	
 62900	49434	kisoritsu	きそりつ	起訴率	
@@ -56,14 +56,14 @@
 62900	49456	kyouryokukatsudou	きょうりょくかつどう	協力活動	
 62900	49457	kyoei	きょえい	虚栄	 vanity, vainglory
 62900	49458	kyokubuteki	きょくぶてき	局部的	 localized (pain, rainfall, etc.), local
-62900	49459	kyoshikisuru	きょしきする	挙式する	
+62900	49459	kyoshiki	きょしき	挙式	 holding a ceremony, wedding ceremony
 62900	49460	kyoyoudekiru	きょようできる	許容出来る	
 62900	49461	kiyoshi	きよし	潔	
 62900	49462	kiriau	きりあう	切り合う	 to fight with swords, to cross swords
 62900	49463	kinkoijou	きんこいじょう	禁固以上	
 62900	49464	kinzokugenso	きんぞくげんそ	金属元素	 metallic element
 62900	49465	kinyuuseido	きんゆうせいど	金融制度	
-62900	49466	gijinkasuru	ぎじんかする	擬人化する	
+62900	49466	gijinka	ぎじんか	擬人化	 personification, anthropomorphization
 62900	49467	gyoutou	ぎょうとう	行頭	 beginning of a line (of writing)
 62900	49468	gyoumusuikou	ぎょうむすいこう	業務遂行	
 62900	49469	kuusouteki	くうそうてき	空想的	 imaginary, fantastical, visionary, utopian, quixotic, fanciful
@@ -97,4 +97,4 @@
 62900	49497	kenkounippon	けんこうにっぽん	健康日本	
 62900	49498	kensahouhou	けんさほうほう	検査方法	
 62900	49499	kenchoushozaitoshi	けんちょうしょざいとし	県庁所在都市	
-62900	49500	kenmasuru	けんまする	研磨する	
+62900	49500	kenma	けんま	研磨	grinding, polishing | refining (skill, knowledge, etc.), striving to master something

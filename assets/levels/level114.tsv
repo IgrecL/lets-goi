@@ -13,13 +13,13 @@
 13786	11313	senkan	せんかん	戦艦	 battleship
 13786	11314	zenbei	ぜんべい	全米	 all-America, pan-American, all of America
 13786	11315	zoukin	ぞうきん	雑巾	 house-cloth, dust cloth
-13786	11316	taisensuru	たいせんする	対戦する	
+13786	11316	taisen	たいせん	対戦	 fighting (against), taking on (an opponent), facing, confronting, competing (with), battle, fight, contest, match
 13786	11317	daiikkan	だいいっかん	第一巻	 volume 1, first volume
 13786	11318	daiseikou	だいせいこう	大成功	 huge success
 13786	11319	daidaiteki	だいだいてき	大々的	 great, grand, extensive, large-scale
 13786	11320	teiri	ていり	定理	 theorem, proposition
-13786	11321	toubensuru	とうべんする	答弁する	
-13786	11322	dousekisuru	どうせきする	同席する	
+13786	11321	touben	とうべん	答弁	 response, reply, answer, defence, defense
+13786	11322	douseki	どうせき	同席	 presence, sitting with, being with
 13786	11323	nitatsu	にたつ	煮立つ	 to boil, to simmer
 13786	11324	harimegurasu	はりめぐらす	張り巡らす	 to stretch around (e.g. a fence, dragnet, etc.), to lay out (e.g. a wiring system, network, etc.), to string up (e.g. an antenna, ship's rigging, etc.)
 13786	11325	fuki	ふき	蕗	 giant butterbur (Petasites japonicus), Japanese sweet coltsfoot
@@ -42,19 +42,19 @@
 13837	11342	ondanka	おんだんか	温暖化	warming | global warming
 13837	11343	karei	かれい	加齢	 aging, ageing, adding to one's years
 13837	11344	kiokuryoku	きおくりょく	記憶力	 memory, ability to remember
-13837	11345	kigusuru	きぐする	危惧する	
-13837	11346	kyakkasuru	きゃっかする	却下する	
+13837	11345	kigu	きぐ	危惧	 apprehensions, misgivings, uneasiness, anxiety, fear
+13837	11346	kyakka	きゃっか	却下	 rejection, dismissal
 13837	11347	keizaishakai	けいざいしゃかい	経済社会	 economic system
 13837	11348	kousuijun	こうすいじゅん	高水準	 high level
 13837	11349	konban	こんばん	今晩	 tonight, this evening
 13837	11350	sawa	さわ	沢	mountain stream, valley, dale | wetlands, swamp, marsh, たく (沢)  blessing, grace, favour, favor, benefit
 13837	11351	shinju	しんじゅ	真珠	 pearl
 13837	11352	jiheishou	じへいしょう	自閉症	 autism
-13837	11353	jinryokusuru	じんりょくする	尽力する	
+13837	11353	jinryoku	じんりょく	尽力	 efforts, exertion, endeavour, assistance, services
 13837	11354	so	そ	其	that, it | then, that point (in time), that time | there | you, し (其) that | you | oneself, themself, そ (其) that | he, she, that person
 13837	11355	so	そ	祖	parent, parents, mother and father | dealer (in cards, mahjong, etc.), banker | founder, inventor | (pet) owner | key, parent (organization), main | ancestor, forefather, そ (祖) ancestor, forefather, progenitor | originator, pioneer, inventor, founder | grandfather
 13837	11356	sousain	そうさいん	捜査員	 investigator (usu. of criminal cases)
-13837	11357	choudaisuru	ちょうだいする	頂戴する	
+13837	11357	choudai	ちょうだい	頂戴	receiving, reception, getting, being given | eating, drinking, having | please, please do for me
 13837	11358	tsukihanasu	つきはなす	突き放す	to push away, to thrust aside | to detach oneself from, to keep away from, to forsake, to abandon, to desert | to act coldly, to do without emotion | to extend a wide lead over (an opponent)
 13837	11359	tokuteidekiru	とくていできる	特定出来る	
 13837	11360	toshika	としか	都市化	 urbanization, urbanisation
@@ -68,7 +68,7 @@
 13837	11368	maeda	まえだ	前田	
 13837	11369	yamagata	やまがた	山形	Yamagata (city, prefecture) | mountain shape, chevron, cone, やまなり (山なり)  curved, forming the shape of an arch
 13837	11370	yoshimoto	よしもと	吉本	
-13837	11371	ruisuru	るいする	類する	 to be similar to, たぐいする (類いする)  to be equal to, to be as good as, to be a match for, to rival
+13837	11371	rui	るい	類	kind, sort, type, class, genus, order, family | similar example, parallel, the like, たぐい (類い) kind, sort, type | equal, match, peer
 13878	11372	aizu	あいづ	会津	
 13878	11373	aitekoku	あいてこく	相手国	 partner country, other country (in a dispute, arrangement, etc.), opponent (country)
 13878	11374	asakura	あさくら	朝倉	
@@ -78,7 +78,7 @@
 13878	11378	odaiji	おだいじ	御大事	
 13878	11379	kaikanjikan	かいかんじかん	開館時間	
 13878	11380	kaku	かく	格	status, position, rank | method, way, style | rule, regulation, law | grammatical case | figure (syllogism), きゃく (格)  amendment (of the ritsuryo)
-13878	11381	kakusuru	かくする	画する	to draw (a line) | to demarcate, to mark, to divide, to map out | to plan
+13878	11381	kaku	かく	画	 stroke (of a kanji, etc.), え (絵) picture, drawing, painting, sketch | image (TV, film, etc.), picture, footage
 13878	11382	kangaehajimeru	かんがえはじめる	考え始める	
 13878	11383	kangei	かんげい	歓迎	 welcome, reception
 13878	11384	kirasu	きらす	切らす	to run out of, to be short of, to be out of stock | to be out of (e.g. breath), to lose (one's patience, concentration, etc.)

@@ -3,7 +3,7 @@
 19965	16303	tachiagari	たちあがり	立ち上がり	start, beginning, build up | how well a pitcher pitches at the start of the game
 19965	16304	tayasu	たやす	絶やす	to exterminate, to eradicate, to wipe out, to put an end to | to let (fire) go out, to let die (e.g. flowers), to run out of
 19965	16305	tantai	たんたい	単体	simple substance (e.g. chemical) | something standing alone, separate item, solo item
-19965	16306	daikousuru	だいこうする	代行する	
+19965	16306	daikou	だいこう	代行	 acting as agent, acting on (someone's) behalf, executing business for
 19965	16307	danketsu	だんけつ	団結	 unity, union, solidarity, combination, teaming up
 19965	16308	chuugokutairiku	ちゅうごくたいりく	中国大陸	 mainland China
 19965	16309	tsujitsuma	つじつま	辻褄	 coherence, consistency
@@ -16,7 +16,7 @@
 19965	16316	noudouteki	のうどうてき	能動的	 active
 19965	16317	nokishita	のきした	軒下	 under the eaves
 19965	16318	hitoketa	ひとけた	一桁	 one digit, one column, the "ones" column
-19965	16319	hitoyasumisuru	ひとやすみする	一休みする	
+19965	16319	hitoyasumi	ひとやすみ	一休み	 (short) rest, breather, break
 19965	16320	hyouron	ひょうろん	評論	 criticism, critique
 19965	16321	bushidou	ぶしどう	武士道	 Bushido, samurai code of chivalry
 19965	16322	houseido	ほうせいど	法制度	 legal system
@@ -52,14 +52,14 @@
 20053	16352	koureishakai	こうれいしゃかい	高齢社会	
 20053	16353	kokuminkokka	こくみんこっか	国民国家	 nation-state
 20053	16354	kosuu	こすう	個数	 number of articles, quantity
-20053	16355	goannaisuru	ごあんないする	御案内する	
+20053	16355	goannai	ごあんない	御案内	guidance, leading (the way), showing around | information, notice, notification | announcement (of one's arrival) | invitation | acquaintance, knowledge
 20053	16356	gofujin	ごふじん	御婦人	
 20053	16357	gorei	ごれい	御礼	thanks, gratitude | manners, etiquette | bow | reward, gift | ceremony, ritual
 20053	16358	saishou	さいしょう	宰相	 prime minister
 20053	16359	sakeme	さけめ	裂け目	 tear, rip, rent, slit, crack, chasm, rift
-20053	16360	sanseisuru	さんせいする	産生する	
+20053	16360	sansei	さんせい	産生	 production
 20053	16361	zaikin	ざいきん	在勤	 (while) working in or at or for
-20053	16362	shimetsusuru	しめつする	死滅する	
+20053	16362	shimetsu	しめつ	死滅	 extinction, annihilation, destruction
 20053	16363	shakaikouzou	しゃかいこうぞう	社会構造	 social structure
 20053	16364	shachousan	しゃちょうさん	社長さん	
 20053	16365	shuuhenchiiki	しゅうへんちいき	周辺地域	
@@ -68,7 +68,7 @@
 20053	16368	jouei	じょうえい	上映	screening (a movie), showing | to screen a movie
 20053	16369	joushouritsu	じょうしょうりつ	上昇率	 rate of increase (e.g. prices), rate of climb (e.g. aircraft)
 20053	16370	jounen	じょうねん	情念	 sentiments, passions
-20053	16371	suuhaisuru	すうはいする	崇拝する	
+20053	16371	suuhai	すうはい	崇拝	 worship, adoration, admiration, cult
 20053	16372	sukunasugiru	すくなすぎる	少な過ぎる	 to be lacking in options, to be too few
 20053	16373	seikyuuken	せいきゅうけん	請求権	 claim rights
 20053	16374	setchisha	せっちしゃ	設置者	
@@ -93,7 +93,7 @@
 20053	16393	houshutsu	ほうしゅつ	放出	 release, emission, ejection
 20053	16394	houjoushi	ほうじょうし	北条氏	
 20053	16395	matsuda	まつだ	松田	
-20053	16396	mimiuchisuru	みみうちする	耳打ちする	
+20053	16396	mimiuchi	みみうち	耳打ち	 whispering into a person's ear
 20053	16397	yahan	やはん	夜半	 midnight, dead of night
 20053	16398	yarisugiru	やりすぎる	遣り過ぎる	 to overdo, to go too far, to go to excess
 20053	16399	yuuigi	ゆういぎ	有意義	 significant, useful, meaningful, worthwhile, valuable, of interest

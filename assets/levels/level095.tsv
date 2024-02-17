@@ -11,7 +11,7 @@
 11441	9411	muhyoujou	むひょうじょう	無表情	 lack of expression, blank look (on one's face)
 11441	9412	yasaki	やさき	矢先	arrowhead | target of a flying arrow, brunt (of an attack) | the very moment (when), the point (of doing)
 11441	9413	rouka	ろうか	老化	 ageing, aging, senile deterioration
-11473	9414	anchisuru	あんちする	安置する	
+11473	9414	anchi	あんち	安置	 enshrinement, installation (of an image), あんち (安地)  safe area (in video games), safe zone, area where the player is safe from enemy attacks
 11473	9415	isho	いしょ	遺書	note left by a dead person, suicide note, testamentary letter, will, testament | posthumous work
 11473	9416	ichijikanhan	いちじかんはん	一時間半	
 11473	9417	kizahashi	きざはし	階	storey, story, floor | stairs | stage (in chronostratigraphy) | counter for storeys and floors of a building, しな (品) article, item, thing, goods, stock | quality | flirtatiousness, coquetry, きざはし (階) stairs | stairs at the front of a noh stage
@@ -28,16 +28,16 @@
 11473	9428	toikake	といかけ	問い掛け	 query, interrogation, enquiry, question, inquiry
 11473	9429	narihajimeru	なりはじめる	成り始める	
 11473	9430	nyuugaku	にゅうがく	入学	 entry to school or university, matriculation, enrolment (in university, etc.) (enrollment)
-11473	9431	nyuukinsuru	にゅうきんする	入金する	
+11473	9431	nyuukin	にゅうきん	入金	 deposit, payment, money received, money due
 11473	9432	baishuu	ばいしゅう	買収	acquisition (esp. corporate), buy-out, takeover, purchase | bribery, buying off, corruption
 11473	9433	hitori	ひとり	独り	one person | being alone, being by oneself | being single, being unmarried | by oneself, alone | just, only, simply
-11473	9434	bishousuru	びしょうする	微笑する	
+11473	9434	bishou	びしょう	微笑	 smile
 11473	9435	machiaishitsu	まちあいしつ	待ち合い室	
 11473	9436	mukashibanashi	むかしばなし	昔話	old tale, folk tale, legend | reminiscence
 11473	9437	ryouhoutomo	りょうほうとも	両方共	 the two, both
 11499	9438	itazura	いたずら	徒ら	 useless, vain, aimless, idle
 11499	9439	osoroshisa	おそろしさ	恐ろしさ	
-11499	9440	otodokesuru	おとどけする	御届けする	
+11499	9440	otodoke	おとどけ	御届け	 delivery (of a package, goods, etc.)
 11499	9441	ofuda	おふだ	御札	 bill, note (currency), おふだ (御札)  type of household amulet or talisman, issued by a Shinto shrine, hung in the house for protection
 11499	9442	kin'en	きんえん	禁煙	abstaining from smoking, quitting smoking | No Smoking!, Smoking Prohibited!
 11499	9443	koukuugaisha	こうくうがいしゃ	航空会社	 airline company
@@ -54,7 +54,7 @@
 11499	9454	hakkutsu	はっくつ	発掘	excavation, exhumation | discovery (e.g. new talent)
 11499	9455	basutei	ばすてい	バス停	 bus stop
 11499	9456	hitsugi	ひつぎ	棺	 coffin, casket
-11499	9457	bossuru	ぼっする	没する	to sink, to go down, to set | to pass away, to die | to disappear, to vanish | to confiscate
+11499	9457	botsu	ぼっ	没	death | rejection (of a manuscript, etc.) | lacking, without
 11499	9458	minarau	みならう	見習う	 to follow another's example
 11499	9459	yoshiashi	よしあし	善し悪し	right or wrong, good or bad, quality, suitability | having both merits and demerits, having both advantages and disadvantages
 11499	9460	wazurau	わずらう	患う	to be ill, to suffer from | to worry about, to be concerned about | to have trouble doing ..., to be unable to ..., to fail to ...
@@ -66,16 +66,16 @@
 11529	9466	kyuudan	きゅうだん	球団	 baseball team
 11529	9467	kuyamu	くやむ	悔やむ	to mourn, to lament | to be sorry, to regret, to repent
 11529	9468	kessei	けっせい	結成	 formation, combination
-11529	9469	gengakusuru	げんがくする	減額する	
+11529	9469	gengaku	げんがく	減額	 reduction, diminution, abatement
 11529	9470	kokusan	こくさん	国産	 domestic, domestically-produced, produced within a country
 11529	9471	goku	ごく	語句	 words, phrases
 11529	9472	sakon	さこん	左近	
 11529	9473	ta	た	誰	 who
 11529	9474	tanmatsu	たんまつ	端末	terminal, computer terminal | information access device (smartphone, tablet, book-reader, etc.) | end (e.g. of a roll of film)
 11529	9475	daihyousaku	だいひょうさく	代表作	 most important work (of a writer, artist, etc.), representative work, masterpiece
-11529	9476	dakkosuru	だっこする	抱っこする	
+11529	9476	dakko	だっこ	抱っこ	 hug, carrying in one's arms (a baby, pet, doll, etc.)
 11529	9477	chihousai	ちほうさい	地方債	 municipal bond, local bond
-11529	9478	tenshokusuru	てんしょくする	転職する	
+11529	9478	tenshoku	てんしょく	転職	 change of occupation, career change
 11529	9479	toge	とげ	棘	thorny shrub | wild rose, briar | thorn | cusp, おどろ (棘)  briars, thicket, the bush, とげ (刺) thorn, spine, prickle | splinter (esp. lodged in one's flesh), hard sharp item (esp. lodged in one's throat, e.g. fish bone) | biting words
 11529	9480	nanbai	なんばい	何倍	
 11529	9481	nippondaihyou	にっぽんだいひょう	日本代表	 Japanese representative, Japanese delegate, Japanese delegation
@@ -84,14 +84,14 @@
 11529	9484	heichi	へいち	平地	 level ground, plain, flatland
 11529	9485	betsumono	べつもの	別物	 another thing, exception, special case
 11529	9486	housoukyoku	ほうそうきょく	放送局	 broadcasting station, broadcaster
-11529	9487	mankitsusuru	まんきつする	満喫する	
+11529	9487	mankitsu	まんきつ	満喫	having enough of (food, drink, etc.), having one's fill | fully enjoying
 11529	9488	yorikakaru	よりかかる	寄り掛かる	to lean against, to recline on, to lean on | to rely on, to depend on
 11529	9489	rakugo	らくご	落語	 rakugo, traditional Japanese comic storytelling, comic story (told by a professional storyteller)
 11529	9490	wakachiau	わかちあう	分かち合う	 to share
 11562	9491	ichitai	いちたい	一対	 pair, couple
 11562	9492	ittai	いったい	一帯	whole area, whole region | stretch (of land), tract, belt, zone
-11562	9493	unkousuru	うんこうする	運行する	
-11562	9494	otsutaesuru	おつたえする	御伝えする	
+11562	9493	unkou	うんこう	運行	service (bus, train), operation | motion, revolution, movement
+11562	9494	otsutae	おつたえ	御伝え	
 11562	9495	otoshiireru	おとしいれる	陥れる	to trap (into a difficult situation), to put (in a fix), to throw (e.g. into turmoil), to trick (into doing), to lure (into a trap), to frame (for a crime) | to capture (a castle, fortress, etc.), to take, to reduce | to drop (something) into
 11562	9496	onamae	おなまえ	御名前	
 11562	9497	katechigai	かてちがい	カテ違い	 (being in the) wrong category, being wrongly categorized

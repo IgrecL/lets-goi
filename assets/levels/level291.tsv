@@ -1,6 +1,6 @@
 36091	29001	chigiri	ちぎり	契り	pledge, vow, promise | (of a man and woman) having sexual relations, having sexual intercourse | destiny, fate, karma
 36091	29002	chuuouchi	ちゅうおうち	中央値	 median
-36091	29003	chuuzetsusuru	ちゅうぜつする	中絶する	
+36091	29003	chuuzetsu	ちゅうぜつ	中絶	abortion | to be interrupted, to be discontinued, to be suspended, to fall into abeyance
 36091	29004	chuubu	ちゅうぶ	中部	center, centre, middle, heart | Chūbu region (incl. Aichi, Nagano, Shizuoka, Niigata, Toyama, Ishikawa, Fukui, Yamanashi and Gifu prefectures)
 36091	29005	chouai	ちょうあい	寵愛	 favor, favour, affection
 36091	29006	choukikinri	ちょうききんり	長期金利	 long-term interest rate
@@ -17,7 +17,7 @@
 36091	29017	toukyoutokubu	とうきょうとくぶ	東京都区部	
 36091	29018	tounan'ajiashokoku	とうなんあじあしょこく	東南アジア諸国	
 36091	29019	toshikeikakuka	としけいかくか	都市計画課	
-36091	29020	tosuru	とする	賭する	 to stake, to risk, to bet, to wager
+36091	29020	to	と	賭	 bet, wager, stake, gamble
 36091	29021	tomiko	とみこ	富美子	
 36091	29022	doufuu	どうふう	同封	 enclosing (e.g. with a letter)
 36091	29023	douman	どうまん	道満	
@@ -44,7 +44,7 @@
 36091	29044	panikkujoutai	ぱにっくじょうたい	パニック状態	
 36091	29045	hikagen	ひかげん	火加減	 condition of fire, heat level, fire strength
 36091	29046	hikyaku	ひきゃく	飛脚	 express messenger, postman, mailman, courier
-36091	29047	hishousuru	ひしょうする	飛翔する	
+36091	29047	hishou	ひしょう	飛翔	 flight, flying, soaring
 36091	29048	hiso	ひそ	砒素	 arsenic (As)
 36091	29049	hisou	ひそう	悲壮	 tragic but brave, heroic, grim, pathetic
 36091	29050	hitachi	ひたち	常陸	 Hitachi (former province located in the major part of present-day Ibaraki Prefecture)
@@ -65,7 +65,7 @@
 36091	29065	hekichi	へきち	僻地	 remote place, backcountry, the sticks, hinterland
 36091	29066	hendouhi	へんどうひ	変動費	 variable cost
 36091	29067	hoshousochi	ほしょうそち	保障措置	 safeguard
-36091	29068	horyuusuru	ほりゅうする	保留する	
+36091	29068	horyuu	ほりゅう	保留	 reservation, putting on hold, deferment
 36091	29069	hon'ei	ほんえい	本営	 headquarters
 36091	29070	mainendo	まいねんど	毎年度	
 36091	29071	marujirushi	まるじるし	丸印	
@@ -94,7 +94,7 @@
 36418	29094	aichan	あいちゃん	愛ちゃん	
 36418	29095	akiyuki	あきゆき	秋雪	 autumn snow, fall snow
 36418	29096	asahaka	あさはか	浅はか	 shallow, superficial, thoughtless, short-sighted, foolish, silly
-36418	29097	asshousuru	あっしょうする	圧勝する	
+36418	29097	asshou	あっしょう	圧勝	 overwhelming victory, crushing victory, sweeping victory, landslide victory
 36418	29098	atooi	あとおい	後追い	trailing, chasing after | imitation, copy
 36418	29099	aneki	あねき	姉貴	elder sister | older female friend
 36418	29100	abashiri	あばしり	網走	

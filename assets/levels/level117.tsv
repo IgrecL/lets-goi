@@ -13,7 +13,7 @@
 14162	11613	gendogaku	げんどがく	限度額	 limit (amount, e.g. on credit card, loan, expenditure)
 14162	11614	koumu	こうむ	公務	 official business, public business
 14162	11615	kokudokoutsuushourei	こくどこうつうしょうれい	国土交通省令	
-14162	11616	kokuhatsusuru	こくはつする	告発する	
+14162	11616	kokuhatsu	こくはつ	告発	 indictment, prosecution, complaint
 14162	11617	samuke	さむけ	寒気	chill, the shivers, shivering fit | cold, coldness, cold air
 14162	11618	shougaigakushuu	しょうがいがくしゅう	生涯学習	 lifelong learning
 14162	11619	shouzou	しょうぞう	肖像	 portrait, likeness, picture
@@ -28,14 +28,14 @@
 14162	11628	ninshou	にんしょう	認証	certification, attestation, authentication, confirmation | Imperial attestation
 14162	11629	handanryoku	はんだんりょく	判断力	 judgment, judgement, discernment
 14162	11630	hisouzokujin	ひそうぞくじん	被相続人	 decedent, deceased, inheritee
-14162	11631	fuzuisuru	ふずいする	付随する	
+14162	11631	fuzui	ふずい	付随	 being incident to, being accompanied by, being collateral with, being attached to
 14162	11632	furiorosu	ふりおろす	振り下ろす	 to swing downward
 14162	11633	honpou	ほんぽう	本法	
 14162	11634	mabataki	まばたき	瞬き	blink (of eyes), wink | twinkling (of stars), flicker (of light), blink (of light)
 14162	11635	minasamakata	みなさまかた	皆様方	 everyone, everybody, ladies and gentlemen
 14162	11636	miwataseru	みわたせる	見渡せる	 to look out over, to look onto
-14162	11637	yusousuru	ゆそうする	輸送する	
-14162	11638	youjinsuru	ようじんする	用心する	
+14162	11637	yusou	ゆそう	輸送	 transport, transportation
+14162	11638	youjin	ようじん	用心	 care, precaution, guarding, caution
 14162	11639	yomikaki	よみかき	読み書き	 reading and writing
 14215	11640	ikikaeru	いきかえる	生き返る	 to revive, to come to oneself, to be restored to life
 14215	11641	ikebukuro	いけぶくろ	池袋	
@@ -43,30 +43,30 @@
 14215	11643	kankeisei	かんけいせい	関係性	 relationship, relation
 14215	11644	kyuuchi	きゅうち	窮地	 dilemma, predicament
 14215	11645	keisanshiki	けいさんしき	計算式	 formula, equation, method of calculation, calculus
-14215	11646	koufusuru	こうふする	公布する	
+14215	11646	koufu	こうふ	公布	 official proclamation, announcement, promulgation (e.g. of regulations)
 14215	11647	shoutai	しょうたい	招待	 invitation
-14215	11648	shokusuru	しょくする	食する	 to eat
+14215	11648	shoku	しょく	食	food, foodstuff | eating, appetite | meal, しょく (食)  eclipse (solar, lunar, etc.)
 14215	11649	jisedai	じせだい	次世代	 next generation, future generation
 14215	11650	seien	せいえん	声援	 (shout of) encouragement, cheering, rooting, support
 14215	11651	sengetsu	せんげつ	先月	 last month
 14215	11652	zenrei	ぜんれい	前例	 precedent
 14215	11653	sougankyou	そうがんきょう	双眼鏡	 binoculars, field glasses
 14215	11654	tsukkomi	つっこみ	突っ込み	thrust, charge, penetration | digging into (a matter), depth | straight man (of a comedy duo) | quip, jab, dig, retort, riposte, comeback | putting everything together, including everything | (penetrative) sex, intercourse
-14215	11655	toukousuru	とうこうする	登校する	
+14215	11655	toukou	とうこう	登校	 attendance (at school), going to school
 14215	11656	nomisugiru	のみすぎる	飲み過ぎる	 to drink too much
 14215	11657	maisuu	まいすう	枚数	the number of flat things | win-loss difference which influences the ranking of wrestlers
 14215	11658	mawarikomu	まわりこむ	回り込む	 to go round and cut in, to take a roundabout path
-14215	11659	misshuusuru	みっしゅうする	密集する	
+14215	11659	misshuu	みっしゅう	密集	 crowding together, clustering together, close formation, swarm
 14215	11660	motomoto	もともと	元々	 originally, by nature, from the start
 14215	11661	youbi	ようび	曜日	 day of the week
-14239	11662	andosuru	あんどする	安堵する	
+14239	11662	ando	あんど	安堵	relief, reassurance | recognition of right to land ownership (by the shogunate, a feudal lord, etc.) | living safely surrounded by walls
 14239	11663	ihou	いほう	違法	 illegal, illicit, unlawful
 14239	11664	ugomeku	うごめく	蠢く	 to wriggle, to squirm, to crawl like a worm
 14239	11665	egara	えがら	絵柄	 pattern, design
 14239	11666	ekishou	えきしょう	液晶	 liquid crystal
 14239	11667	ehimeken	えひめけん	愛媛県	 Ehime prefecture (Shikoku)
 14239	11668	kaijou	かいじょう	開場	opening (the doors to an event, etc.) | inauguration
-14239	11669	kaisekisuru	かいせきする	解析する	
+14239	11669	kaiseki	かいせき	解析	analysis, analytical study | parsing, parse
 14239	11670	kasoku	かそく	加速	 acceleration, speeding up
 14239	11671	kama	かま	窯	 stove, furnace, kiln
 14239	11672	kankyouzukuri	かんきょうづくり	環境作り	 creating a (usually favorable) environment
@@ -84,12 +84,12 @@
 14239	11684	shoshuu	しょしゅう	所収	 included (in a publication), carried, printed
 14239	11685	seikatsusuijun	せいかつすいじゅん	生活水準	 standard of living
 14239	11686	seisanbutsu	せいさんぶつ	生産物	 product, produce
-14239	11687	seijinsuru	せいじんする	成人する	
+14239	11687	seijin	せいじん	成人	adult (esp. person 20 years old or over), grownup | becoming an adult, coming of age, growing up (to be a man, woman)
 14239	11688	seme	せめ	責め	responsibility, liability, blame | torture, torment, persecution
 14239	11689	senmonsei	せんもんせい	専門性	 specialization, specialty, speciality, expertise
 14239	11690	souou	そうおう	相応	suitable, appropriate, befitting, becoming, adequate, reasonable, proper | conjoining, association, samprayukta
 14239	11691	soshitsu	そしつ	素質	makings (of), aptitude, talent, qualities | nature, character, temperament
-14239	11692	chuukokusuru	ちゅうこくする	忠告する	
+14239	11692	chuukoku	ちゅうこく	忠告	 advice, warning
 14239	11693	chuuban	ちゅうばん	中盤	 middle stage, middle phase, middle game, midfield
 14239	11694	toitadasu	といただす	問い質す	to enquire of someone about something (inquire), to question | to interrogate, to grill (someone about a matter), to question in detail
 14239	11695	toukyouken	とうきょうけん	東京圏	

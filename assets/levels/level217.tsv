@@ -23,18 +23,18 @@
 26677	21623	gojitaku	ごじたく	御自宅	
 26677	21624	godoryoku	ごどりょく	御努力	
 26677	21625	saikoku	さいこく	催告	 notification
-26677	21626	saiyuusensuru	さいゆうせんする	最優先する	
+26677	21626	saiyuusen	さいゆうせん	最優先	 maximum preference, maximum priority, priority handling
 26677	21627	sazu	さず	左図	 plan which is shown on the left, left-most plan, map on the left (chart, graph)
 26677	21628	sanjin	さんじん	山参	
 26677	21629	shika	しか	詩歌	Japanese and Chinese poetry | poetry, poems
 26677	21630	shigotoigai	しごといがい	仕事以外	
 26677	21631	shisho	ししょ	司書	 librarian
-26677	21632	shaseisuru	しゃせいする	射精する	
-26677	21633	shakkinsuru	しゃっきんする	借金する	
+26677	21632	shasei	しゃせい	射精	 ejaculation
+26677	21633	shakkin	しゃっきん	借金	 debt, loan, liabilities, borrowing money
 26677	21634	shame	しゃめ	写メ	email with attached photos sent from a mobile phone | photo taken with a mobile phone, taking a photo with a mobile phone
 26677	21635	shuuchitettei	しゅうちてってい	周知徹底	 dissemination, spreading of information
 26677	21636	shukuen	しゅくえん	祝宴	 celebratory banquet, feast
-26677	21637	shukkousuru	しゅっこうする	出港する	
+26677	21637	shukkou	しゅっこう	出港	 departure from a port, leaving port, setting sail
 26677	21638	shousuke	しょうすけ	庄助	
 26677	21639	shoen	しょえん	初演	 first performance
 26677	21640	shotou	しょとう	初頭	 beginning (of a century, etc.)
@@ -52,21 +52,21 @@
 26677	21652	seijidantai	せいじだんたい	政治団体	 political organization, political organisation
 26677	21653	seimitsukensa	せいみつけんさ	精密検査	 thorough checkup, complete examination, complete physical, detailed testing
 26677	21654	seimeitai	せいめいたい	生命体	 life-form
-26677	21655	sesshuusuru	せっしゅうする	接収する	
+26677	21655	sesshuu	せっしゅう	接収	 requisition, requisitioning, seizure, confiscation, impounding, retaining (e.g. deposit)
 26677	21656	sensei	せんせい	先制	 head start, initiative, preemption
 26677	21657	soukangou	そうかんごう	創刊号	 first issue
 26677	21658	soujuu	そうじゅう	操縦	steering, piloting, flying, control, operation, handling | management, handling, control, manipulation
 26677	21659	tatakitsubusu	たたきつぶす	叩き潰す	 to smash up, to defeat crushingly
 26677	21660	daiji	だいじ	大事	important, serious, crucial | valuable, precious | serious matter, major incident, matter of grave concern, crisis | great undertaking, great enterprise, great thing | safe, OK, おおごと (大事)  serious matter, major incident, matter of grave concern, crisis
 26677	21661	dazaifu	だざいふ	大宰府	 dazaifu (under the ritsuryo system, governmental office with jurisdiction over Kyushu, Iki and Tsushima)
-26677	21662	dappisuru	だっぴする	脱皮する	
+26677	21662	dappi	だっぴ	脱皮	ecdysis, shedding (of skin), sloughing, molting, moulting, casting off | freeing oneself, breaking with (convention, etc.)
 26677	21663	danjou	だんじょう	壇上	 on a stage, on a platform, on an altar
 26677	21664	chichikata	ちちかた	父方	father's side of family | paternal (grandfather, uncle, etc.)
 26677	21665	chakkou	ちゃっこう	着工	 starting (construction) work
-26677	21666	chinretsusuru	ちんれつする	陳列する	
+26677	21666	chinretsu	ちんれつ	陳列	 exhibition, display, putting on show
 26677	21667	tsuketasu	つけたす	付け足す	 to add (to), to add on, to append
 26677	21668	teiousekkai	ていおうせっかい	帝王切開	 Caesarean section (Cesarean), C-section
-26677	21669	tenshutsusuru	てんしゅつする	転出する	
+26677	21669	tenshutsu	てんしゅつ	転出	 moving out, transfer
 26677	21670	tougo	とうご	東吾	
 26677	21671	touyoujin	とうようじん	東洋人	 Asian people, Orientals
 26677	21672	toorisugari	とおりすがり	通りすがり	 passing by
@@ -77,8 +77,8 @@
 26677	21677	nikushoku	にくしょく	肉食	meat eating, eating of meat, meat diet | carnivorous
 26677	21678	ningensonzai	にんげんそんざい	人間存在	
 26677	21679	neoki	ねおき	寝起き	lying down and getting up | waking, getting up | living (with), staying (with)
-26677	21680	noushukusuru	のうしゅくする	濃縮する	
-26677	21681	hakugaisuru	はくがいする	迫害する	
+26677	21680	noushuku	のうしゅく	濃縮	 concentration (e.g. of a solution), enrichment, condensation
+26677	21681	hakugai	はくがい	迫害	 persecution, oppression
 26677	21682	hatarakizakari	はたらきざかり	働き盛り	 prime of one's working life
 26677	21683	harabai	はらばい	腹這い	 lying on one's belly, crawling on one's belly, belly crawl
 26677	21684	hareyaka	はれやか	晴れやか	 clear, bright, sunny
@@ -91,7 +91,7 @@
 26677	21691	honkou	ほんこう	本項	 nub, core of the issue
 26677	21692	bouju	ぼうじゅ	傍受	 interception, monitoring, tapping
 26677	21693	boppatsu	ぼっぱつ	勃発	 outbreak (e.g. of war), outburst, sudden occurrence
-26677	21694	maishinsuru	まいしんする	邁進する	
+26677	21694	maishin	まいしん	邁進	 pushing forward (undaunted, bravely), working vigorously towards an aim, struggling on, striving towards
 26677	21695	makizoe	まきぞえ	巻き添え	 getting mixed up in, getting embroiled in, involvement, entanglement, by-blow
 26677	21696	mika	みか	美加	
 26677	21697	mijirogi	みじろぎ	身動ぎ	 stirring, slight movement

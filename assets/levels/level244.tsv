@@ -8,10 +8,10 @@
 29972	24308	yomisusumu	よみすすむ	読み進む	 to go on reading
 29972	24309	ransuu	らんすう	乱数	 random number
 29972	24310	rippoufu	りっぽうふ	立法府	assize, court | legislature
-29972	24311	ryuuzansuru	りゅうざんする	流産する	
+29972	24311	ryuuzan	りゅうざん	流産	 miscarriage, (spontaneous) abortion, abortive birth
 29972	24312	riisugaisha	りーすがいしゃ	リース会社	
 29972	24313	wadakamari	わだかまり	蟠り	 cares, ill feeling, reserve
-29972	24314	wankyokusuru	わんきょくする	湾曲する	
+29972	24314	wankyoku	わんきょく	湾曲	 curve, bend, crook
 30209	24315	atau	あたう	能う	well, properly, skillfully | often | how (could you), why (would you), あたう (能う)  to be able (to do), to be capable (of doing)
 30209	24316	awajitou	あわじとう	淡路島	
 30209	24317	itameawaseru	いためあわせる	炒め合わせる	
@@ -22,7 +22,7 @@
 30209	24322	urikomi	うりこみ	売り込み	 sales promotion, hard selling
 30209	24323	ureeru	うれえる	憂える	to worry about, to be anxious about, to be concerned about | to lament, to grieve, to feel sorrow for
 30209	24324	ebisu	えびす	夷	peoples formerly of northern Japan with distinct language and culture (i.e. the Ainu) | provincial (i.e. a person who lives far from the city) | brutish, unsophisticated warrior (esp. used by Kyoto samurai to refer to samurai from eastern Japan) | foreigner, barbarian, えびす (恵比寿)  Ebisu, god of fishing and commerce, い (夷)  barbarian
-30209	24325	engisuru	えんぎする	演技する	
+30209	24325	engi	えんぎ	演技	 acting, performance
 30209	24326	ouendan	おうえんだん	応援団	 cheering group, cheering squad
 30209	24327	okinawasen	おきなわせん	沖縄戦	 Battle of Okinawa (April, 1945)
 30209	24328	osamu	おさむ	修	
@@ -41,22 +41,22 @@
 30209	24341	kanrigaisha	かんりがいしゃ	管理会社	 proprietary company
 30209	24342	gaisha	がいしゃ	外車	foreign-made car, imported car | paddle wheel
 30209	24343	gakushuunaiyou	がくしゅうないよう	学習内容	
-30209	24344	kikkousuru	きっこうする	拮抗する	
+30209	24344	kikkou	きっこう	拮抗	rivalry (between two equally strong sides), struggle for supremacy, competing (with), vying (with), contending (with), being an equal match (for) | rising and falling (of a bird)
 30209	24345	kidoutai	きどうたい	機動隊	 riot police, riot squad
 30209	24346	kidouryoku	きどうりょく	機動力	 mobility
 30209	24347	kifujin	きふじん	貴婦人	 lady, noblewoman
-30209	24348	kyuuseichousuru	きゅうせいちょうする	急成長する	
+30209	24348	kyuuseichou	きゅうせいちょう	急成長	 rapid growth
 30209	24349	kinchoukankei	きんちょうかんけい	緊張関係	 tense relationship, tense relations, strained relations, strained ties, tension
-30209	24350	kuchidashisuru	くちだしする	口出しする	
+30209	24350	kuchidashi	くちだし	口出し	 interference, meddling, butting in
 30209	24351	kubochi	くぼち	窪地	 hollow, low ground, basin, pit, dip, depression
 30209	24352	keishuu	けいしゅう	荊州	
 30209	24353	keijou	けいじょう	刑場	 place of execution
-30209	24354	geigousuru	げいごうする	迎合する	
+30209	24354	geigou	げいごう	迎合	 ingratiation, pandering, catering (to), going along with (someone or something), accommodating oneself (e.g. to public opinion), あど (迎合)  deuteragonist, secondary or supporting actor in a noh or kyogen play (possibly multiple actors)
 30209	24355	genkouseido	げんこうせいど	現行制度	
-30209	24356	kousakusuru	こうさくする	耕作する	
+30209	24356	kousaku	こうさく	耕作	 cultivation, farming
 30209	24357	koushindekiru	こうしんできる	更新出来る	
 30209	24358	kousokubasu	こうそくばす	高速バス	 express intercity bus
-30209	24359	kokushisuru	こくしする	酷使する	
+30209	24359	kokushi	こくし	酷使	 exploitation, overuse, abuse
 30209	24360	kokuminkeizaikeisan	こくみんけいざいけいさん	国民経済計算	
 30209	24361	kobachi	こばち	小鉢	 small bowl
 30209	24362	kobuta	こぶた	子豚	 piglet
@@ -83,7 +83,7 @@
 30209	24383	shoukoui	しょうこうい	商行為	 commercial transaction
 30209	24384	shokushuukan	しょくしゅうかん	食習慣	 eating habits
 30209	24385	shingaisha	しんがいしゃ	新会社	
-30209	24386	shinshokusuru	しんしょくする	侵食する	
+30209	24386	shinshoku	しんしょく	侵食	encroachment | erosion, corrosion
 30209	24387	shiiaha	しーあは	シーア派	 Shia (Islam)
 30209	24388	jidoushahoken	じどうしゃほけん	自動車保険	 automobile insurance
 30209	24389	suuho	すうほ	数歩	 several steps

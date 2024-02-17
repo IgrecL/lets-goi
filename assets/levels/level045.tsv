@@ -1,20 +1,20 @@
 5254	4401	kinsen	きんせん	金銭	 money, cash
 5254	4402	shiji	しじ	支持	support, backing, endorsement, approval | support, holding up, propping
 5257	4403	kyouin	きょういん	教員	 teacher, instructor, teaching staff, faculty member
-5257	4404	teisuru	ていする	呈する	to present, to offer | to show, to display, to exhibit | to assume (e.g. a shape)
+5257	4404	tei	てい	呈	
 5257	4405	mukiau	むきあう	向き合う	to be opposite, to face each other | to confront (an issue), to face
-5263	4406	kosuru	こする	擦る	 to rub, to scrub, to scrape, さする (摩る)  to rub, to pat, to stroke, to massage, する (擦る) to rub, to chafe, to strike (match), to file, to frost (glass) | to lose (e.g. a match), to forfeit, to squander one's money (e.g. through gambling, Pachinko, etc.), かする (掠る) to graze (e.g. bullet), to scratch, to touch lightly | to take a percentage, to exploit, to squeeze, なする (擦る) to rub in, to smear on, to spread on, to daub | to lay the blame on
+5263	4406	ko	こ	擦る	 to rub, to scrub, to scrape, さする (摩る)  to rub, to pat, to stroke, to massage, する (擦る) to rub, to chafe, to strike (match), to file, to frost (glass) | to lose (e.g. a match), to forfeit, to squander one's money (e.g. through gambling, Pachinko, etc.), かする (掠る) to graze (e.g. bullet), to scratch, to touch lightly | to take a percentage, to exploit, to squeeze, なする (擦る) to rub in, to smear on, to spread on, to daub | to lay the blame on
 5266	4407	sakutei	さくてい	策定	 formulation (of a plan, policy, etc.), decision, settling on
 5266	4408	shishutsu	ししゅつ	支出	 expenditure, disbursement, expenses
-5266	4409	shuushokusuru	しゅうしょくする	就職する	
-5266	4410	chakushusuru	ちゃくしゅする	着手する	
+5266	4409	shuushoku	しゅうしょく	就職	 finding employment, getting a job
+5266	4410	chakushu	ちゃくしゅ	着手	to start work (on), to undertake | to start committing a crime | embarkation, launch
 5266	4411	nakaba	なかば	半ば	middle, halfway, midway | half (of), one half | half (e.g. done, jokingly), partly, in part, partially | mostly, almost, nearly
 5271	4412	iyou	いよう	異様	 bizarre, strange, eccentric, odd, queer
 5271	4413	oshare	おしゃれ	御洒落	smartly dressed, stylish, fashion-conscious | someone smartly dressed | to dress up, to be fashionable
 5271	4414	kiki	きき	機器	 device, equipment, machinery, apparatus
 5271	4415	kissaten	きっさてん	喫茶店	 coffee shop, tearoom, coffee lounge, coffeehouse, cafe
 5271	4416	kinzuru	きんずる	禁ずる	 to forbid, to suppress
-5271	4417	goukakusuru	ごうかくする	合格する	
+5271	4417	goukaku	ごうかく	合格	 success, passing (e.g. exam), eligibility
 5271	4418	goshouchi	ごしょうち	御承知	
 5271	4419	shudai	しゅだい	主題	 subject, theme, motif
 5281	4420	aogu	あおぐ	仰ぐ	to look up (at) | to look up to, to respect, to revere | to ask for (e.g. guidance), to seek, to turn to (someone) for | to depend on, to rely on | to gulp down, to quaff, to drink
@@ -26,7 +26,7 @@
 5281	4426	hata	はた	旗	flag | pataka (banner) | banner (administrative division of Inner Mongolia)
 5281	4427	mau	まう	舞う	to dance (orig. a whirling dance) | to flutter about, to revolve
 5291	4428	ikka	いっか	一家	a family, a household, a home, one's family, whole family | (one's own) style, school | gang, (yakuza) family
-5291	4429	chikusekisuru	ちくせきする	蓄積する	
+5291	4429	chikuseki	ちくせき	蓄積	 accumulation, accumulate, store
 5291	4430	hiniku	ひにく	皮肉	irony, sarcasm, cynicism, satire | unexpected, different from what one expected, not as one had planned | (only) surface, something superficial | skin and bone, body
 5295	4431	nukedasu	ぬけだす	抜け出す	to slip out, to sneak away, to break free, to get through (a difficult situation) | to break into the lead, to get ahead | to begin to fall out (e.g. hair) | to break out (of a loop)
 5295	4432	moukaru	もうかる	儲かる	 to be profitable, to yield a profit
@@ -56,12 +56,12 @@
 5319	4456	hantoshi	はんとし	半年	 half a year, six months
 5319	4457	yuusou	ゆうそう	郵送	 mailing, posting
 5325	4458	jippaasento	じっぱーせんと	十パーセント	
-5325	4459	sonkeisuru	そんけいする	尊敬する	
-5325	4460	teikisuru	ていきする	提起する	
+5325	4459	sonkei	そんけい	尊敬	 respect, esteem, reverence, honour, honor
+5325	4460	teiki	ていき	提起	raising (a question), bringing up (a problem), instituting (a lawsuit), filing (a claim), submitting (a case) | lifting up
 5325	4461	nuu	ぬう	縫う	to sew, to stitch | to weave one's way (e.g. through a crowd)
 5325	4462	nentou	ねんとう	念頭	 (on one's) mind, heed
-5331	4463	shutsujousuru	しゅつじょうする	出場する	
-5331	4464	henkansuru	へんかんする	変換する	
+5331	4463	shutsujou	しゅつじょう	出場	(stage) appearance, performance | participation (e.g. in a tournament), でば (出場) one's time (e.g. to go on stage), one's turn | source, origin, place of production
+5331	4464	henkan	へんかん	変換	change, conversion, transformation | transformation
 5334	4465	arekore	あれこれ	彼是	this and that, this or that, one thing or another, this way and that | around, about, round about, roughly, nearly, almost
 5334	4466	zei	ぜい	税	 tax
 5334	4467	tounyoubyou	とうにょうびょう	糖尿病	 diabetes, diabetes mellitus

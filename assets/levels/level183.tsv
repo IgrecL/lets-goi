@@ -16,7 +16,7 @@
 22407	18216	keisen	けいせん	罫線	ruled line, rule | chart | crease, score | border
 22407	18217	kenmaku	けんまく	剣幕	 threatening attitude, menacing look, angry look
 22407	18218	gekiretsu	げきれつ	激烈	 violence, vehemence, fury, fervour, fervor, severity, fierceness, keenness
-22407	18219	koukasuru	こうかする	降下する	
+22407	18219	kouka	こうか	降下	descent, fall, drop, (atmospheric) depression | passing down (of an order, decree, etc.)
 22407	18220	kousuiryou	こうすいりょう	降水量	 amount of precipitation, precipitation
 22407	18221	kontan	こんたん	魂胆	ulterior motive, plot, scheme | complicated circumstances, intricacies
 22407	18222	sankanbu	さんかんぶ	山間部	 mountainous region
@@ -34,7 +34,7 @@
 22407	18234	juumannin	じゅうまんにん	十万人	
 22407	18235	juhi	じゅひ	樹皮	 bark (of a tree, etc.)
 22407	18236	jouhoushori	じょうほうしょり	情報処理	 data processing
-22407	18237	jourakusuru	じょうらくする	上洛する	
+22407	18237	jouraku	じょうらく	上洛	 proceeding to the capital
 22407	18238	sudare	すだれ	簾	bamboo screen, rattan blind | bamboo mat (for rolling sushi), れん (簾)  bamboo screen, rattan blind
 22407	18239	sunomono	すのもの	酢の物	 vinegared dish, pickled dish
 22407	18240	seimai	せいまい	精米	 rice polishing, polished rice
@@ -47,7 +47,7 @@
 22407	18247	tsuriau	つりあう	釣り合う	to balance, to be in harmony, to be in equilibrium | to suit, to go well together, to be a good match
 22407	18248	tennouka	てんのうか	天皇家	 the Imperial Family
 22407	18249	dera	でら	寺	 temple (Buddhist), じ (寺)  counter for temples
-22407	18250	denpasuru	でんぱする	伝播する	
+22407	18250	denpa	でんぱ	伝播	 transmission, propagation, spread, circulation, diffusion, dissemination
 22407	18251	toukibo	とうきぼ	登記簿	 register
 22407	18252	toushouhei	とうしょうへい	鄧小平	
 22407	18253	touban	とうばん	当番	 being on duty, person on duty
@@ -65,11 +65,11 @@
 22407	18265	byou	びょう	秒	second (unit of time) | arc second
 22407	18266	fuzan	ふざん	釜山	 Busan (South Korea), Pusan
 22407	18267	fumuki	ふむき	不向き	 unfit, unsuitable, unmarketable
-22407	18268	fuyousuru	ふようする	扶養する	
+22407	18268	fuyou	ふよう	扶養	 support (e.g. of one's dependents), maintenance
 22407	18269	bujoku	ぶじょく	侮辱	 insult, affront, slight, contempt (e.g. of court)
 22407	18270	heiten	へいてん	閉店	closing up shop (for the day) | stopping business, going out of business
-22407	18271	benkaisuru	べんかいする	弁解する	
-22407	18272	bensaisuru	べんさいする	弁済する	
+22407	18271	benkai	べんかい	弁解	 explanation (e.g. for one's actions), excuse, justification, defense, defence
+22407	18272	bensai	べんさい	弁済	 repayment, settlement (of a debt), paying off, reimbursement (of expenses)
 22407	18273	bousan	ぼうさん	坊さん	Buddhist priest, monk | boy
 22407	18274	mari	まり	鞠	ball (for sport, games, etc.) | kemari, type of football played by courtiers in ancient Japan
 22407	18275	mitama	みたま	御霊	spirit of a deceased person | the Holy Ghost, the Holy Spirit
@@ -97,4 +97,4 @@
 22534	18297	kaikatsu	かいかつ	快活	 cheerful, lively, lighthearted
 22534	18298	kaimyou	かいみょう	戒名	 posthumous Buddhist name
 22534	18299	kachime	かちめ	勝ち目	 chance (of success), odds
-22534	18300	kanpaisuru	かんぱいする	乾杯する	
+22534	18300	kanpai	かんぱい	乾杯	cheers, bottoms-up, prosit | toast, drink (in celebration or in honor of something) | drinking one's glass dry

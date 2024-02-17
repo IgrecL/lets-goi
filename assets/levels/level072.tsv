@@ -7,7 +7,7 @@
 8557	7107	kabunushisoukai	かぶぬしそうかい	株主総会	 general meeting of stockholders
 8557	7108	gakuryoku	がくりょく	学力	 scholarly ability, scholarship, knowledge, literary ability
 8557	7109	kizashi	きざし	兆し	 signs, omen, symptoms
-8557	7110	sonsuru	そんする	存する	 to exist
+8557	7110	son	そん	存	
 8557	7111	noufu	のうふ	納付	 payment, supply
 8557	7112	hajikeru	はじける	弾ける	to burst open, to split open, to pop | to be bursting with (e.g. youth, laughter, flavor) | to bounce, to bound
 8557	7113	furyousaiken	ふりょうさいけん	不良債権	 bad debt, nonperforming loan
@@ -25,7 +25,7 @@
 8569	7125	hachou	はちょう	波長	 wavelength
 8569	7126	hitomazu	ひとまず	一先ず	for now, for the time being, for the present | though not quite satisfactorily, after a fashion
 8569	7127	biseibutsu	びせいぶつ	微生物	 microbe, germ
-8569	7128	manesuru	まねする	真似する	
+8569	7128	mane	まね	真似	imitating, copying, mimicry | behavior, behaviour, action, conduct
 8569	7129	michisuji	みちすじ	道筋	 path, route, itinerary
 8569	7130	yousha	ようしゃ	容赦	pardon, forgiveness, tolerance, overlooking | leniency, mercy, going easy (on someone)
 8569	7131	yotou	よとう	与党	 ruling party, government party, party in power, government
@@ -35,12 +35,12 @@
 8584	7135	kansetsuteki	かんせつてき	間接的	 indirect
 8584	7136	tanuki	たぬき	狸	tanuki (Nyctereutes procyonoides), raccoon dog | sly dog, sly old fox, sly fox, cunning devil, craftiness, sly person, someone who makes evil plans without ever breaking their poker face
 8584	7137	tounin	とうにん	当人	 the person concerned, the person in question, the said person
-8584	7138	nyuushasuru	にゅうしゃする	入社する	
+8584	7138	nyuusha	にゅうしゃ	入社	 joining a company, getting a job with a company, entering a company
 8584	7139	hitojichi	ひとじち	人質	 hostage
 8584	7140	hitome	ひとめ	一目	glance, look, glimpse | complete view, bird's-eye view, いちもく (一目) look, glance | stone (in the game of go)
-8584	7141	heikousuru	へいこうする	並行する	
+8584	7141	heikou	へいこう	並行	going side-by-side, going abreast | running concurrently, occurring at the same time, keeping pace with
 8584	7142	mirin	みりん	味醂	 mirin, type of sweet rice wine used in cooking
-8598	7143	kakuchousuru	かくちょうする	拡張する	
+8598	7143	kakuchou	かくちょう	拡張	expansion, extension, enlargement | escape, ESC
 8598	7144	kahei	かへい	貨幣	 money, currency, coinage
 8598	7145	kamo	かも	鴨	duck | easy mark, sucker, sitting duck
 8598	7146	shuuchuuryoku	しゅうちゅうりょく	集中力	 (powers of) concentration, ability to concentrate
@@ -57,11 +57,11 @@
 8612	7157	sukuu	すくう	掬う	 to scoop, to ladle out
 8612	7158	nagabiku	ながびく	長引く	 to be prolonged, to drag on
 8612	7159	nagetsukeru	なげつける	投げ付ける	 to throw at, to throw something at a person, to throw a person down
-8612	7160	menjosuru	めんじょする	免除する	
+8612	7160	menjo	めんじょ	免除	 exemption, exoneration, discharge
 8612	7161	modoreru	もどれる	戻れる	
-8612	7162	yuusousuru	ゆうそうする	郵送する	
+8612	7162	yuusou	ゆうそう	郵送	 mailing, posting
 8629	7163	imagoro	いまごろ	今頃	 about this time
-8629	7164	gyakutensuru	ぎゃくてんする	逆転する	
+8629	7164	gyakuten	ぎゃくてん	逆転	 (sudden) change, reversal, turn-around, coming from behind (baseball)
 8629	7165	kukuru	くくる	括る	to tie up, to tie together, to bind, to bundle, to fasten | to hang (oneself) | to summarize, to put (it all) together, to consolidate | to estimate, to expect | to tie-dye | to detain, to check, to restrain
 8629	7166	shibireru	しびれる	痺れる	to become numb, to go to sleep (e.g. a limb) | to get an electric shock, to tingle (from an electric shock) | to be excited, to be titillated, to be mesmerized, to be enthralled
 8629	7167	shun	しゅん	旬	season (e.g. fruit, fish) | in vogue, popular, fresh, up to date, じゅん (旬) ten-day period (in a month) | ten-year period (in one's age), decade
@@ -70,18 +70,18 @@
 8629	7170	somukeru	そむける	背ける	 to turn (one's face) away, to avert (one's eyes)
 8629	7171	tachi	たち	太刀	long sword (esp. the tachi, worn on the hip edge down by samurai), large sword | straight single-edged Japanese sword (from the mid-Heian period or earlier) | guandao, Chinese glaive
 8629	7172	teika	ていか	定価	 list price, regular price, established price
-8629	7173	tekiousuru	てきおうする	適応する	
+8629	7173	tekiou	てきおう	適応	 adaptation, accommodation, conformity
 8629	7174	tokken	とっけん	特権	 privilege, special right
 8644	7175	kaihi	かいひ	会費	 membership fee
 8644	7176	gunjiryoku	ぐんじりょく	軍事力	 military force, military strength
-8644	7177	gensonsuru	げんそんする	現存する	
+8644	7177	genson	げんそん	現存	 existing, living, extant
 8644	7178	kodoku	こどく	孤独	 solitude, loneliness, isolation
 8644	7179	shukushou	しゅくしょう	縮小	 reduction, curtailment
 8644	7180	shumudaijin	しゅむだいじん	主務大臣	 the cabinet minister in charge
 8644	7181	semi	せみ	蝉	cicada, locust | small-sized pulley
 8644	7182	tanima	たにま	谷間	valley, ravine, chasm, dell | cleavage (breasts) | slum
 8644	7183	toshibu	としぶ	都市部	 urban area, urban district
-8644	7184	douinsuru	どういんする	動員する	
+8644	7184	douin	どういん	動員	 mobilization, mobilisation
 8644	7185	dote	どて	土手	embankment, bank | beef sinew stewed in miso and mirin
 8644	7186	futoukou	ふとうこう	不登校	 truancy, school non-attendance
 8644	7187	betto	べっと	別途	separate, special, another | separately
@@ -95,6 +95,6 @@
 8662	7195	sashitsukaeru	さしつかえる	差し支える	 to interfere (with), to hinder, to be hindered (from doing), to become impeded, to have difficulty, to suffer inconvenience
 8662	7196	jinushi	じぬし	地主	 landowner, landlord, landlady
 8662	7197	senchou	せんちょう	船長	ship's captain, skipper | length of a ship | boatman
-8662	7198	taiinsuru	たいいんする	退院する	
-8662	7199	tsuukansuru	つうかんする	痛感する	
+8662	7198	taiin	たいいん	退院	 leaving hospital, discharge from hospital
+8662	7199	tsuukan	つうかん	痛感	 feeling keenly, fully realizing
 8662	7200	hinkon	ひんこん	貧困	poverty, penury, need, destitution | shortage, lack, want

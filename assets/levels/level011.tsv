@@ -10,7 +10,7 @@
 1217	1010	nagasu	ながす	流す	to drain, to pour, to spill, to shed (blood, tears) | to wash away | to distribute (e.g. electricity over wires, music over a PA system, etc.), to circulate, to broadcast, to beam | to cruise (e.g. taxi) | to float, to set adrift | to call off (a meeting, etc.) | to exile, to banish
 1218	1011	ikasu	いかす	生かす	to make (the best) use of, to put to good use, to leverage (skills, attributes, experience, etc.), to capitalise on (experience, etc.) | to let live, to keep alive | to revive, to resuscitate, to bring back to life | to restore (a deleted passage; in proofreading)
 1219	1012	kihon	きほん	基本	 basics, fundamentals, basis, foundation
-1220	1013	ketteisuru	けっていする	決定する	
+1220	1013	kettei	けってい	決定	 decision, determination
 1220	1014	shujin	しゅじん	主人	head (of a household), proprietor (of a store), proprietress, landlord, landlady | one's husband | (one's) employer, (one's) master | host, hostess, あるじ (主) head (of a household), proprietor (of a store), proprietress, landlord, landlady, master (of a servant) | entertaining someone as one's guest
 1220	1015	tsukamu	つかむ	掴む	to seize, to catch, to grasp, to grip, to grab, to clutch, to hold, to catch hold of, to lay one's hands on | to obtain, to acquire, to get, to win, to capture | to understand, to grasp, to comprehend
 1223	1016	shirusu	しるす	記す	to write down, to note, to jot down | to remember
@@ -21,7 +21,7 @@
 1228	1021	shimau	しまう	仕舞う	to finish, to stop, to end, to put an end to, to bring to a close | to close (a business, etc.), to close down, to shut down, to shut up | to put away, to put back, to keep, to store | to do completely, to finish | to do accidentally, to do without meaning to, to happen to do
 1230	1022	genjou	げんじょう	現状	 present condition, existing state, status quo, current state
 1230	1023	settei	せってい	設定	establishment, creation, posing (a problem), setting (movie, novel, etc.), scene | options setting, preference settings, configuration, setup
-1233	1024	teishutsusuru	ていしゅつする	提出する	
+1233	1024	teishutsu	ていしゅつ	提出	 presentation (of documents), submission (of an application, report, etc.), production (e.g. of evidence), introduction (e.g. of a bill), filing, turning in
 1234	1025	osusumeru	おすすめる	御勧める	
 1235	1026	wadai	わだい	話題	 topic, subject
 1237	1027	saidai	さいだい	最大	 biggest, greatest, largest, maximum
@@ -56,7 +56,7 @@
 1266	1056	takasa	たかさ	高さ	height, altitude, elevation, level | altitude, height
 1269	1057	kaijou	かいじょう	会場	 assembly hall, meeting place, venue, grounds
 1270	1058	mezurashii	めずらしい	珍しい	unusual, rare, curious | new, novel | fine (e.g. gift)
-1271	1059	imisuru	いみする	意味する	
+1271	1059	imi	いみ	意味	 meaning, significance, sense
 1272	1060	damaru	だまる	黙る	 to be silent, to say nothing
 1274	1061	gyoumu	ぎょうむ	業務	 business, affairs, duties, work, procedure, task, action, function, (business) operations, operational
 1275	1062	ase	あせ	汗	sweat, perspiration | moisture, condensation | gulp, oops, かん (汗)  khan (medieval ruler of a Tatary tribe)
@@ -67,15 +67,15 @@
 1281	1067	bunya	ぶんや	分野	 field, sphere, realm, division, branch
 1283	1068	sui	すい	水	water (esp. cool, fresh water, e.g. drinking water) | fluid (esp. in an animal tissue), liquid | flood, floodwaters | water offered to wrestlers just prior to a bout | break granted to wrestlers engaged in a prolonged bout, すい (水) Wednesday | shaved ice (served with flavored syrup) | water (fifth of the five elements)
 1284	1069	osameru	おさめる	収める	to dedicate, to make an offering, to pay (fees) | to supply | to store | to finish, to bring to a close | to restore (something to its place) | to achieve (e.g. a result)
-1285	1070	kansuru	かんする	関する	 to concern, to be related
-1286	1071	shiteisuru	していする	指定する	
+1285	1070	kan	かん	関	barrier, gate | seki (in go), mutual life, ぜき (関)  honorific added to names of makuuchi and juryo division wrestlers, かん (関)  barrier, gate
+1286	1071	shitei	してい	指定	 designation, specification, assignment, appointment, pointing at
 1287	1072	tanni	たんに	単に	 simply, merely, only, solely
 1288	1073	takameru	たかめる	高める	 to raise, to lift, to boost, to enhance
 1289	1074	jikou	じこう	事項	 matter, item, facts
 1290	1075	jiko	じこ	事故	accident, incident, trouble | circumstances, reasons
 1291	1076	jitai	じたい	事態	 situation, (present) state of affairs, circumstances
 1292	1077	tsukareru	つかれる	疲れる	to get tired, to tire, to get fatigued, to become exhausted, to grow weary | to become worn out (of a well-used object) | to starve
-1293	1078	tenkaisuru	てんかいする	展開する	
+1293	1078	tenkai	てんかい	展開	development, evolution, progression, unfolding, (plot) twist | expansion, spreading out, extending, deployment, building up | expansion (of an algebraic expression) | development (of a three-dimensional shape) | extraction (of compressed data), decompression, unpacking
 1294	1079	shisen	しせん	視線	 one's line of sight, one's gaze, one's eyes (looking), glance, gaze, look
 1295	1080	yaku	やく	役	war, campaign, battle | unpaid work (ritsuryo system), forced labor, やく (役) role, assignment, responsibility, duty, function, job, service | position (of responsibility), post, office | part (in a play, film, etc.), role, character | scoring combination (in mahjong, card games, etc.), meld, hand, yaku
 1296	1081	chiryou	ちりょう	治療	 (medical) treatment, care, therapy, cure, remedy

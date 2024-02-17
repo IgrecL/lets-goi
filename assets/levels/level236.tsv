@@ -10,7 +10,7 @@
 29094	23510	jitten	じってん	十点	
 29094	23511	jihatsusei	じはつせい	自発性	 self-motivation, spontaneity, spontaneousness
 29094	23512	juuichigou	じゅういちごう	十一号	
-29094	23513	juseisuru	じゅせいする	受精する	
+29094	23513	jusei	じゅせい	受精	 fertilization, fertilisation, impregnation, pollination, insemination
 29094	23514	jousei	じょうせい	醸成	brewing, fermenting | arousing, causing, creating, fermenting, bringing about
 29094	23515	jiru	じる	汁	juice, sap | soup, broth | (dipping) sauce
 29094	23516	suishitsuodakuboushihou	すいしつおだくぼうしほう	水質汚濁防止法	
@@ -22,13 +22,13 @@
 29094	23522	sekaiginkou	せかいぎんこう	世界銀行	 World Bank
 29094	23523	sekaiheiwa	せかいへいわ	世界平和	 world peace, peace of the world
 29094	23524	seppun	せっぷん	接吻	 kiss, kissing
-29094	23525	senobisuru	せのびする	背伸びする	
+29094	23525	senobi	せのび	背伸び	standing on tiptoe and stretching one's back to make oneself taller, stretching oneself | overreaching oneself, overstretching oneself, trying to do something beyond one's ability, pushing to the limit
 29094	23526	senjin	せんじん	先陣	 vanguard, advance guard
 29094	23527	zeihou	ぜいほう	税法	 taxation law
 29094	23528	sougikoui	そうぎこうい	争議行為	 direct action, strike
-29094	23529	sounansuru	そうなんする	遭難する	
+29094	23529	sounan	そうなん	遭難	 disaster, accident, shipwreck, distress
 29094	23530	sonzaikachi	そんざいかち	存在価値	 value to society, raison d'être, existence value
-29094	23531	zoueisuru	ぞうえいする	造営する	
+29094	23531	zouei	ぞうえい	造営	 building (a temple, palace, etc.), construction, erection
 29094	23532	zoukei	ぞうけい	造詣	 deep knowledge, attainments, scholarship
 29094	23533	takauji	たかうじ	尊氏	
 29094	23534	tashizan	たしざん	足し算	 addition
@@ -61,10 +61,10 @@
 29094	23561	nintairyoku	にんたいりょく	忍耐力	 fortitude, perseverance, stoicism, patience
 29094	23562	neechan	ねえちゃん	姉ちゃん	(one's) older sister, (one's) elder sister | girl
 29094	23563	nochihodo	のちほど	後程	 later on, eventually, afterwards
-29094	23564	haisekisuru	はいせきする	排斥する	
+29094	23564	haiseki	はいせき	排斥	 rejection, expulsion, boycott, ostracism
 29094	23565	hatame	はため	傍目	 looking on from the side, looking on by an outsider, はため (はた目)  outsider's perspective, as seen by an observer
 29094	23566	hatsuan	はつあん	発案	suggestion, proposition, proposal, idea | submission (of a bill), motion, proposal
-29094	23567	hatesuru	はてする	果てする	
+29094	23567	hate	はて	果て	 the end, the extremity, the limit, the limits, the result
 29094	23568	hanaiki	はないき	鼻息	nasal breathing, breathing through one's nose | person's pleasure, excitement
 29094	23569	hikiotoshi	ひきおとし	引き落とし	debit, withdrawal | pulling (one's opponent) down, frontal pull-down, hiki-otoshi
 29094	23570	fukuzawayukichi	ふくざわゆきち	福沢諭吉	
@@ -76,7 +76,7 @@
 29094	23576	hojogaku	ほじょがく	補助額	
 29094	23577	bougurafu	ぼうぐらふ	棒グラフ	 bar graph, bar chart
 29094	23578	mayune	まゆね	眉根	 part of the eyebrow closest to the nose
-29094	23579	misseisuru	みっせいする	密生する	
+29094	23579	missei	みっせい	密生	 growing thickly, growing densely
 29094	23580	mihappyou	みはっぴょう	未発表	 unpublished, not yet announced
 29094	23581	minkankatsuryoku	みんかんかつりょく	民間活力	
 29094	23582	mugimi	むぎみ	無気味	 weird, ominous, eerie, uncanny, ghastly
@@ -91,7 +91,7 @@
 29094	23591	roudousaigai	ろうどうさいがい	労働災害	 work-related injury or death
 29094	23592	ronrigaku	ろんりがく	論理学	 (study of) logic
 29094	23593	wakeataeru	わけあたえる	分け与える	 to distribute, to hand out
-29304	23594	aigansuru	あいがんする	哀願する	
+29304	23594	aigan	あいがん	哀願	 supplication, appeal, entreaty, petition
 29304	23595	aenai	あえない	敢え無い	 tragic
 29304	23596	akatsuchi	あかつち	赤土	 red clay, tuff loam, dark-red paint
 29304	23597	akatonbo	あかとんぼ	赤蜻蛉	(small) red dragonfly | darter (dragonfly of genus Sympetrum, esp. the autumn darter, Sympetrum frequens)

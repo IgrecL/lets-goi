@@ -1,8 +1,8 @@
-4028	3401	kitakusuru	きたくする	帰宅する	
+4028	3401	kitaku	きたく	帰宅	 returning home
 4028	3402	keiki	けいき	契機	opportunity, chance | trigger, cause
 4028	3403	shiriau	しりあう	知り合う	 to get to know each other, to make acquaintance
 4028	3404	yubisaki	ゆびさき	指先	fingertip, finger | toe tip, toe
-4033	3405	suiisuru	すいいする	推移する	
+4033	3405	suii	すいい	推移	transition, change, progress, development, shift | passing (of time)
 4037	3406	semeru	せめる	攻める	 to attack, to assault, to assail
 4037	3407	chiku	ちく	地区	 district, section, sector
 4039	3408	kodai	こだい	古代	 ancient times
@@ -12,7 +12,7 @@
 4045	3412	za	ざ	座	seat, place | position, status | gathering, party, company, atmosphere (of a gathering) | stand, pedestal, platform | (historical) trade guild | attaches to the names of constellations | attaches to the names of theatres, cinemas and theatrical troupes | counter for theatres, deities, Buddhist images, tall mountains, and satokagura songs
 4045	3413	seibun	せいぶん	成分	 ingredient, component, composition
 4045	3414	taikai	たいかい	大会	mass meeting, convention, rally, conference, assembly, gathering | tournament, competition, contest, meet | grand event
-4045	3415	tsuuyousuru	つうようする	通用する	
+4045	3415	tsuuyou	つうよう	通用	popular use, circulation | to pass as, to pass for
 4045	3416	masashiku	まさしく	正しく	certainly, surely, undoubtedly, evidently, really, truly | just, precisely, exactly, ただしく (正しく)  right, rightly, properly, correctly
 4050	3417	kiri	きり	霧	fog, mist | spray
 4051	3418	ikkou	いっこう	一向	 intently, single-mindedly, devotedly, solely, earnestly, with all one's heart, いっこう (一向) completely, absolutely, totally | (not) at all, (not) a bit, (not) in the least | earnestly, intently, determinedly | Jōdo Shinshū, ひたぶる (一向)  determined, single-minded, intent, desperate, wild
@@ -26,7 +26,7 @@
 4061	3426	ishou	いしょう	衣装	 clothing, costume, outfit, garment, dress
 4061	3427	ichiichi	いちいち	一々	one-by-one, separately | every single, each and every, without omission, fully, in detail
 4061	3428	ippouteki	いっぽうてき	一方的	 one-sided, unilateral, arbitrary
-4061	3429	inyousuru	いんようする	引用する	
+4061	3429	inyou	いんよう	引用	 quotation, citation, reference
 4061	3430	ninka	にんか	認可	 approval, license, licence, permission
 4066	3431	seizei	せいぜい	精々	 at the most, at best, to the utmost, as much (far) as possible
 4067	3432	katahou	かたほう	片方	one side, one party, counterpart, the other side, the other party | one of a pair, fellow, mate
@@ -58,7 +58,7 @@
 4097	3458	ou	おう	生う	to grow, to spring up | to cut (teeth)
 4098	3459	mizuumi	みずうみ	湖	 lake, こ (湖)  lake (in place names)
 4100	3460	sho	しょ	書	 letter, writings, しょ (書) book, document | calligraphy (esp. Chinese), penmanship | handwriting | letter, note
-4100	3461	sengensuru	せんげんする	宣言する	
+4100	3461	sengen	せんげん	宣言	 declaration, proclamation, announcement
 4100	3462	senzen	せんぜん	戦前	 pre-war days, before the war
 4103	3463	omedetou	おめでとう	御めでとう	
 4103	3464	kou	こう	項	 nape (of the neck), nucha, こう (項) clause, paragraph, item | argument | term (of an equation) | nape (of the neck)
@@ -72,10 +72,10 @@
 4113	3472	gara	がら	柄	handle, grip | stalk (of a mushroom, leaf, etc.), がら (柄) pattern, design | body build, figure, physique | essential qualities, character, nature | appropriate to, fitting of, suitable for, つか (柄)  hilt (of a sword), haft (of a dagger), handle, handgrip, から (幹) trunk, stem, stalk | shaft (of an arrow) | handle
 4113	3473	shinshin	しんしん	心身	 mind and body
 4113	3474	hinshitsu	ひんしつ	品質	 quality (of a product or a service)
-4116	3475	ikkansuru	いっかんする	一貫する	
+4116	3475	ikkan	いっかん	一貫	consistency, coherence, integration | one kan (approx. 3.75 kg, 8.3 lb) | one piece of sushi
 4116	3476	kesa	けさ	今朝	 this morning
 4116	3477	sentou	せんとう	先頭	 head, lead, vanguard, first
-4116	3478	teigisuru	ていぎする	定義する	
+4116	3478	teigi	ていぎ	定義	 definition
 4116	3479	deshi	でし	弟子	 pupil, disciple, adherent, follower, apprentice, young person, teacher's student-helper
 4121	3480	ayumu	あゆむ	歩む	to walk, to go on foot | to tread (a figurative path), to follow, to lead (a life), to experience | to advance towards (e.g. a solution), to set out (e.g. on the path to destruction, ruin, etc.), to embark (on the road to ...)
 4121	3481	torikesu	とりけす	取り消す	 to cancel, to withdraw, to retract, to take back (words, etc.), to revoke
@@ -86,15 +86,15 @@
 4129	3486	sueru	すえる	据える	to place (in position), to fix, to set (e.g. table), to lay (foundation) | to install, to seat (someone) | to settle (upon something), to fix (e.g. one's gaze) | to apply (moxa)
 4129	3487	zoudai	ぞうだい	増大	 enlargement, increase
 4129	3488	han'inai	はんいない	範囲内	 in range, within the limits (of...), within (a) range
-4129	3489	housousuru	ほうそうする	放送する	
+4129	3489	housou	ほうそう	放送	 broadcast, broadcasting
 4129	3490	youfuku	ようふく	洋服	 Western-style clothes (cf. traditional Japanese clothes)
 4135	3491	shoku	しょく	職	job, work, employment, occupation, position | duties | trade, skill, しき (職)  agency (government department between a ministry and a bureau under the ritsuryo system)
 4135	3492	seijiteki	せいじてき	政治的	 political
 4135	3493	toorisugiru	とおりすぎる	通り過ぎる	 to go past, to pass, to pass by
 4139	3494	seiryoku	せいりょく	勢力	 influence, power, might, strength, potency, force, energy
-4141	3495	shutsuensuru	しゅつえんする	出演する	
+4141	3495	shutsuen	しゅつえん	出演	 performance, appearance (in a stage, film, TV show, etc.)
 4141	3496	suunin	すうにん	数人	 several people, a few people
-4141	3497	tsuikyuusuru	ついきゅうする	追求する	
+4141	3497	tsuikyuu	ついきゅう	追求	 pursuit (of a goal, ideal, etc.), search, chase, seeking after
 4145	3498	kasai	かさい	火災	 conflagration, fire
 4145	3499	kome	こめ	米	metre, meter | meter, gauge, こめ (米) (husked grains of) rice | staple (product, etc.), necessity, べい (米)  (United States of) America, USA, よね (米) 88 years old | rice
 4145	3500	shinamono	しなもの	品物	 goods, article, thing

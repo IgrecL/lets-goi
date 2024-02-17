@@ -8,7 +8,7 @@
 36762	29408	gaichi	がいち	外地	 overseas territories, outlying areas
 36762	29409	gakkyuuhoukai	がっきゅうほうかい	学級崩壊	 class disruption (e.g. due to discipline problems), classroom chaos
 36762	29410	gakkoumei	がっこうめい	学校名	 school's name
-36762	29411	gasshousuru	がっしょうする	合唱する	
+36762	29411	gasshou	がっしょう	合唱	 chorus, singing in a chorus
 36762	29412	kikakuka	きかくか	企画課	 planning section
 36762	29413	kigan	きがん	祈願	 prayer (for something), supplication
 36762	29414	kiseitou	きせいとう	規制等	
@@ -36,9 +36,9 @@
 36762	29436	kenkoujou	けんこうじょう	健康上	 health (concerns, reasons, etc.)
 36762	29437	gekiryuu	げきりゅう	激流	 raging stream, rapids
 36762	29438	geretsu	げれつ	下劣	 base, mean, vulgar, despicable, low
-36762	29439	kouisuru	こういする	行為する	
+36762	29439	koui	こうい	行為	 act, deed, conduct
 36762	29440	kouichi	こういち	光一	dealt hand consisting of one 20-point card and six 1-point cards | outstanding, standing out above the rest
-36762	29441	kougisuru	こうぎする	講義する	
+36762	29441	kougi	こうぎ	講義	 lecture
 36762	29442	koukouseikatsu	こうこうせいかつ	高校生活	
 36762	29443	koushin	こうしん	口唇	 lips
 36762	29444	kouseki	こうせき	鉱石	 ore, mineral, crystal
@@ -48,7 +48,7 @@
 36762	29448	koekake	こえかけ	声掛け	 saying something (to someone), greeting, approaching (someone)
 36762	29449	koku	こく	放く	to let loose (e.g. a fart) | to utter (e.g. a lie) | to do
 36762	29450	kokou	ここう	孤高	 aloof, proudly independent, standing apart, solitary
-36762	29451	koshousuru	こしょうする	呼称する	
+36762	29451	koshou	こしょう	呼称	naming, giving a name, designation, denomination | nominal
 36762	29452	kojin	こじん	古人	 ancient people
 36762	29453	kokken	こっけん	国権	 power of the state, national sovereignty, sovereign rights
 36762	29454	kopiiki	こぴーき	コピー機	 copier, copy machine, photocopier
@@ -60,10 +60,10 @@
 36762	29460	sakuzu	さくず	作図	drawing a figure, drawing a diagram | construction
 36762	29461	sakezuki	さけずき	酒好き	 love of drink, fondness for alcohol, person who likes to drink, drinker
 36762	29462	satsubatsu	さつばつ	殺伐	 brutal (atmosphere, society, etc.), savage, fierce, violent, bloodthirsty, stark
-36762	29463	sansuru	さんする	産する	to bear (a child), to be born | to produce, to yield, to be produced, to be yielded
-36762	29464	shishousuru	ししょうする	死傷する	
+36762	29463	san	さん	産	innocent, naive, unsophisticated, inexperienced, green, wet behind the ears | birth-, さん (産) (giving) birth, childbirth, delivery, confinement | native of, product of | assets, property, fortune
+36762	29464	shishou	ししょう	死傷	 casualties, injuries and deaths
 36762	29465	shitabi	したび	下火	 burning low, waning, declining
-36762	29466	shissokusuru	しっそくする	失速する	
+36762	29466	shissoku	しっそく	失速	stall (in flying) | downturn, slowdown, slump, weakening, decline
 36762	29467	shinagire	しなぎれ	品切れ	 out of stock, sold out
 36762	29468	shihoko	しほこ	志穂子	
 36762	29469	shaanai	しゃあない	しゃあ無い	
@@ -80,12 +80,12 @@
 36762	29480	shinshiteki	しんしてき	紳士的	 gentlemanly, well-mannered, well-bred, gentlemanlike
 36762	29481	shinsei	しんせい	新生	 rebirth, new birth, nascent
 36762	29482	shinsotsu	しんそつ	新卒	 new graduate, recent graduate
-36762	29483	shinchousuru	しんちょうする	伸長する	
+36762	29483	shinchou	しんちょう	伸長	 expansion, extension, elongation, stretching
 36762	29484	shinhannin	しんはんにん	真犯人	 the real criminal, true culprit
 36762	29485	shinfuzen	しんふぜん	心不全	 heart failure
 36762	29486	shinbunshijou	しんぶんしじょう	新聞紙上	 the press, (in the) newspapers
 36762	29487	shinryakusha	しんりゃくしゃ	侵略者	 aggressor, invader
-36762	29488	jisakusuru	じさくする	自作する	
+36762	29488	jisaku	じさく	自作	 one's own work, making by oneself
 36762	29489	jitsuenka	じつえんか	実演家	
 36762	29490	jakunikukyoushoku	じゃくにくきょうしょく	弱肉強食	 survival of the fittest, the law of the jungle, the weak are meat the strong do eat
 36762	29491	juuichijikoro	じゅういちじころ	十一時頃	

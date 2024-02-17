@@ -3,15 +3,15 @@
 30652	24803	nobori	のぼり	幟	 flag, banner, streamer
 30652	24804	nomigusuri	のみぐすり	飲み薬	 oral medicine, internal medicine
 30652	24805	hakaku	はかく	破格	extraordinary, special, exceptional, abnormal, unprecedented | non-standard grammatical construction, ungrammatical usage, solecism
-30652	24806	hakkansuru	はっかんする	発刊する	
+30652	24806	hakkan	はっかん	発刊	 publish, start (new) publication
 30652	24807	hassha	はっしゃ	発射	firing (esp. a rocket or missile), launching, shooting, discharge, catapult | ejaculation
 30652	24808	hayashisan	はやしさん	林さん	
 30652	24809	hansuuchikaku	はんすうちかく	半数近く	
 30652	24810	hitoaji	ひとあじ	一味	clan, partisans, conspirators, gang, ring, crew | participation (e.g. in a plot) | one flavour, one charm | one ingredient (in traditional Chinese medicine) | universality (of the teachings of Buddha), ひとあじ (一味) unique flavor (flavour), (degree of) flavouring | distinctive quality, special charm
 30652	24811	hinanbasho	ひなんばしょ	避難場所	 evacuation site, exposure, refuge shelter, shelter
-30652	24812	hyoushutsusuru	ひょうしゅつする	表出する	
+30652	24812	hyoushutsu	ひょうしゅつ	表出	 expression, presentation
 30652	24813	hyoubutai	ひょうぶたい	表舞台	 front stage, center stage (of politics, etc.)
-30652	24814	hyouryuusuru	ひょうりゅうする	漂流する	
+30652	24814	hyouryuu	ひょうりゅう	漂流	 drifting, drift, being adrift
 30652	24815	fukiagaru	ふきあがる	吹き上がる	
 30652	24816	fushoku	ふしょく	腐食	corrosion, etching, action of acid, rot, rust, erosion | saprophagy
 30652	24817	fudousangaisha	ふどうさんがいしゃ	不動産会社	 real estate company, real estate firm, property firm
@@ -44,7 +44,7 @@
 30652	24844	yowai	よわい	齢	 (one's) age, れい (齢) instar (developmental stage of arthropods) | age, years
 30652	24845	rigaikankeisha	りがいかんけいしゃ	利害関係者	 interested parties, persons concerned, stakeholder
 30652	24846	ryuusan	りゅうさん	硫酸	 sulfuric acid, sulphuric acid
-30652	24847	ryuuchisuru	りゅうちする	留置する	
+30652	24847	ryuuchi	りゅうち	留置	 detention (usu. during investigation), imprisonment, poundage, custody
 30652	24848	rinshoushiken	りんしょうしけん	臨床試験	 clinical study, clinical trial
 30652	24849	reisetsu	れいせつ	礼節	 decorum, propriety, politeness
 30652	24850	renkinjutsushi	れんきんじゅつし	錬金術師	 alchemist
@@ -65,10 +65,10 @@
 30902	24865	ippanshomin	いっぱんしょみん	一般庶民	 ordinary people, common folk, general masses, man in the street, populace at large
 30902	24866	imoutotachi	いもうとたち	妹達	
 30902	24867	irochigai	いろちがい	色違い	 variation in color (colour), having a different color
-30902	24868	unnunsuru	うんぬんする	云々する	
+30902	24868	unnun	うんぬん	云々	and so on, and so forth, et cetera, and such, and the like | comment, criticism
 30902	24869	enkinhou	えんきんほう	遠近法	 perspective
 30902	24870	ousan	おうさん	王さん	
-30902	24871	okusuru	おくする	臆する	 to be hesitant, to feel timid
+30902	24871	oku	おく	臆	
 30902	24872	oshige	おしげ	惜し気	 reluctance, regret, frugality
 30902	24873	orikara	おりから	折柄	just then, at that time, right then, at that moment | appropriate moment
 30902	24874	oroshiurishijou	おろしうりしじょう	卸売り市場	
@@ -85,7 +85,7 @@
 30902	24885	gaitou	がいとう	該当	 corresponding to, being applicable to, being relevant to, coming under, falling under, fulfilling (requirements), meeting (conditions), qualifying for
 30902	24886	gakubuchi	がくぶち	額縁	 frame (e.g. picture frame, decorative door frame, etc.)
 30902	24887	kyakusha	きゃくしゃ	客車	 passenger car
-30902	24888	kyuujoushousuru	きゅうじょうしょうする	急上昇する	
+30902	24888	kyuujoushou	きゅうじょうしょう	急上昇	 sudden rise, steep climb, zoom, trending
 30902	24889	kyuuseiki	きゅうせいき	急性期	 acute phase
 30902	24890	kyousaikumiai	きょうさいくみあい	共済組合	 cooperative society, mutual-benefit association
 30902	24891	kyoutsuukou	きょうつうこう	共通項	 point in common, common term, common trait, common denominator
@@ -96,5 +96,5 @@
 30902	24896	kuwagata	くわがた	鍬形	hoe-shaped helmet crest | stag beetle
 30902	24897	keieirinen	けいえいりねん	経営理念	 management philosophy, management principles, managerial creed
 30902	24898	keizaikaikaku	けいざいかいかく	経済改革	 economic reform
-30902	24899	keichuusuru	けいちゅうする	傾注する	
+30902	24899	keichuu	けいちゅう	傾注	 devotion, concentration
 30902	24900	keiyakushain	けいやくしゃいん	契約社員	 contract employee

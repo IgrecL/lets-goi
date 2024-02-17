@@ -2,7 +2,7 @@
 51644	40802	kankyoubunya	かんきょうぶんや	環境分野	
 51644	40803	kankeishorui	かんけいしょるい	関係書類	 relevant documents, (all) the documents related (to the matter)
 51644	40804	kansuke	かんすけ	勘助	
-51644	40805	kandensuru	かんでんする	感電する	
+51644	40805	kanden	かんでん	感電	 receiving an electric shock
 51644	40806	kanmei	かんめい	簡明	 terse, concise, simple and clear
 51644	40807	kanyousa	かんようさ	寛容さ	
 51644	40808	kanryou	かんりょう	管領	 (person in) control
@@ -23,14 +23,14 @@
 51644	40823	kigyoubumon	きぎょうぶもん	企業部門	
 51644	40824	kikumoto	きくもと	菊本	
 51644	40825	kikensugiru	きけんすぎる	危険過ぎる	
-51644	40826	kijutsusuru	きじゅつする	既述する	
+51644	40826	kijutsu	きじゅつ	既述	 previously mentioned, previously described, above-mentioned, aforesaid
 51644	40827	kizokukaikyuu	きぞくかいきゅう	貴族階級	 noble class, nobility
 51644	40828	kitaitaria	きたいたりあ	北イタリア	
 51644	40829	kitasan	きたさん	北さん	
 51644	40830	kinashi	きなし	気無し	
 51644	40831	kibamusha	きばむしゃ	騎馬武者	
 51644	40832	kimuratakuya	きむらたくや	木村拓哉	
-51644	40833	kyuukansuru	きゅうかんする	休館する	
+51644	40833	kyuukan	きゅうかん	休館	 closure (of a library, museum, etc.)
 51644	40834	kyuujotai	きゅうじょたい	救助隊	 rescue team or party
 51644	40835	kyouakujiken	きょうあくじけん	凶悪事件	
 51644	40836	kyouikugaku	きょういくがく	教育学	 pedagogy, pedagogics, education (esp. in the context of the study of education)
@@ -44,8 +44,8 @@
 51644	40844	gionmatsuri	ぎおんまつり	祇園祭り	 Gion Festival (in Kyoto during the month of July, with high point on the 17th)
 51644	40845	gyouko	ぎょうこ	凝固	 coagulation, freezing, solidification
 51644	40846	gyouseitetsuzukihou	ぎょうせいてつづきほう	行政手続き法	
-51644	40847	gyouretsusuru	ぎょうれつする	行列する	
-51644	40848	kuudoukasuru	くうどうかする	空洞化する	
+51644	40847	gyouretsu	ぎょうれつ	行列	line, queue, procession, parade | matrix
+51644	40848	kuudouka	くうどうか	空洞化	making hollow, making meaningless | deindustrialization, deindustrialisation
 51644	40849	kushizashi	くしざし	串刺し	skewer, spit | skewering | impalement, running through (e.g. with spear), stabbing
 51644	40850	kusunoki	くすのき	楠	 camphor tree (Cinnamomum camphora), camphorwood, camphor laurel
 51644	40851	kunaizaijuuzaikin	くないざいじゅうざいきん	区内在住・在勤	
@@ -68,8 +68,8 @@
 51644	40868	kenkouka	けんこうか	健康課	
 51644	40869	kensetsushizai	けんせつしざい	建設資材	 construction materials
 51644	40870	genkyuu	げんきゅう	減給	 pay cut, salary cut
-51644	40871	gensaisuru	げんさいする	減殺する	
-51644	40872	genjitsubanaresuru	げんじつばなれする	現実離れする	
+51644	40871	gensai	げんさい	減殺	 lessening, diminishing, reducing
+51644	40872	genjitsubanare	げんじつばなれ	現実離れ	 unreality, becoming disconnected from reality
 51644	40873	koikuchishouyu	こいくちしょうゆ	濃い口醤油	 dark soy sauce, regular soy sauce
 51644	40874	koibumi	こいぶみ	恋文	 love letter
 51644	40875	koui	こうい	厚意	 kindness, favor, favour
@@ -84,11 +84,11 @@
 51644	40884	koujirou	こうじろう	幸次郎	
 51644	40885	kouso	こうそ	公訴	 accusation, prosecution
 51644	40886	kouso	こうそ	高祖	 founder of dynasty or sect
-51644	40887	koutetsusuru	こうてつする	更迭する	
+51644	40887	koutetsu	こうてつ	更迭	 change (of personnel), reshuffle (e.g. of a cabinet), shake-up, dismissal (e.g. of a minister), replacement
 51644	40888	kounyuukingaku	こうにゅうきんがく	購入金額	
 51644	40889	koubutsushigen	こうぶつしげん	鉱物資源	 mineral resources
 51644	40890	koumeitennou	こうめいてんのう	孝明天皇	
-51644	40891	kouryuusuru	こうりゅうする	勾留する	
+51644	40891	kouryuu	こうりゅう	勾留	 detention pending trial, confinement, custody
 51644	40892	kogirei	こぎれい	小奇麗	 neat, trim, tidy, pretty
 51644	40893	kokusaidenden	こくさいでんでん	国際電電	
 51644	40894	kokusaihoujou	こくさいほうじょう	国際法上	

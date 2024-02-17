@@ -7,13 +7,13 @@
 6341	5307	hitsuzenteki	ひつぜんてき	必然的	 inevitable, necessary
 6349	5308	baibai	ばいばい	売買	 trade, buying and selling, trafficking (e.g. of humans, arms, drugs), dealing, ばいかい (売買い)  crossing (shares)
 6352	5309	oshiyoseru	おしよせる	押し寄せる	 to advance on, to close in, to march on, to descend on (the enemy), to move towards, to surge forward (crowd, wave of nostalgia, wave, etc.), to rush for (the door), to inundate, to overwhelm, to push aside
-6352	5310	kaisuru	かいする	解する	to understand, to appreciate | to interpret
+6352	5310	kai	かい	解	solution (of an equation, inequality, etc.), root (e.g. of a polynomial) | solution (to a given problem), answer | explanation, interpretation
 6352	5311	shuppin	しゅっぴん	出品	 exhibiting, showing, putting on display, putting up for sale, entering (a work into a competition), submitting
 6352	5312	seisaku	せいさく	製作	 manufacture, production
 6352	5313	hindo	ひんど	頻度	 frequency (of occurrence)
 6352	5314	mouretsu	もうれつ	猛烈	 fierce, intense, severe, violent, strong, vehement, terrific, terrible
 6352	5315	moku	もく	木	tree, shrub, bush | wood, timber, もく (木) Thursday | wood (first of the five elements)
-6360	5316	keiyakusuru	けいやくする	契約する	
+6360	5316	keiyaku	けいやく	契約	 contract, compact, agreement
 6360	5317	shokki	しょっき	食器	 tableware
 6360	5318	seiketsu	せいけつ	清潔	clean, hygienic, sanitary | pure, virtuous, immaculate
 6360	5319	senmei	せんめい	鮮明	 vivid, clear, distinct
@@ -28,14 +28,14 @@
 6374	5328	oshirase	おしらせ	御知らせ	 notice, notification
 6374	5329	kanau	かなう	適う	to come true (of a wish, prayer, etc.), to be realized, to be fulfilled | to suit (e.g. a purpose), to meet (wishes, ideals, etc.), to conform to (standards, rules, etc.), to be consistent with | to match (implies competition), to rival, to bear (e.g. the heat), あたう (能う)  to be able (to do), to be capable (of doing)
 6374	5330	kanashimu	かなしむ	悲しむ	 to be sad, to mourn for, to regret
-6374	5331	shoutaisuru	しょうたいする	招待する	
-6374	5332	tenpusuru	てんぷする	添付する	
+6374	5331	shoutai	しょうたい	招待	 invitation
+6374	5332	tenpu	てんぷ	添付	 attaching (documents, etc.), appending, affixing
 6374	5333	nai	ない	内	inside, within | while (e.g. one is young), during, within (e.g. a day), in the course of | among, amongst, (out) of, between | in (secret, chaos, poverty, etc.), amidst, with (e.g. success) | within oneself, one's feelings, inner thoughts | we, our company, our organization | one's home, one's family | my spouse, my husband, my wife | signed on behalf of (husband's name) by his wife | I, me | imperial palace grounds | emperor, ない (内)  inside, within
 6382	5334	kawairashii	かわいらしい	可愛らしい	 lovely, sweet
-6382	5335	choushuusuru	ちょうしゅうする	徴収する	
+6382	5335	choushuu	ちょうしゅう	徴収	 collection (of fees, taxes, etc.), levy
 6382	5336	dokusho	どくしょ	読書	 reading (books)
 6387	5337	otenki	おてんき	御天気	weather | temper, mood
-6387	5338	kyojuusuru	きょじゅうする	居住する	
+6387	5338	kyojuu	きょじゅう	居住	 residence, abode, dwelling
 6387	5339	keimusho	けいむしょ	刑務所	 prison, penitentiary
 6387	5340	shigamitsuku	しがみつく	しがみ付く	 to cling
 6387	5341	joubu	じょうぶ	上部	 top part, surface
@@ -73,9 +73,9 @@
 6421	5373	toshitsuki	としつき	年月	 months and years
 6421	5374	totsukawa	とつかわ	十津川	
 6433	5375	jisha	じしゃ	自社	one's company, company one works for | in-house, belonging to the company
-6433	5376	chakumokusuru	ちゃくもくする	着目する	
+6433	5376	chakumoku	ちゃくもく	着目	 attention, giving one's attention, focusing
 6433	5377	tohou	とほう	途方	 way, destination, reason
-6433	5378	haishutsusuru	はいしゅつする	排出する	
+6433	5378	haishutsu	はいしゅつ	排出	 evacuation, emission (e.g. of CO2, etc.), ejection
 6433	5379	hachi	はち	鉢	bowl, pot, basin | flowerpot | crown, brainpan
 6433	5380	hassou	はっそう	発送	 sending, forwarding, shipping
 6433	5381	hyakunen	ひゃくねん	百年	 century, hundred years, a long time
@@ -93,7 +93,7 @@
 6456	5393	souko	そうこ	倉庫	 storehouse, warehouse, godown
 6456	5394	hanmen	はんめん	反面	 on the other hand, opposite side, reverse
 6456	5395	hiryou	ひりょう	肥料	 manure, fertilizer, fertiliser, compost
-6456	5396	yoyakusuru	よやくする	予約する	
+6456	5396	yoyaku	よやく	予約	reservation, appointment, booking, advance order | contract, subscription, pledge | programming (e.g. a device), setting (e.g. a timer)
 6456	5397	reigi	れいぎ	礼儀	 manners, courtesy, etiquette
 6465	5398	aima	あいま	合間	 interval, break, pause, spare moment
 6465	5399	ichiken	いちけん	一軒	 one house

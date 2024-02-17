@@ -12,7 +12,7 @@
 6225	5212	hosonagai	ほそながい	細長い	 long and narrow
 6225	5213	mabushii	まぶしい	眩しい	 dazzling, radiant
 6225	5214	mizo	みぞ	溝	 10^32, hundred nonillion, みぞ (溝) ditch, drain, gutter, trench | groove, tread | gap (between people, countries, etc.), gulf
-6235	5215	kankousuru	かんこうする	刊行する	
+6235	5215	kankou	かんこう	刊行	 publication, issue
 6235	5216	kisha	きしゃ	汽車	train (esp. long distance train) | steam train
 6235	5217	shuppansha	しゅっぱんしゃ	出版社	 publisher, publishing house, publishing company
 6235	5218	senzo	せんぞ	先祖	 ancestor
@@ -51,11 +51,11 @@
 6282	5251	toshiue	としうえ	年上	 older, senior
 6282	5252	tonai	とない	都内	 (within) the (Tokyo) metropolitan area
 6282	5253	bumon	ぶもん	部門	 division (of a larger group), branch, field, class (subclass), group, category, department
-6286	5254	oaisuru	おあいする	御会いする	
+6286	5254	oai	おあい	御会い	
 6286	5255	kogara	こがら	小柄	small build, small stature, petite | small pattern, こづか (小柄)  knife attached to the sheath of a sword, しょうへい (小柄)  sterigma
 6286	5256	shikei	しけい	死刑	 death penalty, capital punishment
 6286	5257	shomei	しょめい	署名	 signature
-6286	5258	murisuru	むりする	無理する	
+6286	5258	muri	むり	無理	unreasonable, unnatural, unjustifiable | impossible | forcible, forced, compulsory | excessive (work, etc.), immoderate | to work too hard, to try too hard | no way, not a chance, never, dream on | irrational
 6286	5259	yamayama	やまやま	山々	(many) mountains | very much (esp. wanting to do something one cannot), greatly, really
 6286	5260	yuiitsu	ゆいいつ	唯一	 only, sole, unique
 6295	5261	iji	いじ	意地	stubbornness, obstinacy, willpower, pride | disposition, nature | appetite, desire, greed
@@ -89,7 +89,7 @@
 6325	5289	uttae	うったえ	訴え	 lawsuit, complaint
 6325	5290	kisou	きそう	競う	 to compete, to contend, to vie, to contest
 6325	5291	koseiteki	こせいてき	個性的	 individual, distinctive, unique, characteristic, personal, idiosyncratic
-6325	5292	souguusuru	そうぐうする	遭遇する	
+6325	5292	souguu	そうぐう	遭遇	 encounter, being confronted with (e.g. difficulty), meeting with (e.g. accident)
 6325	5293	sokutei	そくてい	測定	 measurement
 6333	5294	onajimi	おなじみ	御馴染み	 familiar, well-known, regular (e.g. customer), old stand-by
 6333	5295	kouzui	こうずい	洪水	 flood, flooding

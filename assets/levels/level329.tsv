@@ -16,7 +16,7 @@
 41228	32816	sarugutsuwa	さるぐつわ	猿轡	 (mouth) gag
 41228	32817	san'i	さんい	賛意	 approval, assent
 41228	32818	zanpan	ざんぱん	残飯	 leftover food, leftovers, food scraps
-41228	32819	shioyudesuru	しおゆでする	塩茹でする	
+41228	32819	shioyude	しおゆで	塩茹で	 boiling with salt, boiling in salty water (e.g. vegetables)
 41228	32820	shikaneru	しかねる	し兼ねる	 to be reluctant to do, to hesitate to do, to refuse to do, to be unable to do
 41228	32821	shikan	しかん	弛緩	 relaxation (e.g. of muscles), becoming flaccid
 41228	32822	shigotosaki	しごとさき	仕事先	
@@ -35,15 +35,15 @@
 41228	32835	shushou	しゅしょう	殊勝	 admirable, laudable
 41228	32836	shunpei	しゅんぺい	俊平	
 41228	32837	shouidan	しょういだん	焼夷弾	 incendiary bomb, firebomb
-41228	32838	shoukansuru	しょうかんする	召喚する	
+41228	32838	shoukan	しょうかん	召喚	 summons, summonsing, citation, subpoena, arraigning, calling, summoning
 41228	32839	shouhinkachi	しょうひんかち	商品価値	 commercial value, commodity value, marketability
 41228	32840	shokugyoujin	しょくぎょうじん	職業人	 professional, careerman, worker
 41228	32841	shokugyouseikatsu	しょくぎょうせいかつ	職業生活	
-41228	32842	shinkousuru	しんこうする	振興する	
+41228	32842	shinkou	しんこう	振興	 promotion, encouragement
 41228	32843	shinshousha	しんしょうしゃ	身障者	 (physically) disabled person, person with a physical disability
 41228	32844	shinzen	しんぜん	神前	 before god, before an altar
 41228	32845	shinchikujuutaku	しんちくじゅうたく	新築住宅	
-41228	32846	shinchuusuru	しんちゅうする	進駐する	
+41228	32846	shinchuu	しんちゅう	進駐	 occupation, stationing
 41228	32847	jikayou	じかよう	自家用	 for private or home use
 41228	32848	jikyuuryoku	じきゅうりょく	持久力	 stamina, tenacity
 41228	32849	jikusaku	じくさく	軸索	 axis cylinder, axon
@@ -69,11 +69,11 @@
 41228	32869	seifuyotou	せいふよとう	政府・与党	
 41228	32870	seiriyoteihi	せいりよていひ	生理予定日	
 41228	32871	sekaijinkensengen	せかいじんけんせんげん	世界人権宣言	 Universal Declaration of Human Rights (1948)
-41228	32872	sekisaisuru	せきさいする	積載する	
+41228	32872	sekisai	せきさい	積載	 lading, loading, carrying
 41228	32873	setsugou	せつごう	接合	union, joining | conjugation
 41228	32874	senkouhouhou	せんこうほうほう	選考方法	 selection process, judging system
 41228	32875	sennendekiru	せんねんできる	専念出来る	
-41228	32876	senmetsusuru	せんめつする	殲滅する	
+41228	32876	senmetsu	せんめつ	殲滅	 extermination, annihilation
 41228	32877	senyuusha	せんゆうしゃ	占有者	 occupant, possessor, occupier
 41228	32878	zetchouki	ぜっちょうき	絶頂期	 peak period, pinnacle, prime, zenith, glory days
 41228	32879	zensei	ぜんせい	全盛	 height of prosperity
@@ -91,7 +91,7 @@
 41228	32891	zokunipponki	ぞくにっぽんき	続日本紀	 Shoku Nihongi (second of the six classical Japanese history texts)
 41228	32892	taishi	たいし	隊士	 regimental soldier
 41228	32893	taishuuteki	たいしゅうてき	大衆的	 popular (among the general public), populist, plebian, low-brow, widely liked
-41228	32894	taiseisuru	たいせいする	大成する	
+41228	32894	taisei	たいせい	大成	 completion, accomplishment, attainment of greatness or success
 41228	32895	tasseiritsu	たっせいりつ	達成率	
 41228	32896	tamentekikinou	ためんてききのう	多面的機能	
 41228	32897	tanpan	たんぱん	短パン	 shorts, short pants

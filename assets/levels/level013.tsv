@@ -1,4 +1,4 @@
-1430	1201	yousuru	ようする	要する	 to need, to demand, to take, to require
+1430	1201	you	よう	要	pivot | vital point, cornerstone, keystone | Japanese photinia, よう (要) cornerstone, main point, keystone | requirement, need | necessary, required
 1430	1202	ryoute	りょうて	両手	both hands, both arms | ten, もろて (諸手)  both hands
 1432	1203	tsuujou	つうじょう	通常	 usual, ordinary, normal, regular, general, common
 1434	1204	katagata	かたがた	方々	people, (all) persons, everyone, ladies and gentlemen | you (usu. plural) | various, ほうぼう (方々)  here and there, this way and that way, everywhere, all over
@@ -10,7 +10,7 @@
 1441	1210	shiai	しあい	試合	 match, game, bout, contest
 1442	1211	isogu	いそぐ	急ぐ	 to hurry, to rush, to hasten, to make something happen sooner
 1443	1212	tsumetai	つめたい	冷たい	cold (to the touch), chilly, icy, freezing | (emotionally) cold, coldhearted, unfeeling, indifferent, unfriendly, distant
-1443	1213	hikakusuru	ひかくする	比較する	
+1443	1213	hikaku	ひかく	比較	 comparison
 1445	1214	yarikata	やりかた	遣り方	 way (of doing), manner, method, means
 1446	1215	tsuuzuru	つうずる	通ずる	to be open (to traffic), to lead to, to communicate (with) | to flow (liquid, current), to pass, to get through to | to be understood, to be comprehended | to be honored, to be good | to be well versed in, to be well-informed | to communicate clandestinely, to keep in touch (e.g. with the enemy) | to form a liaison, to be intimate
 1447	1216	machigainai	まちがいない	間違い無い	certain, sure, doubtless | I have no doubt, You can depend on it, It's a safe bet
@@ -20,14 +20,14 @@
 1450	1220	suii	すいい	推移	transition, change, progress, development, shift | passing (of time)
 1452	1221	mune	むね	旨	principle, aim, main purpose, central part, pillar | purport, gist, drift, meaning | instructions, orders, intention, wishes
 1457	1222	atatakai	あたたかい	温かい	warm, mild, (pleasantly) hot | considerate, kind, genial | warm (of a colour), mellow | having enough money
-1458	1223	kouseisuru	こうせいする	構成する	
+1458	1223	kousei	こうせい	構成	 composition, construction, formation, makeup, structure, organization, organisation
 1459	1224	osore	おそれ	恐れ	 fear, horror, anxiety, concern, uneasiness, reverence
 1460	1225	nozoku	のぞく	覗く	to peek (through a keyhole, gap, etc.) | to look down into (a ravine, etc.) | to peek into (a shop, bookstore, etc.) | to sneak a look at, to take a quick look at | to peep (through a telescope, microscope, etc.) | to stick out (a scarf from a collar, etc.), to peek through (sky through a forest canopy, etc.) | to examine (an expression), to study (a face) | to face
 1461	1226	kuchibiru	くちびる	唇	 lips
 1462	1227	jimoto	じもと	地元	home area, home town | local
 1463	1228	jinkou	じんこう	人口	population | common talk
 1464	1229	keizai	けいざい	経済	economy, economics | finance, (one's) finances, financial circumstances | being economical, economy, thrift
-1466	1230	shinpaisuru	しんぱいする	心配する	
+1466	1230	shinpai	しんぱい	心配	worry, concern, anxiety, uneasiness, fear | care, help, aid, assistance
 1467	1231	ani	あに	兄	 older brother, elder brother, けい (兄) you | Mr, Mister | older brother, elder brother, にい (兄)  older brother, elder brother, このかみ (兄) eldest son | older brother, older sister | older person | head of a clan, head of a region | skilled craftsman
 1468	1232	goku	ごく	極く	quite, very | 10^48, quindecillion
 1468	1233	henkou	へんこう	変更	 change, modification, alteration, revision, amendment
@@ -50,12 +50,12 @@
 1488	1250	isogashii	いそがしい	忙しい	busy, occupied, hectic | restless, hurried, fidgety, せわしい (忙しい) busy, hectic, frantic | restless, hurried, fidgety
 1488	1251	kaiwa	かいわ	会話	 conversation
 1490	1252	nakunaru	なくなる	亡くなる	 to die
-1491	1253	keiseisuru	けいせいする	形成する	
+1491	1253	keisei	けいせい	形成	formation, molding, making up, taking form, giving form to | repair (e.g. plastic surgery), replacement, -plasty
 1492	1254	fumaeru	ふまえる	踏まえる	to be based on, to take into account, to build upon, to have origin in | to have one's feet firmly planted on, to plant oneself on
 1493	1255	awateru	あわてる	慌てる	to become confused (disconcerted, disorganized, disorganised), to be flustered, to panic | to hurry, to rush, to hasten
 1493	1256	oosaka	おおさか	大阪	Osaka (city, prefecture) | large hill
 1495	1257	takamaru	たかまる	高まる	 to rise, to swell, to be promoted
-1496	1258	katsuyousuru	かつようする	活用する	
+1496	1258	katsuyou	かつよう	活用	practical use, application | conjugation, inflection
 1497	1259	butai	ぶたい	舞台	stage (theatre, theater) | scene or setting (e.g. of novel, play, etc.)
 1498	1260	shinpai	しんぱい	心配	worry, concern, anxiety, uneasiness, fear | care, help, aid, assistance
 1499	1261	henji	へんじ	返事	 reply, answer, response
@@ -63,7 +63,7 @@
 1501	1263	seishin	せいしん	精神	mind, spirit, soul, heart, ethos | attitude, mentality, will, intention | spirit (of a matter), essence, fundamental significance
 1502	1264	minasu	みなす	見なす	 to consider as, to regard (as equivalent), to deem (as), to equate
 1503	1265	atarimae	あたりまえ	当たり前	natural, reasonable, obvious | usual, common, ordinary, commonplace, the norm
-1505	1266	kakudaisuru	かくだいする	拡大する	
+1505	1266	kakudai	かくだい	拡大	 magnification, enlargement, expansion, amplification
 1506	1267	tamago	たまご	卵	eggs, egg, spawn, roe | (hen's) egg | (an expert) in the making | beginning, origin, infancy, かい (卵)  egg, eggshell, らん (卵)  ovum, ovule, egg cell
 1506	1268	tsubuyaku	つぶやく	呟く	to mutter, to murmur, to grumble | to tweet (Twitter)
 1509	1269	watashitachi	わたしたち	私達	 we, us

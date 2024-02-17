@@ -1,14 +1,14 @@
 5381	4501	jigyousho	じぎょうしょ	事業所	 plant, enterprise place, office
 5381	4502	togaru	とがる	尖る	to taper to a point, to become pointed, to become sharp | to look displeased, to look sour, to be on edge, to be touchy
 5381	4503	negi	ねぎ	葱	 Welsh onion (Allium fistulosum), green onion, spring onion
-5381	4504	yuraisuru	ゆらいする	由来する	
+5381	4504	yurai	ゆらい	由来	origin, source, history, derivation | originally, from the start, by nature
 5386	4505	iten	いてん	移転	moving, relocation, change of address | transfer (of deeds, property, etc.), demise
 5386	4506	hyakunin	ひゃくにん	百人	
 5386	4507	bin	びん	便	flight (e.g. airline flight), trip (e.g. train trip), service | mail, post, letter | opportunity, chance, べん (便) convenience, service, facility, accommodation | excreta (esp. faeces), excrement, stool, よすが (縁) something to rely on, aid, clue, way, means | someone to rely on, relative | reminder, memento
 5389	4508	oosugiru	おおすぎる	多過ぎる	 to be too numerous, to be too much
 5389	4509	hanrei	はんれい	判例	 (judicial) precedent
 5389	4510	mukankei	むかんけい	無関係	 unrelated
-5394	4511	settokusuru	せっとくする	説得する	
+5394	4511	settoku	せっとく	説得	 persuasion
 5394	4512	chichisan	ちちさん	父さん	 father, dad, papa, pa, pop, daddy, dada
 5394	4513	furansugo	ふらんすご	フランス語	 French (language)
 5398	4514	oiwai	おいわい	御祝い	congratulation, congratulations, celebration, festival | congratulatory gift, present
@@ -17,7 +17,7 @@
 5403	4517	enbun	えんぶん	塩分	 salt, salt content
 5403	4518	otoshiyori	おとしより	御年寄り	
 5403	4519	toukei	とうけい	統計	 statistics
-5403	4520	bakuhatsusuru	ばくはつする	爆発する	
+5403	4520	bakuhatsu	ばくはつ	爆発	explosion, detonation, eruption | eruption (of discontent, etc.), outburst, outpouring
 5403	4521	manukareru	まぬかれる	免れる	to escape (disaster, death, etc.), to be saved from, to be rescued from | to avoid (e.g. punishment), to evade (e.g. responsibility), to avert, to elude, to be exempted from
 5409	4522	kago	かご	籠	 basket (shopping, etc.), hamper, cage, ろう (牢) prison, jail, gaol | firm, solid, strong
 5409	4523	kouhan	こうはん	広範	 wide, extensive, comprehensive, far-reaching, widespread
@@ -28,7 +28,7 @@
 5417	4528	kiseru	きせる	着せる	to put clothes on (someone) | to plate, to gild, to veneer | to accuse (of some crime), to give (a bad name)
 5417	4529	ketsuatsu	けつあつ	血圧	 blood pressure
 5417	4530	bishou	びしょう	微笑	 smile
-5417	4531	hojisuru	ほじする	保持する	
+5417	4531	hoji	ほじ	保持	 retention, maintenance, preservation
 5417	4532	mojidoori	もじどおり	文字通り	literal | literally
 5422	4533	denryuu	でんりゅう	電流	 electric current
 5424	4534	kurayami	くらやみ	暗闇	 darkness, the dark
@@ -37,10 +37,10 @@
 5424	4537	shiyousha	しようしゃ	使用者	user, consumer | employer
 5424	4538	dai	だい	台	stand, rack, table, bench, podium, pedestal, platform, stage | support, holder, rack | counter for machines, incl. vehicles | setting (e.g. in jewellery) | level (e.g. price level), range (e.g. after physical units), period (of time, e.g. a decade of one's life) | elevated area | viewing platform | dish tray | meal | tall building, tower, うてな (台) tower | stand, pedestal | calyx, たい (台)  Taiwan
 5424	4539	hontai	ほんたい	本体	substance, real form | main part, main unit, body (of a machine) | this machine, this appliance | object of worship (at a shrine, temple, etc.) | noumenon | base price, pre-tax price
-5424	4540	renkeisuru	れんけいする	連携する	
+5424	4540	renkei	れんけい	連携	 cooperation, coordination, link
 5433	4541	yari	やり	槍	spear, lance | javelin | lance | jeering, ほこ (矛) long-handled Chinese spear, lance, pike | weapon, arms | grip of a bow | parade float decorated with long-handled Chinese spears
-5437	4542	kakugosuru	かくごする	覚悟する	
-5437	4543	kasuru	かする	化する	 to change into, to convert into, to transform, to be reduced, to influence, to improve (someone)
+5437	4542	kakugo	かくご	覚悟	 readiness, preparedness, resolution, resignation
+5437	4543	ka	か	化	 action of making something, -ification
 5437	4544	kimitachi	きみたち	君達	 you (plural), all of you, you all, きんだち (公達)  kings, children of nobles, young nobleman
 5437	4545	jikoku	じこく	自国	 one's own country
 5442	4546	souki	そうき	早期	 early stage
@@ -49,7 +49,7 @@
 5445	4549	uwagi	うわぎ	上着	 coat, tunic, jacket, outer garment
 5445	4550	ku	く	句	section (i.e. of text), sentence, passage, paragraph | phrase | verse (of 5 or 7 mora in Japanese poetry; of 4, 5, or 7 characters in Chinese poetry) | haiku, first 17 morae of a renga, etc. | maxim, saying, idiom, expression
 5445	4551	shinkoku	しんこく	申告	 report, return (e.g. tax), statement, declaration, notification, filing
-5445	4552	nessuru	ねっする	熱する	 to heat, to heat up
+5445	4552	netsu	ねっ	熱	heat | fever, temperature | zeal, passion, enthusiasm, mania, craze, rage, ねち (熱)  fever
 5445	4553	hameru	はめる	嵌める	to insert, to put in (such that there is a snug fit), to button, to put on (something that envelops, e.g. gloves, ring) | to have sex, to fuck | to pigeonhole (into a particular category) | to place a ring-shaped object around something (esp. one that restricts freedom, such as handcuffs) | to entrap, to set someone up (e.g. frame them for a crime, etc.)
 5445	4554	furi	ふり	不利	 disadvantage, handicap, unfavorable position
 5445	4555	honsha	ほんしゃ	本社	head office, main office, headquarters, parent company | main shrine | this company, this shrine
@@ -58,7 +58,7 @@
 5453	4558	kaikan	かいかん	快感	 pleasant feeling, pleasant sensation, pleasure
 5453	4559	koukai	こうかい	公開	 opening to the public, making available to the public, putting on display, exhibiting, showing (play, movie, etc.), holding (interview, etc.), open, public
 5453	4560	kojinjouhou	こじんじょうほう	個人情報	 personal information
-5453	4561	shutsudosuru	しゅつどする	出土する	
+5453	4561	shutsudo	しゅつど	出土	 archeological excavation (archaeological)
 5453	4562	shin	しん	芯	wick, marrow, staple (for stapler), (pencil) lead, stuffing, pith | core, heart, centre, center | pistil (of a flower) | stamen
 5453	4563	sukui	すくい	救い	help, rescue, aid, relief | salvation, solace, (source of) comfort, saving grace | (religious) salvation, (Christian) grace
 5453	4564	seki	せき	咳	 cough, coughing, tussis
@@ -87,7 +87,7 @@
 5480	4587	fukidasu	ふきだす	吹き出す	to spout out, to spurt out, to gush out, to jet out | to sprout, to bud | to burst into laughter | to blow (smoke, etc.) | to send out shoots (of a tree)
 5480	4588	murasaki	むらさき	紫	purple, violet | Lithospermum erythrorhizon (species of gromwell) | type of soy sauce
 5489	4589	kanemochi	かねもち	金持ち	 rich person
-5489	4590	taishokusuru	たいしょくする	退職する	
+5489	4590	taishoku	たいしょく	退職	 retirement, resignation
 5491	4591	kinyouhi	きんようひ	金曜日	 Friday
 5491	4592	shikou	しこう	施行	execution, enforcing, carrying out | giving alms, giving food to the poor or monks
 5491	4593	shokuryou	しょくりょう	食糧	 food (esp. staple food such as rice or wheat), provisions, rations, food supply
@@ -96,5 +96,5 @@
 5499	4596	kouchou	こうちょう	校長	 principal, headmaster
 5499	4597	shibou	しぼう	死亡	death, mortality | to die, to pass away
 5499	4598	juku	じゅく	塾	 cram school, private tutoring school, juku
-5505	4599	kaimeisuru	かいめいする	解明する	
+5505	4599	kaimei	かいめい	解明	 elucidation, explication, explaining, unravelling, clarification, understanding
 5506	4600	unaru	うなる	唸る	to groan, to moan | to roar, to howl, to growl | to hum (engine, wind, etc.), to buzz, to whiz, to sough, to make a low, dull sound | to ooh and aah (in admiration) | to sing in a strong, low voice (esp. traditional chant or recitation) | to be about to burst, to overflow

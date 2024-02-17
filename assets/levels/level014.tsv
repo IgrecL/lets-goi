@@ -1,4 +1,4 @@
-1548	1301	soudansuru	そうだんする	相談する	
+1548	1301	soudan	そうだん	相談	 consultation, discussion, discussing, asking (somebody) for advice
 1549	1302	saikou	さいこう	最高	most, highest, maximum, uppermost, supreme | best, wonderful, finest
 1550	1303	gamen	がめん	画面	screen (of a TV, computer, etc.) | image (on a screen), picture, scene | surface of a painting (picture, drawing, etc.)
 1552	1304	machigau	まちがう	間違う	 to make a mistake, to be incorrect, to be mistaken
@@ -9,20 +9,20 @@
 1557	1309	tsugeru	つげる	告げる	to tell, to inform, to announce | to indicate, to signal, to mark
 1558	1310	youi	ようい	容易	 easy, simple, plain
 1559	1311	shio	しお	塩	salt, common salt, table salt, sodium chloride | hardship, toil, trouble | saltiness | cold, unwelcoming, indifferent, えん (塩) salt (e.g. sodium chloride, calcium sulfate, etc.) | chloride
-1559	1312	chuumokusuru	ちゅうもくする	注目する	
+1559	1312	chuumoku	ちゅうもく	注目	 notice, attention, observation
 1559	1313	tojiru	とじる	閉じる	 to close (e.g. book, eyes, meeting, etc.), to shut
 1562	1314	atsui	あつい	熱い	hot (thing) | passionate (feelings, etc.), ardent, hot (e.g. gaze) | hot (e.g. temper) | zealous, enthusiastic, fired up | intense, severe, extreme | hot (topic), of interest
 1563	1315	roujin	ろうじん	老人	 old person, senior citizen, the aged, the elderly
 1564	1316	niku	にく	肉	flesh | meat | the physical body (as opposed to the spirit) | thickness | ink pad
 1565	1317	seihin	せいひん	製品	 manufactured goods, finished goods, product
-1566	1318	dounyuusuru	どうにゅうする	導入する	
+1566	1318	dounyuu	どうにゅう	導入	 introduction, bringing in, leading in, installation
 1567	1319	okusan	おくさん	奥さん	 wife, your wife, his wife, married lady, madam
 1568	1320	nanto	なんと	何と	what, how | what (a) ...!, how ...! | surprisingly, to my amazement, believe it or not, why, ...! | oh my, wow | well, ..., so, ...
 1569	1321	gatsu	がつ	月	moon | month, げつ (月)  Monday
-1570	1322	saiyousuru	さいようする	採用する	
+1570	1322	saiyou	さいよう	採用	use, adoption, acceptance | appointment, employment, engagement, recruitment
 1571	1323	kagayaku	かがやく	輝く	 to shine, to glitter, to sparkle
 1573	1324	ichiji	いちじ	一時	a (short) time, a while, moment | one time (in the past), a period, former times | two-hour period, いちじ (一時) one o'clock | once, at one time, formerly, before | for a time, for a while, for the time being, for the present, for the moment, temporarily | a time, one time, once
-1574	1325	gaitousuru	がいとうする	該当する	
+1574	1325	gaitou	がいとう	該当	 corresponding to, being applicable to, being relevant to, coming under, falling under, fulfilling (requirements), meeting (conditions), qualifying for
 1575	1326	onaka	おなか	御腹	 belly, abdomen, stomach
 1575	1327	naraberu	ならべる	並べる	to line up, to set up, to arrange in a line | to enumerate, to itemize | to be equal (to), to compare well (with), to be as good (as)
 1577	1328	kanarazushimo	かならずしも	必ずしも	 (not) always, (not) necessarily, (not) entirely, (not) all
@@ -31,7 +31,7 @@
 1580	1331	kibou	きぼう	希望	 hope, wish, aspiration
 1581	1332	kuukan	くうかん	空間	 space, room, airspace, あきま (空き間)  vacancy, room for rent or lease
 1581	1333	sou	そう	沿う	to run along, to run beside, to stick to (a line) | to follow (a policy, plan, etc.), to act in accordance with, to align with | to meet (wishes, expectations, etc.), to satisfy, to comply with, to live up to
-1583	1334	idousuru	いどうする	移動する	
+1583	1334	idou	いどう	移動	movement, transfer, migration, removal, travel | mobile, moving, traveling, travelling, roving
 1584	1335	akirameru	あきらめる	諦める	 to give up, to abandon (hope, plans), to resign oneself (to)
 1585	1336	sonaeru	そなえる	備える	to furnish with, to equip with, to provide, to install | to prepare for, to make preparations for, to make provision for | to possess (all that is needed), to be endowed with, to be equipped with | to be born with, to have since birth
 1586	1337	hou	ほう	法	law, act, principle | method | mood | dharma, law
@@ -39,21 +39,21 @@
 1588	1339	chikyuu	ちきゅう	地球	 Earth, the globe
 1589	1340	ippai	いっぱい	一杯	amount necessary to fill a container (e.g. cupful, spoonful, etc.), drink (usu. alcoholic) | full | one squid, octopus, crab, etc., one boat | fully, to capacity | a lot, much | all of ..., the entire ...
 1590	1341	yononaka	よのなか	世の中	 society, the world, the times
-1592	1342	teikasuru	ていかする	低下する	
+1592	1342	teika	ていか	低下	 fall, decline, lowering, deterioration, degradation
 1593	1343	youso	ようそ	要素	component, factor, item (e.g. in list) | element (e.g. in array), member (e.g. data structure)
 1596	1344	utsuru	うつる	移る	to move (house), to transfer (department) | to change the target of interest or concern | to elapse (passage of time) | to be permeated by a colour or scent | to be infected, to be contagious, to spread (as in fire)
 1596	1345	nedan	ねだん	値段	 price, cost
 1598	1346	raku	らく	楽	comfort, ease, relief, (at) peace, relaxation | easy, simple, without trouble, without hardships | (economically) comfortable | raku pottery | sukha (happiness), がく (楽) music | old Japanese court music, gagaku
 1599	1347	akachan	あかちゃん	赤ちゃん	 baby, infant
 1600	1348	sasou	さそう	誘う	to invite, to ask (someone to do), to call (for), to take (someone) along | to tempt, to lure, to entice, to seduce | to induce (tears, laughter, sleepiness, etc.), to arouse (e.g. sympathy), to provoke
-1601	1349	houkokusuru	ほうこくする	報告する	
+1601	1349	houkoku	ほうこく	報告	 report, information
 1601	1350	mohaya	もはや	最早	already, now | no longer, not any more
 1603	1351	tariru	たりる	足りる	to be sufficient, to be enough | to be worth doing, to be worthy of, to deserve | to do (the job), to serve, to answer
 1604	1352	kitai	きたい	期待	expectation, anticipation, hope | promising, rising, up-and-coming
 1605	1353	honrai	ほんらい	本来	originally, primarily | essentially, intrinsically, naturally, by nature, in (and of) itself | proper, rightful, legal, normal
 1606	1354	katei	かてい	過程	 process, course, mechanism
 1607	1355	kikkake	きっかけ	切っ掛け	 chance, start, cue, excuse, motive, impetus, occasion
-1608	1356	youkyuusuru	ようきゅうする	要求する	
+1608	1356	youkyuu	ようきゅう	要求	 demand, firm request, requisition, requirement, desire
 1609	1357	torikumi	とりくみ	取り組み	bout (in sports, etc.), match | effort, initiative, dealing with, grappling with, wrestling with
 1610	1358	kage	かげ	影	shadow, silhouette, figure, shape | reflection, image | ominous sign | light (stars, moon) | trace, shadow (of one's former self)
 1611	1359	ichiou	いちおう	一応	more or less, though not quite satisfactorily, after a fashion, pretty much, roughly, so far as it goes | tentatively, for the time being | just in case | once
@@ -73,12 +73,12 @@
 1632	1373	soko	そこ	底	 bottom, sole, てい (底) base (logarithmic, exponential, number system), radix | base (triangle, cone, cylinder, etc.) | type, kind, extent, degree
 1633	1374	kai	かい	会	 gathering (esp. Buddhist, festive, etc.), かい (会) meeting, assembly, party, gathering, conference, athletic meet | society, association, club
 1634	1375	monogatari	ものがたり	物語	 tale, story, legend
-1635	1376	ijisuru	いじする	維持する	
+1635	1376	iji	いじ	維持	 maintenance, preservation, improvement
 1637	1377	nao	なお	猶	still, yet | more, still more, greater, further | as ..., like ... | furthermore, in addition, moreover, note that ...
 1638	1378	gaikoku	がいこく	外国	 foreign country
 1640	1379	dekigoto	できごと	出来事	 incident, affair, happening, event
 1641	1380	keitai	けいたい	携帯	carrying (on one's person or in the hand) | mobile phone, cell phone
-1643	1381	tekiyousuru	てきようする	適用する	
+1643	1381	tekiyou	てきよう	適用	 applying (e.g. a technology), adoption
 1644	1382	kaizen	かいぜん	改善	betterment, improvement | kaizen (Japanese business philosophy of continuous improvement)
 1645	1383	hannou	はんのう	反応	 reaction, response
 1646	1384	kyoushi	きょうし	教師	 teacher (classroom)
@@ -88,7 +88,7 @@
 1652	1388	hosoi	ほそい	細い	thin, slender, fine | unlucky, こまい (細い) small, fine, minute | stingy, cheap
 1654	1389	kaidan	かいだん	階段	 stairs, stairway, staircase
 1654	1390	kuse	くせ	癖	habit (often a bad habit, i.e. vice), tendency | peculiarity, idiosyncrasy, mannerism | crease, wrinkle, curl, kink
-1654	1391	han'eisuru	はんえいする	反映する	
+1654	1391	han'ei	はんえい	反映	reflection (light, image, situation, attitude, etc.), reflecting | influence, application (e.g. of an update)
 1657	1392	nou	のう	脳	brain | brains, mind, なずき (脳)  brain, skull, head
 1658	1393	kagi	かぎ	鍵	key | lock | key (to a problem), clue, けん (鍵)  key (of a piano, etc.)
 1658	1394	ketsuron	けつろん	結論	 conclusion

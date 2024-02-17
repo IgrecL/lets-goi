@@ -1,6 +1,6 @@
 9186	7601	nuigurumi	ぬいぐるみ	縫い包み	 stuffed toy, stuffed animal, plush toy, soft toy, cuddly toy
 9186	7602	nonoshiru	ののしる	罵る	 to abuse (verbally), to curse at, to shout abuse at, to speak ill of
-9186	7603	hatsumeisuru	はつめいする	発明する	
+9186	7603	hatsumei	はつめい	発明	invention | intelligent, clever, smart | making sense (of something), understanding
 9186	7604	habamu	はばむ	阻む	 to keep someone from doing, to stop, to prevent, to check, to hinder, to obstruct, to oppose, to thwart
 9186	7605	hodotooi	ほどとおい	程遠い	 far away, far off
 9186	7606	mokuzou	もくぞう	木造	 wooden, made of wood, wooden construction, きづくり (木造り) wood construction, woodworking | gardener
@@ -18,14 +18,14 @@
 9204	7618	sangyoukouzou	さんぎょうこうぞう	産業構造	 industrial structure
 9204	7619	shitau	したう	慕う	to yearn for, to long for, to pine for, to miss, to love dearly, to adore | to follow (someone) | to idolize (for virtue, learning, status, etc.)
 9204	7620	shuusen	しゅうせん	終戦	 end of war, cessation of hostilities
-9204	7621	tahatsusuru	たはつする	多発する	
+9204	7621	tahatsu	たはつ	多発	 repeated occurrence
 9204	7622	tabidatsu	たびだつ	旅立つ	to begin a trip, to depart, to embark | to die, to pass away, to depart this life
 9204	7623	torinokosu	とりのこす	取り残す	 to leave behind
 9204	7624	nozomeru	のぞめる	望める	
-9204	7625	heisasuru	へいさする	閉鎖する	
+9204	7625	heisa	へいさ	閉鎖	 closing, closure, shutdown, lockout
 9204	7626	mazaru	まざる	混ざる	 to be mixed, to be blended with, to associate with, to mingle with, to join
 9204	7627	moushitateru	もうしたてる	申し立てる	 to declare, to plead
-9204	7628	rakkasuru	らっかする	落下する	
+9204	7628	rakka	らっか	落下	 fall, drop, descent, coming down
 9204	7629	reigaiteki	れいがいてき	例外的	 exceptional
 9204	7630	watanabe	わたなべ	渡辺	
 9232	7631	ame	あめ	飴	(hard) candy, toffee | rice-sugar, sugar made from the starch of rice, potatoes, etc. | amber, yellowish-brown, たがね (飴)  confection (e.g. candy, mochi), sweet
@@ -45,14 +45,14 @@
 9232	7645	mechakucha	めちゃくちゃ	目茶苦茶	absurd, unreasonable, nonsensical, preposterous, incoherent | extreme, senseless, reckless, wanton | disorderly, chaotic, confused, messy | incredibly, really, so, super
 9232	7646	mojiretsu	もじれつ	文字列	 character string
 9232	7647	yajirushi	やじるし	矢印	arrow (symbol) | (romantic) interest (for a certain person), direction (of one's attention, etc.)
-9250	7648	kasansuru	かさんする	加算する	
+9250	7648	kasan	かさん	加算	 addition, adding, supplement
 9250	7649	kodachi	こだち	木立ち	 cluster of trees, grove, thicket
 9250	7650	shiragi	しらぎ	新羅	 Silla, ancient Korean kingdom (57 BCE-935 CE)
 9250	7651	sumasu	すます	済ます	to finish, to get it over with, to conclude | to settle, to pay back | to get along (without something), to make do with (without)
 9250	7652	dai	だい	大	large, big, great, major, important, serious, heavy, loud | older, senior | final, ultimate | rough, broad, general, だい (大) large, big, great, huge, vast, major, important, serious, severe | great, prominent, eminent, distinguished | -sized, as big as, the size of | university | large (e.g. serving size), large option | long month (i.e. having 31 days), おおき (大き) great, grand, large | greater (of equal court ranks), upper, senior | a great deal, very much, おおい (大い) greater (of equal court ranks), upper, senior | a great deal, very much, たい (大)  nth year in the Taishō era (1912.7.30-1926.12.25)
 9250	7653	toutoi	とうとい	尊い	precious, valuable, priceless | noble, exalted, sacred
 9250	7654	toorikakaru	とおりかかる	通り掛かる	 to happen to pass by
-9250	7655	hasshasuru	はっしゃする	発射する	
+9250	7655	hassha	はっしゃ	発射	firing (esp. a rocket or missile), launching, shooting, discharge, catapult | ejaculation
 9250	7656	betsujin	べつじん	別人	 different person, another person, someone else, changed man
 9250	7657	yuuutsu	ゆううつ	憂鬱	 depression, melancholy, dejection, gloom, despondency
 9250	7658	yuuseishou	ゆうせいしょう	郵政省	 (former) Ministry of Posts and Telecommunications (now Ministry of Internal Affairs and Communications)
@@ -60,7 +60,7 @@
 9264	7660	umeboshi	うめぼし	梅干し	 umeboshi, pickled dried ume, pickled dried plum
 9264	7661	oshisusumeru	おしすすめる	押し進める	 to press forward, to forge ahead, to push on
 9264	7662	kogu	こぐ	漕ぐ	to row, to scull, to paddle | to pedal (e.g. bicycle) | to swing (on a swing) | to operate a hand pump | to push through (deep snow, the jungle, etc.)
-9264	7663	teiseisuru	ていせいする	訂正する	
+9264	7663	teisei	ていせい	訂正	 correction, revision, amendment
 9264	7664	bapponteki	ばっぽんてき	抜本的	 drastic, radical
 9264	7665	meigi	めいぎ	名義	name (esp. on a deed, contract, etc.) | moral duty | justification, pretext
 9264	7666	megurasu	めぐらす	巡らす	to enclose (with), to surround (with), to encircle | to turn (one's head, heel, etc.) | to think over, to work out | to notify (orally or in writing)
@@ -68,15 +68,15 @@
 9278	7668	kizukau	きづかう	気遣う	 to worry about (someone's welfare or comfort), to feel anxious about, to have apprehensions of
 9278	7669	kyoushuku	きょうしゅく	恐縮	feeling obliged, being grateful, being thankful, being sorry, being ashamed | shrinking back in fear
 9278	7670	genbaku	げんばく	原爆	 atomic bomb, A-bomb
-9278	7671	koutaisuru	こうたいする	交代する	
-9278	7672	shishutsusuru	ししゅつする	支出する	
+9278	7671	koutai	こうたい	交代	 alternation, change, relief, relay, shift, substitution (sports, etc.), taking turns
+9278	7672	shishutsu	ししゅつ	支出	 expenditure, disbursement, expenses
 9278	7673	joukou	じょうこう	条項	 clause, article, stipulations
 9278	7674	suitei	すいてい	推定	presumption, assumption | estimation
 9278	7675	sentei	せんてい	選定	 selection
 9278	7676	taikaku	たいかく	体格	 physique, constitution
 9278	7677	chian	ちあん	治安	 public order, じあん (治安)  Jian era (1021.2.2-1024.7.13)
 9278	7678	choujikan	ちょうじかん	長時間	 long time
-9278	7679	tenkensuru	てんけんする	点検する	
+9278	7679	tenken	てんけん	点検	 inspection, examination, checking
 9278	7680	toshikeikaku	としけいかく	都市計画	 city planning, urban planning, town planning
 9278	7681	mizugi	みずぎ	水着	 bathing suit, swimsuit, swimmers
 9278	7682	yanagi	やなぎ	柳	willow (any tree of genus Salix) | weeping willow (Salix babylonica), りゅう (柳)  Chinese "Willow" constellation (one of the 28 mansions)
@@ -86,9 +86,9 @@
 9301	7686	kazan	かざん	火山	 volcano
 9301	7687	kamitsuku	かみつく	噛み付く	to bite (at), to snap at | to snap at (someone), to flare up at, to jump down (someone's) throat
 9301	7688	kisoteki	きそてき	基礎的	 fundamental, basic
-9301	7689	koujutsusuru	こうじゅつする	後述する	
+9301	7689	koujutsu	こうじゅつ	後述	 mentioning later, discussing below
 9301	7690	sairyou	さいりょう	最良	 the best, ideal
-9301	7691	shoukeisuru	しょうけいする	承継する	
+9301	7691	shoukei	しょうけい	承継	 succession, accession, inheritance
 9301	7692	tabekata	たべかた	食べ方	 way of eating, how to eat
 9301	7693	chuubi	ちゅうび	中火	 medium flame (cooking), medium heat, medium fire
 9301	7694	hikiwatasu	ひきわたす	引き渡す	 to deliver, to extradite, to stretch across, to hand over

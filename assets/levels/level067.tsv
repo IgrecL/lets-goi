@@ -3,7 +3,7 @@
 7929	6603	hakaru	はかる	諮る	 to consult with, to discuss, to confer, to deliberate
 7929	6604	honshin	ほんしん	本心	true feelings, real intention, one's heart | one's right mind, one's senses, one's conscience
 7942	6605	umarekawaru	うまれかわる	生まれ変わる	 to be born again, to make a fresh start in life
-7942	6606	undousuru	うんどうする	運動する	
+7942	6606	undou	うんどう	運動	exercise, physical training, work-out | appeal, campaign, drive, crusade, movement, lobbying | motion, movement
 7942	6607	kagoshima	かごしま	鹿児島	 Kagoshima (city, prefecture)
 7942	6608	kesshou	けっしょう	決勝	 decision of a contest, finals (in sports)
 7942	6609	ketchaku	けっちゃく	決着	 conclusion, decision, end, settlement
@@ -16,7 +16,7 @@
 7942	6616	honnou	ほんのう	本能	 instinct
 7942	6617	raku	らく	楽	comfort, ease, relief, (at) peace, relaxation | easy, simple, without trouble, without hardships | (economically) comfortable | raku pottery | sukha (happiness), がく (楽) music | old Japanese court music, gagaku
 7958	6618	kaishuu	かいしゅう	回収	 collection, recovery, withdrawal, retrieval
-7958	6619	koritsusuru	こりつする	孤立する	
+7958	6619	koritsu	こりつ	孤立	 isolation, being alone, being friendless
 7958	6620	jihatsuteki	じはつてき	自発的	 spontaneous, voluntary
 7958	6621	douyou	どうよう	動揺	shaking, trembling, pitching, rolling, oscillation | disturbance, unrest, agitation, excitement, commotion, turmoil, discomposure, feeling shaken
 7958	6622	mukyuu	むきゅう	無休	 without a holiday, nonstop
@@ -26,15 +26,15 @@
 7969	6626	en'en	えんえん	延々	forever, endlessly, on and on | meandering, wandering, winding, sinuous, serpentine, zigzagging
 7969	6627	kyuushoku	きゅうしょく	給食	 provision of lunch (e.g. at office, school, etc.), providing a meal, lunch service
 7969	6628	kuraseru	くらせる	暮らせる	
-7969	6629	kengakusuru	けんがくする	見学する	
+7969	6629	kengaku	けんがく	見学	 inspection, study by observation, field trip, tour, review
 7969	6630	jiriki	じりき	自力	one's own strength, one's own efforts | self-salvation
 7969	6631	tachimukau	たちむかう	立ち向かう	 to fight against, to oppose, to face
 7969	6632	chijimeru	ちぢめる	縮める	to shorten, to reduce, to condense, to shrink | to crumple (fabric), to wrinkle | to make (one's body) smaller, to draw in (one's legs), to duck (one's head)
-7969	6633	tessuru	てっする	徹する	to penetrate, to sink in | to devote oneself (to), to do intently and exclusively | to do throughout (e.g. the night)
+7969	6633	tetsu	てっ	徹	
 7969	6634	hikoku	ひこく	被告	 defendant, the accused
 7969	6635	furin	ふりん	不倫	 adultery, immorality, impropriety, (an) affair
 7981	6636	kaisou	かいそう	階層	 class, level, stratum, layer, hierarchy
-7981	6637	koushousuru	こうしょうする	交渉する	
+7981	6637	koushou	こうしょう	交渉	negotiations, discussions | connection
 7981	6638	shikiru	しきる	仕切る	to partition, to divide, to mark off | to direct, to manage, to run, to organize, to take responsibility for | to settle accounts | to assume a crouching posture (at the start of a bout), to poise oneself for the initial charge
 7981	6639	jitsugendekiru	じつげんできる	実現出来る	
 7981	6640	zen'i	ぜんい	善意	virtuous mind | good intentions, good will | positive mindset | bona fides, good faith
@@ -44,7 +44,7 @@
 7981	6644	nissuu	にっすう	日数	 a number of days
 7981	6645	higoro	ひごろ	日頃	 normally, habitually
 7981	6646	heishitachi	へいしたち	兵士達	
-7981	6647	yushutsusuru	ゆしゅつする	輸出する	
+7981	6647	yushutsu	ゆしゅつ	輸出	export, exportation | efferent
 7981	6648	rijichou	りじちょう	理事長	 board chairman
 7981	6649	wara	わら	藁	 straw
 7998	6650	kaeru	かえる	蛙	frog | kajika frog (Buergeria buergeri)
@@ -61,7 +61,7 @@
 8010	6661	shokan	しょかん	書簡	 letter, note, epistle, correspondence
 8010	6662	jigyoushu	じぎょうしゅ	事業主	 business owner, entrepreneur
 8010	6663	juutan	じゅうたん	絨毯	 carpet, rug, runner
-8010	6664	setsudansuru	せつだんする	切断する	
+8010	6664	setsudan	せつだん	切断	 cutting, severance, section, amputation, disconnection
 8010	6665	tsumasaki	つまさき	爪先	 toes, tips of the toes, toe of a shoe, sock, etc.
 8010	6666	fuhenteki	ふへんてき	普遍的	 universal, omnipresent, ubiquitous
 8010	6667	yoake	よあけ	夜明け	 dawn, daybreak
@@ -95,6 +95,6 @@
 8051	6695	shimijimi	しみじみ	染み染み	keenly, deeply, fully, heartily, seriously, earnestly | calmly, quietly, softly | fixedly (e.g. gazing, staring)
 8051	6696	nishidoitsu	にしどいつ	西ドイツ	 West Germany (1949-1990), Federal Republic of Germany
 8051	6697	noukyou	のうきょう	農協	 agricultural cooperative
-8051	6698	yobousuru	よぼうする	予防する	
+8051	6698	yobou	よぼう	予防	 prevention, precaution, protection against
 8062	6699	owakaru	おわかる	御分かる	
 8062	6700	kibishisa	きびしさ	厳しさ	 severity, strictness, intensity

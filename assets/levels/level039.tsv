@@ -4,7 +4,7 @@
 4501	3804	yoso	よそ	余所	another place, somewhere else, strange parts | outside (one's family or group), someone else, other people | not caring for, being indifferent to, taking little notice of, ignoring, neglecting
 4507	3805	ichinensei	いちねんせい	一年生	annual (plant) | first-year student
 4507	3806	iwakan	いわかん	違和感	uncomfortable feeling, feeling out of place, sense of discomfort | malaise, physical unease
-4507	3807	kokuhakusuru	こくはくする	告白する	
+4507	3807	kokuhaku	こくはく	告白	confession, acknowledgement, acknowledgment | confession of love, professing one's feelings | confession of sins (e.g. the confessional)
 4507	3808	jinkaku	じんかく	人格	 personality, character, individuality, personhood
 4512	3809	son	そん	損	loss, damage, harm, unprofitable | disadvantage, handicap, drawback, unfavorable
 4512	3810	daigakusei	だいがくせい	大学生	 university student, college student
@@ -15,10 +15,10 @@
 4520	3815	sonshitsu	そんしつ	損失	 loss (of assets, profit, etc.)
 4520	3816	yokotawaru	よこたわる	横たわる	to lie down, to stretch out | to lie ahead (of danger, difficulty, etc.), to lie in wait
 4524	3817	joseitachi	じょせいたち	女性達	
-4526	3818	touitsusuru	とういつする	統一する	
+4526	3818	touitsu	とういつ	統一	 unity, consolidation, uniformity, unification, compatible
 4526	3819	torishimariyaku	とりしまりやく	取り締まり役	
 4528	3820	itai	いたい	遺体	 corpse, remains
-4528	3821	kyoukyuusuru	きょうきゅうする	供給する	
+4528	3821	kyoukyuu	きょうきゅう	供給	 supply, provision
 4528	3822	tenpo	てんぽ	店舗	 shop, store
 4528	3823	minshushugi	みんしゅしゅぎ	民主主義	 democracy
 4528	3824	moushide	もうしで	申し出	 proposal, request, claim, report, notice, offer
@@ -38,7 +38,7 @@
 4552	3838	shiri	しり	尻	ass, arse, buttocks | rear, end | acupuncture point | hole, notch, しり (尻) buttocks, behind, rump, bottom, hips | undersurface, bottom | last place, end | consequence
 4552	3839	zennenhi	ぜんねんひ	前年比	 year on year, on the previous year
 4552	3840	ryuu	りゅう	竜	dragon (esp. a Chinese dragon) | naga, semi-divine human-cobra chimera in Hindu and Buddhist mythology | promoted rook
-4556	3841	kiokusuru	きおくする	記憶する	
+4556	3841	kioku	きおく	記憶	memory, recollection, remembrance | storage
 4556	3842	shomen	しょめん	書面	document, letter | writing, contents (e.g. of a letter)
 4558	3843	ukabiagaru	うかびあがる	浮かび上がる	to rise to the surface | to come to the front, to emerge (e.g. from obscurity) | to stand out (e.g. against a dark background)
 4558	3844	shuuraku	しゅうらく	集落	settlement, village, community, town | (bacterial) colony
@@ -49,7 +49,7 @@
 4562	3849	hourei	ほうれい	法令	 laws and ordinances, acts (of parliament, congress, etc.)
 4565	3850	koufuku	こうふく	幸福	 happiness, well-being, joy, welfare, blessedness
 4565	3851	sabetsu	さべつ	差別	distinction, differentiation, discrimination | discrimination (against people)
-4567	3852	kansensuru	かんせんする	感染する	
+4567	3852	kansen	かんせん	感染	 infection, contagion, becoming infected
 4570	3853	zen'in	ぜんいん	全員	 all members, all hands, everyone, everybody, whole crew
 4571	3854	zentaiteki	ぜんたいてき	全体的	 overall, on the whole
 4572	3855	tegakari	てがかり	手掛かり	clue, lead, key, trail, scent, track | handhold, hold
@@ -58,8 +58,8 @@
 4575	3858	aishou	あいしょう	相性	 affinity, compatibility, chemistry (between people)
 4575	3859	ami	あみ	網	net, netting | web, もう (網)  network
 4575	3860	saegiru	さえぎる	遮る	 to interrupt, to obstruct (a view, someone's way, etc.), to block (light, wind, etc.), to intercept, to cut off
-4575	3861	shouchousuru	しょうちょうする	象徴する	
-4575	3862	shinnyuusuru	しんにゅうする	侵入する	
+4575	3861	shouchou	しょうちょう	象徴	 (abstract) symbol, emblem, representation
+4575	3862	shinnyuu	しんにゅう	侵入	 invasion, incursion, raid, aggression, intrusion, trespass, penetration
 4575	3863	manzoku	まんぞく	満足	satisfaction, contentment, gratification | sufficient, satisfactory, enough, adequate, proper, decent | satisfying (an equation)
 4581	3864	semeru	せめる	責める	to condemn, to blame, to criticize, to criticise, to reproach, to accuse | to urge, to press, to pester | to torture, to torment, to persecute | to break in (a horse)
 4582	3865	ate	あて	当て	aim, object, purpose, end | expectations, prospects, hopes | something that can be relied upon | snack served with alcoholic drink | pad, guard | blow, strike | addressed to | per
@@ -68,19 +68,19 @@
 4584	3868	samatageru	さまたげる	妨げる	 to disturb, to prevent, to obstruct, to hinder
 4584	3869	tsuitachi	ついたち	一日	one day | all day (long), throughout the day | first day of the month, つきたち (月立ち) first day of the month | first ten days of the lunar month, ついたち (一日) first day of the month | first ten days of the lunar month
 4584	3870	hashi	はし	箸	 chopsticks
-4588	3871	kaisetsusuru	かいせつする	開設する	
+4588	3871	kaisetsu	かいせつ	開設	 establishment, opening, setting up, inauguration
 4588	3872	shouchou	しょうちょう	象徴	 (abstract) symbol, emblem, representation
 4588	3873	chousen	ちょうせん	挑戦	 challenge, defiance, dare, attempt, try
 4588	3874	nipponseifu	にっぽんせいふ	日本政府	 Japanese government
 4588	3875	minogasu	みのがす	見逃す	to miss, to overlook, to fail to notice | to let pass (a matter), to overlook (e.g. a wrongdoing), to turn a blind eye to | to pass up (e.g. an opportunity) | to let (a good ball) go by
-4594	3876	ketsugousuru	けつごうする	結合する	
+4594	3876	ketsugou	けつごう	結合	combination, union, binding, catenation, coupling, joining | bond
 4594	3877	morikomu	もりこむ	盛り込む	to incorporate, to include | to fill (a vessel) with
 4596	3878	kigou	きごう	記号	 symbol, code, sign, notation
 4596	3879	genryou	げんりょう	原料	 raw materials
 4596	3880	suso	すそ	裾	hem, (trouser) cuff, shirttail, bottom (of a kimono), train (of a dress) | bottom part, bottom edge | foot (of a mountain) | tips (of hair) | downstream
 4600	3881	oitsuku	おいつく	追い付く	to catch up (with), to draw level, to pull even, to reach | to be compensated, to make up for one's losses
 4600	3882	kudamono	くだもの	果物	 fruit
-4600	3883	tekigousuru	てきごうする	適合する	
+4600	3883	tekigou	てきごう	適合	 conformity, compatibility, adaptability, congruity, congruence
 4604	3884	odori	おどり	踊り	 dance
 4604	3885	bunken	ぶんけん	文献	 literature, books (reference), document
 4609	3886	hosu	ほす	干す	to air, to dry, to desiccate | to drain (off) | to drink up | to deprive of a role, job, etc.
@@ -92,9 +92,9 @@
 4613	3892	hizuke	ひづけ	日付け	 date, dating
 4613	3893	binkan	びんかん	敏感	 sensitive, alert, aware, susceptible
 4619	3894	douga	どうが	動画	video, movie, moving picture | animation, animated cartoon | in-betweens (animation)
-4620	3895	kaitensuru	かいてんする	回転する	
+4620	3895	kaiten	かいてん	回転	 rotation (usu. around something), revolution, turning
 4620	3896	kouka	こうか	高価	 highly priced, expensive, valuable, costly
 4623	3897	tenshi	てんし	天使	 angel
-4623	3898	hoshousuru	ほしょうする	保証する	
+4623	3898	hoshou	ほしょう	保証	 guarantee, security, assurance, pledge, warranty
 4623	3899	yuruseru	ゆるせる	許せる	
 4628	3900	yakunin	やくにん	役人	 government official

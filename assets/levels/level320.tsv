@@ -21,7 +21,7 @@
 39952	31921	seisabetsu	せいさべつ	性差別	 sexual discrimination, sex discrimination, sexism
 39952	31922	seishokusaibou	せいしょくさいぼう	生殖細胞	 germ cell, reproductive cell
 39952	31923	seishinseii	せいしんせいい	誠心誠意	 in all sincerity, with one's whole heart, whole-hearted devotion
-39952	31924	seisousuru	せいそうする	清掃する	
+39952	31924	seisou	せいそう	清掃	 cleaning, clean-up, garbage collection, scavenging
 39952	31925	seitai	せいたい	聖体	the emperor's person | the body of Christ, the Host, the Eucharist, Holy Communion
 39952	31926	segawa	せがわ	背側	 dorsal
 39952	31927	sejin	せじん	世人	 the people, the public, the world
@@ -36,7 +36,7 @@
 39952	31936	zousei	ぞうせい	増勢	 increasing trend
 39952	31937	zokusetsu	ぞくせつ	俗説	 common saying, popular version, folklore, tradition
 39952	31938	tai	たい	体	body | torso, trunk | build, physique, frame, figure | health, constitution | corpse, dead body, たい (体) body, physique, posture | shape, form, style | substance, identity, reality | field | counter for humanoid forms (e.g. dolls, statues, corpses, etc.) | typeface, type, てい (体)  appearance, air, condition, state, form
-39952	31939	taishousuru	たいしょうする	対照する	
+39952	31939	taishou	たいしょう	対照	 contrast, antithesis, comparison
 39952	31940	takahara	たかはら	高原	 tableland, plateau
 39952	31941	taguimare	たぐいまれ	類い稀	 unique, rare, exceptional, unparalleled, incomparable
 39952	31942	tatehoukou	たてほうこう	縦方向	 longitudinal, longitudinally
@@ -50,18 +50,18 @@
 39952	31950	chikyuuondankataisaku	ちきゅうおんだんかたいさく	地球温暖化対策	
 39952	31951	chaji	ちゃじ	茶事	tea gathering (for the tea ceremony) | some matter concerning tea | family tea gathering held in memory of deceased ancestors
 39952	31952	chuukankanrishoku	ちゅうかんかんりしょく	中間管理職	 middle management
-39952	31953	chuukisuru	ちゅうきする	注記する	
+39952	31953	chuuki	ちゅうき	注記	 annotation, commentary, explanatory note
 39952	31954	chuugokufuu	ちゅうごくふう	中国風	
 39952	31955	choukeshi	ちょうけし	帳消し	writing off (a debt), cancellation, balancing the books | cancelling out (gains or losses), making even, making up (for), offsetting, undoing, wiping out
 39952	31956	chokkatsujigyou	ちょっかつじぎょう	直轄事業	
 39952	31957	tsuikateki	ついかてき	追加的	 additional
 39952	31958	tsutomenin	つとめにん	勤め人	 office worker, salaried worker, white-collar worker
-39952	31959	teatesuru	てあてする	手当てする	
+39952	31959	teate	てあて	手当て	salary, pay, compensation, allowance (e.g. housing allowance), benefit, bonus | medical care, treatment | advance preparation
 39952	31960	teishutsudekiru	ていしゅつできる	提出出来る	
 39952	31961	teiseichou	ていせいちょう	低成長	 low (economic) growth
 39952	31962	tessai	てっさい	鉄斎	
-39952	31963	dejitarukasuru	でじたるかする	デジタル化する	
-39952	31964	detsuzousuru	でつぞうする	捏造する	
+39952	31963	dejitaruka	でじたるか	デジタル化	 digitization
+39952	31964	detsuzou	でつぞう	捏造	 fabrication, forgery, falsehood, hoax
 39952	31965	tougaikoku	とうがいこく	当該国	
 39952	31966	toukiteki	とうきてき	投機的	 speculative
 39952	31967	toukousha	とうこうしゃ	投稿者	 contributor (of written material)
@@ -87,12 +87,12 @@
 39952	31987	noshi	のし	熨斗	 noshi, long thin strip of dried abalone in folded patterned paper, attached to a gift
 39952	31988	hagemashiau	はげましあう	励まし合う	
 39952	31989	hatarakibachi	はたらきばち	働き蜂	worker bee | hard worker
-39952	31990	hatsudensuru	はつでんする	発電する	
+39952	31990	hatsuden	はつでん	発電	generation (e.g. power) | sending a telegram, telegraphing
 39952	31991	haburi	はぶり	羽振り	influence, power | flapping of wings
 39952	31992	hayama	はやま	葉山	
 39952	31993	hariai	はりあい	張り合い	 competition, rivalry, something worth doing
 39952	31994	baiyoueki	ばいようえき	培養液	 culture fluid, culture solution, broth
-39952	31995	bankaisuru	ばんかいする	挽回する	
+39952	31995	bankai	ばんかい	挽回	 recovery, restoration
 39952	31996	hikinige	ひきにげ	轢き逃げ	 hit-and-run (causing personal injury)
 39952	31997	hideri	ひでり	日照り	 dry weather, drought
 39952	31998	hitonami	ひとなみ	人波	 surging crowd, wave of humanity, stampede

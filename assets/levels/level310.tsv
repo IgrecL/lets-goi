@@ -23,17 +23,17 @@
 38723	30923	koyatsu	こやつ	此奴	he, she, this fellow, this guy, this person | this, this one, this thing | Hey, you!, You bastard!, Damn you!
 38723	30924	koyoukanri	こようかんり	雇用管理	
 38723	30925	koreikou	これいこう	此れ以降	
-38723	30926	goukansuru	ごうかんする	強姦する	
-38723	30927	goudatsusuru	ごうだつする	強奪する	
+38723	30926	goukan	ごうかん	強姦	 rape, sexual assault
+38723	30927	goudatsu	ごうだつ	強奪	 pillage, seizure, hijacking, plunder, extortion
 38723	30928	gogi	ごぎ	語義	 meaning of a word
 38723	30929	goshinsetsu	ごしんせつ	御親切	
 38723	30930	gohonzon	ごほんぞん	御本尊	principal object of worship at a temple (usu. a buddha or bodhisattva), principal image, idol | the man himself, the person at the heart of the matter
 38723	30931	goman'etsu	ごまんえつ	御満悦	
 38723	30932	saigi	さいぎ	祭儀	 rites, ritual
-38723	30933	saihyoukasuru	さいひょうかする	再評価する	
+38723	30933	saihyouka	さいひょうか	再評価	 reassessment, reappraisal, reevaluation, revaluation
 38723	30934	saotome	さおとめ	早乙女	 young female rice planter, young girl
 38723	30935	sakusan	さくさん	酢酸	 acetic acid
-38723	30936	sasensuru	させんする	左遷する	
+38723	30936	sasen	させん	左遷	 demotion, relegation, reduction in rank, degradation, downward move
 38723	30937	sarashi	さらし	晒し	bleaching, bleached cotton | doxxing, doxing, making someone's private information public without permission (esp. online) | public humiliation (as an Edo period punishment)
 38723	30938	zairaisen	ざいらいせん	在来線	 conventional train line (esp. non-Shinkansen)
 38723	30939	shitsutekikoujou	しつてきこうじょう	質的向上	
@@ -41,7 +41,7 @@
 38723	30941	shimerike	しめりけ	湿り気	 moisture
 38723	30942	shakuchi	しゃくち	借地	 leased land
 38723	30943	shuudatsu	しゅうだつ	収奪	 plundering, exploitation
-38723	30944	shubiikkansuru	しゅびいっかんする	首尾一貫する	
+38723	30944	shubiikkan	しゅびいっかん	首尾一貫	 consistent, unchanging from beginning to end
 38723	30945	shunpatsuryoku	しゅんぱつりょく	瞬発力	 high power, high power output, explosiveness, explosive power, instantaneous force
 38723	30946	shougunsama	しょうぐんさま	将軍様	
 38723	30947	shounin	しょうにん	上人	 holy priest, saint
@@ -76,13 +76,13 @@
 38723	30976	jinyou	じんよう	陣容	battle formation, battle array | lineup (of a team, etc.), cast, staff, team structure
 38723	30977	jinruigakusha	じんるいがくしゃ	人類学者	 anthropologist, ethnologist
 38723	30978	suiminchuu	すいみんちゅう	睡眠中	
-38723	30979	suuchikasuru	すうちかする	数値化する	
+38723	30979	suuchika	すうちか	数値化	 quantification, expressing in numerical form, conversion to numerical form
 38723	30980	zusanshou	ずさんしょう	図参照	
-38723	30981	seijoukasuru	せいじょうかする	正常化する	
+38723	30981	seijouka	せいじょうか	正常化	 normalization, normalisation
 38723	30982	seiten	せいてん	聖典	sacred scripture, sacred book, holy book, holy writings | writings of a sage
 38723	30983	seibomaria	せいぼまりあ	聖母マリア	 Virgin Mary
 38723	30984	sekichuu	せきちゅう	脊柱	 spinal column
-38723	30985	senkousuru	せんこうする	選考する	
+38723	30985	senkou	せんこう	選考	 selection, screening
 38723	30986	senshoku	せんしょく	染色	dyeing, staining | dyed colour (color)
 38723	30987	senjichuu	せんじちゅう	戦時中	 during the war
 38723	30988	senjou	せんじょう	線上	 on the line, borderline

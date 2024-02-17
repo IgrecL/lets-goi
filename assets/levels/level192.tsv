@@ -1,6 +1,6 @@
 23510	19101	sesshuryou	せっしゅりょう	摂取量	 intake (nutrients, calories, etc.), intake amount
 23510	19102	zendan	ぜんだん	前段	 preceding paragraph, first part
-23510	19103	souisuru	そういする	相違する	
+23510	19103	soui	そうい	相違	 difference, discrepancy, variation
 23510	19104	soukai	そうかい	爽快	 refreshing, exhilarating, invigorating, bracing
 23510	19105	sougon	そうごん	荘厳	 solemn, sublime, grand, magnificent, impressive, しょうごん (荘厳)  adorning (a Buddhist statue)
 23510	19106	sousasei	そうさせい	操作性	 operability, usability, user friendliness, ease of use, maneuverability, manoeuvrability
@@ -17,18 +17,18 @@
 23510	19117	tsuushinsokudo	つうしんそくど	通信速度	 communication speed, baud rate
 23510	19118	teimen	ていめん	底面	 bottom, underside, base
 23510	19119	teiryouteki	ていりょうてき	定量的	 quantitative
-23510	19120	tekishutsusuru	てきしゅつする	摘出する	
+23510	19120	tekishutsu	てきしゅつ	摘出	picking out, taking out, (surgical) removal | exposure
 23510	19121	tekisu	てきす	適す	 to fit, to suit
 23510	19122	toppatsuteki	とっぱつてき	突発的	 sudden, unexpected, unpredictable, unforeseen
 23510	19123	tonkatsu	とんかつ	豚カツ	 tonkatsu, breaded pork cutlet
-23510	19124	doutensuru	どうてんする	動転する	
+23510	19124	douten	どうてん	動転	disturbance of mind, losing one's head, being upset, being astonished, being frightened | transition, changing, moving
 23510	19125	naitei	ないてい	内定	 unofficial offer (esp. job offer), tentative decision
 23510	19126	nakasu	なかす	泣かす	to make someone cry, to move someone to tears | to grieve
-23510	19127	nigawaraisuru	にがわらいする	苦笑いする	
+23510	19127	nigawarai	にがわらい	苦笑い	 bitter smile, wry smile, forced smile, strained laugh
 23510	19128	hageru	はげる	禿げる	to lose hair, to become bald | to become bare (e.g. a mountain becomes bare of trees)
 23510	19129	hatajirushi	はたじるし	旗印	design (on a banner), emblem (on a flag), insignia | banner (e.g. of democracy), slogan, cause, objective
 23510	19130	hanazono	はなぞの	花園	 flower garden
-23510	19131	hametsusuru	はめつする	破滅する	
+23510	19131	hametsu	はめつ	破滅	 ruin, destruction, fall
 23510	19132	hareagaru	はれあがる	腫れ上がる	 to swell up
 23510	19133	ba	ば	歯	 tooth, よわい (齢)  (one's) age, し (歯) tooth | age, years
 23510	19134	hitoma	ひとま	一間	 one ken, six feet, ひとま (一間)  one room
@@ -73,9 +73,9 @@
 23660	19173	izondo	いぞんど	依存度	 degree of dependence, dependency rate, reliance
 23660	19174	ichikappu	いちかっぷ	一カップ	
 23660	19175	ichinen	いちねん	一念	determined purpose | an incredibly short span of time (i.e. the time occupied by a single thought) | a single repetition of a prayer (esp. in Jodo-shu)
-23660	19176	isshinsuru	いっしんする	一新する	
+23660	19176	isshin	いっしん	一新	 complete change, reform, restoration, remodeling, remodelling, renewal
 23660	19177	usu	うす	臼	 millstone, mortar
-23660	19178	eigakasuru	えいがかする	映画化する	
+23660	19178	eigaka	えいがか	映画化	 making (book, etc.) into film, making a screen version, adapting for the screen
 23660	19179	eiko	えいこ	英子	
 23660	19180	engo	えんご	援護	 covering, protection, backing, relief
 23660	19181	oukan	おうかん	王冠	crown, diadem | bottle cap
@@ -84,7 +84,7 @@
 23660	19184	osakana	おさかな	御魚	 fish
 23660	19185	otoseru	おとせる	落とせる	
 23660	19186	kaiageru	かいあげる	買い上げる	to buy (of a government, public agency, etc. from a private citizen), to purchase | to buy up (all of something)
-23660	19187	kaikensuru	かいけんする	会見する	
+23660	19187	kaiken	かいけん	会見	 interview, audience, meeting, (viewing) party
 23660	19188	kaitsuu	かいつう	開通	opening (of a new road, railway, etc.), going into operation (e.g. telephone communication), beginning services | reopening (e.g. a road to traffic), resumption of services
 23660	19189	kakukoumoku	かくこうもく	各項目	
 23660	19190	kabaadekiru	かばーできる	カバー出来る	
@@ -92,7 +92,7 @@
 23660	19192	kariukeru	かりうける	借り受ける	 to borrow, to have a loan, to hire, to rent, to buy on credit
 23660	19193	kanman	かんまん	緩慢	slow, sluggish, dull | lax, sloppy, lenient
 23660	19194	kimatsu	きまつ	期末	 end of term
-23660	19195	kyuufusuru	きゅうふする	給付する	
+23660	19195	kyuufu	きゅうふ	給付	payment, provision, benefit, present, delivery | performance
 23660	19196	kusatake	くさたけ	草丈	 rice plant's height
 23660	19197	kushiro	くしろ	釧路	
 23660	19198	gunjikoudou	ぐんじこうどう	軍事行動	 military movements

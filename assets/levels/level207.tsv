@@ -9,11 +9,11 @@
 25394	20609	go	ご	後	behind, rear | after, later | remainder, the rest | more (e.g. five more minutes), left | also, in addition | descendant, successor, heir | after one's death | past, previous, のち (後) later, afterwards | future | after one's death | descendant, うしろ (後ろ)  back, behind, rear, しり (尻) buttocks, behind, rump, bottom, hips | undersurface, bottom | last place, end | consequence, ご (後)  after
 25394	20610	sagyouchuu	さぎょうちゅう	作業中	 work-in-progress, working state
 25394	20611	sasami	ささみ	笹身	 chicken tender, chicken tenderloin
-25394	20612	sanbisuru	さんびする	賛美する	
+25394	20612	sanbi	さんび	賛美	 praise, glorification, extolment
 25394	20613	zairyoku	ざいりょく	財力	 financial power, financial means, wealth
 25394	20614	shiga	しが	滋賀	 Shiga (prefecture)
 25394	20615	shigarami	しがらみ	柵	fence, paling, railing | fortress, しがらみ (柵) weir | bonds, fetters, ties of obligation, き (柵)  fortress (surrounded by a wall, moat, etc.)
-25394	20616	shijisuru	しじする	師事する	
+25394	20616	shiji	しじ	師事	 studying under, looking up to, apprenticing oneself to
 25394	20617	shuudoushi	しゅうどうし	修道士	 monk, friar
 25394	20618	shuumatsu	しゅうまつ	終末	 end, close, conclusion, termination
 25394	20619	shuuryougo	しゅうりょうご	終了後	 after the end (of something), post-
@@ -40,7 +40,7 @@
 25394	20640	sounan	そうなん	遭難	 disaster, accident, shipwreck, distress
 25394	20641	sokojikara	そこぢから	底力	 hidden reserves of strength, latent energy, potentiality, real strength
 25394	20642	soshiru	そしる	謗る	 to slander, to libel, to criticize, to criticise
-25394	20643	sochisuru	そちする	措置する	
+25394	20643	sochi	そち	措置	 measure, step, action
 25394	20644	soya	そや	粗野	 rustic, rude, vulgar, rough
 25394	20645	soreika	それいか	其れ以下	
 25394	20646	tadashigaki	ただしがき	但し書き	 proviso
@@ -67,7 +67,7 @@
 25394	20667	hanbun'ika	はんぶんいか	半分以下	
 25394	20668	baren	ばれん	馬楝	 disk-shaped pad for pressing paper when making a print from a wood block, rubbing pad, baren
 25394	20669	hidarime	ひだりめ	左目	 left eye
-25394	20670	hippakusuru	ひっぱくする	逼迫する	
+25394	20670	hippaku	ひっぱく	逼迫	tightness (of money, financial conditions, etc.), pressure, stringency | being strained (of a situation), being tense, being pressing, being tough
 25394	20671	hinome	ひのめ	日の目	 sunlight
 25394	20672	bidou	びどう	微動	 slight movement, slight tremor, quiver
 25394	20673	fuuin	ふういん	封印	seal | to seal (e.g. a letter), to affix a seal, to seal up
@@ -87,13 +87,13 @@
 25394	20687	yusai	ゆさい	油彩	 oil painting
 25394	20688	yosoudoori	よそうどおり	予想通り	 as expected, predictably, not surprisingly
 25394	20689	rentaikan	れんたいかん	連帯感	 feeling of solidarity
-25394	20690	roudousuru	ろうどうする	労働する	
+25394	20690	roudou	ろうどう	労働	manual labor, manual labour, toil, work | Labour Party
 25394	20691	wabishii	わびしい	侘しい	 miserable, wretched, lonely, dreary, shabby, comfortless
 25550	20692	atoshimatsu	あとしまつ	後始末	 settlement (of affairs), remedial measures, cleaning up afterwards
 25550	20693	itamu	いたむ	悼む	 to grieve over, to mourn, to lament
 25550	20694	itarutokoro	いたるところ	至る所	 everywhere, all over, throughout
-25550	20695	itteisuru	いっていする	一定する	
-25550	20696	uousaousuru	うおうさおうする	右往左往する	
+25550	20695	ittei	いってい	一定	 fixed, settled, constant, definite, uniform, regularized, regularised, defined, standardized, standardised, certain, prescribed
+25550	20696	uousaou	うおうさおう	右往左往	 moving about in confusion, going every which way, going this way and that
 25550	20697	uchikorosu	うちころす	打ち殺す	 to kill by hitting, to beat to death, to slaughter, うちころす (撃ち殺す)  to shoot to death
 25550	20698	udo	うど	独活	 udo (plant related to ginseng, used in medicine and cooking) (Aralia cordata)
 25550	20699	ongakukai	おんがくかい	音楽会	 concert, recital

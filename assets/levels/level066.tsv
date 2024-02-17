@@ -3,7 +3,7 @@
 7813	6503	bijutsu	びじゅつ	美術	 art, fine arts
 7813	6504	rishi	りし	利子	 interest (on a loan, deposit, etc.)
 7825	6505	saizen	さいぜん	最善	 the very best, utmost
-7825	6506	shinsetsusuru	しんせつする	新設する	
+7825	6506	shinsetsu	しんせつ	新設	 establishing, founding, setting up, organizing, establishment
 7825	6507	taisho	たいしょ	対処	 dealing with, coping with
 7825	6508	tenshou	てんしょう	天正	 Tenshō era (1573.7.28-1592.12.8)
 7825	6509	hiketsu	ひけつ	秘訣	 secret (method, trick, etc.), key (e.g. to success), mysteries (of an art, trade, etc.), recipe, trick
@@ -27,9 +27,9 @@
 7845	6527	zukei	ずけい	図形	 figure, shape, graphic
 7845	6528	sekaiichi	せかいいち	世界一	 best in the world
 7845	6529	zetsumyou	ぜつみょう	絶妙	 exquisite, superb, perfect, miraculous
-7845	6530	tabisuru	たびする	旅する	 to travel, to take a trip
-7845	6531	hatansuru	はたんする	破綻する	
-7845	6532	hanronsuru	はんろんする	反論する	
+7845	6530	tabi	たび	旅	 travel, trip, journey, りょ (旅)  500-man battalion (Zhou-dynasty Chinese army)
+7845	6531	hatan	はたん	破綻	 failure, collapse, breakdown, break-up, bankruptcy
+7845	6532	hanron	はんろん	反論	 objection, refutation, rebuttal, counterargument
 7845	6533	bouryokudan	ぼうりょくだん	暴力団	 bōryokudan, gangster organization (organisation), crime syndicate, yakuza
 7845	6534	yadoru	やどる	宿る	to dwell, to live, to remain | to stay at, to take shelter at, to stop at, to lodge at | to be pregnant | to be part of a constellation | to be a parasite (bugs, plants, etc.)
 7845	6535	youshi	ようし	用紙	blank form | sheets of paper, sheet of paper
@@ -47,7 +47,7 @@
 7874	6547	gekiteki	げきてき	劇的	dramatic, exciting, touching | extreme
 7874	6548	kojinsa	こじんさ	個人差	 individual differences, personal equation
 7874	6549	shoten	しょてん	書店	 bookshop, bookstore
-7874	6550	shohousuru	しょほうする	処方する	
+7874	6550	shohou	しょほう	処方	 prescription, formulation, formula, recipe
 7874	6551	touhou	とうほう	当方	 I, we, our part
 7874	6552	hitorigoto	ひとりごと	独り言	 soliloquy, monologue, speaking to oneself
 7874	6553	byoujou	びょうじょう	病状	 patient's condition, pathology
@@ -84,7 +84,7 @@
 7909	6584	taiheiyou	たいへいよう	太平洋	 Pacific Ocean
 7909	6585	tokuten	とくてん	得点	 scoring, score, points made, marks obtained, goals, runs
 7909	6586	nanmai	なんまい	何枚	
-7909	6587	hasshinsuru	はっしんする	発信する	
+7909	6587	hasshin	はっしん	発信	dispatch, despatch, transmission, submission | informing (e.g. of opinion), sharing (thoughts, etc.), telling
 7909	6588	heigai	へいがい	弊害	 harmful effect, harmful influence, evil practice, abuse, malady
 7909	6589	heta	へた	下手	humble position, inferior | underarm grip on opponent's belt, しもて (下手) lower part, foot, lower direction | left part of the stage (audience's or camera's POV), stage right (actor's POV), へた (下手) unskillful, poor, awkward | imprudent, untactful
 7909	6590	rigai	りがい	利害	 advantages and disadvantages, interests (of parties)

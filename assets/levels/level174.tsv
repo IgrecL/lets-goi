@@ -11,7 +11,7 @@
 21271	17311	oda	おだ	小田	 rice field (usu. small)
 21271	17312	onakunarininaru	おなくなりになる	御亡くなりに成る	
 21271	17313	kaibatsu	かいばつ	海抜	 height above sea level
-21271	17314	kakugiketteisuru	かくぎけっていする	閣議決定する	
+21271	17314	kakugikettei	かくぎけってい	閣議決定	 cabinet decision
 21271	17315	kakezan	かけざん	掛け算	 multiplication
 21271	17316	kazokukankei	かぞくかんけい	家族関係	
 21271	17317	kamei	かめい	加盟	 joining (an association, agreement, etc.), participation, affiliation, accession
@@ -23,8 +23,8 @@
 21271	17323	kouseinou	こうせいのう	高性能	 high efficiency, high performance
 21271	17324	kosshi	こっし	骨子	 main point, gist, essentials, bones (e.g. of an idea), pith, さいころ (骰子)  dice, die
 21271	17325	saitaku	さいたく	採択	 adoption, selection, choice
-21271	17326	sairiyousuru	さいりようする	再利用する	
-21271	17327	sakuseisuru	さくせいする	作製する	
+21271	17326	sairiyou	さいりよう	再利用	 reuse, recycling
+21271	17327	sakusei	さくせい	作製	 manufacture, production
 21271	17328	shian	しあん	思案	 careful thought, consideration, deliberation, reflection, rumination, pondering
 21271	17329	shinobaseru	しのばせる	忍ばせる	 to conceal, to hide
 21271	17330	shibu	しぶ	支部	 branch, subdivision
@@ -32,8 +32,8 @@
 21271	17332	shakaifukushihoujin	しゃかいふくしほうじん	社会福祉法人	 social welfare service corporation
 21271	17333	shuppinshasama	しゅっぴんしゃさま	出品者様	
 21271	17334	shoudan	しょうだん	商談	 business discussion, negotiation
-21271	17335	shouhinkasuru	しょうひんかする	商品化する	
-21271	17336	shozousuru	しょぞうする	所蔵する	
+21271	17335	shouhinka	しょうひんか	商品化	 commercialization (e.g. product), commodification
+21271	17336	shozou	しょぞう	所蔵	 (in one's) possession
 21271	17337	shirai	しらい	白井	
 21271	17338	shiwasu	しわす	師走	 twelfth month (esp. of the lunar calendar), December
 21271	17339	juuji	じゅうじ	十字	 cross, crossed, cruciform
@@ -65,7 +65,7 @@
 21271	17365	nyuukoku	にゅうこく	入国	 entry into a country
 21271	17366	ninsou	にんそう	人相	looks, countenance, facial features | physiognomy
 21271	17367	hakurikiko	はくりきこ	薄力粉	 cake flour, pastry flour
-21271	17368	hasshasuru	はっしゃする	発車する	
+21271	17368	hassha	はっしゃ	発車	 departure (of a train, car, etc.), starting, leaving
 21271	17369	hikiau	ひきあう	引き合う	to pay, to be profitable | to pull against each other
 21271	17370	hishimeku	ひしめく	犇めく	 to clamour, to crowd, to jostle
 21271	17371	hikken	ひっけん	必見	 must-see, not to be missed, a must
@@ -92,9 +92,9 @@
 21375	17392	amerikashakai	あめりかしゃかい	アメリカ社会	
 21375	17393	iingoshiteki	いいんごしてき	委員御指摘	
 21375	17394	ireru	いれる	居れる	
-21375	17395	urauchisuru	うらうちする	裏打ちする	
+21375	17395	urauchi	うらうち	裏打ち	lining, backing | backing up (e.g. a theory), support, bolstering
 21375	17396	eibin	えいびん	鋭敏	 sharp, keen, acute
-21375	17397	ooyorokobisuru	おおよろこびする	大喜びする	
+21375	17397	ooyorokobi	おおよろこび	大喜び	 great joy
 21375	17398	kaiketsuhou	かいけつほう	解決法	 solution, way out
 21375	17399	kaigoyobou	かいごよぼう	介護予防	 preventive care, esp. for senior citizens
 21375	17400	kazuya	かずや	和也	

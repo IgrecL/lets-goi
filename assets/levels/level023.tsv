@@ -4,10 +4,10 @@
 2619	2204	shoumen	しょうめん	正面	 front, frontage, facade, main, まとも (真面) the front | honesty, uprightness, directness | decency, normality
 2620	2205	ikikata	いきかた	生き方	 way of life, how to live
 2621	2206	kokusaiteki	こくさいてき	国際的	 international
-2621	2207	soutousuru	そうとうする	相当する	
+2621	2207	soutou	そうとう	相当	corresponding to (in meaning, function, etc.), being equivalent to | appropriate, suitable, befitting, proportionate | to be proportionate to, to be in keeping with, to be deserving of, to be worthy of | considerable, substantial | considerably, rather, quite, fairly, pretty
 2623	2208	kau	かう	飼う	 to keep (a pet or other animal), to have, to own, to raise, to rear, to feed
 2624	2209	futoi	ふとい	太い	fat, thick | deep (of a voice), thick, sonorous | daring, shameless, brazen, audacious
-2624	2210	renrakusuru	れんらくする	連絡する	
+2624	2210	renraku	れんらく	連絡	contacting, (making) contact, getting in touch, communication, correspondence, call, message | connection (with a train, bus, etc.), joining (a railway line, etc.), meeting | connection (between matters, incidents, etc.), relation, link
 2626	2211	joushiki	じょうしき	常識	 common sense, good sense, common knowledge, general knowledge, common practice, accepted practice, social etiquette
 2627	2212	kakuchi	かくち	各地	 every place, various places
 2627	2213	zuhyou	ずひょう	図表	 chart, diagram, graph, figure
@@ -17,13 +17,13 @@
 2632	2217	tokei	とけい	時計	 clock, watch, timepiece
 2632	2218	yaseru	やせる	痩せる	to become thin, to lose weight, to reduce (one's) weight, to slim | to be barren, to be infertile, to be sterile
 2634	2219	yousei	ようせい	要請	appeal, call for something, request, claim, demand | axiom
-2636	2220	gamansuru	がまんする	我慢する	
+2636	2220	gaman	がまん	我慢	endurance, patience, perseverance, bearing (with something) | self-control, self-restraint
 2637	2221	kenryoku	けんりょく	権力	 (political) power, authority, influence
 2638	2222	kansha	かんしゃ	感謝	 thanks, gratitude
 2639	2223	nihonburogumura	にほんぶろぐむら	にほんブログ村	
 2640	2224	satou	さとう	砂糖	 sugar
 2641	2225	kanjasan	かんじゃさん	患者さん	
-2641	2226	juujitsusuru	じゅうじつする	充実する	
+2641	2226	juujitsu	じゅうじつ	充実	fullness, completion, perfection, substantiality | enhancement, improvement, enrichment, upgrading | replenishment, repletion
 2641	2227	teikyou	ていきょう	提供	offer, tender, providing, supplying, making available, donating (blood, organs, etc.) | sponsoring (a TV program)
 2646	2228	taishou	たいしょう	大正	 Taishō era (1912.7.30-1926.12.25), Taisho era
 2646	2229	chousei	ちょうせい	調整	 adjustment, regulation, coordination, reconciliation, tuning, fixing, tailoring
@@ -48,12 +48,12 @@
 2671	2248	hakken	はっけん	発見	 discovery, detection, finding
 2674	2249	kekkou	けっこう	結構	splendid, nice, wonderful, delicious, sweet | sufficient, fine (in the sense of "I'm fine"), (by implication) no thank you | well enough, OK, tolerable | quite, reasonably, fairly, tolerably | construction, architecture
 2675	2250	sangyou	さんぎょう	産業	industry | livelihood, occupation
-2676	2251	chottosuru	ちょっとする	一寸する	
+2676	2251	chotto	ちょっと	一寸	one sun (approx. 3.03 cm) | little bit (of time, distance, etc.), ちょっと (一寸) a little, a bit, slightly | just a minute, for a moment, briefly | somewhat, rather, fairly, pretty, quite | (not) easily, (not) readily | hey!, come on, excuse me
 2676	2252	renkei	れんけい	連携	 cooperation, coordination, link
 2678	2253	kaisetsu	かいせつ	解説	 explanation, commentary, exposition, elucidation
 2679	2254	shotoku	しょとく	所得	 income, earnings
-2679	2255	seikatsusuru	せいかつする	生活する	
-2679	2256	souteisuru	そうていする	想定する	
+2679	2255	seikatsu	せいかつ	生活	 living, life (one's daily existence), livelihood
+2679	2256	soutei	そうてい	想定	 hypothesis, supposition, assumption
 2679	2257	tsukkomu	つっこむ	突っ込む	to thrust (something) into (something), to cram, to stuff, to shove | to plunge into, to charge into, to rush into, to ram into, to crash into | to delve into (a matter), to go into depth, to get to the heart (of something) | to press (someone) about, to point out (e.g. an inconsistency), to question sharply, to grill | to get involved with, to meddle in, to poke one's nose into | to riposte, to retort, to quip
 2684	2258	chijou	ちじょう	地上	above ground, surface, overground | earth, world
 2685	2259	kinyuukikan	きんゆうきかん	金融機関	 financial institutions, banking facilities
@@ -69,7 +69,7 @@
 2694	2269	koitsu	こいつ	此奴	he, she, this fellow, this guy, this person | this, this one, this thing | Hey, you!, You bastard!, Damn you!
 2694	2270	koukousei	こうこうせい	高校生	 senior high school student
 2694	2271	bunseki	ぶんせき	分析	 analysis
-2698	2272	kensakusuru	けんさくする	検索する	
+2698	2272	kensaku	けんさく	検索	 looking up (e.g. a word in a dictionary), retrieval (e.g. data), searching for, referring to
 2699	2273	fukameru	ふかめる	深める	 to deepen, to heighten, to intensify
 2701	2274	kumiawase	くみあわせ	組み合わせ	combination, assortment, set | matching (in a contest), pairing | combination
 2702	2275	you	よう	用	business, task, errand, engagement | use, purpose | for the use of ..., used for ..., made for ... | call of nature, excretion
@@ -86,12 +86,12 @@
 2718	2286	chuumoku	ちゅうもく	注目	 notice, attention, observation
 2719	2287	mannaka	まんなか	真ん中	 middle, centre, center, midpoint, heart
 2720	2288	umu	うむ	有無	existence or nonexistence, presence or absence | consent or refusal, yes or no
-2720	2289	teiansuru	ていあんする	提案する	
+2720	2289	teian	ていあん	提案	 proposal, proposition, suggestion
 2722	2290	tsumeru	つめる	詰める	to stuff into, to jam, to cram, to pack, to fill, to plug, to stop up | to shorten, to move closer together | to reduce (spending), to conserve | to focus intently on, to strain oneself to do | to go through thoroughly, to work out (details), to bring to a conclusion, to wind up | to be on duty, to be stationed | to corner (esp. an opponent's king in shogi), to trap, to checkmate | to cut off (one's finger as an act of apology), to catch (one's finger in a door, etc.) | to do non-stop, to do continuously, to keep doing (without a break) | to do completely, to do thoroughly | to force someone into a difficult situation by ...
 2723	2291	igi	いぎ	意義	 meaning, significance
-2724	2292	shoumeisuru	しょうめいする	証明する	
+2724	2292	shoumei	しょうめい	証明	 proof, testimony, demonstration, verification, certification
 2724	2293	chuugakusei	ちゅうがくせい	中学生	 junior high school student, middle school pupil
-2726	2294	kakutokusuru	かくとくする	獲得する	
+2726	2294	kakutoku	かくとく	獲得	 acquisition, possession
 2726	2295	niru	にる	煮る	 to boil, to simmer, to stew, to seethe
 2726	2296	yokei	よけい	余計	too many, too much, excessive, superfluous, superabundant, extra, spare, surplus | unnecessary, needless, uncalled-for, otiose | abundantly, excessively, needlessly, all the more
 2729	2297	aeru	あえる	会える	

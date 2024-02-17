@@ -1,15 +1,15 @@
-2503	2101	kaifukusuru	かいふくする	回復する	
+2503	2101	kaifuku	かいふく	回復	restoration, rehabilitation, recovery, return, replevin, improvement | recovery (from an illness), recuperation, convalescence
 2504	2102	sakihodo	さきほど	先程	 a short while ago, a moment ago, just now, some time ago
 2504	2103	hikaeru	ひかえる	控える	to be temperate in, to refrain, to abstain, to hold back, to restrain oneself from excessive ... | to make notes, to jot down (e.g. phone number) | to be in preparation for, to be in waiting for | to be soon, to be in the offing | to be in a close relationship (e.g. as a backer, etc.)
 2506	2104	kasuka	かすか	微か	faint, dim, weak, slight, vague, indistinct, hazy | poor, wretched, meagre, meager, scanty
 2506	2105	kazoeru	かぞえる	数える	 to count, to enumerate
-2508	2106	kyoukasuru	きょうかする	強化する	
+2508	2106	kyouka	きょうか	強化	 strengthening, intensifying, reinforcement, enhancement, solidification
 2510	2107	shokugyou	しょくぎょう	職業	 occupation, profession, job, vocation, trade, calling, business
-2510	2108	hanbaisuru	はんばいする	販売する	
+2510	2108	hanbai	はんばい	販売	 sales, selling, marketing
 2512	2109	juugyouin	じゅうぎょういん	従業員	 employee, worker
 2513	2110	kirau	きらう	嫌う	 to hate, to dislike, to loathe
 2513	2111	keitai	けいたい	形態	 form, shape, figure
-2516	2112	taishosuru	たいしょする	対処する	
+2516	2112	taisho	たいしょ	対処	 dealing with, coping with
 2518	2113	nenkan	ねんかん	年間	(period of) a year | during an era
 2519	2114	senpai	せんぱい	先輩	 senior (at work or school), superior, elder, older graduate, progenitor, old-timer
 2521	2115	koushi	こうし	講師	 lecturer
@@ -46,7 +46,7 @@
 2555	2146	souzou	そうぞう	想像	 imagination, guess
 2557	2147	shitei	してい	指定	 designation, specification, assignment, appointment, pointing at
 2557	2148	haeru	はえる	生える	to grow, to spring up, to sprout | to cut (teeth)
-2559	2149	nattokusuru	なっとくする	納得する	
+2559	2149	nattoku	なっとく	納得	consent, assent, agreement | understanding, comprehension, grasp
 2560	2150	kekkyoku	けっきょく	結局	after all, in the end, ultimately, eventually | conclusion, end | end of a game of go, shogi, etc.
 2560	2151	riyousha	りようしゃ	利用者	 user, end-user, consumer
 2562	2152	kage	かげ	陰	(the) negative (e.g. pole) | yin (in Chinese divination) | hidden place, unseen part, private location, かげ (陰) shade, shadow | behind (something), other side, back | background, behind the scenes, behind someone's back | gloom (in someone's expression, nature, etc.), darkness, ほと (陰)  female private parts, female genitals
@@ -55,7 +55,7 @@
 2565	2155	seinen	せいねん	青年	 youth, young man
 2567	2156	kabushiki	かぶしき	株式	 share (in a company), stock
 2568	2157	oogoe	おおごえ	大声	 loud voice
-2568	2158	kibousuru	きぼうする	希望する	
+2568	2158	kibou	きぼう	希望	 hope, wish, aspiration
 2568	2159	saibou	さいぼう	細胞	cell | cell (in an organization, esp. a communist party)
 2571	2160	shikaru	しかる	叱る	 to scold, to chide, to rebuke, to reprimand
 2572	2161	inoru	いのる	祈る	 to pray, to wish
@@ -73,7 +73,7 @@
 2584	2173	miidasu	みいだす	見出だす	to find out, to discover, to notice, to detect | to select, to pick out | to look out (from the inside) | to be wide-eyed (in surprise, anger, etc.)
 2585	2174	kazuooku	かずおおく	数多く	 in great numbers
 2585	2175	tameiki	ためいき	溜め息	 sigh
-2587	2176	seirisuru	せいりする	整理する	
+2587	2176	seiri	せいり	整理	sorting, arrangement, organization, putting in order, adjustment, regulation | liquidation, settlement, consolidation, clearance (e.g. debt), paying off | retrenchment, curtailment, cutting down, disposal
 2588	2177	chuushajou	ちゅうしゃじょう	駐車場	 parking lot, car park, carpark, parking garage
 2588	2178	futa	ふた	蓋	 cover, lid, cap
 2590	2179	tsuujou	つうじょう	通常	 usual, ordinary, normal, regular, general, common
@@ -87,7 +87,7 @@
 2601	2187	kawaisou	かわいそう	可哀想	 poor, pitiable, pathetic, pitiful
 2601	2188	mondaiten	もんだいてん	問題点	 the problem (at issue), the point at issue, problematic issue, problem
 2603	2189	shitashii	したしい	親しい	close (e.g. friend), familiar, friendly, intimate | familiar (e.g. story), well-known (to one) | close (relatives), closely related, ちかしい (近しい)  intimate, close
-2603	2190	manzokusuru	まんぞくする	満足する	
+2603	2190	manzoku	まんぞく	満足	satisfaction, contentment, gratification | sufficient, satisfactory, enough, adequate, proper, decent | satisfying (an equation)
 2605	2191	yane	やね	屋根	 roof
 2606	2192	kyonen	きょねん	去年	 last year
 2606	2193	nureru	ぬれる	濡れる	 to get wet
@@ -97,4 +97,4 @@
 2611	2197	iryou	いりょう	医療	 medical care, medical treatment
 2611	2198	tekisei	てきせい	適正	 reasonable, suitable
 2611	2199	hiru	ひる	昼	noon, midday | daytime | lunch
-2614	2200	shiensuru	しえんする	支援する	
+2614	2200	shien	しえん	支援	 support, backing, aid, assistance

@@ -1,8 +1,8 @@
 28676	23201	sensousekinin	せんそうせきにん	戦争責任	 war responsibility
 28676	23202	zensokuryoku	ぜんそくりょく	全速力	 full speed
 28676	23203	souzokuzaisan	そうぞくざいさん	相続財産	 inheritance, inherited property, heritage
-28676	23204	soutatsusuru	そうたつする	送達する	
-28676	23205	taikyosuru	たいきょする	大挙する	
+28676	23204	soutatsu	そうたつ	送達	delivery, dispatch, despatch, conveyance | service of process
+28676	23205	taikyo	たいきょ	大挙	in full force, in great numbers, in droves | large-scale project, grand plan
 28676	23206	tada	ただ	多田	
 28676	23207	tatekaeru	たてかえる	立て替える	 to pay for another, to pay someone else's debt as a loan to him, to make temporary payment on a person's behalf
 28676	23208	tanakashounin	たなかしょうにん	田中証人	
@@ -22,11 +22,11 @@
 28676	23222	tsukinami	つきなみ	月並み	every month | trite, commonplace, conventional, hackneyed
 28676	23223	zuka	づか	塚	mound, heap, hillock | burial mound, tomb, tumulus, barrow
 28676	23224	teikoku	ていこく	定刻	 appointed time, timetable, schedule
-28676	23225	teijisuru	ていじする	呈示する	
+28676	23225	teiji	ていじ	呈示	 exhibition
 28676	23226	techigai	てちがい	手違い	 mistake, blunder, slipup
 28676	23227	tenimotsu	てにもつ	手荷物	 hand luggage, hand baggage
 28676	23228	denkijidousha	でんきじどうしゃ	電気自動車	 electric car, electric vehicle
-28676	23229	densensuru	でんせんする	伝染する	
+28676	23229	densen	でんせん	伝染	 contagion, infection
 28676	23230	denpa	でんぱ	伝播	 transmission, propagation, spread, circulation, diffusion, dissemination
 28676	23231	tououshokoku	とうおうしょこく	東欧諸国	 Eastern European countries
 28676	23232	toppuu	とっぷう	突風	 gust (of wind), blast
@@ -50,7 +50,7 @@
 28676	23250	hinikuppoi	ひにくっぽい	皮肉っぽい	
 28676	23251	hyoujou	ひょうじょう	評定	 assessment, rating, grade, evaluation, ひょうじょう (評定)  council, conference, consultation
 28676	23252	byoushi	びょうし	病死	 death from disease, death from illness
-28676	23253	fuichousuru	ふいちょうする	吹聴する	
+28676	23253	fuichou	ふいちょう	吹聴	 spreading around (news, rumor, etc.), making widely known, making public, publicizing, proclaiming
 28676	23254	fukubukuro	ふくぶくろ	福袋	 lucky-dip bag, grab bag, mystery package (with a variety of articles possibly worth more than the purchase price)
 28676	23255	fushi	ふし	不死	immortality, eternal life | undeath, undead
 28676	23256	funazoko	ふなぞこ	船底	 ship's bottom, bilge
@@ -84,7 +84,7 @@
 28886	23284	ichimi	いちみ	一味	clan, partisans, conspirators, gang, ring, crew | participation (e.g. in a plot) | one flavour, one charm | one ingredient (in traditional Chinese medicine) | universality (of the teachings of Buddha), ひとあじ (一味) unique flavor (flavour), (degree of) flavouring | distinctive quality, special charm
 28886	23285	ikken	いっけん	一見	look, glimpse, glance | apparently, seemingly | first meeting, いちげん (一見)  first visit to inn, restaurant, etc. without an introduction
 28886	23286	itetsuku	いてつく	凍て付く	 to freeze
-28886	23287	idousuru	いどうする	異動する	
+28886	23287	idou	いどう	異動	 change (personnel), transfer, reshuffle
 28886	23288	iryouseido	いりょうせいど	医療制度	 health care system
 28886	23289	une	うね	畝	ridge (in field), row of raised earth when planting crops | rib (cloth, mountains, sea), cord (e.g. corduroy), せ (畝)  se (Japanese unit of area equal to 30 tsubo, approx. 99.174 m.sq.), ほ (畝)  mu (Chinese measure of land area, formerly approx. 600 m.sq., currently approx. 667 m.sq.)
 28886	23290	uno	うの	宇野	
@@ -96,5 +96,5 @@
 28886	23296	ozaki	おざき	尾崎	
 28886	23297	otameshiaru	おためしある	御試し有る	
 28886	23298	ochichichan	おちちちゃん	御父ちゃん	
-28886	23299	otorihikisuru	おとりひきする	御取り引きする	
+28886	23299	otorihiki	おとりひき	御取り引き	
 28886	23300	oniai	おにあい	御似合い	 well-matched (esp. of a couple), becoming, suitable

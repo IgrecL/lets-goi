@@ -1,10 +1,10 @@
 4746	4001	todoufukenchiji	とどうふけんちじ	都道府県知事	
 4746	4002	youto	ようと	用途	 use, service, purpose
-4755	4003	konransuru	こんらんする	混乱する	
+4755	4003	konran	こんらん	混乱	 disorder, chaos, confusion, mayhem
 4755	4004	shinnen	しんねん	信念	 belief, faith, conviction
 4755	4005	nattokudekiru	なっとくできる	納得出来る	
 4760	4006	kaishi	かいし	開始	 start, commencement, beginning, initiation
-4760	4007	sassuru	さっする	察する	to guess, to sense, to presume, to judge | to sympathize with, to sympathise with
+4760	4007	satsu	さっ	察	 cops, police
 4760	4008	susamajii	すさまじい	凄まじい	 terrific, fierce, terrible, tremendous, dreadful, awful, amazing, absurd, cutthroat, intense
 4760	4009	seiken	せいけん	政権	 (political) administration, political power
 4760	4010	tou	とう	塔	tower, steeple, spire | stupa, pagoda, dagoba
@@ -12,7 +12,7 @@
 4766	4012	ran	らん	欄	section (e.g. in a newspaper), column, page | field (in a form, web page, etc.), blank | handrail, railing, banister, balustrade, おばしま (欄)  handrail, railing, banister, balustrade
 4768	4013	ousama	おうさま	王様	 king
 4770	4014	soutaiteki	そうたいてき	相対的	 relative
-4770	4015	houdousuru	ほうどうする	報道する	
+4770	4015	houdou	ほうどう	報道	 report (of news), reporting, news, information, (media) coverage
 4774	4016	ebi	えび	蝦	frog | kajika frog (Buergeria buergeri), えび (海老)  prawn, shrimp, lobster, crayfish
 4774	4017	okashina	おかしな	可笑しな	 ridiculous, odd
 4774	4018	kutsuu	くつう	苦痛	 pain, agony, bitterness
@@ -37,7 +37,7 @@
 4800	4037	shihan	しはん	市販	selling on the market (in the marketplace, in stores, etc.), making something commercially available | commercial (e.g. software), over-the-counter, off-the-shelf, store-bought
 4803	4038	dokuritsu	どくりつ	独立	independence, self-reliance, supporting oneself, being on one's own | independence (e.g. of a nation), freedom | separation, isolation
 4803	4039	hibi	ひび	日々	 every day, daily, day after day, days (e.g. good old days)
-4806	4040	nyuusatsusuru	にゅうさつする	入札する	
+4806	4040	nyuusatsu	にゅうさつ	入札	 bid, tender, bidding
 4807	4041	ra	ら	等	et cetera, etc., and the like, and so forth | or something | the likes of | for example, for instance, for one, とう (等) class, order, rank | et cetera, etc., and the like | equal, iso-, ら (等) pluralizing suffix | or so, rough indicator of direction, location, amount, etc. | nominalizing suffix
 4810	4042	sadame	さだめ	定め	law, rule, regulation, provision, decision, appointment, arrangement, agreement | destiny, fate, karma
 4810	4043	hahasan	ははさん	母さん	mother | wife
@@ -47,7 +47,7 @@
 4813	4047	shuushoku	しゅうしょく	就職	 finding employment, getting a job
 4813	4048	furumau	ふるまう	振る舞う	to behave, to conduct oneself | to entertain, to treat someone (to a drink), to make tea for someone (tea ceremony)
 4818	4049	jumoku	じゅもく	樹木	 tree, trees and shrubs
-4818	4050	suisokusuru	すいそくする	推測する	
+4818	4050	suisoku	すいそく	推測	 guess, conjecture
 4818	4051	tsukidasu	つきだす	突き出す	to push out, to project, to stick out | to hand over (e.g. to the police)
 4818	4052	nouchi	のうち	農地	 agricultural land, farmland
 4818	4053	hakase	はかせ	博士	expert, learned person | doctor, PhD, Dr. | instructor at the imperial court (ritsuryo period) | pitch and length marks (to accompany a Buddhist liturgical chant, etc.), はくし (博士) doctor, PhD, Dr. | expert, learned person
@@ -65,7 +65,7 @@
 4838	4065	iri	いり	入り	entering | setting (of the Sun) | containing, content, audience | income | beginning
 4838	4066	juurai	じゅうらい	従来	up to now, so far | traditional, conventional, usual, existing
 4838	4067	sukunashi	すくなし	少なし	
-4838	4068	houkisuru	ほうきする	放棄する	
+4838	4068	houki	ほうき	放棄	 abandonment, renunciation, resignation, abdication (responsibility, right)
 4842	4069	jikkan	じっかん	実感	real feeling, actual feeling | to actually feel, to have a real feeling (that ...), to experience personally
 4842	4070	minshutou	みんしゅとう	民主党	Democratic Party (esp. DPJ or US Democratic Party) | Constitutional Democratic Party of Japan
 4844	4071	ageku	あげく	挙げ句	after (a long process), at the end of | last line (of a renga)

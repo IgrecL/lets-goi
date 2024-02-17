@@ -7,10 +7,10 @@
 41696	33207	shamoji	しゃもじ	杓文字	 wooden spoon, ladle, rice scoop
 41696	33208	shukukyuujitsu	しゅくきゅうじつ	祝休日	
 41696	33209	shuzenji	しゅぜんじ	修善寺	
-41696	33210	shuppeisuru	しゅっぺいする	出兵する	
+41696	33210	shuppei	しゅっぺい	出兵	 dispatch of troops, despatch of troops, expedition
 41696	33211	shutsuga	しゅつが	出芽	 germination, sprouting
 41696	33212	shunoujin	しゅのうじん	首脳陣	
-41696	33213	shunkousuru	しゅんこうする	竣功する	
+41696	33213	shunkou	しゅんこう	竣功	 completion of construction
 41696	33214	shoukakatsudou	しょうかかつどう	消火活動	 fire fighting
 41696	33215	shoukoukankouka	しょうこうかんこうか	商工観光課	
 41696	33216	shoudo	しょうど	焦土	 scorched earth
@@ -36,7 +36,7 @@
 41696	33236	jishinji	じしんじ	地震時	
 41696	33237	jisetsu	じせつ	時節	season | the times | opportunity, occasion
 41696	33238	jittaikeizai	じったいけいざい	実体経済	 actual business, actual economy, real economy
-41696	33239	juusuru	じゅうする	住する	 to live, to reside, to inhabit
+41696	33239	juu	じゅう	住	 dwelling, living
 41696	33240	juutakuhi	じゅうたくひ	住宅費	 housing costs (expenses)
 41696	33241	juutou	じゅうとう	充当	 allocation, appropriation
 41696	33242	junbidankai	じゅんびだんかい	準備段階	
@@ -62,7 +62,7 @@
 41696	33262	zenkakukou	ぜんかくこう	前各項	
 41696	33263	souenchou	そうえんちょう	総延長	
 41696	33264	soukoku	そうこく	相克	 rivalry
-41696	33265	soujousuru	そうじょうする	奏上する	
+41696	33265	soujou	そうじょう	奏上	 report to the Emperor
 41696	33266	soudai	そうだい	早大	
 41696	33267	sotowaku	そとわく	外枠	 border
 41696	33268	sonodasunaokun	そのだすなおくん	園田直君	
@@ -74,7 +74,7 @@
 41696	33274	tasangyou	たさんぎょう	他産業	
 41696	33275	tajuusaimu	たじゅうさいむ	多重債務	
 41696	33276	tanjouge	たんじょうげ	誕生花	
-41696	33277	tanninsuru	たんにんする	担任する	
+41696	33277	tannin	たんにん	担任	being in charge of (esp. a class or subject), taking charge of | class teacher, homeroom teacher, form teacher
 41696	33278	daiichizu	だいいちず	第一図	
 41696	33279	daigakusotsugyousha	だいがくそつぎょうしゃ	大学卒業者	
 41696	33280	daikenka	だいけんか	大喧嘩	 big quarrel, huge fight, big row
@@ -85,9 +85,9 @@
 41696	33285	chimaki	ちまき	粽	 cake wrapped in bamboo leaves
 41696	33286	chuuigimu	ちゅういぎむ	注意義務	 duty of care
 41696	33287	chuukyouku	ちゅうきょうく	中京区	
-41696	33288	chouseisuru	ちょうせいする	調製する	
+41696	33288	chousei	ちょうせい	調製	 manufacture, preparation, execution (an order)
 41696	33289	choutarou	ちょうたろう	長太郎	
-41696	33290	tsuijuusuru	ついじゅうする	追従する	
+41696	33290	tsuijuu	ついじゅう	追従	 following (e.g. someone's opinion), being servile to, adherence, compliance, emulation, mimicking, servility, ついしょう (追従)  flattery, sycophancy, adulation
 41696	33291	tsukasa	つかさ	司	office, official | chief, head | (Yaeyama Islands in Okinawa) person (usually a woman) whose duty it is to officiate at religions ceremonies, し (司)  office (government department beneath a bureau under the ritsuryo system)
 41696	33292	tsugime	つぎめ	継ぎ目	 joint, seam, joining point
 41696	33293	tsubo	つぼ	坪	tsubo, traditional unit of land area, approx. 3.31 square meters | tsubo, traditional unit of fabric or paper area, approx. 9.18 square centimeters | tsubo, traditional unit of leather or tile area, approx. 918 square centimeters | cubic tsubo (approx. 6 cubic metres)

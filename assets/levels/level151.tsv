@@ -17,7 +17,7 @@
 18418	15017	susuki	すすき	薄	 Japanese pampas grass (Miscanthus sinensis), maiden silvergrass, zebra grass, うす (薄)  light (e.g. colour, color)
 18418	15018	seijitsusa	せいじつさ	誠実さ	
 18418	15019	sekaizentai	せかいぜんたい	世界全体	 entire world, whole world, world stage
-18418	15020	soshikikasuru	そしきかする	組織化する	
+18418	15020	soshikika	そしきか	組織化	 organization, organisation, systematization, systematisation
 18418	15021	sosei	そせい	素性	birth, lineage, parentage, origin | identity, background, history, past | provenance, origin
 18418	15022	zousho	ぞうしょ	蔵書	 collection of books, (personal) library
 18418	15023	taishokugo	たいしょくご	退職後	 after retirement
@@ -34,7 +34,7 @@
 18418	15034	nairiku	ないりく	内陸	 inland
 18418	15035	nazoraeru	なぞらえる	擬える	 to pattern after, to liken to, to imitate
 18418	15036	nansatsu	なんさつ	何冊	
-18418	15037	nyuukasuru	にゅうかする	入荷する	
+18418	15037	nyuuka	にゅうか	入荷	 arrival of goods, goods received
 18418	15038	hahakata	ははかた	母方	mother's side of family | maternal (grandfather, uncle, etc.)
 18418	15039	hare	はれ	腫れ	 swelling, boil
 18418	15040	bassai	ばっさい	伐採	 felling timber, cutting down trees, logging, lumbering
@@ -68,22 +68,22 @@
 18513	15068	ichimen	いちめん	一面	one face, one surface | the whole surface | one aspect, one side | (on) the other hand | one broad, flat object | front page (e.g. newspaper)
 18513	15069	ikku	いっく	一句	phrase (verse, line) | one haiku-poem
 18513	15070	etsurandekiru	えつらんできる	閲覧出来る	
-18513	15071	okaeshisuru	おかえしする	御返しする	
-18513	15072	kaiteisuru	かいていする	改定する	
+18513	15071	okaeshi	おかえし	御返し	return gift, return favour (favor) | revenge | change (in a cash transaction)
+18513	15072	kaitei	かいてい	改定	 revision (of a rule, price, etc.), alteration, change
 18513	15073	kakikesu	かきけす	掻き消す	 to erase, to drown out (e.g. a voice), to make disappear
 18513	15074	kakitsuzukeru	かきつづける	書き続ける	 to continue writing
 18513	15075	kajuu	かじゅう	果汁	 fruit juice
 18513	15076	kazeno	かぜの	風野	
 18513	15077	kayaku	かやく	火薬	 gunpowder, powder
-18513	15078	kantansuru	かんたんする	感嘆する	
+18513	15078	kantan	かんたん	感嘆	 admiration, wonder, astonishment
 18513	15079	kyuukyokuteki	きゅうきょくてき	究極的	 ultimate
 18513	15080	kyouikukatei	きょういくかてい	教育課程	 curriculum
 18513	15081	kyotai	きょたい	巨体	 huge body, large build
-18513	15082	kinpakusuru	きんぱくする	緊迫する	
+18513	15082	kinpaku	きんぱく	緊迫	 tension, strain
 18513	15083	kekkongo	けっこんご	結婚後	
 18513	15084	genpatsu	げんぱつ	原発	nuclear power plant, nuclear power generation | primary (e.g. primary immunodeficiency syndrome)
 18513	15085	kouchoukai	こうちょうかい	公聴会	 public hearing
-18513	15086	kouchousuru	こうちょうする	紅潮する	
+18513	15086	kouchou	こうちょう	紅潮	 flush, blush
 18513	15087	kodomora	こどもら	子供等	
 18513	15088	konwaku	こんわく	困惑	 bewilderment, perplexity, embarrassment, discomfiture, bafflement
 18513	15089	sakugo	さくご	錯誤	mistake, error, discrepancy | discrepancy between one's actions and intentions
@@ -93,8 +93,8 @@
 18513	15093	suushuukan	すうしゅうかん	数週間	 several weeks, a few weeks
 18513	15094	sujigaki	すじがき	筋書き	 synopsis, outline, plot
 18513	15095	seiyuu	せいゆう	声優	 voice actor or actress (radio, animation, etc.)
-18513	15096	zenmetsusuru	ぜんめつする	全滅する	
-18513	15097	sokuousuru	そくおうする	即応する	
+18513	15096	zenmetsu	ぜんめつ	全滅	 annihilation, total destruction, complete destruction, crushing defeat
+18513	15097	sokuou	そくおう	即応	compliance, conformance, adaptation | (immediate) response, (rapid) reaction
 18513	15098	sokuryou	そくりょう	測量	 measurement, surveying
 18513	15099	sochi	そち	其方	that way, that direction | there | that (one) | you, your family, your company | that person
 18513	15100	taigai	たいがい	大概	generally, mainly, usually, normally, mostly, for the most part | nearly all, almost all, most | gist, summary, outline, main idea | staying within bounds, not overdoing (something), not getting carried away, not going too far, being moderate | probably, perhaps, in all likelihood | considerably, greatly, really

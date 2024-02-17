@@ -19,7 +19,7 @@
 26322	21319	ogibosan	おぎぼさん	御義母さん	
 26322	21320	osanago	おさなご	幼子	 infant, baby, little child
 26322	21321	kaiseigo	かいせいご	改正後	
-26322	21322	kaosuru	かおする	顔する	
+26322	21322	kao	かお	顔	face, visage | look, expression, countenance | honor, honour, face | influence, notoriety, かんばせ (顔) countenance, visage | face, honor (honour), dignity
 26322	21323	kakei	かけい	花茎	 stem of flower
 26322	21324	kateisaien	かていさいえん	家庭菜園	 kitchen garden
 26322	21325	karei	かれい	鰈	 righteye flounder (any fish of family Pleuronectidae)
@@ -36,7 +36,7 @@
 26322	21336	kokunaiteki	こくないてき	国内的	 internal (to a country), interior, home, national, domestic
 26322	21337	gou	ごう	壕	moat, fosse | canal, ditch, ごう (壕) moat, fosse, trench, ditch | underground air-raid shelter, dugout
 26322	21338	saien	さいえん	菜園	 vegetable garden
-26322	21339	saikouseisuru	さいこうせいする	再構成する	
+26322	21339	saikousei	さいこうせい	再構成	 reconstruction, reorganization, reorganisation, reconstitution, reconfiguration
 26322	21340	saiban'in	さいばんいん	裁判員	 lay judge (2005 reforms), citizen judge, juror
 26322	21341	sakedo	さけど	酒度	
 26322	21342	sanpiryouron	さんぴりょうろん	賛否両論	 arguments for and against, pros and cons, mixed reception, mixed reviews
@@ -60,15 +60,15 @@
 26322	21360	seigan	せいがん	請願	 petition
 26322	21361	seijaku	せいじゃく	静寂	 silence, stillness, quietness
 26322	21362	sengan	せんがん	洗顔	 face-washing
-26322	21363	sogaisuru	そがいする	疎外する	
+26322	21363	sogai	そがい	疎外	estrangement, neglect, alienation | casting out, ostracism, giving the cold shoulder
 26322	21364	tanisoko	たにそこ	谷底	 valley floor, bottom of a gorge, bottom of a ravine
-26322	21365	daitaisuru	だいたいする	代替する	
+26322	21365	daitai	だいたい	代替	substitution, alternation | alternative, substitute, だいがわり (代替わり) taking over (e.g. store or family's headship) | subrogation, substitution of one person for another (usu. a creditor)
 26322	21366	chibashiru	ちばしる	血走る	 to become bloodshot
-26322	21367	chuukeisuru	ちゅうけいする	中継する	
+26322	21367	chuukei	ちゅうけい	中継	relay, hook-up | relay broadcasting, なかつぎ (中継ぎ) joining, joint | intermediation, acting as an intermediary | relaying, taking over | middle relief pitcher, middle reliever | pole-shaped item with a join in the middle | tea container with a lid that is the same size as the body
 26322	21368	chuuseiko	ちゅうせいこ	中性子	 neutron
 26322	21369	chuubu	ちゅうぶ	中部	center, centre, middle, heart | Chūbu region (incl. Aichi, Nagano, Shizuoka, Niigata, Toyama, Ishikawa, Fukui, Yamanashi and Gifu prefectures)
 26322	21370	chirakasu	ちらかす	散らかす	 to scatter around, to leave untidy
-26322	21371	chin'atsusuru	ちんあつする	鎮圧する	
+26322	21371	chin'atsu	ちんあつ	鎮圧	 suppression, subjugation
 26322	21372	tensaiteki	てんさいてき	天才的	 talented, gifted, prodigious, virtuoso, masterful
 26322	21373	tenmei	てんめい	天明	dawn, daybreak | Tenmei era (1781.4.2-1789.1.25)
 26322	21374	toode	とおで	遠出	 trip, excursion, outing
@@ -89,8 +89,8 @@
 26322	21389	banchi	ばんち	番地	 house number, address
 26322	21390	hikarugenji	ひかるげんじ	光源氏	
 26322	21391	hishinjin	ひしんじん	被審人	
-26322	21392	hijunsuru	ひじゅんする	批准する	
-26322	21393	hiheisuru	ひへいする	疲弊する	
+26322	21392	hijun	ひじゅん	批准	 ratification
+26322	21393	hihei	ひへい	疲弊	exhaustion, fatigue | impoverishment, (financial) exhaustion, ruin
 26322	21394	hiru	ひる	干る	 to dry
 26322	21395	fukuyoka	ふくよか	膨よか	plump, fleshy, well-rounded, full | pleasant (fragrance), rich
 26322	21396	bu	ぶ	無	nothing, naught, nought, nil, zero | un-, non-, ぶ (無) un-, non- | bad ..., poor ...

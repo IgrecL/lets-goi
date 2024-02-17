@@ -3,8 +3,8 @@
 16127	13203	shinyoukumiai	しんようくみあい	信用組合	 credit association
 16127	13204	jo	じょ	序	opportunity, occasion, chance | order, sequence | successor, じょ (序) order, ordering | beginning, start | foreword, preface, introduction | opening of a song (in gagaku or noh)
 16127	13205	sekkin	せっきん	接近	getting closer, drawing nearer, approaching | being not much different, being near (age, skill, etc.) | becoming close (i.e. friendly), becoming intimate
-16127	13206	taikutsusuru	たいくつする	退屈する	
-16127	13207	chuushasuru	ちゅうしゃする	駐車する	
+16127	13206	taikutsu	たいくつ	退屈	tedium, boredom, dullness | to feel bored, to get bored with, to get tired of
+16127	13207	chuusha	ちゅうしゃ	駐車	 parking (e.g. car)
 16127	13208	chuuzetsu	ちゅうぜつ	中絶	abortion | to be interrupted, to be discontinued, to be suspended, to fall into abeyance
 16127	13209	dokusen	どくせん	独占	monopoly, monopolization, exclusivity | hogging, keeping to oneself
 16127	13210	nokkaru	のっかる	乗っかる	 to get on, to climb on
@@ -19,7 +19,7 @@
 16127	13219	yomihajimeru	よみはじめる	読み始める	
 16127	13220	ryokougaisha	りょこうがいしゃ	旅行会社	 travel agent, travel agency
 16127	13221	rengou	れんごう	連合	union, alliance, combination | RENGO (Japanese Trade Union Confederation)
-16127	13222	roteisuru	ろていする	露呈する	
+16127	13222	rotei	ろてい	露呈	 exposure, disclosure
 16190	13223	asayuu	あさゆう	朝夕	morning and evening | from morning until night, constantly
 16190	13224	atatakami	あたたかみ	温かみ	 warmth
 16190	13225	amado	あまど	雨戸	 sliding storm shutter
@@ -42,7 +42,7 @@
 16190	13242	sanzan	さんざん	散々	thoroughly, completely, utterly | severely, harshly, terribly, miserably, wretchedly, badly | scattered, disconnected, dispersed, smashed into tiny pieces
 16190	13243	sanmyaku	さんみゃく	山脈	 mountain range, mountain belt, さんみゃく (山脈)  mountain range, mountain belt
 16190	13244	shuukyuu	しゅうきゅう	週休	 weekly holiday
-16190	13245	shoushinsuru	しょうしんする	昇進する	
+16190	13245	shoushin	しょうしん	昇進	 promotion, advancement, rising in rank
 16190	13246	juuichizu	じゅういちず	十一図	
 16190	13247	juusuunen	じゅうすうねん	十数年	
 16190	13248	seiritsuu	せいりつう	生理痛	 menstrual pain, period pain
@@ -51,11 +51,11 @@
 16190	13251	taiko	たいこ	太古	 ancient times
 16190	13252	chousensensou	ちょうせんせんそう	朝鮮戦争	 Korean War (1950-1953)
 16190	13253	tsukitsumeru	つきつめる	突き詰める	to investigate thoroughly, to examine closely, to probe into, to get to the bottom of | to be obsessed with a thought, to brood over, to worry about
-16190	13254	tekitaisuru	てきたいする	敵対する	
-16190	13255	tekkyosuru	てっきょする	撤去する	
+16190	13254	tekitai	てきたい	敵対	 hostility, antagonism, opposition
+16190	13255	tekkyo	てっきょ	撤去	withdrawal, revocation, repeal | demolition, removal
 16190	13256	tou	とう	糖	 sugar
 16190	13257	touka	とうか	灯火	 light, lamp, torch, あかり (明かり) light, illumination, glow, gleam | lamp, light
-16190	13258	hinsuru	ひんする	瀕する	 to be on the verge of, to be about to, to be on the point of
+16190	13258	hin	ひん	瀕	
 16190	13259	heri	へり	縁	 connection (to a person, place, etc.), relation, affinity, えん (縁) fate, destiny (esp. as a mysterious force that binds two people together) | relationship (e.g. between two people), bond, link, connection | family ties, affinity | opportunity, chance (to meet someone and start a relationship) | pratyaya (indirect conditions, as opposed to direct causes) | narrow open-air veranda, ふち (縁)  rim, brim, edge, brink, よし (由) reason, significance, cause | piece of information that one has heard, I hear that ..., it is said that ..., よすが (縁) something to rely on, aid, clue, way, means | someone to rely on, relative | reminder, memento, へり (縁) edge (of a river, woods, etc.), shoulder (of a road) | rim, brim, hem, margin, fringe, selvage | fabric border (of a tatami mat, etc.), edging
 16190	13260	hokorobu	ほころぶ	綻ぶ	to begin to open, to come out | to smile broadly | to come apart at the seams (clothes)
 16190	13261	motsureru	もつれる	縺れる	to get entangled, to get tangled, to tangle | to have poor control over (one's tongue, feet, etc.), to trip over | to become complicated
@@ -78,7 +78,7 @@
 16243	13278	kiketsu	きけつ	帰結	 consequence, result, conclusion
 16243	13279	kimigayo	きみがよ	君が代	Imperial reign | Kimigayo (Japanese national anthem)
 16243	13280	gimukyouiku	ぎむきょういく	義務教育	 compulsory education
-16243	13281	gekitotsusuru	げきとつする	激突する	
+16243	13281	gekitotsu	げきとつ	激突	 crash into, clash
 16243	13282	genkyuu	げんきゅう	言及	 reference, allusion
 16243	13283	genyukakaku	げんゆかかく	原油価格	 crude oil price
 16243	13284	genryuu	げんりゅう	源流	source (e.g. of a river), headwaters | origin of something continuous (language, culture, etc.)

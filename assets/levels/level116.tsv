@@ -9,7 +9,7 @@
 14035	11509	zasetsu	ざせつ	挫折	 setback, failure (e.g. plans, business), frustration, discouragement
 14035	11510	shikitari	しきたり	仕来り	 custom, convention, tradition, mores, conventional practice
 14035	11511	shuutoku	しゅうとく	習得	 learning, acquisition (of a skill, knowledge, etc.)
-14035	11512	suisatsusuru	すいさつする	推察する	
+14035	11512	suisatsu	すいさつ	推察	 guess, conjecture, surmise
 14035	11513	teitaku	ていたく	邸宅	 mansion, residence
 14035	11514	naoseru	なおせる	直せる	
 14035	11515	natsuku	なつく	懐く	 to become attached (to), to take (to), to become affectionate (with), to be tamed, いだく (抱く) to hold in one's arms (e.g. a baby), to embrace, to hug | to have (a thought or feeling), to hold, to harbour (suspicion, doubt, etc.), to harbor, to bear (a grudge, ill will, etc.), to entertain (hope, illusions, etc.), to cherish (e.g. an ambition), うだく (抱く)  to hold in one's arms (e.g. a baby), to embrace, to hug
@@ -20,7 +20,7 @@
 14035	11520	hishatai	ひしゃたい	被写体	 (photographic) subject
 14035	11521	hito	ひと	一	one | best | first, foremost | beginning, start | a (single), one (of many) | ace (playing card) | bottom string (on a shamisen, etc.), ひとつ (一つ) one | for one thing | only | (not) even | just (e.g. "just try it") | some kind of, one type of, イー (一)  one, いっち (一)  most, best, ひと (一) one | one, いつ (一) one | same (mind, path, etc.)
 14035	11522	hirakeru	ひらける	開ける	to open (a door, etc.), to unwrap (e.g. parcel, package), to unlock | to open (for business, etc.) | to empty, to remove, to make space, to make room | to move out, to clear out | to be away from (e.g. one's house), to leave (temporarily) | to dawn, to grow light | to end (of a period, season) | to begin (of the New Year) | to leave (one's schedule) open, to make time (for) | to make (a hole), to open up (a hole), ひらける (開ける) to open out (of a view, scenery, etc.), to spread out, to become clear (of a road, visibility, etc.), to open up | to improve (of luck, prospects, etc.), to get better | to develop (of a town, civilization, etc.), to become civilized, to modernize, to grow, to advance (of knowledge, ideas, etc.) | to be sensible, to be understanding, to be enlightened | to open (of a new road, railway, etc.), to be opened to traffic | to become populous, to become densely built, to become bustling, はだける (開ける) to open (e.g. one's robe), to bare (e.g. one's chest), to expose | to open up (of clothing), to be exposed | to open wide (one's legs, eyes, mouth, etc.), to stretch
-14035	11523	bosshuusuru	ぼっしゅうする	没収する	
+14035	11523	bosshuu	ぼっしゅう	没収	 forfeiture, seizure, confiscation, impounding
 14035	11524	ryou	りょう	漁	fishing, gathering seafood (e.g. clams, seaweed) | catch (e.g. of fish), haul, すなどり (漁り) fishing, collecting shells | fisherman
 14069	11525	anzentaisaku	あんぜんたいさく	安全対策	 safety measure
 14069	11526	ikidoori	いきどおり	憤り	 resentment, indignation, anger
@@ -36,7 +36,7 @@
 14069	11536	shousei	しょうせい	小生	 I, me, my humble self
 14069	11537	jijo	じじょ	侍女	 lady attendant, lady's maid, waiting maid
 14069	11538	segare	せがれ	倅	son | punk, brat | penis
-14069	11539	senkokusuru	せんこくする	宣告する	
+14069	11539	senkoku	せんこく	宣告	 sentence, verdict, pronouncement
 14069	11540	soukan	そうかん	相関	 correlation, interrelation
 14069	11541	chiheisen	ちへいせん	地平線	 horizon (related to land)
 14069	11542	tsutome	つとめ	勤め	service, duty, business, responsibility, task | Buddhist religious services
@@ -45,11 +45,11 @@
 14069	11545	nagasakiken	ながさきけん	長崎県	 Nagasaki prefecture (Kyushu)
 14069	11546	nesoberu	ねそべる	寝そべる	 to sprawl, to lie sprawled, to stretch oneself out, to lie relaxed on one's side
 14069	11547	haguruma	はぐるま	歯車	 gear, cogwheel
-14069	11548	han'eisuru	はんえいする	繁栄する	
+14069	11548	han'ei	はんえい	繁栄	 prosperity, thriving, flourishing
 14069	11549	baba	ばば	馬場	 horse-riding ground
 14069	11550	hinode	ひので	日の出	 sunrise
 14069	11551	funmatsu	ふんまつ	粉末	 fine powder
-14069	11552	hokansuru	ほかんする	補完する	
+14069	11552	hokan	ほかん	補完	 complementation, supplementation, completion
 14069	11553	matsubi	まつび	末尾	 end (e.g. of report, document, paragraph, etc.)
 14069	11554	mangaichi	まんがいち	万が一	(if) by some chance, by some possibility, in the unlikely event that, 10000 to 1 | (unlikely event of) emergency, the worst(-case scenario)
 14069	11555	yosooi	よそおい	装い	 dress, outfit, equipment, makeup, adornment, guise, get-up
@@ -71,7 +71,7 @@
 14117	11571	shuuchuudekiru	しゅうちゅうできる	集中出来る	
 14117	11572	susumideru	すすみでる	進み出る	 to step forward, to volunteer
 14117	11573	suburi	すぶり	素振り	 behavior, behaviour, manner, attitude, bearing, すぶり (素振り)  practice-swinging (sword, bat, tennis racket, etc.)
-14117	11574	zetsumetsusuru	ぜつめつする	絶滅する	
+14117	11574	zetsumetsu	ぜつめつ	絶滅	extinction, extermination | eradication, stamping out, wiping out
 14117	11575	zenryou	ぜんりょう	善良	 goodness, excellence, virtue
 14117	11576	sori	そり	橇	 sleigh, sled, sledge, かんじき (橇)  snowshoes
 14117	11577	tashinameru	たしなめる	窘める	 to chide, to rebuke, to reprove

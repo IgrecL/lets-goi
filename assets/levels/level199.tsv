@@ -1,4 +1,4 @@
-24369	19801	shissuru	しっする	失する	 to lose, to miss, to forget, to be excessive
+24369	19801	shitsu	しっ	失	loss (of something), disadvantage | mistake, error, failure | flaw, defect | error
 24369	19802	shamintou	しゃみんとう	社民党	 Social Democratic Party
 24369	19803	shutchousho	しゅっちょうしょ	出張所	 branch office, agency, sub-branch
 24369	19804	shokurin	しょくりん	植林	 afforestation
@@ -8,7 +8,7 @@
 24369	19808	jisatsusha	じさつしゃ	自殺者	 person who has committed suicide
 24369	19809	jizoku	じぞく	持続	 continuation, persisting, lasting, sustaining, enduring
 24369	19810	juuyoudo	じゅうようど	重要度	 importance, priority
-24369	19811	jousensuru	じょうせんする	乗船する	
+24369	19811	jousen	じょうせん	乗船	embarking (a ship), embarkation, boarding | ship (carrying someone)
 24369	19812	jounai	じょうない	場内	 in-house, (on) the grounds, (in) the premises, hall, theatre, theater
 24369	19813	seiho	せいほ	生保	life insurance | livelihood protection, public assistance, welfare
 24369	19814	seiryoku	せいりょく	精力	 energy, vigor, vigour, vitality
@@ -20,17 +20,17 @@
 24369	19820	sonbun	そんぶん	孫文	
 24369	19821	zoukatou	ぞうかとう	増加等	
 24369	19822	tarai	たらい	盥	 tub, washbasin, washbowl
-24369	19823	tanjunkasuru	たんじゅんかする	単純化する	
+24369	19823	tanjunka	たんじゅんか	単純化	 simplification
 24369	19824	tanteishousetsu	たんていしょうせつ	探偵小説	 detective story
 24369	19825	daiichigouhihokensha	だいいちごうひほけんしゃ	第一号被保険者	
 24369	19826	daiokishinrui	だいおきしんるい	ダイオキシン類	
 24369	19827	chousadan	ちょうさだん	調査団	 inquiry commission, enquiry commission, research group
-24369	19828	chouhatsusuru	ちょうはつする	挑発する	
+24369	19828	chouhatsu	ちょうはつ	挑発	 provocation, stirring up, arousal, excitement, stimulation
 24369	19829	tsumini	つみに	積み荷	 load, freight, cargo
 24369	19830	tensei	てんせい	天性	 nature, natural constitution, innate disposition
 24369	19831	tenyou	てんよう	転用	 diversion, putting something to another use
 24369	19832	douin	どういん	動員	 mobilization, mobilisation
-24369	19833	douteisuru	どうていする	同定する	
+24369	19833	doutei	どうてい	同定	 identification
 24369	19834	nakigara	なきがら	亡骸	 remains, corpse, (dead) body
 24369	19835	natsukashimu	なつかしむ	懐かしむ	 to yearn for (someone, something), to miss
 24369	19836	nanbyakunen	なんびゃくねん	何百年	
@@ -46,11 +46,11 @@
 24369	19846	hitogaki	ひとがき	人垣	 wall of people, crowd of people lined up (e.g. spectators), throng of people
 24369	19847	hitoshio	ひとしお	一入	 still more, especially
 24369	19848	hitodakari	ひとだかり	人だかり	 crowd, throng
-24369	19849	hiyakusuru	ひやくする	飛躍する	
+24369	19849	hiyaku	ひやく	飛躍	leaping, activity | leapfrog (over a problem), making a leap (e.g. in logic) | making great strides, making rapid progress | emerging | becoming active, playing an active part
 24369	19850	fuufuseikatsu	ふうふせいかつ	夫婦生活	 married life
 24369	19851	futanwariai	ふたんわりあい	負担割合	
-24369	19852	funsaisuru	ふんさいする	粉砕する	
-24369	19853	bunbetsusuru	ぶんべつする	分別する	
+24369	19852	funsai	ふんさい	粉砕	 pulverization, pulverisation, smashing, demolishing
+24369	19853	bunbetsu	ぶんべつ	分別	 discretion, prudence, good sense, judgement, judgment, wisdom, discernment, ぶんべつ (分別)  separation (e.g. of rubbish when recycling), classification, discrimination, division, distinction
 24369	19854	beiso	べいそ	米ソ	 American-Soviet
 24369	19855	houzuru	ほうずる	奉ずる	to present, to dedicate | to obey, to follow, to believe in, to serve | to proudly bear
 24369	19856	hoppeta	ほっぺた	頬っぺた	 cheek
@@ -70,7 +70,7 @@
 24503	19870	atsume	あつめ	厚め	 thick (esp. paper, cloth)
 24503	19871	arekuruu	あれくるう	荒れ狂う	to rampage, to run wild, to go berserk, to run amok | to be violent (waves, wind, etc.), to be rough
 24503	19872	ikinokoreru	いきのこれる	生き残れる	
-24503	19873	isousuru	いそうする	移送する	
+24503	19873	isou	いそう	移送	 transfer, transport, removal
 24503	19874	ichimokusan	いちもくさん	一目散	 running at full speed, going as fast as one can go
 24503	19875	ippankikai	いっぱんきかい	一般機械	 general instrumentation
 24503	19876	ippanshouhisha	いっぱんしょうひしゃ	一般消費者	
@@ -89,11 +89,11 @@
 24503	19889	kikan	きかん	気管	 trachea
 24503	19890	kiso	きそ	起訴	 prosecution, indictment
 24503	19891	kyou	きょう	経	the vertical, height | front-to-back, length | north-to-south | vertical (relationship), hierarchy | (weaving) warp, たていと (縦糸)  (weaving) warp, きょう (経)  sutra, Buddhist scriptures, ふ (経) to pass, to elapse, to go by | to pass through, to go through | to experience, to go through, けい (経) warp (weaving) | longitude | scripture, sutra | trans-
-24503	19892	kyoutansuru	きょうたんする	驚嘆する	
+24503	19892	kyoutan	きょうたん	驚嘆	 wonder, admiration, being struck with admiration
 24503	19893	kyouryokutaisei	きょうりょくたいせい	協力体制	
 24503	19894	girishiajin	ぎりしあじん	ギリシア人	 Greek (person)
 24503	19895	keijijougaku	けいじじょうがく	形而上学	 metaphysics
-24503	19896	kekkousuru	けっこうする	決行する	
+24503	19896	kekkou	けっこう	決行	 doing (with resolve), carrying out (e.g. a plan)
 24503	19897	kensakuenjin	けんさくえんじん	検索エンジン	 search engine
 24503	19898	koinobori	こいのぼり	鯉幟	 carp streamer, carp banner
 24503	19899	kougaikujou	こうがいくじょう	公害苦情	

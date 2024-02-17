@@ -2,8 +2,8 @@
 12806	10502	shinrui	しんるい	親類	 relative, relation, kin
 12806	10503	jikai	じかい	次回	 next time (occasion)
 12806	10504	jinjou	じんじょう	尋常	 common, usual
-12806	10505	sousuru	そうする	奏する	to report to the Emperor | to play (musical instrument) | to accomplish
-12806	10506	sonsuru	そんする	損する	to lose (money, etc.) | to waste one's (time, etc.), to have one's efforts come to naught
+12806	10505	sou	そう	奏	 report to the emperor
+12806	10506	son	そん	損	loss, damage, harm, unprofitable | disadvantage, handicap, drawback, unfavorable
 12806	10507	dai	だい	題	title, subject, theme, topic | problem (on a test), question | counter for questions (on a test)
 12806	10508	dashiau	だしあう	出し合う	 to contribute jointly
 12806	10509	chichuukai	ちちゅうかい	地中海	Mediterranean Sea | Mediterranean sea (oceanography)
@@ -20,7 +20,7 @@
 12806	10520	masu	ます	鱒	 trout, sea trout
 12806	10521	mito	みと	水戸	 Mito (city in Ibaraki)
 12806	10522	mubou	むぼう	無謀	 reckless, thoughtless, rash, ill-advised, impulsive, mad (e.g. scheme)
-12806	10523	yudansuru	ゆだんする	油断する	
+12806	10523	yudan	ゆだん	油断	 negligence, carelessness, inattention, unpreparedness
 12806	10524	yurushi	ゆるし	許し	 pardon, forgiveness, exemption, permission, ばかし (許し) approximately, about | only, nothing but | just (finished, etc.)
 12806	10525	ranyou	らんよう	乱用	 abuse, misuse, misappropriation, using to excess
 12806	10526	washi	わし	鷲	 eagle (Accipitridae family)
@@ -29,14 +29,14 @@
 12849	10529	ikigurushii	いきぐるしい	息苦しい	choking, suffocating, stifling | oppressive, heavy
 12849	10530	urotsuku	うろつく	彷徨く	to loiter, to putter, to prowl, to wander aimlessly, to knock around, to hang around | to be confused from not knowing what to do
 12849	10531	kanpouyaku	かんぽうやく	漢方薬	 Chinese herbal medicine
-12849	10532	kyouzonsuru	きょうぞんする	共存する	
+12849	10532	kyouzon	きょうぞん	共存	 coexistence
 12849	10533	gijutsuryoku	ぎじゅつりょく	技術力	technical prowess, technical ability, technical finesse | technological prowess, technological capabilities
-12849	10534	kenkyosuru	けんきょする	検挙する	
+12849	10534	kenkyo	けんきょ	検挙	 arrest, roundup
 12849	10535	koueki	こうえき	交易	 trade, commerce
 12849	10536	kotei	こてい	固定	fixing (in place), being fixed (in place), securing, anchoring, fastening down | fixing (e.g. salary, capital), keeping the same | fixation (histology) | user name (on an online forum like 2ch where the majority of users post anonymously) | user of an online handle (instead of posting anonymously)
 12849	10537	gouu	ごうう	豪雨	 torrential rain, heavy rain, cloudburst, downpour
 12849	10538	saishuushoku	さいしゅうしょく	再就職	 reemployment
-12849	10539	sankakusuru	さんかくする	参画する	
+12849	10539	sankaku	さんかく	参画	 taking part (in planning), participation
 12849	10540	shakaisei	しゃかいせい	社会性	 sociality
 12849	10541	shinkeisaibou	しんけいさいぼう	神経細胞	 nerve cell, neuron
 12849	10542	danjobetsu	だんじょべつ	男女別	 by gender, according to gender, gender-segregated
@@ -45,8 +45,8 @@
 12849	10545	ninchi	にんち	認知	 acknowledgement, acknowledgment, recognition, cognition
 12849	10546	nousotchuu	のうそっちゅう	脳卒中	 stroke, cerebral haemorrhage, cerebral hemorrhage
 12849	10547	nobinobi	のびのび	伸び伸び	comfortably, peacefully, with one's mind at ease, calmly, without worries | (growing) quickly
-12849	10548	haibisuru	はいびする	配備する	
-12849	10549	hatchuusuru	はっちゅうする	発注する	
+12849	10548	haibi	はいび	配備	 deployment, disposition, posting, stationing
+12849	10549	hatchuu	はっちゅう	発注	 ordering (materials), placing an order, order
 12849	10550	hiruyasumi	ひるやすみ	昼休み	 lunch break, noon recess, noon rest period
 12849	10551	buzoku	ぶぞく	部族	 tribe, clan, house
 12849	10552	hoshuteki	ほしゅてき	保守的	 conservative
@@ -58,10 +58,10 @@
 12882	10558	iroke	いろけ	色気	colouring, coloring, shade of colour (color) | sex appeal (esp. of women), sexiness, sexual allure, seductiveness | interest in the opposite sex, sexual feelings, sexual urge | charm, elegance, romance, graciousness | feminine presence | desire, interest, ambition, inclination
 12882	10559	okosama	おこさま	御子様	(someone else's) child | child, kid
 12882	10560	karadatsuki	からだつき	体付き	 body build, figure
-12882	10561	koufukusuru	こうふくする	降伏する	
+12882	10561	koufuku	こうふく	降伏	capitulation, surrender, submission | yield
 12882	10562	koteishisan	こていしさん	固定資産	 fixed assets
 12882	10563	gohonnin	ごほんにん	御本人	
-12882	10564	shuuchakusuru	しゅうちゃくする	執着する	
+12882	10564	shuuchaku	しゅうちゃく	執着	 attachment, adhesion, tenacity, fixation, obsession
 12882	10565	shousuuha	しょうすうは	少数派	 minority group (party), minority
 12882	10566	shiyouryou	しようりょう	使用料	 use fee, rent
 12882	10567	nakayama	なかやま	中山	
@@ -70,7 +70,7 @@
 12882	10570	mikon	みこん	未婚	 unmarried, not yet married
 12882	10571	musaboru	むさぼる	貪る	to covet, to crave, to lust insatiably for | to indulge in, to devour greedily
 12882	10572	yamaoku	やまおく	山奥	 deep in the mountains, mountain recesses
-12882	10573	youseisuru	ようせいする	養成する	
+12882	10573	yousei	ようせい	養成	 training, education, development, cultivation
 12882	10574	rikuchi	りくち	陸地	 land
 12904	10575	aishiau	あいしあう	愛し合う	to love one another, to be affectionate towards each other | to have sex, to make love
 12904	10576	irie	いりえ	入り江	 inlet, cove, creek, bay
@@ -81,7 +81,7 @@
 12904	10581	kanmei	かんめい	感銘	 deep impression
 12904	10582	gairo	がいろ	街路	 road, street, avenue
 12904	10583	kimekomakai	きめこまかい	木目細かい	smooth | meticulous, painstaking, detailed
-12904	10584	kyoukansuru	きょうかんする	共感する	
+12904	10584	kyoukan	きょうかん	共感	 sympathy, empathy, response
 12904	10585	kui	くい	杭	stake, post, pile, picket | stump, くいぜ (株)  stump
 12904	10586	gutairei	ぐたいれい	具体例	 concrete example
 12904	10587	koutou	こうとう	口頭	 oral, verbal, spoken, parol
@@ -93,8 +93,8 @@
 12904	10593	saishuu	さいしゅう	最終	 last, final, closing
 12904	10594	jikkagetsu	じっかげつ	十箇月	
 12904	10595	jakunensou	じゃくねんそう	若年層	 the young
-12904	10596	jukousuru	じゅこうする	受講する	
+12904	10596	jukou	じゅこう	受講	 taking a lecture, attending a class, taking a course
 12904	10597	jutsugo	じゅつご	術後	 postoperative, after surgery
-12904	10598	junshusuru	じゅんしゅする	順守する	
+12904	10598	junshu	じゅんしゅ	順守	 observance (of laws, rules, etc.), adherence, obeying, following, abiding by, compliance
 12904	10599	suitai	すいたい	衰退	 decline, degeneration, decay, waning, ebbing
 12904	10600	suppai	すっぱい	酸っぱい	 sour, acid

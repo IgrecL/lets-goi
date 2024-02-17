@@ -9,7 +9,7 @@
 49563	39509	fukyuu	ふきゅう	不朽	 everlasting, immortal, eternal, enduring, undying, imperishable
 49563	39510	fukyuushihajimeru	ふきゅうしはじめる	普及し始める	
 49563	39511	fukushoku	ふくしょく	副食	 side dish, supplementary food
-49563	39512	fukusuru	ふくする	復する	 to return to normal, to recover, to restore
+49563	39512	fuku	ふく	復	again, once more, once again, another time, some other time | also, too, as well, likewise | on the other hand, while | and, in addition, besides, moreover, furthermore | or, otherwise | really, how, (what, why) on earth | indirect
 49563	39513	fukokukyouhei	ふこくきょうへい	富国強兵	 enrich the country, strengthen the army (Meiji era government slogan)
 49563	39514	fukkatsudekiru	ふっかつできる	復活出来る	
 49563	39515	fuhyou	ふひょう	不評	 bad reputation, disgrace, unpopularity
@@ -35,7 +35,7 @@
 49563	39535	hojohitou	ほじょひとう	補助費等	
 49563	39536	hozentou	ほぜんとう	保全等	
 49563	39537	hotai	ほたい	補体	 complement (blood proteins)
-49563	39538	horeboresuru	ほれぼれする	惚れ惚れする	
+49563	39538	horebore	ほれぼれ	惚れ惚れ	 fondly, admiringly, with fascination, with adoration, with enchantment
 49563	39539	boukoku	ぼうこく	亡国	 ruined country
 49563	39540	boka	ぼか	簿価	 book value
 49563	39541	bokutou	ぼくとう	僕等	 we
@@ -44,7 +44,7 @@
 49563	39544	machiai	まちあい	待ち合い	rendezvous, meeting, assignation | area where guests gather before the start of a tea ceremony | waiting room | meeting place for assignations, drinking, etc.
 49563	39545	machinasaru	まちなさる	待ち為さる	
 49563	39546	massara	まっさら	真っさら	 brand new, fresh
-49563	39547	mamousuru	まもうする	摩耗する	
+49563	39547	mamou	まもう	摩耗	 wear, abrasion
 49563	39548	manjouitchi	まんじょういっち	満場一致	 unanimity
 49563	39549	manmarui	まんまるい	真ん丸い	 perfectly round, perfectly circular
 49563	39550	mie	みえ	見え	 airs, pretensions, show, ostentation, display, appearance, vanity, charm
@@ -60,7 +60,7 @@
 49563	39560	mutenka	むてんか	無添加	 additive-free
 49563	39561	muryoku	むりょく	無力	 powerlessness, helplessness, incompetent
 49563	39562	meijijinguu	めいじじんぐう	明治神宮	 Meiji Shrine
-49563	39563	moushikomisuru	もうしこみする	申し込みする	
+49563	39563	moushikomi	もうしこみ	申し込み	 application, entry, request, subscription, offer, proposal, overture, challenge
 49563	39564	moe	もえ	萌絵	
 49563	39565	mokudou	もくどう	木道	 boardwalk (e.g. over marshy ground), wooden causeway
 49563	39566	moji	もじ	門司	
@@ -77,10 +77,10 @@
 49563	39577	yuuseijigyou	ゆうせいじぎょう	郵政事業	
 49563	39578	yuumeidaigaku	ゆうめいだいがく	有名大学	
 49563	39579	yushutsukakaku	ゆしゅつかかく	輸出価格	
-49563	39580	yuchakusuru	ゆちゃくする	癒着する	
+49563	39580	yuchaku	ゆちゃく	癒着	adhesion, conglutination | collusion, collusive relationship
 49563	39581	yunyuuseigen	ゆにゅうせいげん	輸入制限	 import restrictions
 49563	39582	youen	ようえん	妖艶	 fascinating, voluptuous, bewitching, captivating
-49563	39583	youshasuru	ようしゃする	容赦する	
+49563	39583	yousha	ようしゃ	容赦	pardon, forgiveness, tolerance, overlooking | leniency, mercy, going easy (on someone)
 49563	39584	yousukou	ようすこう	揚子江	 Yangtze River (in China)
 49563	39585	yousumi	ようすみ	様子見	 wait-and-see (situation, stance, etc.), waiting to see (how things play out), watching developments (before acting)
 49563	39586	yoshinogawa	よしのがわ	吉野川	
@@ -89,9 +89,9 @@
 49563	39589	yosouji	よそうじ	余荘児	
 49563	39590	yonetsu	よねつ	余熱	 waste heat, remaining heat
 49563	39591	yowashi	よわし	弱し	
-49563	39592	ranbousuru	らんぼうする	乱暴する	
+49563	39592	ranbou	らんぼう	乱暴	violence, assault, running riot | rough (e.g. handling), reckless, careless, coarse, rude, unreasonable (e.g. demand), wild (e.g. argument) | rape, sexual assault
 49563	39593	ranma	らんま	欄間	 (in Japanese architecture) transom
-49563	39594	ranritsusuru	らんりつする	乱立する	
+49563	39594	ranritsu	らんりつ	乱立	standing together in a disorderly fashion, standing close around, crowding together | flooding in (applicants, election candidates, etc.)
 49563	39595	rie	りえ	梨絵	
 49563	39596	rikiouzan	りきおうざん	力王山	
 49563	39597	rijisuu	りじすう	理事数	

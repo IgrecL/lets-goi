@@ -11,10 +11,10 @@ void _launchURL(String url) async {
 }
 
 
-class AnkiAdd extends StatelessWidget {
+class Definitions extends StatelessWidget {
   final int level;
   final List<int> wrongIds;
-  AnkiAdd({required this.level, required this.wrongIds});
+  Definitions({required this.level, required this.wrongIds});
 
   Future<String> readFile() async {
     try {

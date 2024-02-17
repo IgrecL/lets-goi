@@ -21,8 +21,8 @@
 2169	1821	shiji	しじ	指示	indication, denotation, designation | instructions, directions
 2169	1822	dokuji	どくじ	独自	original, unique, distinctive, characteristic, peculiar | independent, one's own, personal
 2172	1823	danjo	だんじょ	男女	 men and women, man and woman, both sexes, both genders, おとこおんな (男女) masculine woman, mannish woman | feminine man, effeminate man | intersexual, hermaphrodite
-2174	1824	daihyousuru	だいひょうする	代表する	
-2177	1825	kirokusuru	きろくする	記録する	
+2174	1824	daihyou	だいひょう	代表	representative, representation, delegation, type, example, model | switchboard number, main number
+2177	1825	kiroku	きろく	記録	record, minutes, document | record (e.g. in sports), results, score | to record, to document | to set a record (e.g. in sports), to show a result, to reach a value
 2178	1826	tamatama	たまたま	偶々	occasionally, once in a while, seldom | casually, unexpectedly, accidentally, by chance
 2180	1827	hiritsu	ひりつ	比率	 ratio, proportion, percentage
 2181	1828	okyakusama	おきゃくさま	御客様	guest, visitor | customer, client, shopper, spectator, audience, tourist, sightseer, passenger
@@ -35,7 +35,7 @@
 2188	1835	kougeki	こうげき	攻撃	attack, assault, raid, onslaught, offensive | criticism, censure, denunciation, condemnation
 2189	1836	gengo	げんご	言語	 language
 2189	1837	hatashite	はたして	果たして	as was expected, just as one thought, sure enough | really, actually, ever
-2191	1838	shuuryousuru	しゅうりょうする	終了する	
+2191	1838	shuuryou	しゅうりょう	終了	 end, close, termination
 2191	1839	toriwake	とりわけ	取り分け	especially, above all | inter alia, among others
 2193	1840	mikata	みかた	見方	viewpoint, point of view | way of understanding, way of appreciating, how to look at something (e.g. noh, train schedule)
 2194	1841	nankai	なんかい	何回	 how many times?
@@ -44,15 +44,15 @@
 2198	1844	juutaku	じゅうたく	住宅	 residence, housing, residential building
 2199	1845	ippai	いっぱい	一杯	amount necessary to fill a container (e.g. cupful, spoonful, etc.), drink (usu. alcoholic) | full | one squid, octopus, crab, etc., one boat | fully, to capacity | a lot, much | all of ..., the entire ...
 2199	1846	jizen	じぜん	事前	 prior, beforehand, in advance, before the fact, ex ante
-2202	1847	doryokusuru	どりょくする	努力する	
+2202	1847	doryoku	どりょく	努力	 effort, exertion, endeavour, endeavor, hard work, striving
 2204	1848	ryoukin	りょうきん	料金	 fee, charge, fare
 2206	1849	shougakusei	しょうがくせい	小学生	 elementary school student, primary school student, grade school student
 2207	1850	kenpou	けんぽう	憲法	constitution | rules, regulation
 2207	1851	shuppinsha	しゅっぴんしゃ	出品者	 seller, exhibitor
-2209	1852	tourokusuru	とうろくする	登録する	
+2209	1852	touroku	とうろく	登録	 registration, accession, register, entry, record
 2211	1853	shisaku	しさく	施策	 policy, measure
 2211	1854	shiyou	しよう	仕様	way, method, means, resource, remedy | (technical) specification
-2213	1855	kakuritsusuru	かくりつする	確立する	
+2213	1855	kakuritsu	かくりつ	確立	 establishment, settlement
 2214	1856	chizu	ちず	地図	 map
 2217	1857	baka	ばか	馬鹿	idiot, moron, fool | trivial matter, folly, absurdity | stupid, foolish, dull, absurd, ridiculous | fervent enthusiast, nut, person singularly obsessed with something | Mactra chinensis (species of trough shell)
 2218	1858	ishi	いし	意思	 intention, wish, purpose, mind (to do)
@@ -74,7 +74,7 @@
 2238	1874	asoko	あそこ	彼処	there, over there, that place, yonder, you-know-where | genitals, private parts, nether regions | that far, that much, that point
 2239	1875	senmonka	せんもんか	専門家	 specialist, expert, professional, authority, pundit
 2239	1876	bun	ぶん	文	 letter, writings, ぶん (文) sentence | composition, text, writings | the literary arts (as opposed to the military arts), academia, literature | statement, もん (紋) (family) crest, coat of arms | pattern, figure, あや (綾) figure, design | twill weave, pattern of diagonal stripes | style (of writing), figure (of speech) | design, plot, plan | minor market fluctuation, technical correction | cat's cradle | lease rod (in a loom), もん (文) mon, one-thousandth of a kan (unit of currency 1336-1870) | 2.4 cm (traditional unit used to measure shoe sizes) | letter, character, sentence | scripture, incantation
-2243	1877	keikensuru	けいけんする	経験する	
+2243	1877	keiken	けいけん	経験	 experience
 2244	1878	dekiagaru	できあがる	出来上がる	to be completed, to be finished, to be ready (e.g. to serve or eat) | to be very drunk
 2244	1879	bengoshi	べんごし	弁護士	 lawyer, attorney
 2246	1880	konkyo	こんきょ	根拠	 basis, foundation, grounds, authority
@@ -92,7 +92,7 @@
 2264	1892	dougu	どうぐ	道具	tool, implement, instrument, utensil, apparatus, device | means | furniture
 2265	1893	sedai	せだい	世代	 generation, the world, the age
 2266	1894	koko	ここ	個々	 individual, one by one, separate, each
-2266	1895	surudoi	するどい	鋭い	sharp (blade), pointed | sharp (pain), stabbing, cutting (remark), stinging, pointed (question or look), screeching (noise) | perceptive, keen, quick (mind), astute, shrewd, discerning | nimble, agile, quick
+2266	1895	doi	どい	鋭い	sharp (blade), pointed | sharp (pain), stabbing, cutting (remark), stinging, pointed (question or look), screeching (noise) | perceptive, keen, quick (mind), astute, shrewd, discerning | nimble, agile, quick
 2268	1896	irai	いらい	以来	 since, henceforth
 2270	1897	kurashi	くらし	暮らし	 life, living, livelihood, life circumstances
 2271	1898	taijuu	たいじゅう	体重	 (body) weight

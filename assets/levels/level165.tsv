@@ -3,16 +3,16 @@
 20053	16403	riyoushiyasui	りようしやすい	利用し易い	
 20053	16404	ren'aikanjou	れんあいかんじょう	恋愛感情	 amorous feelings, feeling of being in love
 20053	16405	watashijishin	わたしじしん	私自身	 myself
-20146	16406	ankisuru	あんきする	暗記する	
+20146	16406	anki	あんき	暗記	 memorization, memorisation, learning by heart
 20146	16407	ikki	いっき	一期	 one's whole life, one's lifetime, いっき (一期) one term, one period | first term, first period
-20146	16408	ukaisuru	うかいする	迂回する	
+20146	16408	ukai	うかい	迂回	detour, circumvention | turning movement
 20146	16409	uki	うき	浮き	floating, buoyancy | fishing float, bobber | buoy | lifebuoy, life belt, float, rubber ring
 20146	16410	eiko	えいこ	映子	
 20146	16411	okaasantachi	おかあさんたち	御母さん達	
-20146	16412	otetsudaisuru	おてつだいする	御手伝いする	
+20146	16412	otetsudai	おてつだい	御手伝い	maid, helper | help, assistance
 20146	16413	kan'i	かんい	簡易	 simplicity, convenience, easiness, quasi-
 20146	16414	kanbatsu	かんばつ	干魃	 drought, long spell (period) of dry weather
-20146	16415	kanbisuru	かんびする	完備する	
+20146	16415	kanbi	かんび	完備	(being) fully equipped, (being) fully furnished | completeness
 20146	16416	gaikokujinroudousha	がいこくじんろうどうしゃ	外国人労働者	 foreign worker
 20146	16417	gansho	がんしょ	願書	(written) application, written request, petition | written prayer for a shrine or Buddhist temple
 20146	16418	gannen	がんねん	元年	first year (of an imperial era) | year something (important) first happened or began
@@ -37,20 +37,20 @@
 20146	16437	shite	して	仕手	doer, performer | protagonist (in noh or kyogen), hero, leading part, main character | speculator (in trading)
 20146	16438	shinigami	しにがみ	死神	 god of death, death deity, Death
 20146	16439	shihaiken	しはいけん	支配権	 right of control, supremacy, sovereignty
-20146	16440	shuuryousuru	しゅうりょうする	修了する	
-20146	16441	shoudokusuru	しょうどくする	消毒する	
+20146	16440	shuuryou	しゅうりょう	修了	 completion (of a course)
+20146	16441	shoudoku	しょうどく	消毒	 disinfection, sterilization, sterilisation
 20146	16442	shinnyuushain	しんにゅうしゃいん	新入社員	 new employee, freshman employee, new hire
 20146	16443	shinbashi	しんばし	新橋	 Shinbashi (section of Tokyo)
-20146	16444	jisuru	じする	辞する	to excuse oneself, to take one's leave | to resign (post), to quit, to retire | to decline, to turn down | unhesitatingly
+20146	16444	ji	じ	辞	language, dialect | word, words, phrase, term, expression, remark | speech, (manner of) speaking | learning to speak, language acquisition, じ (辞) address (e.g. opening or closing remarks), speech, words | ci (Chinese literary form) | ancillary word
 20146	16445	jitsugyouka	じつぎょうか	実業家	 businessman, industrialist
 20146	16446	jitsuyou	じつよう	実用	 practical use, utility
 20146	16447	juugyousha	じゅうぎょうしゃ	従業者	 worker, employee, person being employed
 20146	16448	sunaji	すなじ	砂地	 sandy soil
 20146	16449	seikenkoutai	せいけんこうたい	政権交代	 change of government, regime change
-20146	16450	taikansuru	たいかんする	体感する	
+20146	16450	taikan	たいかん	体感	 bodily sensation, sense, experience
 20146	16451	daikan	だいかん	代官	 Edo-period prefectural governor (magistrate, bailiff)
 20146	16452	daigishi	だいぎし	代議士	 parliamentarian, member of a congress
-20146	16453	datsurakusuru	だつらくする	脱落する	
+20146	16453	datsuraku	だつらく	脱落	dropping out, falling behind, falling by the wayside, desertion | omission, being left out, missing part | falling off, coming off, shedding
 20146	16454	chiaki	ちあき	千秋	 thousand years, many years
 20146	16455	chuuya	ちゅうや	昼夜	 day and night
 20146	16456	teikakeikou	ていかけいこう	低下傾向	
@@ -64,7 +64,7 @@
 20146	16464	naiteki	ないてき	内的	 inner, intrinsic, mental, inherited
 20146	16465	naniiro	なにいろ	何色	 what color
 20146	16466	nobita	のびた	のび太	
-20146	16467	haikaisuru	はいかいする	徘徊する	
+20146	16467	haikai	はいかい	徘徊	 loitering, roaming, sauntering, wandering about, prowling
 20146	16468	bansou	ばんそう	伴奏	 (musical) accompaniment
 20146	16469	hikaeshitsu	ひかえしつ	控え室	 waiting room, anteroom, antechamber, green room
 20146	16470	hideyo	ひでよ	英世	
@@ -87,8 +87,8 @@
 20245	16487	insatsubutsu	いんさつぶつ	印刷物	 printed matter
 20245	16488	ussou	うっそう	鬱蒼	 thick, dense, luxuriant
 20245	16489	untenchuu	うんてんちゅう	運転中	
-20245	16490	oushuusuru	おうしゅうする	押収する	
-20245	16491	ouraisuru	おうらいする	往来する	
+20245	16490	oushuu	おうしゅう	押収	 seizure, confiscation
+20245	16491	ourai	おうらい	往来	coming and going, traffic | road, street | association, socializing, socialising, fellowship, mutual visits | recurring (e.g. thoughts) | correspondence
 20245	16492	ooguchi	おおぐち	大口	big mouth, mouth opened wide | boastful speech, tall talk, bragging, boasting | large amount, large quantity
 20245	16493	ohimesama	おひめさま	御姫様	princess | spoiled girl, hothouse flower | glue
 20245	16494	kareha	かれは	枯れ葉	 dead leaf, dry leaves
@@ -96,5 +96,5 @@
 20245	16496	kansaiben	かんさいべん	関西弁	 Kansai dialect
 20245	16497	kanrenzukeru	かんれんづける	関連付ける	 to connect, to correlate, to associate, to relate, to link
 20245	16498	kiatsu	きあつ	気圧	 atmospheric pressure
-20245	16499	kyouhakusuru	きょうはくする	脅迫する	
+20245	16499	kyouhaku	きょうはく	脅迫	 threat, menace, coercion, terrorism
 20245	16500	kunshi	くんし	君子	man of virtue, wise man, (true) gentleman | person of high rank | the four gentlemen (plum, chrysanthemum, orchid, and bamboo)

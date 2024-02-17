@@ -1,9 +1,9 @@
 24783	20201	raiu	らいう	雷雨	 thunderstorm
 24783	20202	rusuchuu	るすちゅう	留守中	 during absence from home
 24783	20203	reiten'ichipaasento	れいてんいちぱーせんと	零．一パーセント	
-24783	20204	rouhisuru	ろうひする	浪費する	
+24783	20204	rouhi	ろうひ	浪費	 waste, extravagance
 24783	20205	wabi	わび	詫び	 apology, excuse
-24946	20206	angoukasuru	あんごうかする	暗号化する	
+24946	20206	angouka	あんごうか	暗号化	encryption, encipherment | password protection
 24946	20207	ichipatsu	いちぱつ	一発	shot, charge, explosion | blow, punch | home run | try, attempt | win on the first go-around after calling riichi
 24946	20208	issu	いっす	逸す	to lose (a chance), to miss (a chance) | to overlook, to omit, to forget | to deviate, to depart from (the norm, etc.)
 24946	20209	uriharau	うりはらう	売り払う	 to sell off, to sell completely
@@ -22,9 +22,9 @@
 24946	20222	karashi	からし	芥子	 mustard, けし (芥子)  opium poppy (Papaver somniferum)
 24946	20223	kangaegoto	かんがえごと	考え事	something to think about, one's thoughts, concern, worry | thinking about something, being absorbed in one's thoughts
 24946	20224	gazoufu	がぞうふ	画像ファイル	 graphics file
-24946	20225	kyouseisuru	きょうせいする	矯正する	
+24946	20225	kyousei	きょうせい	矯正	 correction (of fault, defect, flaw, etc.), remedy, rectification, redress, reform
 24946	20226	kintouwarigaku	きんとうわりがく	均等割額	
-24946	20227	gyakujousuru	ぎゃくじょうする	逆上する	
+24946	20227	gyakujou	ぎゃくじょう	逆上	 going into a frenzy, flying into a rage
 24946	20228	kushikumo	くしくも	奇しくも	 strangely, oddly, miraculously, mysteriously
 24946	20229	kuchie	くちえ	口絵	 illustration appearing in the first pages of a publication, frontispiece
 24946	20230	gunraku	ぐんらく	群落	 many communities (villages), cluster of plants
@@ -49,7 +49,7 @@
 24946	20249	shiseki	しせき	歯石	 dental calculus (calcified deposits that accumulate on the teeth), tartar (of the teeth)
 24946	20250	shimoda	しもだ	下田	 worn-out rice land
 24946	20251	share	しゃれ	洒落	 free and easy, open-hearted, relaxed, not fussy, frank, しゃれ (洒落) joke, pun, jest, witticism, wordplay | smartly dressed, stylish, fashion-conscious, refined, しゃら (洒落) impertinent | fresh, fashionable | prostitute
-24946	20252	shutsubasuru	しゅつばする	出馬する	
+24946	20252	shutsuba	しゅつば	出馬	running (for election), coming forward as a candidate | going on horseback | going in person | letting out a horse, taking out a horse
 24946	20253	shunsuke	しゅんすけ	俊輔	
 24946	20254	shoukei	しょうけい	小径	path, lane | small diameter, small radius
 24946	20255	shoushikoureika	しょうしこうれいか	少子高齢化	 decreasing birthrate and aging population, aging population combined with the diminishing number of children, declining birthrate and a growing proportion of elderly people, dwindling birthrate and an aging population, low birthrate and longevity
@@ -64,7 +64,7 @@
 24946	20264	setsuwa	せつわ	説話	 tale, narrative
 24946	20265	semashi	せまし	狭し	narrow, confined, small | narrow, confined, small
 24946	20266	zenpuku	ぜんぷく	全幅	full, wholehearted, utmost, all, every | overall width
-24946	20267	soutaisuru	そうたいする	相対する	to face each other, to be opposite one another | to be in opposition, to conflict
+24946	20267	soutai	そうたい	相対	 involving only the parties concerned, tete-a-tete, そうたい (相対) relativity | relative
 24946	20268	taishu	たいしゅ	対手	 opponent (in combat)
 24946	20269	taishokuteate	たいしょくてあて	退職手当て	
 24946	20270	taoseru	たおせる	倒せる	

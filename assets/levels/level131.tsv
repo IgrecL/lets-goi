@@ -1,13 +1,13 @@
 15873	13001	monogokoro	ものごころ	物心	 awareness of things around one, ability to understand what is going on around oneself, judgment, judgement, discretion, ぶっしん (物心)  matter and mind
 15873	13002	yadoya	やどや	宿屋	 inn
 15873	13003	yobikou	よびこう	予備校	 preparatory school (for entrance examinations), cram school, cramming school
-15873	13004	renpatsusuru	れんぱつする	連発する	
-15873	13005	roubaisuru	ろうばいする	狼狽する	
+15873	13004	renpatsu	れんぱつ	連発	 running continuously, firing in rapid succession
+15873	13005	roubai	ろうばい	狼狽	 confusion, dismay, consternation, panic
 15916	13006	asagao	あさがお	朝顔	Japanese morning glory (Ipomoea nil), picotee morning glory, ivy morning glory | funnel-shaped object, bell (e.g. of a trumpet), funnel-shaped urinal | rose of Sharon (Hibiscus syriacus)
-15916	13007	itsudatsusuru	いつだつする	逸脱する	
+15916	13007	itsudatsu	いつだつ	逸脱	deviation, departure | omission
 15916	13008	irikumu	いりくむ	入り組む	 to become complicated
 15916	13009	oota	おおた	太田	
-15916	13010	oowaraisuru	おおわらいする	大笑いする	
+15916	13010	oowarai	おおわらい	大笑い	 great laughter, burst of laughter
 15916	13011	okotaeitadaku	おこたえいただく	御答え頂く	
 15916	13012	kaisou	かいそう	海藻	 seaweed
 15916	13013	karekore	かれこれ	彼此	this and that, this or that, one thing or another, this way and that | around, about, round about, roughly, nearly, almost
@@ -15,26 +15,26 @@
 15916	13015	kitsuensha	きつえんしゃ	喫煙者	 smoker
 15916	13016	kyouryokusha	きょうりょくしゃ	協力者	 collaborator, cooperator, coworker, ally
 15916	13017	genryou	げんりょう	減量	loss in weight (esp. body weight), weight reduction | loss in quantity, reduction of quantity
-15916	13018	kongansuru	こんがんする	懇願する	
+15916	13018	kongan	こんがん	懇願	 entreaty, supplication, petition
 15916	13019	goshingi	ごしんぎ	御審議	
 15916	13020	saisan	さいさん	採算	 profit
 15916	13021	shitajiki	したじき	下敷き	desk pad, sheet of plastic (or cardboard, felt, etc.) placed under writing paper, underlay | being pinned under, being caught under, being trapped under, being buried under, being crushed beneath | model, pattern
 15916	13022	shidekasu	しでかす	為出かす	 to make a mess, to perpetrate, to do, to finish up, to be guilty of
 15916	13023	shasou	しゃそう	車窓	 train window, car window
-15916	13024	shuuketsusuru	しゅうけつする	集結する	
-15916	13025	shuugekisuru	しゅうげきする	襲撃する	
+15916	13024	shuuketsu	しゅうけつ	集結	 massing (of troops), gathering
+15916	13025	shuugeki	しゅうげき	襲撃	 attack, charge, raid
 15916	13026	shouchuugakkou	しょうちゅうがっこう	小・中学校	
 15916	13027	jiki	じき	直	straight | ordinary, common | doing nothing, ひた (直)  earnestly, immediately, exactly, じき (直) soon, in a moment, before long, shortly | nearby, close | direct | spot transaction, cash transaction, ちょく (直) direct, in person, frankness, honesty, simplicity, cheerfulness, correctness, being straight | night duty, shift (e.g. in a factory), あたい (直)  Atai (post-Taika hereditary title often given to regional administrators), じか (直)  direct, ただ (直)  straight, direct, ね (値) price, cost | value, worth, merit
 15916	13028	jidousoudansho	じどうそうだんしょ	児童相談所	 child consultation center, children's welfare center
 15916	13029	seika	せいか	生家	house where one was born | one's parents' house
-15916	13030	seitsuusuru	せいつうする	精通する	
+15916	13030	seitsuu	せいつう	精通	having deep knowledge of, being expert in, being well versed in, being conversant with | (a boy's) first ejaculation, semenarche
 15916	13031	sentai	せんたい	船体	 hull
-15916	13032	taigensuru	たいげんする	体現する	
+15916	13032	taigen	たいげん	体現	 personification, impersonation, embodiment
 15916	13033	chuukousei	ちゅうこうせい	中高生	 middle and high-school students
 15916	13034	teru	てる	照る	to shine | to look slightly upward (of a noh mask; indicating joy, etc.)
 15916	13035	tokugi	とくぎ	特技	 special skill
 15916	13036	tosa	とさ	土佐	 Tosa (former province located in present-day Kochi Prefecture)
-15916	13037	doukasuru	どうかする	同化する	
+15916	13037	douka	どうか	同化	assimilation, absorption | adaptation | assimilation, anabolism | assimilation (phonology)
 15916	13038	dougaku	どうがく	同額	 the same amount
 15916	13039	nyuunen	にゅうねん	入念	 careful, elaborate, scrupulous
 15916	13040	nenritsu	ねんりつ	年率	 annual rate (of interest)
@@ -48,7 +48,7 @@
 15970	13048	agari	あがり	上がり	rise, increase, ascent | income, takings, earnings, proceeds, (crop) yield, return, profit | completion, end, finish | end result (e.g. of crafts), how something comes out, finish | finishing (in a board or card game, etc.) | green tea (esp. in a sushi restaurant) | after (rain, illness, etc.) | ex- (e.g. ex-bureaucrat), former
 15970	13049	enyasu	えんやす	円安	 cheap yen
 15970	13050	ousetsushitsu	おうせつしつ	応接室	drawing room, parlour, parlor | reception office
-15970	13051	omairisuru	おまいりする	御参りする	
+15970	13051	omairi	おまいり	御参り	 visit (to a shrine, grave, etc.), worship
 15970	13052	kaigohokenseido	かいごほけんせいど	介護保険制度	 nursing-care insurance system
 15970	13053	kakiageru	かきあげる	掻き上げる	to comb upwards, to brush up (a loose strand of hair) | to turn up a lamp wick
 15970	13054	karadashibou	からだしぼう	体脂肪	 body fat, somatic fat
@@ -56,7 +56,7 @@
 15970	13056	kito	きと	帰途	 on the way back, returning
 15970	13057	kyuusoren	きゅうそれん	旧ソ連	 former Soviet Union
 15970	13058	kyoukou	きょうこう	強硬	 firm, strong, unbending, unyielding, uncompromising, stubborn, tough, hard-line
-15970	13059	kenjisuru	けんじする	堅持する	
+15970	13059	kenji	けんじ	堅持	 holding on to, sticking to
 15970	13060	genteiteki	げんていてき	限定的	 limited, limiting, restrictive
 15970	13061	kojinshouhi	こじんしょうひ	個人消費	 consumer spending
 15970	13062	shikakuteki	しかくてき	視覚的	 visual
@@ -78,7 +78,7 @@
 15970	13078	hikusa	ひくさ	低さ	
 15970	13079	binboujin	びんぼうじん	貧乏人	 poor person, pauper, the poor, the indigent
 15970	13080	fuun	ふうん	不運	 misfortune, bad luck, ill luck, ill fortune
-15970	13081	henyousuru	へんようする	変容する	
+15970	13081	henyou	へんよう	変容	 change in appearance, transformation
 15970	13082	honpen	ほんぺん	本編	original story, original version | this volume
 15970	13083	machijikan	まちじかん	待ち時間	 waiting time, latency, standby time (e.g. cellular phones), queueing time
 15970	13084	yamagoya	やまごや	山小屋	 hut (esp. on a mountain), shack, refuge, shanty
@@ -96,5 +96,5 @@
 16018	13096	kinki	きんき	近畿	 Kinki (region around Osaka, Kyoto, Nara)
 16018	13097	koroshiya	ころしや	殺し屋	 professional killer, hit man
 16018	13098	zangai	ざんがい	残骸	 ruins, wreckage, wreck, broken remains, debris
-16018	13099	shiansuru	しあんする	思案する	
+16018	13099	shian	しあん	思案	 careful thought, consideration, deliberation, reflection, rumination, pondering
 16018	13100	shukka	しゅっか	出荷	 shipping, shipment, forwarding

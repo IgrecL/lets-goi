@@ -7,13 +7,13 @@
 5855	4907	heika	へいか	陛下	 Your Majesty, His Majesty, Her Majesty
 5863	4908	ikkasho	いっかしょ	一箇所	 one place, (all in) the same place, one spot, one location, one part, one passage
 5863	4909	uriagedaka	うりあげだか	売り上げ高	 sales, amount sold, proceeds
-5863	4910	kushousuru	くしょうする	苦笑する	
+5863	4910	kushou	くしょう	苦笑	 bitter smile, wry smile, strained laugh, sarcastic laugh
 5863	4911	shishitsu	ししつ	資質	 nature, disposition, temperament, qualities, attributes, talents
 5863	4912	batsugun	ばつぐん	抜群	outstanding, excellent, exceptional, surpassing, extraordinary, distinguished | preeminence, distinction, extraordinariness
 5863	4913	housaku	ほうさく	方策	 plan, policy
 5863	4914	roji	ろじ	路地	alley, alleyway, lane | bare earth (i.e. ground not covered by a roof), open field, outdoors (non-greenhouse cultivation of crops) | teahouse garden | path through a gate (or through a garden, etc.)
 5871	4915	araware	あらわれ	表われ	 embodiment, manifestation, materialization, materialisation, expression, indication
-5871	4916	kaihisuru	かいひする	回避する	
+5871	4916	kaihi	かいひ	回避	 evasion, avoidance
 5871	4917	kanau	かなう	叶う	to come true (of a wish, prayer, etc.), to be realized, to be fulfilled | to suit (e.g. a purpose), to meet (wishes, ideals, etc.), to conform to (standards, rules, etc.), to be consistent with | to match (implies competition), to rival, to bear (e.g. the heat)
 5871	4918	kokudo	こくど	国土	 country, territory, domain, realm
 5871	4919	jiga	じが	自我	 self, the ego
@@ -34,20 +34,20 @@
 5890	4934	jou	じょう	情	feelings, emotion, sentiment | compassion, sympathy | passion, affection, love | the way things really are, the actual situation
 5890	4935	seisansei	せいさんせい	生産性	 productivity
 5890	4936	houzuru	ほうずる	報ずる	 to inform, to report
-5890	4937	rinsetsusuru	りんせつする	隣接する	
+5890	4937	rinsetsu	りんせつ	隣接	 adjacency, contiguity, being adjoined
 5897	4938	shimeru	しめる	湿る	to become damp, to become moist, to become wet | to lack energy, to be in a slump, to be in low spirits, to feel depressed
 5897	4939	zettaiteki	ぜったいてき	絶対的	 absolute
 5897	4940	chairo	ちゃいろ	茶色	 light brown, tawny
 5897	4941	demuku	でむく	出向く	 to go to, to proceed to, to leave for
 5897	4942	moushideru	もうしでる	申し出る	 to report to, to tell, to suggest, to submit, to request, to make an offer, to come forward with information
-5897	4943	ryuuisuru	りゅういする	留意する	
+5897	4943	ryuui	りゅうい	留意	 heeding, paying attention, bearing in mind
 5897	4944	roudoujikan	ろうどうじかん	労働時間	 working hours, man-hours
-5904	4945	goshoukaisuru	ごしょうかいする	御紹介する	
-5904	4946	jiritsusuru	じりつする	自立する	
-5906	4947	kasseikasuru	かっせいかする	活性化する	
+5904	4945	goshoukai	ごしょうかい	御紹介	
+5904	4946	jiritsu	じりつ	自立	 independence, self-reliance
+5906	4947	kasseika	かっせいか	活性化	stimulation (e.g. of an economy), revitalization (e.g. of a town), rejuvenation, invigoration | activation
 5906	4948	kumitateru	くみたてる	組み立てる	 to assemble, to set up, to construct
-5906	4949	shouryakusuru	しょうりゃくする	省略する	
-5906	4950	shindansuru	しんだんする	診断する	
+5906	4949	shouryaku	しょうりゃく	省略	 omission, abbreviation, abridgment, abridgement
+5906	4950	shindan	しんだん	診断	 diagnosis, medical examination
 5906	4951	nishigawa	にしがわ	西側	 west side, west bank
 5906	4952	nitchuu	にっちゅう	日中	daytime, during the day | Japan and China
 5906	4953	hyoujun	ひょうじゅん	標準	 standard, level, norm
@@ -56,7 +56,7 @@
 5918	4956	chikei	ちけい	地形	 terrain, geographical features, topography
 5920	4957	ichidou	いちどう	一同	 all present, all concerned, all of us
 5920	4958	oshimu	おしむ	惜しむ	to be frugal, to be sparing | to value, to hold dear | to regret (e.g. a loss), to feel sorry (for) | to be unwilling, to be reluctant
-5920	4959	kanwasuru	かんわする	緩和する	
+5920	4959	kanwa	かんわ	緩和	 relief, mitigation, alleviation, relaxation (of restrictions, tensions, etc.), easing, softening
 5920	4960	koinu	こいぬ	子犬	puppy | small dog
 5920	4961	kouseinenkin	こうせいねんきん	厚生年金	 welfare pension
 5920	4962	kokusaishakai	こくさいしゃかい	国際社会	 international community, international society, the world
@@ -79,7 +79,7 @@
 5942	4979	tsue	つえ	杖	 cane, walking stick, staff, wand, じょう (杖)  severe caning (60-100 times)
 5942	4980	houkousei	ほうこうせい	方向性	trend, course of action, direction | directionality, directivity, orientation | directional, vectorial | goal, aim
 5946	4981	kachou	かちょう	課長	 section manager, section chief
-5946	4982	zenjutsusuru	ぜんじゅつする	前述する	
+5946	4982	zenjutsu	ぜんじゅつ	前述	 aforementioned, above-mentioned
 5946	4983	toozakaru	とおざかる	遠ざかる	to go away, to become more distant, to fade away, to die away | to be estranged
 5950	4984	kouseiroudoushou	こうせいろうどうしょう	厚生労働省	 Ministry of Health, Labour and Welfare
 5950	4985	tengoku	てんごく	天国	 paradise, heaven, Kingdom of Heaven
@@ -87,9 +87,9 @@
 5950	4987	honda	ほんだ	本田	 rice paddy
 5957	4988	akasu	あかす	明かす	to pass (the night), to spend | to reveal, to divulge, to disclose, to expose | to prove, to verify
 5957	4989	gake	がけ	崖	cliff, precipice | precipice, brink of a dangerous situation
-5957	4990	kenshousuru	けんしょうする	検証する	
+5957	4990	kenshou	けんしょう	検証	 verification, inspection
 5957	4991	kodoku	こどく	孤独	 solitude, loneliness, isolation
-5957	4992	shuurokusuru	しゅうろくする	収録する	
+5957	4992	shuuroku	しゅうろく	収録	compilation, editing | recording
 5957	4993	sekininsha	せきにんしゃ	責任者	 person in charge (including a supervisory role for other staff), person responsible for ..., responsible party, supervisor, manager
 5965	4994	gekijou	げきじょう	劇場	 theatre, theater, playhouse
 5965	4995	gourika	ごうりか	合理化	 rationalization, rationalisation, rationalize, rationalise

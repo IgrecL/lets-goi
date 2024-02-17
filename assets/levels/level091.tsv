@@ -9,7 +9,7 @@
 10961	9009	kouzafurikae	こうざふりかえ	口座振り替え	
 10961	9010	kouhei	こうへい	公平	 chopped burdock root (and sometimes carrot) cooked in sugar and soy sauce, こうへい (公平)  fairness, impartiality, justice, objectivity
 10961	9011	sengetsu	せんげつ	先月	 last month
-10961	9012	souzokusuru	そうぞくする	相続する	
+10961	9012	souzoku	そうぞく	相続	 succession, inheritance
 10961	9013	dankaiteki	だんかいてき	段階的	 incremental, step-by-step, gradual, stepwise
 10961	9014	tenkiyohou	てんきよほう	天気予報	 weather forecast, weather report
 10961	9015	nissan	にっさん	日産	daily output | Nissan (Japanese car company)
@@ -25,7 +25,7 @@
 10990	9025	onoono	おのおの	各々	each | you (plural)
 10990	9026	omoushikomikudasaru	おもうしこみくださる	御申し込み下さる	
 10990	9027	kashidashi	かしだし	貸し出し	 lending, loaning
-10990	9028	kankatsusuru	かんかつする	管轄する	
+10990	9028	kankatsu	かんかつ	管轄	 jurisdiction, control
 10990	9029	kyuushuu	きゅうしゅう	吸収	 absorption, suction, attraction
 10990	9030	kunan	くなん	苦難	 suffering, distress, hardship, trial
 10990	9031	ketsujo	けつじょ	欠如	 lack, absence, shortage, deficiency, privation
@@ -35,7 +35,7 @@
 10990	9035	takusu	たくす	託す	to entrust (someone) with, to leave (a matter) with someone, to place under someone's care | to have someone deliver (a message, parcel, etc.), to send (through someone), to leave (a message) with someone | to use (something) to express (one's feelings, opinion, etc.), to express in the form of (something) | to use as a pretext
 10990	9036	darui	だるい	怠い	sluggish, languid, listless, heavy (heart, legs, etc.), dull | bothersome, tiresome, pain-in-the-ass
 10990	9037	tonbo	とんぼ	蜻蛉	 dragonfly, damselfly
-10990	9038	fushousuru	ふしょうする	負傷する	
+10990	9038	fushou	ふしょう	負傷	 injury, wound
 10990	9039	maro	まろ	麻呂	I, me | (person having) thin or shaved eyebrows | affectionate suffix for names of young men or pets
 10990	9040	manzokukan	まんぞくかん	満足感	 feeling of satisfaction
 10990	9041	minasankata	みなさんかた	皆さん方	
@@ -82,12 +82,12 @@
 11042	9082	juudou	じゅうどう	柔道	 judo
 11042	9083	sune	すね	脛	 shin, shank, lower leg
 11042	9084	sengokujidai	せんごくじだい	戦国時代	Warring States period (of Japanese history, approx. 1467-1568 CE), Sengoku period | Warring States period (of Chinese history, 403-221 BCE) | era of vicious competition
-11042	9085	zoushokusuru	ぞうしょくする	増殖する	
-11042	9086	choufukusuru	ちょうふくする	重複する	
+11042	9085	zoushoku	ぞうしょく	増殖	 increase, multiplication, propagation, proliferation
+11042	9086	choufuku	ちょうふく	重複	 duplication, repetition, overlapping, redundancy, restoration
 11042	9087	hakata	はかた	博多	
 11042	9088	hakkendekiru	はっけんできる	発見出来る	
-11042	9089	fuzokusuru	ふぞくする	付属する	
-11042	9090	bunpaisuru	ぶんぱいする	分配する	
+11042	9089	fuzoku	ふぞく	付属	 attached, belonging (to), included, enclosed, affiliated, annexed, associated, subordinate, incidental, dependent, auxiliary
+11042	9090	bunpai	ぶんぱい	分配	 division, splitting, sharing, distribution, dissemination, allocation
 11042	9091	masatsu	まさつ	摩擦	friction, rubbing, chafing | discord, friction, strife, conflict
 11042	9092	meisaku	めいさく	名作	 masterpiece
 11042	9093	menmen	めんめん	面々	 every person, each one, everybody
@@ -97,4 +97,4 @@
 11076	9097	ikoku	いこく	異国	 foreign country
 11076	9098	ichinenhan	いちねんはん	一年半	 one year and a half
 11076	9099	uttoushii	うっとうしい	鬱陶しい	gloomy (e.g. mood), depressing | irritating, troublesome | heavy (weather), cloudy
-11076	9100	kaikasuru	かいかする	開花する	
+11076	9100	kaika	かいか	開花	flowers budding, blooming, flowering | showing results, becoming popular, blooming

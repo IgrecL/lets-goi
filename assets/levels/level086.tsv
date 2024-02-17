@@ -8,11 +8,11 @@
 10334	8508	shoubouchou	しょうぼうちょう	消防庁	 Fire and Disaster Management Agency (formerly Fire Defense Agency) (Defence)
 10334	8509	chihyou	ちひょう	地表	 surface of the earth, ground surface
 10334	8510	chuutou	ちゅうとう	中東	 Middle East
-10334	8511	chinmokusuru	ちんもくする	沈黙する	
+10334	8511	chinmoku	ちんもく	沈黙	silence, being silent, quiet, hush | reticence, inaction
 10334	8512	tsubone	つぼね	局	bureau, department | office (e.g. post, telephone), broadcasting station (e.g. television, radio), channel, exchange | affair, situation | game (of go, shogi, etc.), つぼね (局) court lady, lady-in-waiting (Heian period) | separate room in a palace (esp. for a lady) (Heian period) | room for a very low class prostitute | very low class prostitute
 10334	8513	deshitachi	でしたち	弟子達	
 10334	8514	tooreru	とおれる	通れる	
-10334	8515	houeisuru	ほうえいする	放映する	
+10334	8515	houei	ほうえい	放映	 televising, broadcasting, airing
 10334	8516	maku	まく	膜	 membrane, film
 10334	8517	youken	ようけん	用件	 business, thing to be done, something that should be performed, information that should be conveyed
 10334	8518	yoridokoro	よりどころ	拠り所	grounds, foundation, authority | support, prop, something upon which to rely
@@ -27,14 +27,14 @@
 10356	8527	saikyou	さいきょう	最強	 strongest
 10356	8528	zai	ざい	財	fortune, riches | goods | incorporated foundation, たから (宝)  treasure
 10356	8529	shingen	しんげん	信玄	
-10356	8530	juuyoushisuru	じゅうようしする	重要視する	
-10356	8531	sendensuru	せんでんする	宣伝する	
+10356	8530	juuyoushi	じゅうようし	重要視	 regarding highly, attaching importance to
+10356	8531	senden	せんでん	宣伝	 publicity, advertisement, advertising, propaganda
 10356	8532	zenpanteki	ぜんぱんてき	全般的	 general, overall, across-the-board
-10356	8533	teitaisuru	ていたいする	停滞する	
+10356	8533	teitai	ていたい	停滞	 stagnation, tie-up, standstill, congestion, delay, accumulation, falling into arrears
 10356	8534	tekkou	てっこう	鉄鋼	 iron and steel
-10356	8535	tenzaisuru	てんざいする	点在する	
+10356	8535	tenzai	てんざい	点在	 being dotted with, being scattered
 10356	8536	toutou	とうとう	等々	 etc., et cetera, and so on
-10356	8537	haibunsuru	はいぶんする	配分する	
+10356	8537	haibun	はいぶん	配分	 distribution, allotment
 10356	8538	rika	りか	理科	science (inc. mathematics, medicine, etc.), natural science | science department (university), science course | science (as a school subject)
 10385	8539	atesaki	あてさき	宛て先	 address, destination
 10385	8540	isharyou	いしゃりょう	慰謝料	 consolation money, solatium, reparation, damages, settlement
@@ -74,11 +74,11 @@
 10426	8574	ashita	あした	明日	tomorrow | near future
 10426	8575	atataka	あたたか	温か	 warm, mild, genial
 10426	8576	uzumaku	うずまく	渦巻く	to whirl, to eddy, to swirl, to curl (smoke) | to be all jumbled together (feelings, thoughts, etc.) | to surge, to sweep
-10426	8577	uwakisuru	うわきする	浮気する	
+10426	8577	uwaki	うわき	浮気	extramarital sex, affair, fooling around | infidelity, wantonness, unfaithfulness, inconstancy, fickleness, caprice
 10426	8578	kakidasu	かきだす	書き出す	to begin to write, to start writing | to write out (e.g. on a blackboard) | to extract (and write down), to write down (the important parts) | to export, to write (to file)
 10426	8579	kageki	かげき	過激	 extreme, radical
 10426	8580	kon'in	こんいん	婚姻	 marriage, matrimony
-10426	8581	jouensuru	じょうえんする	上演する	
+10426	8581	jouen	じょうえん	上演	 performance (of a play, opera, etc.), staging, presentation
 10426	8582	madogiwa	まどぎわ	窓際	 (at the) window
 10426	8583	mikaku	みかく	味覚	 taste, palate, sense of taste
 10426	8584	yamunai	やむない	止む無い	
@@ -92,7 +92,7 @@
 10442	8592	sokoneru	そこねる	損ねる	to harm, to hurt, to injure, to wreck | to miss one's chance to (do something), to fail to (do what one ought to have done)
 10442	8593	chuushinteki	ちゅうしんてき	中心的	 central, mainline
 10442	8594	tsuukin	つうきん	通勤	 commuting to work
-10442	8595	fukasuru	ふかする	付加する	
+10442	8595	fuka	ふか	付加	 addition, annexation, appendage
 10442	8596	monozukuri	ものづくり	物作り	manufacturing, craftsmanship, making things by hand | making New-Year's decorations | preparing fields, farming, farmer
 10442	8597	ryoume	りょうめ	両目	 both eyes
 10442	8598	ryokousha	りょこうしゃ	旅行者	 traveller, traveler

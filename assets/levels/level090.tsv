@@ -3,7 +3,7 @@
 10817	8903	tokushuhoujin	とくしゅほうじん	特殊法人	 semigovernmental corporation
 10817	8904	tozan	とざん	登山	 mountain climbing
 10817	8905	narihibiku	なりひびく	鳴り響く	to reverberate, to resound, to echo | to have one's fame spread, to be renowned
-10817	8906	yaritorisuru	やりとりする	遣り取りする	
+10817	8906	yaritori	やりとり	遣り取り	 giving and taking, exchange (of letters), arguing back and forth, (conversational) exchange
 10817	8907	yokome	よこめ	横目	sidelong glance | short grain (paper)
 10817	8908	yobiyoseru	よびよせる	呼び寄せる	 to call, to summon, to send for, to call together
 10817	8909	reihai	れいはい	礼拝	worship (esp. Christian), adoration, divine service | worship (esp. Buddhist and Shinto)
@@ -20,11 +20,11 @@
 10849	8920	shitamachi	したまち	下町	low-lying part of a city (usu. containing shops, factories, etc.) | Shitamachi (low-lying area of eastern Tokyo near Tokyo Bay, incl. Asakusa, Shitaya, Kanda, Fukugawa, Honjo, Nihonbashi, Kyobashi and surrounds)
 10849	8921	shougi	しょうぎ	将棋	 shogi, Japanese chess
 10849	8922	shoushika	しょうしか	少子化	 declining birth rates, decrease in the number of children
-10849	8923	shingisuru	しんぎする	審議する	
+10849	8923	shingi	しんぎ	審議	 deliberation
 10849	8924	tsuutatsu	つうたつ	通達	notification, official notice, directive (e.g. from higher to lower levels of the administration) | being well versed (in something)
 10849	8925	ten'insan	てんいんさん	店員さん	
 10849	8926	hyoujunteki	ひょうじゅんてき	標準的	 standard, standardized, average, normal, ordinary
-10849	8927	hensaisuru	へんさいする	返済する	
+10849	8927	hensai	へんさい	返済	 repayment, reimbursement, refund, redemption
 10849	8928	matsumoto	まつもと	松本	
 10849	8929	ritchi	りっち	立地	choosing a site (e.g. for industry), deciding on a location | standpoint, position
 10869	8930	katakori	かたこり	肩凝り	 stiff neck, stiff shoulders
@@ -37,7 +37,7 @@
 10869	8937	tsuwari	つわり	悪阻	 morning sickness, hyperemesis gravidarum
 10869	8938	tomadoi	とまどい	戸惑い	being at sea, losing one's bearings, confusion, wonderment | disorientation upon waking at night | forgetting which house or room to enter
 10869	8939	hakarishireru	はかりしれる	計り知れる	
-10869	8940	hatsugensuru	はつげんする	発現する	
+10869	8940	hatsugen	はつげん	発現	revelation, manifestation, appearance | expression (e.g. in molecular biology; protein expression or gene expression)
 10869	8941	haraeru	はらえる	払える	
 10869	8942	hidariue	ひだりうえ	左上	 upper left
 10869	8943	binbou	びんぼう	貧乏	 poverty-stricken, destitute, poor, penurious
@@ -45,7 +45,7 @@
 10869	8945	yousei	ようせい	妖精	 fairy, sprite, elf
 10890	8946	idou	いどう	異動	 change (personnel), transfer, reshuffle
 10890	8947	katakana	かたかな	片仮名	 katakana, angular Japanese syllabary used primarily for loanwords
-10890	8948	konzatsusuru	こんざつする	混雑する	
+10890	8948	konzatsu	こんざつ	混雑	congestion, crush, crowding, jam | confusion, disorder
 10890	8949	zaishitsu	ざいしつ	材質	material | material properties, quality of material
 10890	8950	shimen	しめん	紙面	space on a page (e.g. in a newspaper) | surface of paper | letter, writings, document
 10890	8951	taka	たか	鷹	 hawk, falcon
@@ -55,7 +55,7 @@
 10890	8955	meishi	めいし	名詞	 noun
 10902	8956	enkei	えんけい	円形	 round shape, circle, circular form
 10902	8957	kuroki	くろき	黒木	 unbarked lumber
-10902	8958	sannyuusuru	さんにゅうする	参入する	
+10902	8958	sannyuu	さんにゅう	参入	entering (the marketplace), introducing (something) to the market, access | visiting a high-class or noble individual
 10902	8959	supeingo	すぺいんご	スペイン語	 Spanish (language)
 10902	8960	soudou	そうどう	騒動	strife, riot, rebellion, turmoil | (media) uproar, brouhaha, (public) outcry, scandal, controversy | feud, tussle, quarrel, dispute
 10902	8961	chikaku	ちかく	近く	near, neighbourhood, neighborhood, vicinity | nearly (e.g. "it took nearly one year"), close to | shortly, soon
@@ -69,12 +69,12 @@
 10913	8969	kan'ei	かんえい	寛永	 Kan'ei era (1624.2.30-1644.12.16)
 10913	8970	kanyuu	かんゆう	勧誘	 invitation, solicitation, canvassing, canvasing, inducement, persuasion, encouragement
 10913	8971	gendaishakai	げんだいしゃかい	現代社会	 modern society
-10913	8972	saikaisuru	さいかいする	再会する	
-10913	8973	shusshisuru	しゅっしする	出資する	
+10913	8972	saikai	さいかい	再会	 another meeting, meeting again, reunion
+10913	8973	shusshi	しゅっし	出資	 investment, contribution, financing
 10913	8974	shuyou	しゅよう	腫瘍	 tumor, tumour, neoplasm, neoplasia
-10913	8975	shoukyosuru	しょうきょする	消去する	
+10913	8975	shoukyo	しょうきょ	消去	elimination, erasure, clearing, dissipating, melting away | elimination (of variables)
 10913	8976	shougyou	しょうぎょう	商業	 commerce, trade, business
-10913	8977	senshisuru	せんしする	戦死する	
+10913	8977	senshi	せんし	戦死	 death in battle
 10913	8978	taigun	たいぐん	大軍	 large army, おおいくさ (大軍)  great war, great battle
 10913	8979	takeuchi	たけうち	竹内	
 10913	8980	tsuuhan	つうはん	通販	 online shopping, e-commerce, mail order
@@ -83,7 +83,7 @@
 10913	8983	fukaikan	ふかいかん	不快感	 discomfort
 10913	8984	moroi	もろい	脆い	brittle, fragile, weak, frail | tender-hearted, sentimental, easily moved
 10913	8985	yoroi	よろい	鎧	 armor, armour
-10938	8986	anjisuru	あんじする	暗示する	
+10938	8986	anji	あんじ	暗示	 hint, suggestion
 10938	8987	okao	おかお	御顔	 face
 10938	8988	oshitsubusu	おしつぶす	押し潰す	 to squash, to crush, to flatten
 10938	8989	omoshirogaru	おもしろがる	面白がる	 to amuse oneself, to be amused, to enjoy, to think fun
@@ -97,4 +97,4 @@
 10938	8997	haeru	はえる	映える	to shine, to glow | to look attractive, to look nice, to be set off (by)
 10938	8998	himitsu	ひみつ	秘密	secret, secrecy, confidentiality, privacy | mystery | secret (e.g. to success) | esoteric teachings
 10938	8999	hiroma	ひろま	広間	 hall, saloon, spacious room, reception room
-10938	9000	fukugensuru	ふくげんする	復元する	
+10938	9000	fukugen	ふくげん	復元	 restoration (to original state or location), reconstruction, reversion

@@ -24,10 +24,10 @@
 49563	39324	shichou	しちょう	試聴	 trial listening (e.g. to a record before buying), audition
 49563	39325	shiboushasuu	しぼうしゃすう	死亡者数	
 49563	39326	shakujou	しゃくじょう	錫杖	 bishop's staff, khakkhara
-49563	39327	shashousuru	しゃしょうする	捨象する	
+49563	39327	shashou	しゃしょう	捨象	 abstraction
 49563	39328	shuukanshinchou	しゅうかんしんちょう	週刊新潮	
 49563	39329	shukuhou	しゅくほう	叔宝	
-49563	39330	shusshousuru	しゅっしょうする	出生する	
+49563	39330	shusshou	しゅっしょう	出生	 birth
 49563	39331	shiyuuchi	しゆうち	私有地	 demesne, estate, private land, private property
 49563	39332	shougyouteki	しょうぎょうてき	商業的	
 49563	39333	shoushigen	しょうしげん	省資源	 saving resources
@@ -47,7 +47,7 @@
 49563	39347	shinryouka	しんりょうか	診療科	 hospital department, department in the field of medical care
 49563	39348	jisakujien	じさくじえん	自作自演	performing a part in one's own play, playing a musical piece that one has written | doing everything by oneself (from preparation to execution) | put-up job, charade | sock-puppeting (i.e. pretending to be more than one person on the Internet)
 49563	39349	jishinkei	じしんけい	地震計	 seismograph, seismometer
-49563	39350	jijouchoushusuru	じじょうちょうしゅする	事情聴取する	
+49563	39350	jijouchoushu	じじょうちょうしゅ	事情聴取	 inquiry, enquiry, investigation, (police) interview, questioning (e.g. witness, suspect), hearing
 49563	39351	jittaiteki	じったいてき	実態的	
 49563	39352	jitei	じてい	自邸	 one's residence
 49563	39353	jidoushabuhin	じどうしゃぶひん	自動車部品	 automobile component, automobile part
@@ -61,7 +61,7 @@
 49563	39361	jukkai	じゅっかい	述懐	 speaking about (one's thoughts, memories, etc.), relating (one's feelings, reminiscences, etc.), recollection, reminiscence
 49563	39362	joukyouhandan	じょうきょうはんだん	状況判断	 one's assessment of the situation
 49563	39363	joudeki	じょうでき	上出来	 good performance, good work, great success
-49563	39364	jouhoukoukansuru	じょうほうこうかんする	情報交換する	
+49563	39364	jouhoukoukan	じょうほうこうかん	情報交換	 information exchange
 49563	39365	jirai	じらい	爾来	 since then, after that
 49563	39366	suikuchi	すいくち	吸い口	mouthpiece, cigarette holder, cigarette filter (tip) | fragrant garnish (for soup)
 49563	39367	suikoudekiru	すいこうできる	遂行出来る	
@@ -69,7 +69,7 @@
 49563	39369	suimono	すいもの	吸い物	 clear broth soup, with ingredients and garnish floating in and on it
 49563	39370	sugiko	すぎこ	杉子	
 49563	39371	suberidasu	すべりだす	滑り出す	to begin slipping or sliding | to make a start upon
-49563	39372	surugaku	するがく	駿河区	
+49563	39372	gaku	がく	駿河区	
 49563	39373	seian	せいあん	成案	 definite plan
 49563	39374	seigaku	せいがく	声楽	 vocal music
 49563	39375	seikun	せいくん	聖君	
@@ -86,9 +86,9 @@
 49563	39386	sennen	せんねん	専念	 absorption, giving undivided attention, devoting oneself (to)
 49563	39387	zenkyoku	ぜんきょく	全曲	 all compositions, the entire composition
 49563	39388	zentaisei	ぜんたいせい	全体性	
-49563	39389	soukyuusuru	そうきゅうする	送球する	
+49563	39389	soukyuu	そうきゅう	送球	throwing a ball | handball
 49563	39390	sougiiinchou	そうぎいいんちょう	葬儀委員長	
-49563	39391	sokketsusuru	そっけつする	即決する	
+49563	39391	sokketsu	そっけつ	即決	prompt decision, quick decision | immediate judgement, summary judgment, summary judgement
 49563	39392	sonatatachi	そなたたち	其方達	
 49563	39393	sonkeisu	そんけいす	尊敬す	
 49563	39394	songokuu	そんごくう	孫悟空	

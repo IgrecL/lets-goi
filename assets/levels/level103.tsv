@@ -1,8 +1,8 @@
 12435	10201	ge	げ	気	spirit, mind, heart | nature, disposition | motivation, intention | mood, feelings | ambience, atmosphere, mood, げ (気)  seeming, giving the appearance of, giving one the feeling of, ぎ (気)  -like nature, -like disposition, -ish temperament, け (気) sign, indication, trace, touch, feeling | somehow, for some reason, seeming to be
-12435	10202	sanransuru	さんらんする	散乱する	
+12435	10202	sanran	さんらん	散乱	 dispersion, scattering, spreading out, diffusion
 12435	10203	shikikan	しきかん	指揮官	 commander, commanding officer, CO
-12435	10204	shuushisuru	しゅうしする	終始する	
-12435	10205	jougesuru	じょうげする	上下する	
+12435	10204	shuushi	しゅうし	終始	beginning and end | doing something from beginning to end, being unchanged from beginning to end | from beginning to end, the whole time, throughout, consistently
+12435	10205	jouge	じょうげ	上下	top and bottom, up and down, high and low, above and below, upper and lower ends | upside-down, じょうげ (上下) top and bottom, high and low, above and below, upper and lower ends, up and down | going up and down, rising and falling, fluctuating | going and coming back | upper and lower classes, ruler and ruled, the government and the people | first and second volumes, かみしも (裃) samurai costume, old ceremonial costume | top and bottom, up and down, high and low, above and below, upper and lower ends, しょうか (上下) top and bottom, up and down, high and low, above and below, upper and lower ends | upper and lower classes, ruler and ruled, the government and the people
 12435	10206	suujitsumae	すうじつまえ	数日前	
 12435	10207	seiki	せいき	性器	 genitals
 12435	10208	souzokuzei	そうぞくぜい	相続税	 inheritance tax, death duty
@@ -14,9 +14,9 @@
 12435	10214	marumaru	まるまる	丸々	plump, rotund, chubby | entirely, completely, wholly
 12435	10215	mankai	まんかい	満開	 full bloom (esp. of cherry blossom), full blossom
 12435	10216	minari	みなり	身形	 dress, attire, clothing, getup, outfit, personal appearance
-12435	10217	rikousuru	りこうする	履行する	
+12435	10217	rikou	りこう	履行	 performance (of a duty), fulfillment (of a promise), fulfilment, execution (of a contract), discharge, implementation
 12435	10218	wakame	わかめ	若布	 wakame (species of edible brown seaweed, Undaria pinnatifida)
-12469	10219	uwasasuru	うわさする	噂する	
+12469	10219	uwasa	うわさ	噂	 rumour, rumor, report, hearsay, gossip, common talk
 12469	10220	okada	おかだ	岡田	
 12469	10221	kakko	かっこ	格好	shape, form, figure, posture, pose | appearance | state, situation | suitable, fit, reasonable | about
 12469	10222	kusuguru	くすぐる	擽る	to tickle | to tickle (one's curiosity, vanity, etc.), to arouse, to appeal to, to flatter | to make laugh, to amuse, to entertain, こそぐる (擽る)  to tickle
@@ -26,15 +26,15 @@
 12469	10226	kontoroorudekiru	こんとろーるできる	コントロール出来る	
 12469	10227	sakigakeru	さきがける	先駆ける	 to be the first
 12469	10228	shuuban	しゅうばん	終盤	 endgame, final stage
-12469	10229	shukufukusuru	しゅくふくする	祝福する	
+12469	10229	shukufuku	しゅくふく	祝福	 blessing
 12469	10230	seiiku	せいいく	生育	 birth and growth, giving birth and raising, development, breeding
 12469	10231	senshi	せんし	戦士	 soldier, combatant, warrior
-12469	10232	taisekisuru	たいせきする	堆積する	
+12469	10232	taiseki	たいせき	堆積	accumulation, pile, heap | sedimentation
 12469	10233	chiyodaku	ちよだく	千代田区	
 12469	10234	chiri	ちり	地理	 geography
 12469	10235	teikei	ていけい	提携	 cooperation, tie-up, joint business, partnership, alliance, sponsorship
 12469	10236	toriko	とりこ	虜	captive, prisoner | victim (of love, etc.), slave (to one's lust, etc.), りょ (虜) captive, prisoner | foreigner, barbarian, slave
-12469	10237	donkasuru	どんかする	鈍化する	
+12469	10237	donka	どんか	鈍化	 becoming dull, slowing down
 12469	10238	donburi	どんぶり	丼	porcelain bowl | donburi, bowl of meat, fish, etc. served over rice
 12469	10239	hiroshimaken	ひろしまけん	広島県	 Hiroshima prefecture (Chūgoku area)
 12469	10240	fuankan	ふあんかん	不安感	 uneasy feeling, sense of anxiety, malaise
@@ -49,8 +49,8 @@
 12499	10249	katsuobushi	かつおぶし	鰹節	 katsuobushi, small pieces of sliced dried bonito
 12499	10250	kabushikishijou	かぶしきしじょう	株式市場	 stock market
 12499	10251	kabuto	かぶと	兜	 helmet (of a warrior), headpiece
-12499	10252	kantokusuru	かんとくする	監督する	
-12499	10253	gaikansuru	がいかんする	概観する	
+12499	10252	kantoku	かんとく	監督	supervision, control, superintendence, direction | director, superintendent, supervisor, coach, foreman, manager, overseer, controller, boss
+12499	10253	gaikan	がいかん	概観	 general view, outline
 12499	10254	koushi	こうし	光子	 photon
 12499	10255	shagamikomu	しゃがみこむ	しゃがみ込む	 to squat, to crouch down (completely, generally with face looking through knees)
 12499	10256	shinpou	しんぽう	新法	new law | new method
@@ -71,7 +71,7 @@
 12533	10271	ashi	あし	葦	 common reed (Phragmites australis)
 12533	10272	utaeru	うたえる	歌える	
 12533	10273	omoikaesu	おもいかえす	思い返す	 to re-think, to think back upon, to change one's mind
-12533	10274	kaitsuusuru	かいつうする	開通する	
+12533	10274	kaitsuu	かいつう	開通	opening (of a new road, railway, etc.), going into operation (e.g. telephone communication), beginning services | reopening (e.g. a road to traffic), resumption of services
 12533	10275	kata	かた	片	one (of a pair) | incomplete, imperfect, fragmentary | few, little | off-centre, remote | side, problem, question, matters, ペンス (片)  pence (monetary unit), へん (片)  counter for scraps, fragments, petals, etc., ひら (片)  counter for thin, flat things (petals, leaves, etc.), びら (片)  bill, handbill, flier, flyer, leaflet, poster, placard
 12533	10276	kyougi	きょうぎ	教義	 creed, doctrine, dogma
 12533	10277	genbutsu	げんぶつ	現物	actual article or goods | spots (stocks, foreign exchange, commodities, etc.) | (in) kind (income, benefit, rent, taxes, investment, etc.)
@@ -96,5 +96,5 @@
 12533	10296	hagemi	はげみ	励み	 (act of) encouragement, stimulus, incentive
 12533	10297	hanami	はなみ	花見	 cherry blossom viewing, flower viewing
 12533	10298	hibana	ひばな	火花	 spark
-12533	10299	byoushasuru	びょうしゃする	描写する	
+12533	10299	byousha	びょうしゃ	描写	 depiction, description, portrayal
 12533	10300	yasune	やすね	安値	 low price

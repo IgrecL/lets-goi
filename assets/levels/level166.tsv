@@ -2,7 +2,7 @@
 20245	16502	kohan	こはん	湖畔	 lake shore
 20245	16503	korogarikomu	ころがりこむ	転がり込む	to roll in, to tumble into, to visit (esp. to stay overnight as an unwanted guest), to come to live with | to fall in one's way, to fall into one's lap
 20245	16504	sakaki	さかき	榊	sakaki (species of evergreen sacred to Shinto, Cleyera japonica) | evergreen (esp. one planted or used at a shrine)
-20245	16505	zasuru	ざする	座する	to sit, to squat | to be implicated
+20245	16505	za	ざ	座	seat, place | position, status | gathering, party, company, atmosphere (of a gathering) | stand, pedestal, platform | (historical) trade guild | attaches to the names of constellations | attaches to the names of theatres, cinemas and theatrical troupes | counter for theatres, deities, Buddhist images, tall mountains, and satokagura songs
 20245	16506	shizenhogo	しぜんほご	自然保護	 nature conservation
 20245	16507	shitaaji	したあじ	下味	 seasoning of food
 20245	16508	shinogi	しのぎ	凌ぎ	 tiding over
@@ -13,19 +13,19 @@
 20245	16513	shinchou	しんちょう	慎重	 careful, cautious, prudent, discreet, deliberate
 20245	16514	shinrou	しんろう	新郎	 bridegroom
 20245	16515	jidoushasangyou	じどうしゃさんぎょう	自動車産業	 automotive industry
-20245	16516	junkyosuru	じゅんきょする	準拠する	
-20245	16517	jouseisuru	じょうせいする	醸成する	
+20245	16516	junkyo	じゅんきょ	準拠	 basis, based on, conformance, conformity, authority (of), standard, reference
+20245	16517	jousei	じょうせい	醸成	brewing, fermenting | arousing, causing, creating, fermenting, bringing about
 20245	16518	jinkenmondai	じんけんもんだい	人権問題	 human rights issue
 20245	16519	suugakusha	すうがくしゃ	数学者	 mathematician
 20245	16520	seigyou	せいぎょう	生業	occupation, calling | livelihood
 20245	16521	sekasu	せかす	急かす	 to hurry (up), to urge on, to press, to rush
 20245	16522	setsuri	せつり	摂理	 (divine) providence, dispensation
-20245	16523	sokubakusuru	そくばくする	束縛する	
+20245	16523	sokubaku	そくばく	束縛	restraint, restriction, fetters, yoke, shackles | binding, confinement with rope
 20245	16524	sodateageru	そだてあげる	育て上げる	 to raise (to maturity), to bring up, to rear, to train, to educate
 20245	16525	chuuseishin	ちゅうせいしん	忠誠心	 loyalty, faithfulness
 20245	16526	chuucho	ちゅうちょ	躊躇	 hesitation, indecision, vacillation
 20245	16527	choufuku	ちょうふく	重複	 duplication, repetition, overlapping, redundancy, restoration
-20245	16528	tsuuinsuru	つういんする	通院する	
+20245	16528	tsuuin	つういん	通院	 going to the hospital for regular treatment
 20245	16529	tsutanai	つたない	拙い	poor-quality, shoddy, crude | unskillful, inexpert, maladroit, inept, foolish, clumsy | unlucky
 20245	16530	tokoya	とこや	床屋	 barbershop, barber shop, barber
 20245	16531	tobideru	とびでる	飛び出る	to project, to protrude, to pop out (e.g. eyes) | to jump out, to rush out
@@ -39,8 +39,8 @@
 20245	16539	fui	ふい	不意	 sudden, abrupt, unexpected, unforeseen
 20245	16540	fudangi	ふだんぎ	普段着	 everyday clothes, ordinary clothes, casual wear, informal dress
 20245	16541	fufukumoushitate	ふふくもうしたて	不服申し立て	 petitioning (an administration) for redress, suing civilly to seek redress (for a court's action), lodging an appeal
-20245	16542	bujokusuru	ぶじょくする	侮辱する	
-20245	16543	henkinsuru	へんきんする	返金する	
+20245	16542	bujoku	ぶじょく	侮辱	 insult, affront, slight, contempt (e.g. of court)
+20245	16543	henkin	へんきん	返金	 repayment
 20245	16544	houshaseibusshitsu	ほうしゃせいぶっしつ	放射性物質	 radioactive material
 20245	16545	hoshuha	ほしゅは	保守派	 conservatives
 20245	16546	mainichishinbun	まいにちしんぶん	毎日新聞	
@@ -51,7 +51,7 @@
 20245	16551	yatoinushi	やといぬし	雇い主	 employer
 20245	16552	yamamotosan	やまもとさん	山本さん	
 20245	16553	yoshihiro	よしひろ	義弘	
-20245	16554	roudokusuru	ろうどくする	朗読する	
+20245	16554	roudoku	ろうどく	朗読	 reading aloud, recitation
 20245	16555	roureikouseinenkin	ろうれいこうせいねんきん	老齢厚生年金	
 20331	16556	akutou	あくとう	悪党	 scoundrel, rascal, villain
 20331	16557	ichijou	いちじょう	一条	a line, a streak, a stripe, a ray (of light), a wisp (of smoke) | one item (in an itemized form), one clause, one passage (in a book) | one matter (affair, event, case, incident) | the same logic, the same reason, ひとすじ (一筋) one long straight object (e.g. strand of hair, beam of light, wisp of smoke) | a single bloodline | earnest, resolute, intent, devoted, single-minded | ordinary, common
@@ -66,9 +66,9 @@
 20331	16566	kakimushiru	かきむしる	掻き毟る	 to tear off, to pluck, to scratch off
 20331	16567	kakugakkou	かくがっこう	各学校	
 20331	16568	kakushou	かくしょう	各省	 each ministry
-20331	16569	kakousuru	かこうする	下降する	
+20331	16569	kakou	かこう	下降	 descent, fall, drop, decline, downturn, subsidence
 20331	16570	kankyouhorumon	かんきょうほるもん	環境ホルモン	 hormone-disrupting chemicals
-20331	16571	gasshousuru	がっしょうする	合掌する	
+20331	16571	gasshou	がっしょう	合掌	pressing one's hands together in prayer | triangular frame of a thatched roof | yours sincerely, yours truly, sincerely yours
 20331	16572	kishatachi	きしゃたち	記者達	
 20331	16573	kishou	きしょう	起床	 rising (from one's bed), getting up, getting out of bed
 20331	16574	kyakkansei	きゃっかんせい	客観性	 objectivity

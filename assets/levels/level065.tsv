@@ -2,17 +2,17 @@
 7695	6402	doukutsu	どうくつ	洞窟	 cavern, cave, cave system, grotto
 7695	6403	nakigoe	なきごえ	鳴き声	 cry (esp. animal), roar, chirp, tweet, bark, whine, meow
 7704	6404	oishisa	おいしさ	美味しさ	
-7704	6405	kanetsusuru	かねつする	加熱する	
+7704	6405	kanetsu	かねつ	加熱	 heating, application of heat
 7704	6406	kutsushita	くつした	靴下	 socks, sock, stockings, stocking
 7704	6407	shikyuu	しきゅう	子宮	 womb, uterus
 7704	6408	shinshutsu	しんしゅつ	進出	 advance (into a new market or stage of progress), launching (a new career or venture), expanding (into a new market), stepping forward, emerging
-7704	6409	jamasuru	じゃまする	邪魔する	
+7704	6409	jama	じゃま	邪魔	hindrance, obstacle, nuisance, disturbance, interruption, interference | to visit (someone's home) | demon who hinders Buddhist training, demon who obstructs sentient beings from maintaining moral behaviour
 7704	6410	busho	ぶしょ	部署	 one's post, one's station, department, bureau, section
 7704	6411	minikui	みにくい	醜い	ugly, unattractive | unsightly, unseemly
 7704	6412	ryoumen	りょうめん	両面	 both sides, two sides, double-sided, リャンメン (両面)  double-sided wait (for one's last tile), wait for either of two different tiles to complete a chow which will finish one's hand
 7717	6413	kiseikanwa	きせいかんわ	規制緩和	 deregulation, removal (easing) of (official) restrictions, relaxation of regulations
 7717	6414	kyogaku	きょがく	巨額	 huge sum (esp. of money), enormous sum, massive amount
-7717	6415	shuuyousuru	しゅうようする	収容する	
+7717	6415	shuuyou	しゅうよう	収容	accommodation, reception, housing | seating | custody (e.g. awaiting deportation), internment | admission, hospitalization | entering (e.g. in dictionary)
 7717	6416	joukei	じょうけい	情景	 spectacle, sight, scene
 7717	6417	surechigau	すれちがう	擦れ違う	to pass by one another | to miss meeting each other, to miss each other | to disagree
 7717	6418	sonkei	そんけい	尊敬	 respect, esteem, reverence, honour, honor
@@ -29,7 +29,7 @@
 7731	6429	toumen	とうめん	当面	current, urgent, pressing, impending | to confront (an issue), to face (up to something) | for the meantime, at present
 7731	6430	nurasu	ぬらす	濡らす	 to wet, to moisten, to dampen, to soak, to dip
 7731	6431	hi	ひ	非	fault, error, mistake | going poorly, being disadvantageous, being unfavorable | un-, non-, an-
-7745	6432	gatchisuru	がっちする	合致する	
+7745	6432	gatchi	がっち	合致	 agreement, concurrence, conformance, compliance
 7745	6433	shouchuugakusei	しょうちゅうがくせい	小中学生	 elementary and middle school pupils
 7745	6434	tsuchikau	つちかう	培う	 to cultivate, to foster
 7745	6435	tsudou	つどう	集う	 to meet, to assemble, to congregate
@@ -39,7 +39,7 @@
 7745	6439	byoudou	びょうどう	平等	 equality, impartiality, evenness
 7745	6440	megumi	めぐみ	恵み	 blessing, grace
 7755	6441	katou	かとう	加藤	
-7755	6442	gaisuru	がいする	害する	to injure, to damage, to harm, to hurt | to kill | to hinder, to obstruct
+7755	6442	gai	がい	害	 injury, harm, evil influence, damage
 7755	6443	kitaku	きたく	帰宅	 returning home
 7755	6444	kyuukei	きゅうけい	休憩	 rest, break, recess, intermission
 7755	6445	seido	せいど	精度	 precision, accuracy
@@ -51,9 +51,9 @@
 7755	6451	myouji	みょうじ	名字	 surname, family name
 7766	6452	okome	おこめ	御米	 (husked grains of) rice
 7766	6453	kama	かま	釜	 iron pot, kettle
-7766	6454	kyozetsusuru	きょぜつする	拒絶する	
+7766	6454	kyozetsu	きょぜつ	拒絶	 refusal, rejection
 7766	6455	shuppan	しゅっぱん	出版	 publication
-7766	6456	sennensuru	せんねんする	専念する	
+7766	6456	sennen	せんねん	専念	 absorption, giving undivided attention, devoting oneself (to)
 7766	6457	taishakutaishouhyou	たいしゃくたいしょうひょう	貸借対照表	 balance sheet
 7766	6458	choutei	ちょうてい	調停	 arbitration, conciliation, mediation
 7766	6459	teien	ていえん	庭園	 garden, park
@@ -61,7 +61,7 @@
 7766	6461	hakkidekiru	はっきできる	発揮出来る	
 7766	6462	hotaru	ほたる	蛍	 firefly (Luciola cruciata), lightning bug, glowworm
 7777	6463	shigeru	しげる	茂る	 to grow thickly, to be in full leaf, to be rampant, to luxuriate, to be luxurious
-7777	6464	shimeisuru	しめいする	指名する	
+7777	6464	shimei	しめい	指名	naming, nominating, designating | calling on, asking for, requesting
 7777	6465	chuushouteki	ちゅうしょうてき	抽象的	 abstract
 7781	6466	itazura	いたずら	悪戯	mischief, prank, trick, practical joke | pastime, hobby | playing with (a lighter, etc.), fooling around with, messing around with, amusing oneself with, tampering with | lewd behaviour, sexual misconduct, sexual assault, molestation, rape, わるじゃれ (悪洒落)  offensive joke
 7781	6467	ibarakiken	いばらきけん	茨城県	 Ibaraki prefecture
@@ -78,9 +78,9 @@
 7787	6478	shotei	しょてい	所定	 prescribed, designated, appointed, fixed
 7787	6479	jouryuu	じょうりゅう	上流	upper stream, upper course, upper reaches | upstream | upper classes
 7787	6480	nagame	ながめ	眺め	 scene, view, prospect, outlook
-7787	6481	hanpatsusuru	はんぱつする	反発する	
+7787	6481	hanpatsu	はんぱつ	反発	opposition, rebellion, revolt, resistance, backlash, refusal | rebounding, recoiling, repulsion | rally (e.g. in stock prices), recovery
 7787	6482	higashigawa	ひがしがわ	東側	 east side, east bank
-7787	6483	hireisuru	ひれいする	比例する	
+7787	6483	hirei	ひれい	比例	 proportion
 7787	6484	heiseigannen	へいせいがんねん	平成元年	
 7787	6485	hodoyoi	ほどよい	程良い	moderate | proper, just right
 7804	6486	ueno	うえの	上野	 Kōzuke (former province located in present-day Gunma Prefecture)

@@ -21,9 +21,9 @@
 17433	14221	kuttaku	くったく	屈託	worry, care, concern | ennui, boredom
 17433	14222	gunma	ぐんま	群馬	 Gunma (prefecture)
 17433	14223	keizaijousei	けいざいじょうせい	経済情勢	 economic climate
-17433	14224	ketsurakusuru	けつらくする	欠落する	
+17433	14224	ketsuraku	けつらく	欠落	 missing, lacking
 17433	14225	koibitodoushi	こいびとどうし	恋人同士	 pair of lovers, girlfriend and boyfriend
-17433	14226	kougensuru	こうげんする	公言する	
+17433	14226	kougen	こうげん	公言	 declaration, profession
 17433	14227	koutekikikan	こうてききかん	公的機関	 public institution, public organization, official body
 17433	14228	saichou	さいちょう	最長	longest | oldest
 17433	14229	sadou	さどう	茶道	 tea ceremony, Way of Tea
@@ -31,11 +31,11 @@
 17433	14231	shataku	しゃたく	社宅	 company housing, housing provided by one's company
 17433	14232	shinji	しんじ	神事	divine work, miracle, superhuman feat | Shinto ritual, しんじ (神事)  Shinto ritual
 17433	14233	shinpu	しんぷ	新婦	 bride
-17433	14234	seidokasuru	せいどかする	制度化する	
-17433	14235	sesshusuru	せっしゅする	接種する	
+17433	14234	seidoka	せいどか	制度化	 systematic implementation, institutionalization (e.g. way, method)
+17433	14235	sesshu	せっしゅ	接種	 inoculation, vaccination
 17433	14236	tanken	たんけん	短剣	short sword, dagger, stiletto | hour hand (of a clock)
 17433	14237	tsutsuji	つつじ	躑躅	 azalea (Rhododendron spp.), てきちょく (躑躅) hesitation, indecision, vacillation, wavering | azalea (Rhododendron spp.)
-17433	14238	teishokusuru	ていしょくする	抵触する	
+17433	14238	teishoku	ていしょく	抵触	infringement (of a law, treaty, etc.), contravention, running afoul | conflict (with a theory, claim, etc.), inconsistency, incompatibility, contradiction | collision, contact, touching
 17433	14239	toubun	とうぶん	糖分	 amount of sugar, sugar content
 17433	14240	nankyoku	なんきょく	南極	South Pole | the Antarctic, Antarctica
 17433	14241	hanabana	はなばな	花々	flowers | beautiful, spectacular
@@ -43,11 +43,11 @@
 17433	14243	bunkyuu	ぶんきゅう	文久	 Bunkyū era (1861.2.19-1864.2.20)
 17433	14244	bonsai	ぼんさい	盆栽	 bonsai, miniature potted plant
 17433	14245	mansai	まんさい	満載	 fully loaded, full load, loaded condition
-17433	14246	min'eikasuru	みんえいかする	民営化する	
+17433	14246	min'eika	みんえいか	民営化	 privatization, privatisation
 17433	14247	yuki	ゆき	由紀	
 17433	14248	yobi	よび	予備	reserve, spare | preparation, preliminaries
 17433	14249	wafuku	わふく	和服	 Japanese clothes
-17488	14250	akushusuru	あくしゅする	握手する	
+17488	14250	akushu	あくしゅ	握手	handshake | reconciliation, joining hands, cooperation
 17488	14251	issakuhi	いっさくひ	一昨日	 day before yesterday
 17488	14252	odoriba	おどりば	踊り場	dance hall, dance floor | landing (stairs) | leveling off (e.g. in the economy), period of stagnation, cooling-off period, lull, plateau
 17488	14253	kaika	かいか	開花	flowers budding, blooming, flowering | showing results, becoming popular, blooming
@@ -67,7 +67,7 @@
 17488	14267	sanagi	さなぎ	蛹	 chrysalis, pupa
 17488	14268	shimedasu	しめだす	締め出す	 to shut out, to bar, to lock out, to exclude
 17488	14269	shujou	しゅじょう	衆生	 all living things, mankind, the people, the world
-17488	14270	shoushuusuru	しょうしゅうする	招集する	
+17488	14270	shoushuu	しょうしゅう	招集	 call, summons, convening, convocation
 17488	14271	shinmi	しんみ	親身	relation, relative | kind, cordial
 17488	14272	jiichan	じいちゃん	爺ちゃん	grandfather (may be used after name as honorific) | male senior-citizen (may be used after name as honorific)
 17488	14273	juuissai	じゅういっさい	十一歳	
@@ -87,7 +87,7 @@
 17488	14287	tokuyaku	とくやく	特約	 special contract, special agreement, rider (insurance)
 17488	14288	totsunyuu	とつにゅう	突入	rushing into, breaking into, storming | plunging into (war, etc.), embarking on (a new venture)
 17488	14289	nenchou	ねんちょう	年長	 senior, older
-17488	14290	battekisuru	ばってきする	抜擢する	
+17488	14290	batteki	ばってき	抜擢	 selection (esp. from many people for an important job position), exceptional promotion
 17488	14291	hitonigiri	ひとにぎり	一握り	handful | small amount, small number
 17488	14292	musekinin	むせきにん	無責任	 irresponsibility
 17488	14293	moro	もろ	諸	 various, many, several, もろもろ (諸々)  all kinds of things, various things, large number of people, もろ (諸) both | many, various, all | together
@@ -96,5 +96,5 @@
 17488	14296	yuuhodou	ゆうほどう	遊歩道	 promenade, esplanade
 17488	14297	yokojiku	よこじく	横軸	abscissa, horizontal axis | horizontal scroll
 17552	14298	atsuko	あつこ	敦子	
-17552	14299	ikiikisuru	いきいきする	生き生きする	
+17552	14299	ikiiki	いきいき	生き生き	 in a lively way, vividly, freshly, animatedly, actively, energetically
 17552	14300	ikkagetsumae	いっかげつまえ	一箇月前	

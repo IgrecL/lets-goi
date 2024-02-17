@@ -2,7 +2,7 @@
 27205	22102	boukyaku	ぼうきゃく	忘却	 lapse of memory, forgetting completely, (consigning to) oblivion
 27205	22103	bouhan	ぼうはん	防犯	prevention of crime | security (device, camera, etc.)
 27205	22104	boumei	ぼうめい	亡命	 flight from one's country, seeking asylum, defection, emigration (for political reasons), (going into) exile, becoming a (political) refugee
-27205	22105	botsurakusuru	ぼつらくする	没落する	
+27205	22105	botsuraku	ぼつらく	没落	 ruin, fall, collapse
 27205	22106	marunouchi	まるのうち	丸の内	
 27205	22107	migikiki	みぎきき	右利き	 right-handedness, right-handed person, right-hander
 27205	22108	miyoko	みよこ	美代子	
@@ -28,9 +28,9 @@
 27385	22128	undoushinkei	うんどうしんけい	運動神経	 motor nerves, reflexes
 27385	22129	eisei	えいせい	衛生	 hygiene, sanitation, health
 27385	22130	edaha	えだは	枝葉	branches and leaves, foliage | unimportant details, nonessentials, side issue, digression
-27385	22131	oujousuru	おうじょうする	往生する	
+27385	22131	oujou	おうじょう	往生	passing on to the next life | death | giving up a struggle, submission | being at one's wits' end, being flummoxed | coercion
 27385	22132	oosakaben	おおさかべん	大阪弁	 Ōsaka dialect
-27385	22133	ooshiesuru	おおしえする	御教えする	
+27385	22133	ooshie	おおしえ	御教え	
 27385	22134	ooterasan	おおてらさん	大寺さん	
 27385	22135	otsukisama	おつきさま	御月様	 the Moon
 27385	22136	otoutosan	おとうとさん	弟さん	 younger brother
@@ -55,17 +55,17 @@
 27385	22155	ketteizukeru	けっていづける	決定付ける	
 27385	22156	kentouitasu	けんとういたす	検討致す	
 27385	22157	geboku	げぼく	下僕	 manservant
-27385	22158	genshutsusuru	げんしゅつする	現出する	
+27385	22158	genshutsu	げんしゅつ	現出	 appearance, emergence
 27385	22159	genbakutouka	げんばくとうか	原爆投下	
-27385	22160	koukokusuru	こうこくする	公告する	
+27385	22160	koukoku	こうこく	公告	 public announcement, official notice
 27385	22161	kokuei	こくえい	国営	 government management, state management
 27385	22162	kozure	こづれ	子連れ	taking one's children along (to an event, into a new marriage, etc.) | parent with child
 27385	22163	godaigotennou	ごだいごてんのう	後醍醐天皇	
 27385	22164	gomeifuku	ごめいふく	御冥福	
 27385	22165	gorieki	ごりえき	御利益	grace (of God), divine favour, blessing, miracle, answer to a prayer | benefit | efficacy
 27385	22166	saihanshouwa	さいはんしょうわ	最判昭和	
-27385	22167	sashizusuru	さしずする	指図する	
-27385	22168	samagawarisuru	さまがわりする	様変わりする	
+27385	22167	sashizu	さしず	指図	 directions, instructions, orders, command
+27385	22168	samagawari	さまがわり	様変わり	 changing completely, transformation
 27385	22169	zaihou	ざいほう	財宝	 treasure
 27385	22170	shikikin	しききん	敷金	 (security) deposit, caution money
 27385	22171	shigenhaibun	しげんはいぶん	資源配分	 resource allocation
@@ -85,9 +85,9 @@
 27385	22185	joujoukigyou	じょうじょうきぎょう	上場企業	 listed company (on a stock exchange)
 27385	22186	suisha	すいしゃ	水車	water wheel | water turbine, hydraulic turbine | violent wielding of weapons
 27385	22187	suiyoueki	すいようえき	水溶液	 (translucent) aqueous solution
-27385	22188	sudoorisuru	すどおりする	素通りする	
+27385	22188	sudoori	すどおり	素通り	 passing through without stopping, passing by
 27385	22189	seigyodekiru	せいぎょできる	制御出来る	
-27385	22190	seikeisuru	せいけいする	成型する	
+27385	22190	seikei	せいけい	成型	cast, mold, mould, casting, molding, moulding, compacting (e.g. in metallurgy) | forming, shaping, fashioning
 27385	22191	seisangaku	せいさんがく	生産額	 amount of production
 27385	22192	seitai	せいたい	声帯	 vocal cords
 27385	22193	sewashinai	せわしない	忙しない	 restless, fidgety, in a hurry

@@ -1,5 +1,5 @@
 9053	7501	tsudoi	つどい	集い	 meeting, get-together (e.g. among friends)
-9053	7502	baishuusuru	ばいしゅうする	買収する	
+9053	7502	baishuu	ばいしゅう	買収	acquisition (esp. corporate), buy-out, takeover, purchase | bribery, buying off, corruption
 9053	7503	hyoushiki	ひょうしき	標識	 sign, mark, flag
 9053	7504	meisei	めいせい	名声	 fame, reputation, renown
 9068	7505	ittou	いっとう	一頭	 one large animal (horses, cattle, etc.), head (of cattle)
@@ -10,13 +10,13 @@
 9068	7510	zenkokukakuchi	ぜんこくかくち	全国各地	 every region of the country, all corners of the country, nationwide
 9068	7511	naishin	ないしん	内心	inner thoughts, real intention, inmost heart, one's mind | at heart, deep down, on the inside | inner center (centre)
 9068	7512	hahen	はへん	破片	 fragment, broken piece, splinter, chip, shard
-9068	7513	fujousuru	ふじょうする	浮上する	
+9068	7513	fujou	ふじょう	浮上	surfacing, rising to the surface | emerging, leaping into prominence | rising (of rank)
 9068	7514	bunmen	ぶんめん	文面	 content of a letter
 9068	7515	meijin	めいじん	名人	 master, expert
 9068	7516	yokuyoku	よくよく	良く良く	 exceedingly, very
 9086	7517	kaishain	かいしゃいん	会社員	 company employee, office worker, white-collar worker
-9086	7518	jimansuru	じまんする	自慢する	
-9086	7519	seitoukasuru	せいとうかする	正当化する	
+9086	7518	jiman	じまん	自慢	 pride, boast
+9086	7519	seitouka	せいとうか	正当化	 justification, warrant
 9086	7520	terebikyoku	てれびきょく	テレビ局	 television station
 9086	7521	futosa	ふとさ	太さ	
 9086	7522	mukidashi	むきだし	剥き出し	naked, bare, uncovered | frank, open, blunt
@@ -37,7 +37,7 @@
 9110	7537	saeko	さえこ	冴子	
 9110	7538	shingikai	しんぎかい	審議会	 council (deliberative, consultative), commission of inquiry (enquiry)
 9110	7539	jukeisha	じゅけいしゃ	受刑者	 prisoner, convict
-9110	7540	seijukusuru	せいじゅくする	成熟する	
+9110	7540	seijuku	せいじゅく	成熟	 maturity, ripeness
 9110	7541	habakaru	はばかる	憚る	to hesitate, to have scruples, to be afraid of what others may think | to lord it over, to have great influence
 9110	7542	musashi	むさし	武蔵	 Musashi (former province located in parts of present-day Tokyo, Kanagawa and Saitama prefectures)
 9119	7543	kanwa	かんわ	緩和	 relief, mitigation, alleviation, relaxation (of restrictions, tensions, etc.), easing, softening
@@ -61,7 +61,7 @@
 9140	7561	ishitsu	いしつ	異質	 different (quality, nature), heterogeneous
 9140	7562	irei	いれい	異例	 exceptional, unusual, extraordinary, unprecedented, singular
 9140	7563	ooita	おおいた	大分	 considerably, greatly, a lot, おおいた (大分)  Ōita (city, prefecture)
-9140	7564	kangensuru	かんげんする	還元する	
+9140	7564	kangen	かんげん	還元	restoration, return | reduction, resolution, deoxidization, deoxidation
 9140	7565	shounentachi	しょうねんたち	少年達	
 9140	7566	shoyuu	しょゆう	所有	 one's possessions, ownership
 9140	7567	jizokukanou	じぞくかのう	持続可能	 sustainable
@@ -87,14 +87,14 @@
 9174	7587	kagameru	かがめる	屈める	 to stoop, to bend (e.g. one's knees)
 9174	7588	kyouryuu	きょうりゅう	恐竜	 dinosaur
 9174	7589	kokudokoutsuushou	こくどこうつうしょう	国土交通省	 Ministry of Land, Infrastructure, Transport and Tourism
-9174	7590	chouwasuru	ちょうわする	調和する	
+9174	7590	chouwa	ちょうわ	調和	 harmony, accord, reconciliation, agreement
 9174	7591	teikoku	ていこく	帝国	empire | imperial
 9174	7592	denryoku	でんりょく	電力	 electric power
-9174	7593	hakkakusuru	はっかくする	発覚する	
+9174	7593	hakkaku	はっかく	発覚	 detection (of a plot, fraud, etc.), discovery, coming to light, being uncovered
 9174	7594	hizamazuku	ひざまずく	跪く	 to kneel
 9186	7595	aozameru	あおざめる	青褪める	 to become pale, to turn pale
 9186	7596	ise	いせ	伊勢	Ise (former province located in the major part of present-day Mie Prefecture and parts of Aichi and Gifu prefectures) | Ise (city)
 9186	7597	koutei	こうてい	工程	 process, operation, stage of a process, progress of work
-9186	7598	shinposuru	しんぽする	進歩する	
+9186	7598	shinpo	しんぽ	進歩	 progress, advance, improvement, development
 9186	7599	suiro	すいろ	水路	waterway, canal, channel, watercourse, aqueduct | swimming pool lane
 9186	7600	totetsu	とてつ	途轍	

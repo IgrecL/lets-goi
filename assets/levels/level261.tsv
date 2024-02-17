@@ -1,8 +1,8 @@
 32181	26001	hei	へい	丙	third rank, third class, third person (in a contract, etc.) | third sign of the Chinese calendar
 32181	26002	henkyaku	へんきゃく	返却	 return of something, repayment
-32181	26003	houfutsusuru	ほうふつする	彷彿する	
+32181	26003	houfutsu	ほうふつ	彷彿	(bearing a) close resemblance, vivid reminder (e.g. of the past) | dim, faint, vague, blurred
 32181	26004	hokutan	ほくたん	北端	 northern extremity
-32181	26005	hoshuusuru	ほしゅうする	補修する	
+32181	26005	hoshuu	ほしゅう	補修	 repair, mending
 32181	26006	hozeichiiki	ほぜいちいき	保税地域	 bonded area (i.e. customs)
 32181	26007	bosshuu	ぼっしゅう	没収	 forfeiture, seizure, confiscation, impounding
 32181	26008	manegoto	まねごと	真似事	imitation, copy, make-believe, pretence, sham | doing something in a way that only superficially resembles the real thing
@@ -20,13 +20,13 @@
 32181	26020	yokogaki	よこがき	横書き	 writing horizontally, horizontal writing
 32181	26021	raishun	らいしゅん	来春	 next spring
 32181	26022	raijou	らいじょう	来場	 attendance
-32181	26023	raitensuru	らいてんする	来店する	
+32181	26023	raiten	らいてん	来店	 coming to a store (restaurant, bar, shop, etc.)
 32181	26024	rikaishiau	りかいしあう	理解し合う	 to reach mutual understanding, to understand each other
 32181	26025	rikongo	りこんご	離婚後	
 32181	26026	ritsu	りつ	律	law (esp. ancient East Asian criminal code), regulation | vinaya (rules for the monastic community) | Ritsu (school of Buddhism) | lushi (style of Chinese poem) | (musical) pitch | six odd-numbered notes of the ancient chromatic scale | Japanese seven-tone gagaku scale, similar to Dorian mode (corresponding to re, mi, fa, so, la, ti, do) | (in traditional Eastern music) step (corresponding to a Western semitone)
 32181	26027	wakareme	わかれめ	分かれ目	fork, junction, parting of the ways | turning point
 32181	26028	wakekata	わけかた	分け方	
-32181	26029	wazawaisuru	わざわいする	災いする	 to be the ruin of (a person)
+32181	26029	wazawai	わざわい	災い	 disaster, calamity, misfortune, trouble, woes
 32181	26030	warusugiru	わるすぎる	悪過ぎる	
 32442	26031	aiteiikakumei	あいてぃーかくめい	ＩＴ革命	 IT revolution, information revolution
 32442	26032	amami	あまみ	奄美	
@@ -89,7 +89,7 @@
 32442	26089	kougashitsu	こうがしつ	高画質	 high image quality
 32442	26090	koukokudairiten	こうこくだいりてん	広告代理店	 advertising agency, advertising firm, advertising company
 32442	26091	kouji	こうじ	麹	 kōji, malted rice, malt, malt-like material from growing mold on rice, barley, beans, etc. (used as a starter to make sake, miso, soy sauce, etc.)
-32442	26092	kouyousuru	こうようする	紅葉する	
+32442	26092	kouyou	こうよう	紅葉	autumn colours, fall colors, leaves changing color (colour) | leaves turning red, red leaves | leaves turning yellow, yellow leaves | (Japanese) maple (Acer japonicum) | venison | layered colors in garments, resembling autumn colors
 32442	26093	kokunaisen	こくないせん	国内線	 domestic air route, domestic airline (company)
 32442	26094	konachiizu	こなちーず	粉チーズ	 powdered cheese, cheese powder
 32442	26095	koroshiai	ころしあい	殺し合い	

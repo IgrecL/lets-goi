@@ -16,9 +16,9 @@
 27385	22216	doushi	どうし	同誌	 same magazine
 27385	22217	nannenkan	なんねんかん	何年間	 many years
 27385	22218	ninpusan	にんぷさん	妊婦さん	
-27385	22219	netomarisuru	ねとまりする	寝泊まりする	
+27385	22219	netomari	ねとまり	寝泊まり	 staying the night, lodging (at)
 27385	22220	hatarakimono	はたらきもの	働き者	 hard worker, hardworking person
-27385	22221	happusuru	はっぷする	発布する	
+27385	22221	happu	はっぷ	発布	 proclamation, promulgation
 27385	22222	hatoyama	はとやま	鳩山	
 27385	22223	haberu	はべる	侍る	 to wait upon, to serve
 27385	22224	hankouki	はんこうき	反抗期	 rebellious phase, rebellious age
@@ -26,33 +26,33 @@
 27385	22226	hikiuke	ひきうけ	引き受け	 undertaking, underwriting, acceptance
 27385	22227	hyousou	ひょうそう	表層	 surface, outer layer
 27385	22228	fugoukaku	ふごうかく	不合格	 (examination) failure, rejection, disqualification
-27385	22229	fuyuusuru	ふゆうする	浮遊する	
+27385	22229	fuyuu	ふゆう	浮遊	floating, drifting, suspension | wandering (about)
 27385	22230	furishikiru	ふりしきる	降り頻る	 to fall incessantly (rain, snow, etc.), to downpour
 27385	22231	hetarikomu	へたりこむ	へたり込む	 to sit down hard, to sink down to the floor
 27385	22232	hoshoukeiyaku	ほしょうけいやく	保証契約	
 27385	22233	hokkyoku	ほっきょく	北極	North Pole | the Arctic
-27385	22234	hodousuru	ほどうする	補導する	
+27385	22234	hodou	ほどう	補導	 guidance, protective custody
 27385	22235	horikaesu	ほりかえす	掘り返す	to dig up, to turn up, to tear up | to rake up (e.g. old scandal), to dig over
 27385	22236	bogo	ぼご	母語	mother tongue, native language | protolanguage, parent language
 27385	22237	mashoumen	ましょうめん	真正面	 directly opposite, right in front
 27385	22238	machihazure	まちはずれ	町外れ	 outskirts (of a town), edge (of a town), just outside the city limits
 27385	22239	mamushi	まむし	蝮	 pit viper (esp. the mamushi, Gloydius blomhoffi)
-27385	22240	mansaisuru	まんさいする	満載する	
-27385	22241	mippeisuru	みっぺいする	密閉する	
+27385	22240	mansai	まんさい	満載	 fully loaded, full load, loaded condition
+27385	22241	mippei	みっぺい	密閉	 shutting tightly, making airtight, sealing hermetically
 27385	22242	minpoujou	みんぽうじょう	民法上	
 27385	22243	meguri	めぐり	巡り	circumference, girth | tour, pilgrimage | circulation (e.g. of blood)
 27385	22244	mouhatsu	もうはつ	毛髪	 hair
 27385	22245	modaeru	もだえる	悶える	to writhe (in pain), to be in agony | to be anguished, to be agonized, to be troubled
 27385	22246	mochi	もち	望	full moon | 15th day of the lunar month
 27385	22247	yamanobori	やまのぼり	山登り	 mountain climbing, mountaineering
-27385	22248	yarikurisuru	やりくりする	遣り繰りする	
+27385	22248	yarikuri	やりくり	遣り繰り	 making do, getting by (somehow), managing
 27385	22249	yousho	ようしょ	要所	 important point, important position
 27385	22250	youchekku	ようちぇっく	要チェック	
 27385	22251	yomikikaseru	よみきかせる	読み聞かせる	 to read aloud to another
 27385	22252	yomidasu	よみだす	読み出す	 to read out (e.g. data from a computer or process), to retrieve
-27385	22253	rakusensuru	らくせんする	落選する	
+27385	22253	rakusen	らくせん	落選	 election loss, rejection
 27385	22254	rikaisha	りかいしゃ	理解者	 understanding person, supporter
-27385	22255	risuru	りする	利する	to profit, to benefit from | to take advantage of, to make good use of
+27385	22255	ri	り	利	 advantage, benefit, profit, interest
 27385	22256	ryuukougo	りゅうこうご	流行語	 buzzword, vogue word, popular phrase
 27385	22257	ryuutsuugyousha	りゅうつうぎょうしゃ	流通業者	
 27385	22258	riyouhou	りようほう	利用法	 usage, way to use, utilization
@@ -87,7 +87,7 @@
 27555	22287	kichibee	きちべえ	吉兵衛	
 27555	22288	kyougijou	きょうぎじょう	競技場	 field, sports stadium, arena
 27555	22289	kiritaosu	きりたおす	切り倒す	 to cut down, to chop down, to fell
-27555	22290	kin'ensuru	きんえんする	禁煙する	
+27555	22290	kin'en	きんえん	禁煙	abstaining from smoking, quitting smoking | No Smoking!, Smoking Prohibited!
 27555	22291	kuminsentaa	くみんせんたー	区民センター	
 27555	22292	kuriimuiro	くりーむいろ	クリーム色	 cream (colour, color)
 27555	22293	kei	けい	計	plan | meter, measuring device | (in) total, total (of), はか (捗)  progress

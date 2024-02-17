@@ -1,10 +1,10 @@
 8674	7201	aidagara	あいだがら	間柄	 relationship, relation, terms (good, friendly, etc.)
-8674	7202	kansokusuru	かんそくする	観測する	
+8674	7202	kansoku	かんそく	観測	 observation, survey, measurement
 8674	7203	kyoutoshi	きょうとし	京都市	
 8674	7204	seishi	せいし	精子	 sperm
 8674	7205	settoku	せっとく	説得	 persuasion
 8674	7206	sougosayou	そうごさよう	相互作用	 interaction
-8674	7207	choutatsusuru	ちょうたつする	調達する	
+8674	7207	choutatsu	ちょうたつ	調達	 supply, provision, raising, procurement
 8674	7208	hyakushou	ひゃくしょう	百姓	farmer, peasant, country bumpkin | farming | the common people, ひゃくせい (百姓)  the common people, おおみたから (大御宝)  imperial subjects, the people
 8674	7209	fureau	ふれあう	触れ合う	 to come into contact with, to touch (each other), to have a brush with
 8674	7210	wameku	わめく	喚く	 to shout, to cry, to scream, to clamour
@@ -16,7 +16,7 @@
 8693	7216	engeki	えんげき	演劇	 drama, theatre, theater, play
 8693	7217	obachan	おばちゃん	伯母ちゃん	 auntie, older woman
 8693	7218	kaiken	かいけん	会見	 interview, audience, meeting, (viewing) party
-8693	7219	kouansuru	こうあんする	考案する	
+8693	7219	kouan	こうあん	考案	 plan, device, idea, design, contrivance, conception, invention
 8693	7220	koukoujidai	こうこうじだい	高校時代	 one's high school days
 8693	7221	jika	じか	時価	 current value, price, market value
 8693	7222	chiebukuro	ちえぶくろ	知恵袋	fount of knowledge, the smart one (of a group of people), brains | bag full of wisdom, bag containing all the world's wisdom
@@ -28,9 +28,9 @@
 8710	7228	oie	おいえ	御家	your home, your family, their home, their family | (my) home
 8710	7229	okuyuki	おくゆき	奥行き	 depth, length
 8710	7230	keiyakusho	けいやくしょ	契約書	 (written) contract, agreement
-8710	7231	shikisuru	しきする	指揮する	
+8710	7231	shiki	しき	指揮	 command, direction
 8710	7232	jikkai	じっかい	十回	 ten times
-8710	7233	soubisuru	そうびする	装備する	
+8710	7233	soubi	そうび	装備	 equipment
 8710	7234	zouyo	ぞうよ	贈与	 donation, presentation
 8710	7235	teguchi	てぐち	手口	 modus operandi, criminal technique, trick
 8710	7236	tobitsuku	とびつく	飛び付く	 to jump at, to be attracted by
@@ -50,9 +50,9 @@
 8732	7250	kinyoubi	きんようび	金曜日	 Friday
 8732	7251	kenmei	けんめい	賢明	 wise, sensible, well-advised, intelligent, sagacious, prudent
 8732	7252	satori	さとり	悟り	comprehension, understanding | enlightenment, spiritual awakening, satori
-8732	7253	shougensuru	しょうげんする	証言する	
-8732	7254	jushinsuru	じゅしんする	受信する	
-8732	7255	joukyousuru	じょうきょうする	上京する	
+8732	7253	shougen	しょうげん	証言	 testimony, (verbal) evidence
+8732	7254	jushin	じゅしん	受信	 receiving (a message, letter, email, etc.), reception (radio, TV, etc.)
+8732	7255	joukyou	じょうきょう	上京	 proceeding to the capital (Tokyo)
 8732	7256	tabeyasui	たべやすい	食べ易い	
 8732	7257	de	で	出	coming out, going out, outflow, efflux, rising (of the Sun or the Moon) | attending (work), appearing (on stage), one's turn to go on | start, beginning | origins, background, person (or item) originating from ..., graduate of ..., native of ..., member of ... (lineage) | architectural member that projects outward | highest point of the stern of a ship | amount (comprising something), amount of time or effort required to do something, しゅつ (出) coming out, emerging | being born into (a certain family), being a native of (a particular place)
 8732	7258	betsumei	べつめい	別名	 alias, pseudonym, pen name, nom de plume, different name, other name
@@ -61,11 +61,11 @@
 8746	7261	kai	かい	買い	buying, shopping | buyer | purchase
 8746	7262	kokorogamae	こころがまえ	心構え	 preparedness, readiness, mental attitude, frame of mind
 8746	7263	saikai	さいかい	再会	 another meeting, meeting again, reunion
-8746	7264	saishusuru	さいしゅする	採取する	
+8746	7264	saishu	さいしゅ	採取	 picking, collecting, harvesting
 8746	7265	shigemi	しげみ	茂み	 thicket, coppice, brushwood
 8746	7266	juushin	じゅうしん	重心	centre of gravity (center) | centroid, barycenter | (one's) balance
-8746	7267	senteisuru	せんていする	選定する	
-8746	7268	netchuusuru	ねっちゅうする	熱中する	
+8746	7267	sentei	せんてい	選定	 selection
+8746	7268	netchuu	ねっちゅう	熱中	 being enthusiastic about, being wild about, being absorbed in, being engrossed in, being devoted to
 8746	7269	hissu	ひっす	必須	 indispensable, essential, requisite, required, compulsory, necessary
 8746	7270	busshi	ぶっし	物資	 goods, materials, commodities, resources, supplies
 8746	7271	medo	めど	目処	aim, goal | prospect, outlook
@@ -80,7 +80,7 @@
 8771	7280	an	あん	餡	red bean paste, red bean jam, anko | kudzu sauce | filling (of a dumpling, etc.) | filling, stuffing, inside
 8771	7281	ohahasama	おははさま	御母様	 mother, おたあさま (御母様)  mother
 8771	7282	kashin	かしん	家臣	 vassal, retainer
-8771	7283	kangekisuru	かんげきする	感激する	
+8771	7283	kangeki	かんげき	感激	 deep emotion, impression, inspiration
 8771	7284	kansa	かんさ	監査	 inspection, audit, judgement, judgment
 8771	7285	gunmaken	ぐんまけん	群馬県	 Gunma prefecture (Kanto area)
 8771	7286	kodai	こだい	古代	 ancient times
@@ -96,5 +96,5 @@
 8790	7296	zaru	ざる	笊	draining basket (traditionally made of bamboo), colander, strainer, sieve | something full of holes | zaru soba | strong drinker, someone who can drink like a fish
 8790	7297	shiitake	しいたけ	椎茸	 shiitake mushroom (Lentinula edodes)
 8790	7298	shokugo	しょくご	食後	 after a meal
-8790	7299	senshutsusuru	せんしゅつする	選出する	
+8790	7299	senshutsu	せんしゅつ	選出	 election, selection, choice
 8790	7300	souzokujin	そうぞくじん	相続人	 heir, heiress, inheritor

@@ -1,4 +1,4 @@
-4150	3501	kanyosuru	かんよする	関与する	
+4150	3501	kanyo	かんよ	関与	 participation, taking part in, participating in, being concerned in
 4150	3502	konponteki	こんぽんてき	根本的	 fundamental, basic
 4150	3503	mochimono	もちもの	持ち物	 one's property, personal effects, one's belongings
 4150	3504	yuushi	ゆうし	融資	 financing, loan
@@ -23,7 +23,7 @@
 4177	3523	doukou	どうこう	同項	
 4177	3524	beigun	べいぐん	米軍	 US armed forces
 4177	3525	mageru	まげる	曲げる	to bend, to crook, to bow, to curve, to curl | to lean, to tilt, to incline, to slant | to bend (the truth), to distort, to twist, to pervert | to yield (a point), to depart (from a principle), to ignore (what one really thinks) | to pawn
-4183	3526	kikokusuru	きこくする	帰国する	
+4183	3526	kikoku	きこく	帰国	 return to one's country
 4183	3527	nattoku	なっとく	納得	consent, assent, agreement | understanding, comprehension, grasp
 4183	3528	miyako	みやこ	都	capital (esp. Kyoto, Japan's former capital), seat of government | capital (of music, fashion, etc.), city (e.g. of light) | location of the Imperial Palace, と (都) Metropolis (of Tokyo), (Tokyo) Metropolitan District, metropolitan prefecture | counter for cities and towns | capital
 4187	3529	koudai	こうだい	広大	 vast, extensive, immense, huge, large, grand, magnificent
@@ -49,7 +49,7 @@
 4210	3549	yobidasu	よびだす	呼び出す	to summon, to call (e.g. phone), to convene, to decoy, to lure | to invoke (e.g. subroutine), to call, to open (e.g. a file)
 4212	3550	shigusa	しぐさ	仕草	gesture, movement, action, behavior, behaviour, bearing, mannerism | acting, performance
 4212	3551	jourei	じょうれい	条例	regulations, rules | (local) regulation, ordinance, bylaw, law
-4212	3552	teishisuru	ていしする	停止する	
+4212	3552	teishi	ていし	停止	stoppage, coming to a stop, halt, standstill | ceasing (movement, activity, etc.), suspension (of operations), interruption (e.g. of electricity supply), cutting off | suspension (of payment, licence, etc.), (temporary) prohibition, ban | suspension of music, dance, etc. as a sign of mourning for a prominent person
 4215	3553	kyoten	きょてん	拠点	 position, location, base, point, site
 4216	3554	muishiki	むいしき	無意識	unconsciousness | unconscious, involuntary, automatic, mechanical, unintentional, spontaneous | the unconscious (psychoanalysis)
 4216	3555	yuushou	ゆうしょう	優勝	 overall victory, championship
@@ -57,21 +57,21 @@
 4218	3557	saiwai	さいわい	幸い	happiness, blessedness, luck, fortune, felicity | luckily, fortunately
 4218	3558	hane	はね	羽根	feather, plume, down | wing | blade (of a fan, propeller, etc.) | shuttlecock (in badminton) | shuttlecock (in hanetsuki) | arrow feathers
 4221	3559	kansai	かんさい	関西	Kansai, region consisting of Osaka, Kobe, Kyoto and surrounding prefectures | Kansai, south-western half of Japan (during the feudal era)
-4221	3560	koukaisuru	こうかいする	後悔する	
+4221	3560	koukai	こうかい	後悔	 regret, repentance, remorse
 4221	3561	someru	そめる	染める	 to dye, to colour, to color
 4221	3562	hatsu	はつ	初	 first, new, うぶ (初) innocent, naive, unsophisticated, inexperienced, green, wet behind the ears | birth-, ぞめ (初め)  first doing of ... (ever, in one's life, in the new year, etc.)
-4221	3563	rikonsuru	りこんする	離婚する	
+4221	3563	rikon	りこん	離婚	 divorce
 4226	3564	kan	かん	感	feeling, sensation, emotion, admiration, impression | interjection
 4226	3565	sahodo	さほど	然程	 (not) so, (not) particularly, (not) very, (not) that much
 4226	3566	tayori	たより	頼り	 reliance, dependence
 4226	3567	hozen	ほぜん	保全	 preservation, integrity, conservation, maintenance
 4226	3568	yakeru	やける	焼ける	to burn, to be roasted, to be heated, to be sunburnt, to fade (in the sun), to glow red (i.e. of the sky at sunset) | to be jealous, to be envious
-4231	3569	kougekisuru	こうげきする	攻撃する	
+4231	3569	kougeki	こうげき	攻撃	attack, assault, raid, onslaught, offensive | criticism, censure, denunciation, condemnation
 4231	3570	tenkeiteki	てんけいてき	典型的	 typical, representative, archetypal, quintessential, stereotypical, model
-4231	3571	yokuseisuru	よくせいする	抑制する	
+4231	3571	yokusei	よくせい	抑制	 control, restraint, suppression, constraint, curtailment, inhibition, check, curb
 4235	3572	igo	いご	以後	after this, from now on, hereafter | thereafter, since (then), after
-4235	3573	keikakusuru	けいかくする	計画する	
-4235	3574	shozokusuru	しょぞくする	所属する	
+4235	3573	keikaku	けいかく	計画	 plan, project, schedule, scheme, program, programme
+4235	3574	shozoku	しょぞく	所属	 belonging to (a group, organization, etc.), affiliation (with), being attached to, being under the control of
 4235	3575	jiku	じく	軸	axis, shaft, axle | center, centre, focal point, key point | stalk, stem | hanging scroll
 4239	3576	isshou	いっしょう	一生	whole life, a lifetime, all through life, one existence, a generation, an age, the whole world, the era | (the only, the greatest, etc.) of one's life
 4239	3577	kasseika	かっせいか	活性化	stimulation (e.g. of an economy), revitalization (e.g. of a town), rejuvenation, invigoration | activation
@@ -92,9 +92,9 @@
 4262	3592	oru	おる	折る	to break, to fracture, to break off, to snap off, to pick (e.g. flowers) | to fold, to bend | to make (origami) | to interrupt, to end
 4264	3593	tomu	とむ	富む	to be rich in, to abound in, to be abundant in, to be full of | to be rich, to be wealthy
 4266	3594	jounetsu	じょうねつ	情熱	 passion, enthusiasm, zeal
-4266	3595	hanmeisuru	はんめいする	判明する	
-4268	3596	kanryousuru	かんりょうする	完了する	
+4266	3595	hanmei	はんめい	判明	 establishing, proving, ascertaining, identifying, confirming
+4268	3596	kanryou	かんりょう	完了	completion, conclusion | perfect (tense, form, aspect), ワンラ (完了)  end, completion
 4268	3597	saiwai	さいわい	幸い	happiness, blessedness, luck, fortune, felicity | luckily, fortunately
 4270	3598	azukaru	あずかる	預かる	to look after, to take care of, to keep, to hold on to, to keep in custody | to be put in charge of, to be given responsibility for, to be entrusted with | to withhold (an announcement), to reserve (judgment), to leave undecided | to take upon oneself (to do), to settle (a matter) oneself
 4270	3599	atehamaru	あてはまる	当て嵌まる	 to apply (a rule), to be applicable, to come under (a category), to fulfill, to hold true
-4270	3600	insatsusuru	いんさつする	印刷する	
+4270	3600	insatsu	いんさつ	印刷	 printing

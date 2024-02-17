@@ -3,7 +3,7 @@
 11676	9603	honkaigi	ほんかいぎ	本会議	 plenary session, regular session
 11676	9604	memoto	めもと	目元	eyes, expression of the eyes | area around the eyes, skin round one's eyes
 11676	9605	yawaragu	やわらぐ	和らぐ	 to soften, to calm down, to be eased, to be mitigated, to subside, to abate
-11676	9606	yusuru	ゆする	揺する	to shake, to jolt, to rock (cradle), to swing | to blackmail, to extort, to shake down
+11676	9606	yu	ゆ	揺	 vibration, flickering, jolting, tremor
 11676	9607	yohou	よほう	予報	 forecast, prediction
 11706	9608	ando	あんど	安堵	relief, reassurance | recognition of right to land ownership (by the shogunate, a feudal lord, etc.) | living safely surrounded by walls
 11706	9609	oryouri	おりょうり	御料理	
@@ -15,14 +15,14 @@
 11706	9615	sashi	さし	差し	between (e.g. two people), face to face | hindrance, impediment | arrhythmic section of recitative in noh music | playing with only 2 players | prefix used for stress or emphasis | counter for traditional dance songs, さし (尺)  ruler, measure
 11706	9616	shihoomupeeji	しほーむぺーじ	市ホームページ	
 11706	9617	shusshinchi	しゅっしんち	出身地	 birthplace, native place
-11706	9618	sentakusuru	せんたくする	洗濯する	
+11706	9618	sentaku	せんたく	洗濯	washing, laundry | relaxing, taking a break
 11706	9619	tanomoshii	たのもしい	頼もしい	reliable, trustworthy | hopeful, promising
 11706	9620	dairi	だいり	代理	 representation, agency, proxy, deputy, agent, attorney, substitute, alternate, acting (principal, etc.)
 11706	9621	darashinai	だらしない	だらし無い	slovenly (appearance, work, etc.), sloppy, untidy, undisciplined, careless, loose, slack | weak, feeble, weak-willed, gutless
 11706	9622	tekii	てきい	敵意	 hostility, animosity, enmity
 11706	9623	tenchi	てんち	天地	heaven and earth, the universe, nature, top and bottom, realm, sphere, world | top and bottom | gods of heaven and earth
 11706	9624	haigan	はいがん	肺癌	 lung cancer
-11706	9625	yuuhatsusuru	ゆうはつする	誘発する	
+11706	9625	yuuhatsu	ゆうはつ	誘発	 inducing, causing, triggering, giving rise to
 11706	9626	yunyuuhin	ゆにゅうひん	輸入品	 imported goods
 11706	9627	rindou	りんどう	林道	path through forest, woodland path | logging road
 11735	9628	ada	あだ	仇	foe, enemy, rival | resentment, enmity, grudge | harm, injury, かたき (敵) rival, opponent, adversary, competitor, enemy (esp. one with which there is longstanding enmity), foe | revenge | spouse
@@ -59,17 +59,17 @@
 11770	9659	kuroppoi	くろっぽい	黒っぽい	 dark, blackish
 11770	9660	keikikaifuku	けいきかいふく	景気回復	 economic comeback (rebound, recovery, turnaround)
 11770	9661	kenchou	けんちょう	堅調	firm (market), bullish | strong (sales, economy, etc.), steady, sound
-11770	9662	gekigensuru	げきげんする	激減する	
+11770	9662	gekigen	げきげん	激減	 dramatic decrease, sharp drop, sudden fall
 11770	9663	genzei	げんぜい	減税	 tax reduction
-11770	9664	koousuru	こおうする	呼応する	
-11770	9665	sabetsusuru	さべつする	差別する	
+11770	9664	koou	こおう	呼応	hailing each other | acting in concert, responding (to), sympathizing (with) | agreement, concord
+11770	9665	sabetsu	さべつ	差別	distinction, differentiation, discrimination | discrimination (against people)
 11770	9666	sahou	さほう	作法	manners, etiquette, propriety | manner of production (esp. of prose, poetry, etc.), way of making
 11770	9667	shiin	しいん	死因	 cause of death
 11770	9668	shuken	しゅけん	主権	 sovereignty, supremacy, dominion
 11770	9669	jizokuteki	じぞくてき	持続的	 continuous, sustained, sustainable, durable, persistent
 11770	9670	tamerai	ためらい	躊躇い	 faltering, hesitation
 11770	9671	daiku	だいく	大工	 carpenter
-11770	9672	teimeisuru	ていめいする	低迷する	
+11770	9672	teimei	ていめい	低迷	 hanging low (over), hovering around (price level), low hanging (e.g. clouds), sluggish (e.g. economy), slump, recession
 11770	9673	dentou	でんとう	電灯	 electric light
 11770	9674	doukoku	どうこく	同国	 the same country, the same province, the said country
 11770	9675	nagaredasu	ながれだす	流れ出す	 to flow out, to stream out, to pour out, to gush forth, to leak, to ooze out, to drift away
@@ -85,7 +85,7 @@
 11806	9685	kakiwakeru	かきわける	掻き分ける	 to push aside, to push one's way through
 11806	9686	kachitoru	かちとる	勝ち取る	 to exert oneself and win, to gain (victory)
 11806	9687	seikatsuhogo	せいかつほご	生活保護	 livelihood protection, public assistance, welfare
-11806	9688	seifukusuru	せいふくする	征服する	
+11806	9688	seifuku	せいふく	征服	 conquest, subjugation, overcoming
 11806	9689	taisa	たいさ	大差	 great difference, big difference, wide margin
 11806	9690	chouhoukei	ちょうほうけい	長方形	 rectangle, oblong
 11806	9691	tokushusei	とくしゅせい	特殊性	 special characteristics, peculiarity, distinctiveness

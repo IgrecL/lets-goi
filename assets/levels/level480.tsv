@@ -5,7 +5,7 @@
 60601	47905	shinkakuseibutsu	しんかくせいぶつ	真核生物	 eukaryote, eucaryote
 60601	47906	shinkawa	しんかわ	新川	
 60601	47907	shinkichi	しんきち	新吉	
-60601	47908	shinkousuru	しんこうする	進攻する	
+60601	47908	shinkou	しんこう	進攻	 attack, drive, advance, invasion
 60601	47909	shinkousei	しんこうせい	進行性	 progressive (worsening disease or condition)
 60601	47910	shinkouseiryoku	しんこうせいりょく	新興勢力	
 60601	47911	shinkoudo	しんこうど	進行度	 rate of progression
@@ -42,7 +42,7 @@
 60601	47942	juumangoku	じゅうまんごく	十万石	
 60601	47943	juumannin'ijou	じゅうまんにんいじょう	十万人以上	
 60601	47944	judoukitsuen	じゅどうきつえん	受動喫煙	 passive smoking, second-hand smoking
-60601	47945	junkasuru	じゅんかする	純化する	
+60601	47945	junka	じゅんか	純化	purification, refining | simplification
 60601	47946	jouisha	じょういしゃ	上位者	 person of high rank or position
 60601	47947	joueichuu	じょうえいちゅう	上映中	
 60601	47948	jougengaku	じょうげんがく	上限額	
@@ -77,11 +77,11 @@
 60601	47977	seidosekkei	せいどせっけい	制度設計	
 60601	47978	seibijuujitsu	せいびじゅうじつ	整備・充実	
 60601	47979	seimyou	せいみょう	精妙	 exquisite
-60601	47980	seiyousuru	せいようする	静養する	
+60601	47980	seiyou	せいよう	静養	 (convalescent) rest
 60601	47981	sekijou	せきじょう	席上	 at the meeting, on the occasion
 60601	47982	setsuzokufu	せつぞくふ	接続ファイル	
 60601	47983	senjou	せんじょう	線状	 linear
-60601	47984	sensuru	せんする	宣する	 to announce, to declare
+60601	47984	sen	せん	宣	 imperial order, imperial decree
 60601	47985	senretsu	せんれつ	戦列	 line of battle
 60601	47986	zeichou	ぜいちょう	税調	 tax system research commission, tax system research council, select committee on the taxation system, tax commission
 60601	47987	zen'inshuugou	ぜんいんしゅうごう	全員集合	

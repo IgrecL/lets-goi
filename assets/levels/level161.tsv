@@ -5,12 +5,12 @@
 19610	16005	detchiageru	でっちあげる	捏ち上げる	to fabricate, to invent, to make up (a story), to hoax, to pull a hoax | to cobble up, to put together in a hurry
 19610	16006	toyotajidousha	とよたじどうしゃ	豊田自動車	
 19610	16007	niganigashii	にがにがしい	苦々しい	 unpleasant, disgusting, loathsome, shameful, scandalous
-19610	16008	haisuru	はいする	排する	to push aside, to overcome (e.g. difficulties), to reject | to align, to put in order | to push open
+19610	16008	hai	はい	排	 anti-
 19610	16009	hatsudensho	はつでんしょ	発電所	 power plant, power station
-19610	16010	hanpukusuru	はんぷくする	反復する	
-19610	16011	byoushisuru	びょうしする	病死する	
+19610	16010	hanpuku	はんぷく	反復	 repetition, iteration, recursion, recurrence, recapitulation
+19610	16011	byoushi	びょうし	病死	 death from disease, death from illness
 19610	16012	fu	ふ	腑	 internal organ, viscera, gut
-19610	16013	furisuru	ふりする	振りする	
+19610	16013	furi	ふり	振り	swing, shake, wave, swinging | appearance, behaviour | pretence (pretense), show, pretending (to) | going to restaurant, hotel etc. without a reservation or introduction | move (dance), postures | lead in (e.g. to a running joke, asking a question), lead up | unsewn part of a hanging sleeve on a traditional Japanese woman's garment | counter for swords, blades, etc. | not wearing underwear or pants, ぶり (振り) style, manner, way | after (period of time) again (e.g. meeting again after a year), for the first time in (period of time)
 19610	16014	houfu	ほうふ	抱負	 aspiration, ambition, plan, hopes, wishes
 19610	16015	hosogiri	ほそぎり	細切り	chopping finely, slicing up finely | something chopped up finely, ほそぎり (細切り)  thin strips, matchstick-like strips, julienned ingredient
 19610	16016	mayoikomu	まよいこむ	迷い込む	 to stray into, to lose one's way (and enter), to wander into
@@ -20,7 +20,7 @@
 19610	16020	yawarakasa	やわらかさ	柔らかさ	 softness, tenderness
 19610	16021	yoshiaki	よしあき	義昭	
 19610	16022	yonaka	よなか	夜中	 middle of the night, dead of night, やちゅう (夜中)  during the night, at night, よじゅう (夜中)  all night, the whole night
-19610	16023	ryougasuru	りょうがする	凌駕する	
+19610	16023	ryouga	りょうが	凌駕	 excelling, surpassing, outdoing
 19610	16024	ryousen	りょうせん	稜線	 ridgeline, lines of a mountain ridge
 19610	16025	ryouriya	りょうりや	料理屋	 restaurant
 19610	16026	rengoukoku	れんごうこく	連合国	allied nations | the Allies (World War I, World War II)
@@ -33,8 +33,8 @@
 19687	16033	ushirodate	うしろだて	後ろ盾	backing, support, backer, supporter, patron, sponsor | shield that protects one's back
 19687	16034	ooe	おおえ	大江	
 19687	16035	omochikudasaru	おもちくださる	御持ち下さる	
-19687	16036	kaishousuru	かいしょうする	改称する	
-19687	16037	kaininsuru	かいにんする	解任する	
+19687	16036	kaishou	かいしょう	改称	 renaming, retitling
+19687	16037	kainin	かいにん	解任	 dismissal (from a post), discharge, removal
 19687	16038	kaeritsuku	かえりつく	帰り着く	 to arrive home, to return
 19687	16039	kakusan	かくさん	拡散	 scattering, diffusion, spread (e.g. signal across the spectrum)
 19687	16040	kakuteishinkokusho	かくていしんこくしょ	確定申告書	
@@ -53,7 +53,7 @@
 19687	16053	shoutenkyori	しょうてんきょり	焦点距離	 focal length
 19687	16054	jisshitou	じっしとう	実施等	
 19687	16055	jimuin	じむいん	事務員	 clerk, office worker, office staff
-19687	16056	jinmonsuru	じんもんする	尋問する	
+19687	16056	jinmon	じんもん	尋問	 questioning, interrogation, examination (of a witness)
 19687	16057	suiiki	すいいき	水域	 waters, water area
 19687	16058	suukasho	すうかしょ	数箇所	 various places, several sources
 19687	16059	surikaeru	すりかえる	擦り替える	 to switch (secretly), to substitute, to sidestep (an issue)
@@ -66,11 +66,11 @@
 19687	16066	chirakaru	ちらかる	散らかる	 to be in disorder, to lie scattered around
 19687	16067	tsuitachiumare	ついたちうまれ	一日生まれ	
 19687	16068	tsukaisute	つかいすて	使い捨て	 throwaway, disposable, single-use
-19687	16069	tenkousuru	てんこうする	転校する	
+19687	16069	tenkou	てんこう	転校	 changing schools
 19687	16070	tounai	とうない	党内	 party-internal
 19687	16071	tokugawabakufu	とくがわばくふ	徳川幕府	 Tokugawa shogunate (i.e. the Edo shogunate, 1603-1867)
 19687	16072	tokeau	とけあう	溶け合う	 to melt together
-19687	16073	toraisuru	とらいする	渡来する	
+19687	16073	torai	とらい	渡来	visit (from abroad) | introduction (from abroad), importation
 19687	16074	nankai	なんかい	南海	 southern sea
 19687	16075	nipponhatsu	にっぽんはつ	日本初	 first (of its kind) in Japan
 19687	16076	nusumi	ぬすみ	盗み	 stealing
@@ -79,7 +79,7 @@
 19687	16079	harainokeru	はらいのける	払い除ける	 to ward off, to brush away, to fling off, to drive away
 19687	16080	hitan	ひたん	悲嘆	 grief, sorrow, anguish, lamentation
 19687	16081	hitsuyousaishougen	ひつようさいしょうげん	必要最小限	
-19687	16082	hininsuru	ひにんする	否認する	
+19687	16082	hinin	ひにん	否認	 denial, negation, repudiation, disapproval
 19687	16083	hyoukaran	ひょうからん	評価欄	
 19687	16084	hyougo	ひょうご	標語	 motto, slogan, catchword
 19687	16085	fudan	ふだん	不断	constant, persistent, unremitting, ceaseless | indecisiveness | usual, normal, everyday, habitual, ordinary

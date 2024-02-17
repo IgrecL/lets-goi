@@ -3,24 +3,24 @@
 13164	10803	senrei	せんれい	洗礼	 baptism
 13164	10804	ze	ぜ	是	here, this place | this point, here, now | these past ... (e.g. three years), these last ... | the next ... (e.g. few days), these next ..., これ (此れ) this, this one | this person | now, this point (in time) | here | used to stress the subject of a sentence | I, me, ぜ (是)  righteousness, justice, right
 13164	10805	zensetsu	ぜんせつ	前節	 preceding paragraph, section, or verse
-13164	10806	soukisuru	そうきする	想起する	
-13164	10807	soushousuru	そうしょうする	総称する	
+13164	10806	souki	そうき	想起	remembering, recollection, recall, retrieval | to remember, to recall, to recollect, to call to mind, to envision
+13164	10807	soushou	そうしょう	総称	 general term, generic name
 13164	10808	chuuouseifu	ちゅうおうせいふ	中央政府	 central government
 13164	10809	douzen	どうぜん	同然	 similar to, same, right, proper, just, natural
 13164	10810	hamekomu	はめこむ	嵌め込む	to inlay, to insert, to set | to plug in (to a formula), to immerse | to trick, to deceive
 13164	10811	houritsuteki	ほうりつてき	法律的	 juristical, legal
-13164	10812	hokyuusuru	ほきゅうする	補給する	
+13164	10812	hokyuu	ほきゅう	補給	 supply, supplying, replenishment
 13164	10813	bousaitaisaku	ぼうさいたいさく	防災対策	
 13164	10814	meguriau	めぐりあう	巡り会う	 to meet fortuitously (e.g. running into an old friend), to meet by chance, to happen across
 13164	10815	motodoori	もとどおり	元通り	 as before, as ever, as it was originally
 13199	10816	unadareru	うなだれる	項垂れる	 to hang one's head, to droop one's head
-13199	10817	eigyousuru	えいぎょうする	営業する	
+13199	10817	eigyou	えいぎょう	営業	business, trade, operations | sales
 13199	10818	oubohouhou	おうぼほうほう	応募方法	
 13199	10819	kyuuyakuseisho	きゅうやくせいしょ	旧約聖書	 Old Testament
 13199	10820	kugiri	くぎり	区切り	punctuation, pause, juncture | end, (place to) stop
 13199	10821	kusaki	くさき	草木	 plants, vegetation
 13199	10822	ketsuryuu	けつりゅう	血流	 bloodstream, blood flow
-13199	10823	joushasuru	じょうしゃする	乗車する	
+13199	10823	jousha	じょうしゃ	乗車	 boarding (a train, bus, etc.), getting into (e.g. a taxi)
 13199	10824	surinukeru	すりぬける	擦り抜ける	 to slip through, to make one's way through quickly
 13199	10825	seishinshougaisha	せいしんしょうがいしゃ	精神障害者	 person with a mental disorder, person with a mental illness
 13199	10826	sekaisaidai	せかいさいだい	世界最大	 world's largest
@@ -43,8 +43,8 @@
 13234	10843	kan'u	かんう	関羽	
 13234	10844	gaijin	がいじん	外人	foreigner (esp. one of European ancestry), gaijin | outsider
 13234	10845	kibuntenkan	きぶんてんかん	気分転換	 change of pace, change of mood, (mental) break (e.g. going for a walk), refreshment
-13234	10846	kyuusaisuru	きゅうさいする	救済する	
-13234	10847	kussuru	くっする	屈する	to yield, to give in, to be daunted, to shrink | to bend (knee, etc.) | to subdue, to overpower | to feel down
+13234	10846	kyuusai	きゅうさい	救済	relief, aid, help, rescue | (religious) salvation, (Christian) grace, くさい (救済)  salvation (from suffering based on Buddha's teachings)
+13234	10847	kutsu	くっ	屈	
 13234	10848	getsuyoubi	げつようび	月曜日	 Monday
 13234	10849	genmai	げんまい	玄米	 unpolished rice, unmilled rice, brown rice, くろごめ (黒米) unpolished rice, unmilled rice, brown rice | black rice
 13234	10850	kokuritsudaigaku	こくりつだいがく	国立大学	 national university
@@ -53,11 +53,11 @@
 13234	10853	shimekiru	しめきる	締め切る	to close up, to shut up (e.g. behind doors) | to cut off (e.g. because a deadline has expired), to close off (e.g. subscription list)
 13234	10854	shouka	しょうか	消化	digestion (of food) | digestion (of information), assimilation, thorough understanding | consumption, absorption, using up, meeting (e.g. a quota), completion | losing one's form and turning into something else
 13234	10855	shin	しん	信	honesty, sincerity, fidelity | trust, reliance, confidence | (religious) faith, devotion | counter for received messages
-13234	10856	suru	する	剃る	 to shave
+13234	10856			剃る	 to shave
 13234	10857	seichouritsu	せいちょうりつ	成長率	 growth rate
 13234	10858	zoushoku	ぞうしょく	増殖	 increase, multiplication, propagation, proliferation
 13234	10859	dakiageru	だきあげる	抱き上げる	 to hold up in one's arms
-13234	10860	choushusuru	ちょうしゅする	聴取する	
+13234	10860	choushu	ちょうしゅ	聴取	hearing (of a statement, opinion, explanation, etc.), asking, questioning (e.g. a suspect), enquiry | listening (e.g. to the radio)
 13234	10861	tesaki	てさき	手先	fingers, fingertips | underling, stooge, tool, pawn, minion
 13234	10862	tounyuu	とうにゅう	投入	throwing in, inserting, depositing (e.g. a ballot) | investment, commitment (of funds, personnel, etc.), injection, infusion | launching (a product into the market), introduction | submitting (a job to a computer), issuing (a command)
 13234	10863	tokuchou	とくちょう	特長	 forte, merit
@@ -86,15 +86,15 @@
 13275	10886	shishuu	ししゅう	詩集	 poetry anthology, collection of poems, collected poems
 13275	10887	shouzouga	しょうぞうが	肖像画	 portrait
 13275	10888	shozon	しょぞん	所存	 opinion, intention, thought
-13275	10889	shobatsusuru	しょばつする	処罰する	
+13275	10889	shobatsu	しょばつ	処罰	 punishment, penalty
 13275	10890	suumei	すうめい	数名	 several people
 13275	10891	zenkeisho	ぜんけいしょ	前掲書	 (in the work) cited, aforementioned work, op. cit. (opere citato, opus citatum)
 13275	10892	sou	そう	相	one's nature, one's destiny | custom, tradition, habit, convention, あい (相)  together, mutually, fellow, そう (相) appearance, look, countenance | a 'seeming' that fortune-tellers relate to one's fortune | aspect | phase (e.g. solid, liquid and gaseous), こもごも (交々)  alternately, in succession, しょう (相)  minister of state
 13275	10893	taki	たき	多岐	 digression, many divergences
 13275	10894	chokkan	ちょっかん	直感	 intuition, instinct, insight, hunch, immediacy
-13275	10895	naizousuru	ないぞうする	内蔵する	
-13275	10896	nagamochisuru	ながもちする	長持ちする	
+13275	10895	naizou	ないぞう	内蔵	 internal (e.g. disk), built-in, equipped (with), うちくら (内蔵) storeroom (attached to a house) | Imperial warehouse
+13275	10896	nagamochi	ながもち	長持ち	long-lasting, long-wearing, wears well | nagamochi, large oblong chest (for clothing, personal effects, etc.)
 13275	10897	netsuretsu	ねつれつ	熱烈	 ardent, passionate, vehement
 13275	10898	fukasu	ふかす	吹かす	to smoke (a cigarette) | to behave as ... | to accelerate, to rev up
 13275	10899	fuhoukoui	ふほうこうい	不法行為	 tort, illegal act, illegal activity, offence, offense
-13275	10900	bunkasuru	ぶんかする	分化する	
+13275	10900	bunka	ぶんか	分化	 specialization, specialisation, differentiation

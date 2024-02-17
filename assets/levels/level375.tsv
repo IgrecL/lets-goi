@@ -10,15 +10,15 @@
 47039	37410	zettaisei	ぜったいせい	絶対性	
 47039	37411	souzan	そうざん	早産	 premature birth
 47039	37412	sousofu	そうそふ	曾祖父	 great-grandfather, great-granddad, great-grandad
-47039	37413	soutensuru	そうてんする	装填する	
+47039	37413	souten	そうてん	装填	 loading, charging, filling
 47039	37414	soubihin	そうびひん	装備品	 (item of) equipment, accessories (bike, auto)
 47039	37415	soshikitai	そしきたい	組織体	 organizational entity, organisational entity, body
-47039	37416	soseisuru	そせいする	蘇生する	
+47039	37416	sosei	そせい	蘇生	revival, resuscitation | revitalization, rejuvenation, regeneration
 47039	37417	sore	それ	夫れ	
 47039	37418	soreigai	それいがい	其れ以外	
 47039	37419	songaibaishoukin	そんがいばいしょうきん	損害賠償金	
 47039	37420	sonzaidekiru	そんざいできる	存在出来る	
-47039	37421	zouchikusuru	ぞうちくする	増築する	
+47039	37421	zouchiku	ぞうちく	増築	 addition to a building
 47039	37422	taigoku	たいごく	大獄	 roundup, wholesale arrest
 47039	37423	taishinkaishuu	たいしんかいしゅう	耐震改修	
 47039	37424	taisetsu	たいせつ	体節	 segment, arthromere, metamere, somite
@@ -36,7 +36,7 @@
 47039	37436	tansuigyo	たんすいぎょ	淡水魚	 freshwater fish
 47039	37437	daikansei	だいかんせい	大歓声	 loud shout, excited cheering
 47039	37438	daimyouka	だいみょうか	大名家	
-47039	37439	chikansuru	ちかんする	置換する	
+47039	37439	chikan	ちかん	置換	substitution, replacement | permutation | substitution, displacement
 47039	37440	chihoubu	ちほうぶ	地方部	
 47039	37441	chashaku	ちゃしゃく	茶杓	 bamboo tea spoon for making Japanese tea
 47039	37442	chafuutou	ちゃふうとう	茶封筒	 brown envelope, manila envelope
@@ -54,7 +54,7 @@
 47039	37454	tsumeyouji	つめようじ	爪楊枝	 toothpick
 47039	37455	teii	ていい	低位	 lower position
 47039	37456	tetsuyuki	てつゆき	哲之	
-47039	37457	tewakesuru	てわけする	手分けする	
+47039	37457	tewake	てわけ	手分け	 division of labour, division of labor, splitting into groups (e.g. to search)
 47039	37458	ten	てん	転	turning around (once) | suddenly, abruptly | completely (wrapped in something), quickly (unwrapping something) | beautiful, round (eyes) | flail (for threshing grain), てん (転) change in pronunciation or meaning of a word, sound change, word with an altered pronunciation or meaning | turning or twisting part of a text (in Chinese poetry), うたた (転)  more and more, increasingly, all the more
 47039	37459	tentou	てんとう	点灯	 lighting (a lamp), turning on a light
 47039	37460	deitan	でいたん	泥炭	 peat
@@ -63,7 +63,7 @@
 47039	37463	touchouki	とうちょうき	盗聴器	 listening device, bug, wiretap
 47039	37464	toubatsu	とうばつ	討伐	 subjugation (using military force), suppression, subduing
 47039	37465	toufuya	とうふや	豆腐屋	 tofu seller (maker)
-47039	37466	touryuusuru	とうりゅうする	逗留する	
+47039	37466	touryuu	とうりゅう	逗留	 staying, sojourn
 47039	37467	tootoumi	とおとうみ	遠江	 Tōtōmi (former province located in the west of present-day Shizuoka Prefecture)
 47039	37468	tokiko	ときこ	時子	
 47039	37469	tokugawazei	とくがわぜい	徳川勢	 Tokugawa forces
@@ -93,7 +93,7 @@
 47039	37493	nikkouyoku	にっこうよく	日光浴	 sunbathing
 47039	37494	nipponshakaitou	にっぽんしゃかいとう	日本社会党	 Socialist Party of Japan (until 1996, became the Social Democratic Party of Japan from 1996)
 47039	37495	nyuujiki	にゅうじき	乳児期	 infancy, babyhood
-47039	37496	nesshousuru	ねっしょうする	熱唱する	
+47039	37496	nesshou	ねっしょう	熱唱	 singing enthusiastically
 47039	37497	netsuben	ねつべん	熱弁	 impassioned speech, fervent speech
 47039	37498	nenreikaikyuubetsu	ねんれいかいきゅうべつ	年齢階級別	
 47039	37499	nouikketsu	のういっけつ	脳溢血	 cerebral apoplexy

@@ -4,9 +4,9 @@
 17042	13904	shitsubou	しつぼう	失望	 disappointment, despair
 17042	13905	shoudougu	しょうどうぐ	小道具	small tool, gadget | (stage) properties, prop | prop master
 17042	13906	shinkinkan	しんきんかん	親近感	 affinity, feeling of closeness (with someone), feeling of kinship
-17042	13907	shinkousuru	しんこうする	信仰する	
+17042	13907	shinkou	しんこう	信仰	 (religious) faith, belief, creed
 17042	13908	jibun'igai	じぶんいがい	自分以外	
-17042	13909	junkansuru	じゅんかんする	循環する	
+17042	13909	junkan	じゅんかん	循環	 circulation, rotation, cycle, loop
 17042	13910	junrei	じゅんれい	巡礼	 pilgrimage, pilgrim
 17042	13911	suusei	すうせい	趨勢	 tendency, trend
 17042	13912	zeppin	ぜっぴん	絶品	 superb piece of work, masterpiece, exquisite item, perfection, unique article
@@ -15,14 +15,14 @@
 17042	13915	chuudan	ちゅうだん	中断	 interruption, suspension, break
 17042	13916	tsuuka	つうか	通過	passing through (a tunnel, station, town, etc.), passing by (e.g. of a typhoon), transit | passage (of a bill, e.g. through parliament), carriage | passing (an examination, inspection, etc.), clearing
 17042	13917	tegara	てがら	手柄	 achievement, feat, meritorious deed, distinguished service
-17042	13918	tekichuusuru	てきちゅうする	的中する	
+17042	13918	tekichuu	てきちゅう	的中	hitting the target, striking home | proving to be right, coming true, being on the mark
 17042	13919	tougoku	とうごく	東国	 eastern country, eastern provinces, Kanto provinces
 17042	13920	donaritsukeru	どなりつける	怒鳴り付ける	 to shout at
 17042	13921	donyoku	どんよく	貪欲	avarice, greed, covetousness | raga (desire)
 17042	13922	nakisakebu	なきさけぶ	泣き叫ぶ	 to cry and shout, to scream
 17042	13923	hakkou	はっこう	発酵	 fermentation, zymosis
 17042	13924	hinin	ひにん	避妊	 contraception
-17042	13925	hennyuusuru	へんにゅうする	編入する	
+17042	13925	hennyuu	へんにゅう	編入	 admission, incorporation, enlistment, enrollment
 17042	13926	musenran	むせんらん	無線ＬＡＮ	 wireless local area network, wireless LAN, WLAN
 17042	13927	youiku	よういく	養育	 bringing up, rearing, upbringing
 17042	13928	ritou	りとう	離島	isolated island, outlying island | leaving an island
@@ -38,8 +38,8 @@
 17103	13938	omodatsu	おもだつ	主立つ	 to be main, to be principal, to be important, to be conspicuous, to be prominent
 17103	13939	kaigosaabisu	かいごさーびす	介護サービス	 nursing-care service
 17103	13940	kaizoudo	かいぞうど	解像度	 resolution (of a display, printer, scanner, etc.)
-17103	13941	kaimetsusuru	かいめつする	壊滅する	
-17103	13942	kasuru	かする	科する	 to inflict, to impose (a fine, etc.)
+17103	13941	kaimetsu	かいめつ	壊滅	 destruction, annihilation, devastation, catastrophe
+17103	13942	ka	か	科	department, section, faculty, school, arm | course (of study), branch of study, specialization | (taxonomical) family, しな (品) article, item, thing, goods, stock | quality | flirtatiousness, coquetry, とが (咎) error, mistake, fault | sin, wrongdoing, offense, しな (科)  Japanese linden (Tilia japonica)
 17103	13943	kataoka	かたおか	片岡	
 17103	13944	kabushikitoushi	かぶしきとうし	株式投資	 equity investment
 17103	13945	kantouchihou	かんとうちほう	関東地方	 Kanto region (incl. Tokyo, Kanagawa, Saitama, Gunma, Tochigi, Ibaraki and Chiba prefectures)
@@ -51,16 +51,16 @@
 17103	13951	kobashiri	こばしり	小走り	trot, half run, jog | girl in charge of menial tasks in a samurai family
 17103	13952	konshuumatsu	こんしゅうまつ	今週末	 this weekend
 17103	13953	saigyou	さいぎょう	西行	 going west, heading westward
-17103	13954	saihatsusuru	さいはつする	再発する	
+17103	13954	saihatsu	さいはつ	再発	 return, relapse, recurrence
 17103	13955	sameshima	さめしま	鮫島	
 17103	13956	shitekidekiru	してきできる	指摘出来る	
 17103	13957	shifuku	しふく	私服	civilian clothes, plain clothes, mufti | plainclothes police officer
 17103	13958	shouritsu	しょうりつ	勝率	 winning percentage
-17103	13959	shinryakusuru	しんりゃくする	侵略する	
+17103	13959	shinryaku	しんりゃく	侵略	 aggression, invasion, raid
 17103	13960	jikoshihon	じこしほん	自己資本	 net worth, owned capital
 17103	13961	juuichijihan	じゅういちじはん	十一時半	
 17103	13962	juupun	じゅうぷん	十分	 10 minutes, じゅうぶん (十分) enough, sufficient, plenty, adequate, satisfactory | sufficiently, fully, thoroughly, well, perfectly | division into ten
-17103	13963	juyousuru	じゅようする	受容する	
+17103	13963	juyou	じゅよう	受容	 reception
 17103	13964	joban	じょばん	序盤	 the opening(s) (e.g. in a game of go or chess)
 17103	13965	seppatsumaru	せっぱつまる	切羽詰まる	 to be at one's wits' end, to be cornered, to be packed to the hilt
 17103	13966	sennin	せんにん	仙人	immortal mountain wizard (in Taoism), mountain man (esp. a hermit) | person not bound by earthly desires
@@ -90,11 +90,11 @@
 17170	13990	unpan	うんぱん	運搬	 transport, transportation, conveyance, carriage
 17170	13991	kaigosha	かいごしゃ	介護者	 caregiver, carer
 17170	13992	kaisatsu	かいさつ	改札	examination of tickets | ticket gate, ticket barrier
-17170	13993	kaidansuru	かいだんする	会談する	
+17170	13993	kaidan	かいだん	会談	 conversation, conference (usu. between important people), discussion, interview
 17170	13994	kanazawa	かなざわ	金沢	 Kanazawa (city in Ishikawa)
 17170	13995	kankyoufuka	かんきょうふか	環境負荷	 environmental burden, environmental load
 17170	13996	kangoku	かんごく	監獄	 prison
-17170	13997	kanchisuru	かんちする	完治する	
+17170	13997	kanchi	かんち	完治	 complete recovery
 17170	13998	gaitou	がいとう	外套	 overcoat, greatcoat, cloak, wrap, mantle
-17170	13999	kizetsusuru	きぜつする	気絶する	
+17170	13999	kizetsu	きぜつ	気絶	 faint, swoon
 17170	14000	kyoudo	きょうど	匈奴	 Xiongnu, ancient Central Asian nomadic people often associated with the Huns

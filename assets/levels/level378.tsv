@@ -1,5 +1,5 @@
 47630	37701	kazeikakaku	かぜいかかく	課税価格	
-47630	37702	kadaihyoukasuru	かだいひょうかする	過大評価する	
+47630	37702	kadaihyouka	かだいひょうか	過大評価	 overestimation, overvaluing
 47630	37703	kachisusumu	かちすすむ	勝ち進む	 to win and advance to the next round
 47630	37704	katsuragi	かつらぎ	桂木	
 47630	37705	katorisenkou	かとりせんこう	蚊取り線香	 mosquito coil, anti-mosquito incense
@@ -7,9 +7,9 @@
 47630	37707	kaheikeizai	かへいけいざい	貨幣経済	 monetary economy
 47630	37708	kamitani	かみたに	紙谷	
 47630	37709	kan	かん	燗	 warming up sake, warmed sake
-47630	37710	kankasuru	かんかする	看過する	
+47630	37710	kanka	かんか	看過	 overlooking, turning a blind eye
 47630	37711	kangaegatai	かんがえがたい	考え難い	 difficult to imagine, quite unlikely to, very doubtful, would not expect
-47630	37712	kankinsuru	かんきんする	換金する	
+47630	37712	kankin	かんきん	換金	 realization (of goods into money), conversion (into money), liquidation
 47630	37713	kansahoukokusho	かんさほうこくしょ	監査報告書	 audit report
 47630	37714	kansengen	かんせんげん	感染源	 source of infection
 47630	37715	kanzenjisshi	かんぜんじっし	完全実施	
@@ -19,16 +19,16 @@
 47630	37719	gaikokusan	がいこくさん	外国産	 foreign (product, esp. agricultural), of foreign manufacture
 47630	37720	gara	がら	殻	 shell, husk, hull, pod, chaff, がら (殻) chicken bones (e.g. for soup), chicken carcass | poor-quality coke (coal) | left-overs, remnants, かく (殻)  shell (e.g. electron shell), かい (卵)  egg, eggshell
 47630	37721	garasuita	がらすいた	ガラス板	
-47630	37722	gan'isuru	がんいする	含意する	
+47630	37722	gan'i	がんい	含意	implication, connotation | (logical) implication, material conditional, material consequence
 47630	37723	ganjin	がんじん	鑑真	
 47630	37724	kikinaosu	ききなおす	聞き直す	 to listen again, to ask again
 47630	37725	kikiwake	ききわけ	聞き分け	 reasonableness (esp. of children), obedience
 47630	37726	kigyouhimitsu	きぎょうひみつ	企業秘密	 company or industrial secret, trade secret
 47630	37727	kikori	きこり	木こり	 woodcutter, lumberjack, logger
 47630	37728	kijunhi	きじゅんひ	基準日	
-47630	37729	kijousuru	きじょうする	騎乗する	
+47630	37729	kijou	きじょう	騎乗	 riding (on horseback), mounting (a horse)
 47630	37730	kitazawa	きたざわ	北沢	
-47630	37731	kichousuru	きちょうする	記帳する	
+47630	37731	kichou	きちょう	記帳	 registry, entry, book-keeping, signature
 47630	37732	kibisu	きびす	踵	 heel (of foot, shoe, stocking, etc.)
 47630	37733	kihonkenkoushinsa	きほんけんこうしんさ	基本健康診査	
 47630	37734	kihonsekkei	きほんせっけい	基本設計	 baseline design, preliminary design, basic design
@@ -37,7 +37,7 @@
 47630	37737	kyousera	きょうせら	京セラ	
 47630	37738	kyousouritsu	きょうそうりつ	競争率	 competition rate, success rate, ratio of successful (applicants) to total applicants
 47630	37739	kyoubou	きょうぼう	狂暴	 rage, frenzy
-47630	37740	kyoraisuru	きょらいする	去来する	
+47630	37740	kyorai	きょらい	去来	 coming and going, recurring (esp. thoughts)
 47630	37741	kinkyuutaisaku	きんきゅうたいさく	緊急対策	 emergency measures, urgent countermeasures
 47630	37742	kinjitsuchuu	きんじつちゅう	近日中	
 47630	37743	kinmuchuu	きんむちゅう	勤務中	 on duty, at work, while working
@@ -45,7 +45,7 @@
 47630	37745	gyoushoujin	ぎょうしょうじん	行商人	 peddler, pedlar, hawker
 47630	37746	ginsei	ぎんせい	銀製	 made of silver
 47630	37747	ginmedaru	ぎんめだる	銀メダル	 silver medal
-47630	37748	kussakusuru	くっさくする	掘削する	
+47630	37748	kussaku	くっさく	掘削	 digging out, excavation
 47630	37749	kumasan	くまさん	熊さん	
 47630	37750	kumiaichou	くみあいちょう	組合長	
 47630	37751	kuramoto	くらもと	蔵元	brewery (sake, soy), brewer | warehouse overseer
@@ -58,7 +58,7 @@
 47630	37758	keijirou	けいじろう	慶次郎	
 47630	37759	keitora	けいとら	軽トラ	 minitruck, light truck, small truck, light pickup
 47630	37760	keiyakukaijo	けいやくかいじょ	契約解除	
-47630	37761	keiyousuru	けいようする	掲揚する	
+47630	37761	keiyou	けいよう	掲揚	 hoisting (e.g. a flag), raising, flying, putting up
 47630	37762	kenkoukyoushitsu	けんこうきょうしつ	健康教室	
 47630	37763	kenkouhokenhou	けんこうほけんほう	健康保険法	 the Health Insurance Act
 47630	37764	kensatsutoukeinenpou	けんさつとうけいねんぽう	検察統計年報	
@@ -67,9 +67,9 @@
 47630	37767	genkaihiyou	げんかいひよう	限界費用	 marginal cost
 47630	37768	gengoshougai	げんごしょうがい	言語障害	 speech impediment, speech disorder
 47630	37769	genpuku	げんぷく	元服	male coming-of-age-ceremony | (of a newly married woman in the Edo period) shaving one's eyebrows, blackening one's teeth, and wearing one's hair in the marumage style
-47630	37770	genmetsusuru	げんめつする	幻滅する	
+47630	37770	genmetsu	げんめつ	幻滅	 disillusionment
 47630	37771	kou	こう	恋う	 to love
-47630	37772	koukansuru	こうかんする	好感する	
+47630	37772	koukan	こうかん	好感	 good feeling, good will, favourable impression, favorable impression
 47630	37773	kouki	こうき	後記	postscript | undermentioned, described below
 47630	37774	kouki	こうき	香気	 fragrance
 47630	37775	kougyouchitai	こうぎょうちたい	工業地帯	 industrial area

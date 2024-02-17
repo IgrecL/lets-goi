@@ -9,7 +9,7 @@
 12568	10309	goro	ごろ	頃	(approximate) time, around, about, toward | suitable time (or condition) | time of year, season, けい (頃)  qing (Chinese unit of land area equal to 100 mu), ころおい (頃おい)  time, period, days
 12568	10310	shikiri	しきり	頻り	 frequent, continual, constant, repeated, eager
 12568	10311	shuyoukoku	しゅようこく	主要国	 principal countries
-12568	10312	taiketsusuru	たいけつする	対決する	
+12568	10312	taiketsu	たいけつ	対決	 confrontation, showdown
 12568	10313	tankouhon	たんこうほん	単行本	tankōbon, (manga) volume, (comic) trade paperback | single book (as opposed to magazine, anthology, etc.), separate volume
 12568	10314	chihoukoufuzei	ちほうこうふぜい	地方交付税	 tax allocated to local governments
 12568	10315	tsukarekiru	つかれきる	疲れ切る	 to be exhausted, to be tired out
@@ -19,8 +19,8 @@
 12568	10319	norikumiin	のりくみいん	乗組員	 crew
 12568	10320	haisen	はいせん	配線	 wiring
 12568	10321	fuyuba	ふゆば	冬場	 the winter season
-12568	10322	houisuru	ほういする	包囲する	
-12568	10323	mattousuru	まっとうする	全うする	 to accomplish, to fulfill, to carry out
+12568	10322	houi	ほうい	包囲	 siege, encirclement, envelopment, surrounding, besiegement
+12568	10323	mattou	まっとう	全う	proper, respectable, decent, honest | entirely, completely, wholly, perfectly
 12568	10324	mitsuhide	みつひで	光秀	
 12568	10325	mihakarau	みはからう	見計らう	to choose at one's own discretion | to choose when to do something, to estimate (the time for something)
 12568	10326	yuuyake	ゆうやけ	夕焼け	 evening glow, red sunset, afterglow (of sunset)
@@ -31,8 +31,8 @@
 12597	10331	osananajimi	おさななじみ	幼馴染み	 childhood friend, friend from infancy, old playmate
 12597	10332	omoishirasu	おもいしらす	思い知らす	 to make someone realize (e.g. their mistake), to bring (something) home to someone, to teach someone a lesson
 12597	10333	kakutodoufuken	かくとどうふけん	各都道府県	
-12597	10334	kakurisuru	かくりする	隔離する	
-12597	10335	kunrinsuru	くんりんする	君臨する	
+12597	10334	kakuri	かくり	隔離	 isolation, segregation, separation, quarantine
+12597	10335	kunrin	くんりん	君臨	 reigning, controlling, dictating
 12597	10336	gusa	ぐさ	草	grass, weed, herb, thatch | ninja | not genuine, substandard | LOL, haha, そう (草) draft, rough copy | highly cursive style (of writing Chinese characters), grass style
 12597	10337	shashinshuu	しゃしんしゅう	写真集	 photo book (esp. one featuring photos of female celebrities, models), photobook
 12597	10338	shuudouin	しゅうどういん	修道院	 monastery, convent, cloister, abbey
@@ -61,10 +61,10 @@
 12631	10361	gensouteki	げんそうてき	幻想的	 fantastic, magical, wondrous, whimsical, fairytale-like, romantic
 12631	10362	gosa	ごさ	誤差	 measurement error, calculation error
 12631	10363	saikaihatsu	さいかいはつ	再開発	 redevelopment
-12631	10364	sansensuru	さんせんする	参戦する	
+12631	10364	sansen	さんせん	参戦	participation in a war, going to war | taking part in a competition or contest
 12631	10365	shakuya	しゃくや	借家	 house for rent, rented house, renting a house
-12631	10366	shuukeisuru	しゅうけいする	集計する	
-12631	10367	shutsudousuru	しゅつどうする	出動する	
+12631	10366	shuukei	しゅうけい	集計	 totalization, totalisation, aggregation, tally (e.g. of votes), adding up, summing up
+12631	10367	shutsudou	しゅつどう	出動	 sailing, marching, going out, dispatch
 12631	10368	shinjuu	しんじゅう	心中	 double suicide, lovers' suicide, しんちゅう (心中)  one's heart, the mind, inner feelings, inmost thoughts, true motives
 12631	10369	shindo	しんど	震度	 seismic intensity
 12631	10370	sekininkan	せきにんかん	責任感	 sense of responsibility

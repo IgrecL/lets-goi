@@ -20,9 +20,9 @@
 10613	8720	kyuukutsu	きゅうくつ	窮屈	narrow, tight, cramped | formal, stiff, strict, ceremonious, rigid | constrained, uncomfortable | tight (e.g. finances)
 10613	8721	kyojuu	きょじゅう	居住	 residence, abode, dwelling
 10613	8722	kou	こう	香	 aroma, fragrance, scent, smell, きょう (香)  lance, こう (香)  incense, か (香)  smell (esp. a good smell), fragrance, scent, aroma, perfume
-10613	8723	sattousuru	さっとうする	殺到する	
+10613	8723	sattou	さっとう	殺到	 rush, flood, deluge
 10613	8724	zairyouhi	ざいりょうひ	材料費	 cost of materials
-10613	8725	jitsuzaisuru	じつざいする	実在する	
+10613	8725	jitsuzai	じつざい	実在	 actual existence, real existence, existing in real life
 10613	8726	juusei	じゅうせい	銃声	 (sound of a) gunshot, (gun) report
 10613	8727	suberikomu	すべりこむ	滑り込む	 to slide into, to slip into
 10613	8728	zuki	ずき	好き	liked, well-liked, favourite, favorite | in love (with), loved, romantically interested (in) | faddism, eccentricity | the way one likes, (as) it suits one | refined taste, elegant pursuits, ずき (好き) love of, affection for, enthusiast for, lover of, fan, -phile | being attractive to, being liked by
@@ -31,8 +31,8 @@
 10613	8731	fuji	ふじ	富士	
 10613	8732	mawari	まわり	回り	rotation | making the rounds | spreading | effect, efficacy | by way of, via | round, turn | size | 12-year period, 12-year age difference
 10613	8733	moeagaru	もえあがる	燃え上がる	 to flare up, to burst into flames
-10613	8734	yousuru	ようする	擁する	 to have, to possess
-10613	8735	youninsuru	ようにんする	容認する	
+10613	8734	you	よう	擁	
+10613	8735	younin	ようにん	容認	 approval
 10637	8736	anmoku	あんもく	暗黙	 tacit, unspoken, implicit
 10637	8737	iku	いく	逝く	to go, to move (in a direction or towards a specific location), to head (towards), to be transported (towards), to reach | to proceed, to take place | to pass through, to come and go | to walk | to die, to pass away | to do (in a specific way) | to stream, to flow | to continue | to have an orgasm, to come, to cum | to trip, to get high, to have a drug-induced hallucination
 10637	8738	kyouikukunren	きょういくくんれん	教育訓練	
@@ -51,16 +51,16 @@
 10654	8751	unchin	うんちん	運賃	(passenger) fare | freight rates, shipping expenses
 10654	8752	eiyouso	えいようそ	栄養素	 nutrient
 10654	8753	oyurushikudasaru	おゆるしくださる	御許し下さる	
-10654	8754	kaijisuru	かいじする	開示する	
+10654	8754	kaiji	かいじ	開示	 release (e.g. information), disclosure (legal), show, indication, display
 10654	8755	kakou	かこう	囲う	to enclose, to surround, to encircle, to fence, to wall in | to shelter (e.g. a criminal), to shield, to hide, to protect | to keep (e.g. a mistress) | to store (vegetables, fruit, etc.), to preserve | to protect
 10654	8756	kanpan	かんぱん	甲板	 deck (of a ship), こういた (甲板)  top board (of a table, counter, etc.), surface
-10654	8757	kifusuru	きふする	寄付する	
+10654	8757	kifu	きふ	寄付	 contribution, donation
 10654	8758	kimazui	きまずい	気まずい	 unpleasant, awkward, embarrassing, uneasy
 10654	8759	gi	ぎ	儀	ceremony | matter, affair | with regard to, as for, as concerns
 10654	8760	gifuken	ぎふけん	岐阜県	 Gifu prefecture (Chūbu area)
 10654	8761	kekkonseikatsu	けっこんせいかつ	結婚生活	 wedded life, married life
 10654	8762	juunansei	じゅうなんせい	柔軟性	 flexibility, pliability, softness, elasticity
-10654	8763	suisensuru	すいせんする	推薦する	
+10654	8763	suisen	すいせん	推薦	 recommendation, referral, endorsement
 10654	8764	taihi	たいひ	対比	 contrast, comparison
 10654	8765	dou	どう	胴	trunk, torso, body, abdomen, waist | plastron (in kendo), touching the plastron (kimari-te in kendo) | frame (of a drum, etc.), sound box (of a shamisen, etc.), hull (of a ship) | dealer
 10654	8766	nipponshakai	にっぽんしゃかい	日本社会	 Japanese society
@@ -68,7 +68,7 @@
 10654	8768	funka	ふんか	噴火	 eruption, volcanic eruption
 10654	8769	monbukagakushou	もんぶかがくしょう	文部科学省	 Ministry of Education, Culture, Sports, Science and Technology, MEXT
 10654	8770	yomikaesu	よみかえす	読み返す	 to reread, to read again
-10654	8771	ryuunyuusuru	りゅうにゅうする	流入する	
+10654	8771	ryuunyuu	りゅうにゅう	流入	 afflux, influx
 10679	8772	ai	あい	藍	dyer's knotweed (Persicaria tinctoria, used to produce indigo dye) | indigo (dye) | indigo (colour)
 10679	8773	arasu	あらす	荒らす	to lay waste, to devastate, to damage | to invade, to break into | to troll (e.g. web forums), to spam
 10679	8774	inameru	いなめる	否める	
@@ -86,7 +86,7 @@
 10679	8786	teiji	ていじ	提示	 presentation, exhibit, suggest, citation
 10679	8787	tedasuke	てだすけ	手助け	 a help, assistance
 10679	8788	houteishiki	ほうていしき	方程式	equation, formula | method for solving a problem, set way of achieving a particular result
-10679	8789	roshutsusuru	ろしゅつする	露出する	
+10679	8789	roshutsu	ろしゅつ	露出	exposure, laying bare, baring (e.g. skin) | (photographic) exposure
 10702	8790	ukemotsu	うけもつ	受け持つ	 to take (be in) charge of
 10702	8791	kashi	かし	菓子	 confectionery, sweets, candy, cake
 10702	8792	gashitsu	がしつ	画質	 image quality (film, video, etc.)

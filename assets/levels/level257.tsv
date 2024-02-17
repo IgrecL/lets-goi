@@ -1,6 +1,6 @@
 31644	25601	bugei	ぶげい	武芸	 martial arts
-31644	25602	heisonsuru	へいそんする	併存する	
-31644	25603	hensousuru	へんそうする	返送する	
+31644	25602	heison	へいそん	併存	 coexistence
+31644	25603	hensou	へんそう	返送	 sending back, return to sender
 31644	25604	beika	べいか	米価	 rice price
 31644	25605	betsuri	べつり	別離	 parting, separation
 31644	25606	housoueisei	ほうそうえいせい	放送衛星	 broadcasting satellite
@@ -29,10 +29,10 @@
 31644	25629	yawa	やわ	柔	 soft, fragile, weak, poorly built, insubstantial, やわら (柔ら)  judo, jujutsu, じゅう (柔)  softness, gentleness, weakness
 31644	25630	yuujuufudan	ゆうじゅうふだん	優柔不断	 indecisiveness, shilly-shally, irresolution, vacillation, indecision
 31644	25631	yousei	ようせい	陽性	 positivity
-31644	25632	youritsusuru	ようりつする	擁立する	
+31644	25632	youritsu	ようりつ	擁立	 backing (for a position), giving support to, helping (someone) to a position
 31644	25633	yokushiryoku	よくしりょく	抑止力	 deterrence, ability to deter (an attack, etc.)
 31644	25634	rajiohousou	らじおほうそう	ラジオ放送	
-31644	25635	ryakudatsusuru	りゃくだつする	略奪する	
+31644	25635	ryakudatsu	りゃくだつ	略奪	 pillage, plunder, looting, robbery
 31644	25636	rouso	ろうそ	労組	 labor union, labour union, trade union
 31644	25637	ronpou	ろんぽう	論法	 logic, reasoning, argument, line of argument
 31644	25638	waka	わか	若	youth | child (esp. of the young son of someone of high social standing) | young, new, ごと (如)  like, similar to, same as
@@ -48,7 +48,7 @@
 31913	25648	anzenkenkyuu	あんぜんけんきゅう	安全研究	
 31913	25649	anpojouyaku	あんぽじょうやく	安保条約	 security treaty (esp. US-Japan Security Treaty)
 31913	25650	iiarawaseru	いいあらわせる	言い表わせる	
-31913	25651	ipponkasuru	いっぽんかする	一本化する	
+31913	25651	ipponka	いっぽんか	一本化	 unification, centralization, integration, drawing things together, working out a common policy, consolidation
 31913	25652	inarabu	いならぶ	居並ぶ	 to sit in a row, to be arrayed
 31913	25653	iwahada	いわはだ	岩肌	 bare rock, rock surface, rock face
 31913	25654	inzei	いんぜい	印税	 royalty (on book)
@@ -67,7 +67,7 @@
 31913	25667	oyoso	およそ	凡そ	about, roughly, approximately | generally, on the whole, as a rule | completely, quite, entirely, altogether, totally, not at all (with neg. verb) | outline, gist, およそ (凡そ) about, roughly, approximately | generally, on the whole, as a rule | completely, quite, entirely, altogether, totally, not at all (with neg. verb) | outline, gist
 31913	25668	kau	かう	変う	
 31913	25669	kasai	かさい	笠井	
-31913	25670	kapposuru	かっぽする	闊歩する	
+31913	25670	kappo	かっぽ	闊歩	striding, swaggering, strutting | lording it over others, acting as though one owns the place, throwing one's weight around
 31913	25671	kamon	かもん	家紋	 family crest
 31913	25672	kawairashisa	かわいらしさ	可愛らしさ	
 31913	25673	kansan	かんさん	換算	 conversion (e.g. yen to dollars), change, exchange, translation (numerical)
@@ -79,20 +79,20 @@
 31913	25679	kitanarashii	きたならしい	汚らしい	 dirty-looking, filthy, disgusting, squalid
 31913	25680	kissa	きっさ	喫茶	tea drinking | teahouse, tearoom, coffee lounge, coffee shop, (rather formal) cafe
 31913	25681	kibu	きぶ	基部	 base, foundation
-31913	25682	kyuuhensuru	きゅうへんする	急変する	
+31913	25682	kyuuhen	きゅうへん	急変	sudden turn, sudden change | (suddenly occurring) accident, emergency
 31913	25683	kyou	きょう	凶	bad luck, bad fortune | evil, wickedness
 31913	25684	kyouakuhan	きょうあくはん	凶悪犯	 heinous criminal, vicious criminal
 31913	25685	kyouikuchou	きょういくちょう	教育長	 superintendent of education
 31913	25686	kyoshokushou	きょしょくしょう	拒食症	 anorexia
 31913	25687	kirisageru	きりさげる	切り下げる	to cut down, to prune, to reduce, to cut and hang down, to cut shorter | to round down (e.g. fraction)
-31913	25688	gyakumodorisuru	ぎゃくもどりする	逆戻りする	
+31913	25688	gyakumodori	ぎゃくもどり	逆戻り	 retrogression, reversal, relapse, doubling back, backtracking
 31913	25689	kuuhaku	くうはく	空白	blank space (in documents) | vacuum, blank, void
 31913	25690	kutsuzoko	くつぞこ	靴底	sole (of a shoe) | sole (fish)
 31913	25691	kuramoto	くらもと	倉本	brewery (sake, soy), brewer | warehouse overseer
 31913	25692	guriinsha	ぐりーんしゃ	グリーン車	 green car (Japan Railway's 1st class)
 31913	25693	keizaishisutemu	けいざいしすてむ	経済システム	 economic system
-31913	25694	kessaisuru	けっさいする	決済する	
-31913	25695	ketsubetsusuru	けつべつする	決別する	
+31913	25694	kessai	けっさい	決済	 settlement, payment of account
+31913	25695	ketsubetsu	けつべつ	決別	 separation, farewell, parting
 31913	25696	genga	げんが	原画	original picture | key frame, key animation
 31913	25697	genshuu	げんしゅう	減収	 fall, decrease (in income)
 31913	25698	genryouhin	げんりょうひん	原料品	

@@ -3,7 +3,7 @@
 8928	7403	tsuushou	つうしょう	通称	 popular name, common name, nickname, alias
 8928	7404	tsutsumi	つつみ	包み	bundle, package, parcel | counter for wrapped objects
 8928	7405	nomikai	のみかい	飲み会	 drinking party, get-together
-8928	7406	hisuru	ひする	比する	 to compare
+8928	7406	hi	ひ	比	ratio, proportion | match, equal | explicit comparison (style of the Shi Jing) | Philippines | in comparison with ..., ころ (頃) (approximate) time, around, about, toward | suitable time (or condition) | time of year, season, たぐい (類い) kind, sort, type | equal, match, peer, ころおい (頃おい)  time, period, days
 8928	7407	fukkou	ふっこう	復興	 revival, reconstruction, restoration, rebuilding, recovery, renaissance
 8928	7408	mabusu	まぶす	塗す	 to cover (smear, sprinkle) (with)
 8943	7409	iigatai	いいがたい	言い難い	hard to say, inexpressible, hesitant to say | embarrassing, delicate
@@ -30,13 +30,13 @@
 8955	7430	yokohamashi	よこはまし	横浜市	
 8955	7431	rokuni	ろくに	碌に	 (not) well, (not) enough, (im)properly, (in)sufficiently, (un)satisfactorily
 8973	7432	ichikoku	いちこく	一国	one country | whole country | hotheaded, stubborn
-8973	7433	gerakusuru	げらくする	下落する	
+8973	7433	geraku	げらく	下落	 depreciation, decline, fall, slump
 8973	7434	kokuhi	こくひ	国費	 national expenditure, government spending, public funds
 8973	7435	shizuoka	しずおか	静岡	 Shizuoka (city, prefecture)
 8973	7436	shichousha	しちょうしゃ	視聴者	 viewer, (television) audience
 8973	7437	shuukanshi	しゅうかんし	週刊誌	 weekly publication, weekly magazine
 8973	7438	suishitsu	すいしつ	水質	 water quality
-8973	7439	taikisuru	たいきする	待機する	
+8973	7439	taiki	たいき	待機	 standing by, awaiting an opportunity, being on alert
 8973	7440	tomosu	ともす	灯す	 to light (a candle, lamp, etc.), to turn on (a light)
 8973	7441	hyouki	ひょうき	表記	expression in writing, written representation, notation, transcription, orthography | writing on the surface (e.g. an address on an envelope), inscribing on the face
 8973	7442	mesen	めせん	目線	(one's) gaze, direction in which one is looking | point of view, standpoint | line covering someone's eyes (in an edited photograph)
@@ -51,22 +51,22 @@
 8997	7451	ichidan	いちだん	一団	 body, group, party, gang, troupe, troop
 8997	7452	koteishisanzei	こていしさんぜい	固定資産税	 real estate tax, fixed assets tax, property tax, rates
 8997	7453	sasaki	ささき	佐々木	
-8997	7454	chuuchosuru	ちゅうちょする	躊躇する	
+8997	7454	chuucho	ちゅうちょ	躊躇	 hesitation, indecision, vacillation
 8997	7455	teppen	てっぺん	天辺	top, summit, apex, peak | twelve o'clock (usu. midnight) | top of one's head, top of a helmet, (top of) scalp, crown, てんぺん (天辺)  high in the sky, highest heaven
 8997	7456	tenken	てんけん	点検	 inspection, examination, checking
 8997	7457	doukyo	どうきょ	同居	 coexistence, living together
 8997	7458	furigana	ふりがな	振り仮名	 furigana, kana over or beside kanji to indicate pronunciation
 8997	7459	bunkazai	ぶんかざい	文化財	 cultural assets, cultural property
-8997	7460	honyakusuru	ほんやくする	翻訳する	
+8997	7460	honyaku	ほんやく	翻訳	translation | deciphering, decoding | translation
 9012	7461	iyakuhin	いやくひん	医薬品	 medical and pharmaceutical products, medicinal supplies, drugs, pharmaceuticals, medicine
 9012	7462	oiharau	おいはらう	追い払う	 to drive away, to clear, to scatter, to disperse
 9012	7463	otetsudai	おてつだい	御手伝い	maid, helper | help, assistance
 9012	7464	shikai	しかい	司会	leading a meeting, presiding over a meeting, officiating at a ceremony, chairmanship | chairman, presenter, host, moderator, master of ceremonies
 9012	7465	shakaimondai	しゃかいもんだい	社会問題	 social problem
-9012	7466	shomeisuru	しょめいする	署名する	
+9012	7466	shomei	しょめい	署名	 signature
 9012	7467	zenkei	ぜんけい	前掲	 above-mentioned, given above, previously shown
-9012	7468	chokketsusuru	ちょっけつする	直結する	
-9012	7469	tsuihousuru	ついほうする	追放する	
+9012	7468	chokketsu	ちょっけつ	直結	 direct connection, direct link
+9012	7469	tsuihou	ついほう	追放	exile, banishment, eviction, deportation, purge, expulsion, ousting | elimination (e.g. of poverty), removal
 9012	7470	fumei	ふめい	不明	unclear, obscure, indistinct, uncertain, ambiguous | unknown, unidentified | ignorance, lack of wisdom, lack of insight
 9026	7471	omoidoori	おもいどおり	思い通り	 as one expects, as one wants, to one's satisfaction, as one sees fit
 9026	7472	kaseki	かせき	化石	fossil | petrifaction, petrification, fossilization, fossilisation
@@ -83,7 +83,7 @@
 9039	7483	ajisai	あじさい	紫陽花	 bigleaf hydrangea (Hydrangea macrophylla), French hydrangea
 9039	7484	iiyou	いいよう	言い様	manner of speaking, mode of expression, way of saying something | at the same time as speaking, as one speaks
 9039	7485	oubo	おうぼ	応募	 application, subscription, entry (competition, raffle, etc.), enlistment
-9039	7486	kaitaisuru	かいたいする	解体する	
+9039	7486	kaitai	かいたい	解体	demolition, taking down, dismantling, disassembly, taking apart | dissolution (of an organization, company, etc.), breaking up | dissection (of a body), dismemberment
 9039	7487	kenkoushindan	けんこうしんだん	健康診断	 physical examination
 9039	7488	kousha	こうしゃ	校舎	 school building, schoolhouse
 9039	7489	sugaru	すがる	縋る	to cling to, to hang onto | to rely on, to depend on | to implore, to entreat

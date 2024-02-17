@@ -1,6 +1,6 @@
 41228	33001	peesutojou	ぺーすとじょう	ペースト状	 paste (form), (as a) paste
 41228	33002	houkei	ほうけい	方形	 square
-41228	33003	houteisuru	ほうていする	法定する	
+41228	33003	houtei	ほうてい	法定	 legal, designated by law
 41228	33004	hosaka	ほさか	保坂	
 41228	33005	horaaeiga	ほらーえいが	ホラー映画	 horror film, horror movie
 41228	33006	horikomu	ほりこむ	彫り込む	 to carve into, to cut into, to engrave into, to inscribe
@@ -13,7 +13,7 @@
 41228	33013	marikosan	まりこさん	真理子さん	
 41228	33014	misa	みさ	美沙	
 41228	33015	michiyuki	みちゆき	道行	going down the road, travelling, traveling | lyric composition describing scenery a traveler sees on the way (traveller) | eloping
-41228	33016	mippuusuru	みっぷうする	密封する	
+41228	33016	mippuu	みっぷう	密封	 hermetically seal, sealing (e.g. envelope)
 41228	33017	mitokoumon	みとこうもん	水戸黄門	
 41228	33018	minseiiinjidouiin	みんせいいいんじどういいん	民生委員・児童委員	
 41228	33019	minso	みんそ	民訴	
@@ -28,8 +28,8 @@
 41228	33028	yakitoriya	やきとりや	焼き鳥屋	
 41228	33029	yakujuunen	やくじゅうねん	約十年	
 41228	33030	yashikinai	やしきない	屋敷内	
-41228	33031	yuuinsuru	ゆういんする	誘引する	
-41228	33032	yuukoukatsuyousuru	ゆうこうかつようする	有効活用する	
+41228	33031	yuuin	ゆういん	誘引	 enticement, inducement, attraction
+41228	33032	yuukoukatsuyou	ゆうこうかつよう	有効活用	
 41228	33033	yuushoudekiru	ゆうしょうできる	優勝出来る	
 41228	33034	yuubinjiko	ゆうびんじこ	郵便事故	
 41228	33035	yuuryouka	ゆうりょうか	有料化	 changing from free to paid (e.g. a service), starting to charge
@@ -41,14 +41,14 @@
 41228	33041	yoteigai	よていがい	予定外	 unexpected, unscheduled, unforeseen, unplanned
 41228	33042	yobouchuusha	よぼうちゅうしゃ	予防注射	 immunization, immunisation, shots, inoculation, preventive injection
 41228	33043	rainichigaikokujin	らいにちがいこくじん	来日外国人	
-41228	33044	raretsusuru	られつする	羅列する	
+41228	33044	raretsu	られつ	羅列	 enumeration, citation, listing
 41228	33045	rien	りえん	離縁	 divorce, dissolution of adoption
-41228	33046	rishuusuru	りしゅうする	履修する	
+41228	33046	rishuu	りしゅう	履修	 taking a class, studying a subject, completing a course
 41228	33047	ritsuryou	りつりょう	律令	 criminal, administrative and civil codes (forming the basis of ancient East Asian law; orig. Chinese), legal codes of the Nara and Heian eras based on Chinese models
 41228	33048	ryuudou	りゅうどう	流動	 flow
-41228	33049	ryougaesuru	りょうがえする	両替する	
+41228	33049	ryougae	りょうがえ	両替	 change, money exchange
 41228	33050	ruijinsaru	るいじんさる	類人猿	 anthropoid ape, anthropoid, ape
-41228	33051	ruisuisuru	るいすいする	類推する	
+41228	33051	ruisui	るいすい	類推	analogy | analogical reasoning, analogical inference | analogy
 41228	33052	rougan	ろうがん	老眼	 presbyopia, age-related longsightedness, farsightedness
 41228	33053	watakushitachihitorihitori	わたくしたちひとりひとり	私達一人一人	
 41696	33054	aiko	あいこ	愛子	 beloved child, dear child

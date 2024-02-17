@@ -1,12 +1,12 @@
 6465	5401	rui	るい	類	kind, sort, type, class, genus, order, family | similar example, parallel, the like, たぐい (類い) kind, sort, type | equal, match, peer
 6472	5402	ichizuke	いちづけ	位置付け	 placement, fixed position, mapping out, location
 6472	5403	uteru	うてる	打てる	
-6472	5404	kangeisuru	かんげいする	歓迎する	
+6472	5404	kangei	かんげい	歓迎	 welcome, reception
 6472	5405	takamari	たかまり	高まり	 rise, swell, elevation, upsurge
 6472	5406	nippongawa	にっぽんがわ	日本側	 the Japanese, Japanese side, Japanese delegation, Japanese representatives
 6472	5407	fukai	ふかい	不快	displeasure, discomfort, unpleasantness | indisposition, ailment
 6472	5408	moushikomitoiawase	もうしこみといあわせ	申し込み・問い合わせ	
-6479	5409	otazunesuru	おたずねする	御尋ねする	
+6479	5409	otazune	おたずね	御尋ね	asking, enquiring | searching, looking for
 6479	5410	kujira	くじら	鯨	 whale (Cetacea spp.)
 6479	5411	gensou	げんそう	幻想	 fantasy, illusion, vision, dream
 6479	5412	kowagaru	こわがる	怖がる	 to be afraid of, to fear, to dread, to be nervous (about), to be shy (of)
@@ -23,13 +23,13 @@
 6493	5423	kouhai	こうはい	後輩	 junior (at work, school, etc.), younger people, younger student
 6493	5424	koshou	こしょう	故障	breakdown, failure, fault, accident, out of order | damage, hurt | objection, protest
 6493	5425	sakarau	さからう	逆らう	 to go against, to oppose, to disobey, to defy
-6493	5426	seisakusuru	せいさくする	製作する	
+6493	5426	seisaku	せいさく	製作	 manufacture, production
 6493	5427	bui	ぶい	部位	 part (esp. of the body), region, site, cut (of meat)
 6493	5428	migiashi	みぎあし	右足	right foot | right leg
 6506	5429	saru	さる	申	the Monkey (ninth sign of the Chinese zodiac) | hour of the Monkey (around 4pm, 3-5pm, or 4-6pm) | west-southwest | 7th month of the lunar calendar
 6506	5430	shihonshugi	しほんしゅぎ	資本主義	 capitalism
 6506	5431	nakidasu	なきだす	泣き出す	 to burst into tears, to burst out crying, to begin to cry, to be moved to tears
-6506	5432	bunkatsusuru	ぶんかつする	分割する	
+6506	5432	bunkatsu	ぶんかつ	分割	 partition, division, separation, segmenting, splitting, ぶわり (歩割) rate, ratio, percentage | commission, poundage, percentage
 6510	5433	kaisui	かいすい	海水	 seawater, saltwater
 6510	5434	kousei	こうせい	後世	 posterity, future life, life to come, ごせ (後世)  the next world, afterlife, life after death
 6510	5435	touhyou	とうひょう	投票	 voting, poll
@@ -38,12 +38,12 @@
 6510	5438	mousou	もうそう	妄想	 wild idea, delusion
 6510	5439	renzoku	れんぞく	連続	 continuation, succession, series
 6520	5440	ohana	おはな	御花	
-6520	5441	kan'ansuru	かんあんする	勘案する	
-6520	5442	keikaisuru	けいかいする	警戒する	
+6520	5441	kan'an	かんあん	勘案	 taking into consideration, giving consideration (to)
+6520	5442	keikai	けいかい	警戒	 vigilance, caution, alertness, precaution, being on guard
 6520	5443	shuushuu	しゅうしゅう	収集	collecting, accumulating, gathering | collection (of art, stamps, insects, etc.) | garbage collection, waste collection
 6520	5444	jibunnari	じぶんなり	自分形	
 6520	5445	jin'in	じんいん	人員	 number of persons, personnel
-6520	5446	totsunyuusuru	とつにゅうする	突入する	
+6520	5446	totsunyuu	とつにゅう	突入	rushing into, breaking into, storming | plunging into (war, etc.), embarking on (a new venture)
 6520	5447	hitaru	ひたる	浸る	to be soaked in, to be flooded, to be submerged | to be immersed in (joy, memories, alcohol, etc.), to give oneself over to, to bask in
 6530	5448	gakuseijidai	がくせいじだい	学生時代	 student days
 6530	5449	saitei	さいてい	最低	least, lowest, minimum | worst | awful, horrible, nasty, disgusting | at the very least
@@ -58,7 +58,7 @@
 6540	5458	yuuga	ゆうが	優雅	elegant, graceful, refined | leisurely, comfortable, easy, carefree
 6545	5459	soubi	そうび	装備	 equipment
 6545	5460	chokin	ちょきん	貯金	putting money aside, savings, deposit (e.g. in a bank) | accumulated surplus of wins, wins in the bank
-6545	5461	torihikisuru	とりひきする	取り引きする	
+6545	5461	torihiki	とりひき	取り引き	 transactions, dealings, business
 6545	5462	ningensei	にんげんせい	人間性	 humanity, human nature
 6545	5463	hashiridasu	はしりだす	走り出す	 to begin to run, to start running, to break into a run
 6545	5464	hougaku	ほうがく	方角	direction, way | point of the compass, cardinal direction, bearing | method, means, approach
@@ -81,9 +81,9 @@
 6571	5481	setsunai	せつない	切ない	painful, heartrending, trying | oppressive, suffocating, miserable
 6571	5482	youchuu	ようちゅう	幼虫	 larva, grub, maggot
 6577	5483	ijiru	いじる	弄る	to finger, to touch, to play with, to fiddle with, to toy with | to make changes to, to tinker with, to tamper with | to dabble in, to do as a hobby, to play around with | to grope, to feel around (in one's pocket, bag, etc.), いじくる (弄くる)  to finger, to tamper (with)
-6577	5484	kaijosuru	かいじょする	解除する	
+6577	5484	kaijo	かいじょ	解除	 cancellation, rescinding, release, calling off, lifting (sanctions), delisting
 6577	5485	guchi	ぐち	愚痴	idle complaint, grumble | moha (ignorance, folly)
-6577	5486	shinkasuru	しんかする	進化する	
+6577	5486	shinka	しんか	進化	 evolution, progress
 6583	5487	seishun	せいしゅん	青春	 youth, springtime of life, adolescent
 6583	5488	hagasu	はがす	剥がす	 to tear off, to peel off, to rip off, to strip off, to skin, to flay, to disrobe, to deprive of, to detach, to disconnect
 6583	5489	futomomo	ふともも	太腿	thigh | buttocks, arse, ass, butt
@@ -94,7 +94,7 @@
 6588	5494	gakuseitachi	がくせいたち	学生達	
 6588	5495	ganbou	がんぼう	願望	 desire, wish, aspiration
 6588	5496	keizaiseichou	けいざいせいちょう	経済成長	 economic growth
-6588	5497	sakugensuru	さくげんする	削減する	
+6588	5497	sakugen	さくげん	削減	 cut, reduction, curtailment
 6588	5498	shinpin	しんぴん	新品	 (brand-)new article
 6588	5499	chisei	ちせい	知性	 intelligence
 6588	5500	moriageru	もりあげる	盛り上げる	to pile up, to heap up | to stir up, to enliven, to bring to a climax

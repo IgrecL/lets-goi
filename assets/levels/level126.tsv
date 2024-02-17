@@ -2,14 +2,14 @@
 15267	12502	setsumon	せつもん	設問	posing a question | question
 15267	12503	zenpan	ぜんぱん	全般	(the) whole | as a whole, in general, at large
 15267	12504	tatakaeru	たたかえる	戦える	
-15267	12505	chikokusuru	ちこくする	遅刻する	
+15267	12505	chikoku	ちこく	遅刻	 lateness, tardiness, arriving late
 15267	12506	tsukaikatte	つかいかって	使い勝手	 ease of use, user-friendliness, usability, utility, convenience
 15267	12507	ten'i	てんい	転移	moving (location, with the times, etc.), change, transition | metastasis, spread | transition (e.g. phase transition) | transfer (of learning) | transference (in psychoanalysis)
 15267	12508	deiriguchi	でいりぐち	出入り口	 exit and entrance
 15267	12509	toumeikan	とうめいかん	透明感	 feeling of transparency, sense of translucence
 15267	12510	tokusaku	とくさく	得策	 profitable plan, good plan
 15267	12511	douchuu	どうちゅう	道中	journey, trip, travels | during the journey, on the way, while travelling, みちなか (道中) middle of the road, on the road | on the way (to one's destination)
-15267	12512	hakyuusuru	はきゅうする	波及する	
+15267	12512	hakyuu	はきゅう	波及	 spread, extension, influence, aftereffect, ripple
 15267	12513	hitodoori	ひとどおり	人通り	 pedestrian traffic
 15267	12514	hinan	ひなん	避難	 taking refuge, finding shelter, evacuation, escape, seeking safe haven
 15267	12515	fudousanya	ふどうさんや	不動産屋	 real estate agent, realtor
@@ -31,7 +31,7 @@
 15309	12531	kashidasu	かしだす	貸し出す	 to lend, to loan, to let out on hire
 15309	12532	kaneko	かねこ	金子	 money, funds
 15309	12533	karamitsuku	からみつく	絡み付く	to twine around, to twist around, to coil around | to pester, to hassle
-15309	12534	kanchisuru	かんちする	感知する	
+15309	12534	kanchi	かんち	感知	 perception, sensing, noticing
 15309	12535	gana	がな	仮名	 alias, pseudonym, pen name, nom de plume, かな (仮名)  kana, Japanese syllabary (i.e. hiragana, katakana)
 15309	12536	kieuseru	きえうせる	消え失せる	to disappear, to vanish | to die
 15309	12537	kimi	きみ	気味	sensation, feeling | tendency, propensity, ぎみ (気味)  -like, -looking, -looked, tending to ..., きあじ (気味)  market sentiment (stock market), market tone
@@ -44,16 +44,16 @@
 15309	12544	shouryou	しょうりょう	少量	small quantity, small amount | narrowmindedness
 15309	12545	shinkou	しんこう	親交	 intimacy, friendship, friendly relations
 15309	12546	shinseisha	しんせいしゃ	申請者	 applicant
-15309	12547	zessuru	ぜっする	絶する	 to be unspeakable, to be unimaginable
+15309	12547	zetsu	ぜっ	絶	 starting field which contains the November and, or December 20-point card
 15309	12548	soreikou	それいこう	其れ以降	
 15309	12549	taizai	たいざい	滞在	 stay, sojourn
 15309	12550	tetsuki	てつき	手付き	 manner of using one's hands
 15309	12551	nawabari	なわばり	縄張り	stretching a rope around, roping off, cordoning off, demarcation | one's turf, domain, territory, jurisdiction, sphere of influence | territory (of an animal)
-15309	12552	nyuushosuru	にゅうしょする	入所する	
+15309	12552	nyuusho	にゅうしょ	入所	admission (e.g. to a training institution, research establishment, social welfare facility, etc.), entrance | imprisonment, internment, confinement
 15309	12553	hakugai	はくがい	迫害	 persecution, oppression
 15309	12554	hagemashi	はげまし	励まし	 encouragement (as an abstract concept), stimulation
-15309	12555	hantensuru	はんてんする	反転する	
-15309	12556	baibaisuru	ばいばいする	売買する	
+15309	12555	hanten	はんてん	反転	rolling over, turning over | turning around (the other way), reversal (of direction, course, etc.), inversion, flipping | producing a positive from a negative (photography), producing a negative from a positive | circle inversion, plane inversion
+15309	12556	baibai	ばいばい	売買	 trade, buying and selling, trafficking (e.g. of humans, arms, drugs), dealing, ばいかい (売買い)  crossing (shares)
 15309	12557	fubi	ふび	不備	defect, deficiency, imperfection, inadequacy, lack | Yours in haste
 15309	12558	meikyoku	めいきょく	名曲	 famous piece of music, excellent song, (musical) masterpiece
 15309	12559	yukari	ゆかり	由香里	
@@ -64,13 +64,13 @@
 15356	12564	enman	えんまん	円満	 harmonious, peaceful, happy, amicable, smooth, free from trouble
 15356	12565	omieninaru	おみえになる	御見えに成る	
 15356	12566	kawazu	かわず	蛙	frog | kajika frog (Buergeria buergeri)
-15356	12567	kissuru	きっする	喫する	to eat, to drink, to smoke, to take | to suffer (e.g. defeat), to receive a blow
+15356	12567	kitsu	きっ	喫	
 15356	12568	kentei	けんてい	検定	official certification, official approval, inspection, verification | certification examination, licensing examination, proficiency test | hypothesis testing
 15356	12569	satoimo	さといも	里芋	 taro (Colocasia esculenta), dasheen, eddo
 15356	12570	sansei	さんせい	酸性	acidity | acidic
 15356	12571	shikou	しこう	嗜好	 taste, liking, preference
 15356	12572	shousha	しょうしゃ	勝者	 winner, victor
-15356	12573	shoushasuru	しょうしゃする	照射する	
+15356	12573	shousha	しょうしゃ	照射	irradiation, radiation, beaming | exposure (to light), illumination, ともし (灯) light, lamp | baiting deer with a lighted torch
 15356	12574	jikojitsugen	じこじつげん	自己実現	 self-actualization, self-fulfillment, self-realization
 15356	12575	juusha	じゅうしゃ	従者	 follower, attendant, valet, servant
 15356	12576	seijinshiki	せいじんしき	成人式	 coming-of-age ceremony

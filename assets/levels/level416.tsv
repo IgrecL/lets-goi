@@ -1,5 +1,5 @@
 52453	41501	saikoureberu	さいこうれべる	最高レベル	
-52453	41502	saihakkousuru	さいはっこうする	再発行する	
+52453	41502	saihakkou	さいはっこう	再発行	 reissue
 52453	41503	sakigoro	さきごろ	先頃	 recently, the other day
 52453	41504	sakyou	さきょう	左京	
 52453	41505	sakuma	さくま	佐久間	
@@ -12,8 +12,8 @@
 52453	41512	sansui	さんすい	山水	mountain and water, landscape (containing hills and rivers) | landscape picture | mountain stream, water that flows down from a mountain | garden which contains an artificial hill and a pond
 52453	41513	zaiseitouyuushikeikaku	ざいせいとうゆうしけいかく	財政投融資計画	
 52453	41514	zasshisha	ざっししゃ	雑誌社	 magazine (company)
-52453	41515	zangesuru	ざんげする	懺悔する	
-52453	41516	zanpaisuru	ざんぱいする	惨敗する	
+52453	41515	zange	ざんげ	懺悔	 repentance, confession, penitence
+52453	41516	zanpai	ざんぱい	惨敗	 ignominious defeat, crushing failure, utterly beaten, overwhelming defeat
 52453	41517	shikakushougai	しかくしょうがい	視覚障害	
 52453	41518	shikyuuyouken	しきゅうようけん	支給要件	
 52453	41519	shigikaigiin	しぎかいぎいん	市議会議員	 city council member
@@ -21,7 +21,7 @@
 52453	41521	shigotokankei	しごとかんけい	仕事関係	
 52453	41522	shisei	しせい	市制	 municipal organization, municipal organisation, municipality
 52453	41523	shichousondou	しちょうそんどう	市町村道	
-52453	41524	shittagekireisuru	しったげきれいする	叱咤激励する	
+52453	41524	shittagekirei	しったげきれい	叱咤激励	 giving a loud pep talk, encouraging (somebody) strongly in a loud voice
 52453	41525	shitoukyoku	しとうきょく	市当局	
 52453	41526	shibatsuji	しばつじ	柴辻	
 52453	41527	shihoutoukeinenpou	しほうとうけいねんぽう	司法統計年報	
@@ -66,14 +66,14 @@
 52453	41566	shinjukusho	しんじゅくしょ	新宿署	
 52453	41567	shintarou	しんたろう	伸太郎	
 52453	41568	shintarou	しんたろう	慎太郎	
-52453	41569	shinchokusuru	しんちょくする	進捗する	
+52453	41569	shinchoku	しんちょく	進捗	 progress, being under way
 52453	41570	shinten	しんてん	伸展	 expansion, extension
 52453	41571	shinbutsushuugou	しんぶつしゅうごう	神仏習合	 syncretism of Shinto and Buddhism
 52453	41572	jieitaiki	じえいたいき	自衛隊機	
 52453	41573	jikanhaibun	じかんはいぶん	時間配分	
 52453	41574	jikyoku	じきょく	時局	 situation, state of things, current affairs
 52453	41575	jigyouzei	じぎょうぜい	事業税	 business tax
-52453	41576	jikohasansuru	じこはさんする	自己破産する	
+52453	41576	jikohasan	じこはさん	自己破産	 personal bankruptcy, voluntary bankruptcy
 52453	41577	jikofutangendogaku	じこふたんげんどがく	自己負担限度額	
 52453	41578	jishuku	じしゅく	自粛	 self-restraint, voluntary restraint, self-imposed control, self-discipline
 52453	41579	jicho	じちょ	自著	 one's own literary work

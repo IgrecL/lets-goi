@@ -1,7 +1,7 @@
 42175	33601	jabagengo	じゃばげんご	ジャバ言語	
 42175	33602	juukyoato	じゅうきょあと	住居跡	 dwelling (habitation) site, site of a (prehistoric) settlement
 42175	33603	juubyou	じゅうびょう	重病	 serious illness
-42175	33604	junyuusuru	じゅにゅうする	授乳する	
+42175	33604	junyuu	じゅにゅう	授乳	 breast-feeding, suckling, nursing
 42175	33605	joururi	じょうるり	浄瑠璃	 jōruri, type of dramatic recitation accompanied by a shamisen (associated with Japanese puppet theater)
 42175	33606	joshidai	じょしだい	女子大	 women's college, women's university
 42175	33607	joseiroudousha	じょせいろうどうしゃ	女性労働者	 female employee, female worker, working-woman
@@ -17,7 +17,7 @@
 42175	33617	sewata	せわた	背腸	 vein of a shrimp (prawn), digestive tract of a shrimp, sand vein
 42175	33618	sen	せん	宣	 imperial order, imperial decree
 42175	33619	sensai	せんさい	先妻	 former wife, late wife
-42175	33620	senpatsusuru	せんぱつする	先発する	
+42175	33620	senpatsu	せんぱつ	先発	starting in advance, starting first, going first, going ahead | starting (in team sports)
 42175	33621	zeiseichousakai	ぜいせいちょうさかい	税制調査会	 tax system research commission, tax system research council, select committee on the taxation system, tax commission
 42175	33622	zennendougetsuhi	ぜんねんどうげつひ	前年同月比	 compared to the same month the previous year (e.g. in statistics, sales, electricity usage)
 42175	33623	sougougakuka	そうごうがくか	総合学科	
@@ -54,7 +54,7 @@
 42175	33654	choudaiitasu	ちょうだいいたす	頂戴致す	
 42175	33655	chirijiri	ちりぢり	散り散り	 scattered, separated, dispersed
 42175	33656	chinju	ちんじゅ	鎮守	 local Shinto deity, tutelary god
-42175	33657	chinjutsusuru	ちんじゅつする	陳述する	
+42175	33657	chinjutsu	ちんじゅつ	陳述	 statement, declaration
 42175	33658	tsukigoto	つきごと	月毎	 monthly
 42175	33659	tsubouchi	つぼうち	坪内	
 42175	33660	tsumazuki	つまずき	躓き	stumbling | failure, misstep
@@ -62,12 +62,12 @@
 42175	33662	teikarorii	ていかろりー	低カロリー	 low-calorie
 42175	33663	teinensei	ていねんせい	定年制	 mandatory retirement system, age-limit retirement system
 42175	33664	tezema	てぜま	手狭	 narrow, small, cramped
-42175	33665	tesshuusuru	てっしゅうする	撤収する	
+42175	33665	tesshuu	てっしゅう	撤収	removal (e.g. of a building), dismantling (e.g. a tent), striking (e.g. a stage set) | withdrawal (of troops), evacuation, retreating
 42175	33666	terau	てらう	衒う	 to show off, to parade, to pretend
 42175	33667	ten	てん	展	 exhibition, exhibit
 42175	33668	teemakyoku	てーまきょく	テーマ曲	 theme tune, theme music
 42175	33669	dekakaru	でかかる	出掛かる	 to just appear, to be half out, to be on the tip of one's tongue
-42175	33670	dekishisuru	できしする	溺死する	
+42175	33670	dekishi	できし	溺死	 death by drowning
 42175	33671	denshinhashira	でんしんはしら	電信柱	 telephone pole
 42175	33672	toushouguu	とうしょうぐう	東照宮	 Toshogu Shrine
 42175	33673	toujitsuken	とうじつけん	当日券	 same-day ticket
@@ -82,11 +82,11 @@
 42175	33682	doukousha	どうこうしゃ	同行者	 companion, comrade, escort, member of a party, fellow traveller, fellow traveler
 42175	33683	doutokukyouiku	どうとくきょういく	道徳教育	 moral education
 42175	33684	dourokyouryouhi	どうろきょうりょうひ	道路橋梁費	
-42175	33685	dokusatsusuru	どくさつする	毒殺する	
+42175	33685	dokusatsu	どくさつ	毒殺	 poisoning, kill by poison
 42175	33686	dokushinsha	どくしんしゃ	独身者	 unmarried person, bachelor, spinster
 42175	33687	naibukansa	ないぶかんさ	内部監査	 internal audit
 42175	33688	nagaame	ながあめ	長雨	 long spell of rain
-42175	33689	nakusuru	なくする	無くする	
+42175	33689	naku	なく	無く	
 42175	33690	namiuchisai	なみうちさい	波打ち際	 water's edge, beach, foreshore
 42175	33691	nan'e	なんえ	何重	
 42175	33692	nanbokuchou	なんぼくちょう	南北朝	Northern and Southern Courts (Japan, 1336-1392), Northern and Southern Dynasties | Northern and Southern Dynasties (China, 420-589)

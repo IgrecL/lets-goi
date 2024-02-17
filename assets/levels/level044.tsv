@@ -5,14 +5,14 @@
 5139	4305	tokasu	とかす	溶かす	to dissolve | to melt
 5142	4306	ooyake	おおやけ	公	you, buddy, pal | monarch, ruler, sovereign, (one's) master, おおやけ (公) official, governmental, formal | public (use, matter, forum, etc.), common | being public knowledge, being out in the open, exposure to public view, こう (公) public matter, governmental matter | prince, duke | lord, sir | familiar or derogatory suffix
 5142	4307	okotae	おこたえ	御答え	
-5142	4308	kesseisuru	けっせいする	結成する	
+5142	4308	kessei	けっせい	結成	 formation, combination
 5142	4309	dannasan	だんなさん	旦那さん	
 5147	4310	angai	あんがい	案外	unexpectedly, surprisingly | unexpected, unanticipated, unforeseen, surprising
 5147	4311	kansei	かんせい	感性	 sensitivity, sensitiveness, sense (of ...)
 5147	4312	kouchiku	こうちく	構築	 construction, building, putting up, erecting, creation, formulation, architecture (systems, agreement, etc.)
-5147	4313	sousetsusuru	そうせつする	創設する	
+5147	4313	sousetsu	そうせつ	創設	 establishment, founding, organization, organisation
 5147	4314	chokusetsuteki	ちょくせつてき	直接的	 direct
-5152	4315	kaisuru	かいする	介する	to use as an intermediary | to worry, to mind, to care
+5152	4315	kai	かい	介	
 5152	4316	kichi	きち	基地	 base (military, expedition, etc.)
 5152	4317	koukuuki	こうくうき	航空機	 aircraft
 5155	4318	ajiwai	あじわい	味わい	flavour, flavor, taste | charm, appeal, interest, meaning, significance
@@ -20,8 +20,8 @@
 5155	4320	hanshin	はんしん	阪神	Osaka-Kobe | Hanshin (company name railway, dept. store, baseball team, etc.)
 5155	4321	furimawasu	ふりまわす	振り回す	to wield, to brandish, to flourish, to wave (about), to swing | to display (one's knowledge), to show off | to abuse (one's power) | to manipulate someone
 5155	4322	houru	ほうる	放る	to throw, to fling, to hurl, to toss | to neglect, to abandon, to leave alone, to give up on, to leave undone, to leave unfinished, ひる (放る)  to expel (from the body), to excrete, to defecate, to give birth, まる (放る)  to excrete (faeces, urine), はなる (放る)  to get free, to be freed, to be released
-5161	4323	keigensuru	けいげんする	軽減する	
-5161	4324	shouninsuru	しょうにんする	承認する	
+5161	4323	keigen	けいげん	軽減	 abatement, reduction
+5161	4324	shounin	しょうにん	承認	 recognition, acknowledgement, acknowledgment, approval, consent, agreement
 5163	4325	ika	いか	烏賊	 cuttlefish, squid
 5163	4326	kiseki	きせき	奇跡	 miracle, wonder, marvel
 5163	4327	shuusei	しゅうせい	修正	 amendment, correction, revision, modification, alteration, retouching, update, fix
@@ -29,12 +29,12 @@
 5168	4329	shoumei	しょうめい	証明	 proof, testimony, demonstration, verification, certification
 5168	4330	zou	ぞう	象	 form, shape, figure, appearance, phenomenon, ぞう (象)  elephant (Elephantidae spp.)
 5168	4331	haruka	はるか	遥か	 far, far away, distant, remote, far off
-5168	4332	hirousuru	ひろうする	披露する	
+5168	4332	hirou	ひろう	披露	 announcement, presentation, demonstration, displaying, showing, introducing, exhibiting, unveiling, revealing, showcasing, performing, giving a rendition
 5168	4333	butai	ぶたい	部隊	 force, unit, corps, squad, troops, party
 5168	4334	mizuke	みずけ	水気	water content, moisture, juiciness, dampness | water vapor (vapour), steam | dropsy, edema, oedema
 5174	4335	ikuji	いくじ	育児	 childcare, child-rearing, nursing, upbringing
-5174	4336	shukushousuru	しゅくしょうする	縮小する	
-5174	4337	douisuru	どういする	同意する	
+5174	4336	shukushou	しゅくしょう	縮小	 reduction, curtailment
+5174	4337	doui	どうい	同意	agreement, consent, approval, assent | same opinion, same view | same meaning
 5178	4338	kitsune	きつね	狐	fox (esp. the red fox, Vulpes vulpes) | fox (i.e. a sly person) | soba or udon topped with deep-fried tofu | light brown, golden brown
 5178	4339	toushin	とうしん	答申	 report, reply, findings
 5178	4340	honbun	ほんぶん	本文	text (of a book, document, etc.), body (of a letter) | this passage, this sentence
@@ -46,14 +46,14 @@
 5189	4346	nyuusatsu	にゅうさつ	入札	 bid, tender, bidding
 5194	4347	oshigoto	おしごと	御仕事	
 5194	4348	kigen	きげん	起源	 origin, beginning, source, rise
-5194	4349	kokufukusuru	こくふくする	克服する	
+5194	4349	kokufuku	こくふく	克服	 conquest (of a difficulty, illness, handicap, etc.), overcoming, bringing under control, subjugation, victory over
 5194	4350	shuukaku	しゅうかく	収穫	harvest, crop, ingathering | fruits (of one's labors), gain, result, returns
 5194	4351	chouwa	ちょうわ	調和	 harmony, accord, reconciliation, agreement
 5194	4352	bakkin	ばっきん	罰金	 fine, penalty
 5194	4353	funsou	ふんそう	紛争	 dispute, conflict, trouble, strife
 5202	4354	omaetachi	おまえたち	御前達	 you (plural)
 5202	4355	kobushi	こぶし	拳	 fist, けん (拳)  hand game (e.g. rock-paper-scissors)
-5202	4356	tairitsusuru	たいりつする	対立する	
+5202	4356	tairitsu	たいりつ	対立	 confrontation, opposition, antagonism
 5202	4357	nageku	なげく	嘆く	to lament, to grieve, to regret | to deplore
 5207	4358	koshou	こしょう	胡椒	 pepper
 5207	4359	hakkou	はっこう	発行	publication, issue (of journal, newspaper, etc.) | issue (of banknotes, bonds, passport, etc.) | raising an event (software)
@@ -66,8 +66,8 @@
 5212	4366	gyou	ぎょう	行	line (of text), row, verse | carya (austerities) | samskara (formations) | semi-cursive style (of writing Chinese characters), running style, こう (行) going, travelling, traveling, journey, trip | act, action | bank | counter for banks | counter for groups or parties of people | type of classical Chinese verse (usu. an epic from the Tang period onwards) | shopping district (of similar merchants; in the Sui and Tang periods) | merchants' guild (in the Tang period)
 5212	4367	shimei	しめい	使命	mission, errand | task, duty, obligation
 5217	4368	kaoku	かおく	家屋	 house, building
-5217	4369	genkyuusuru	げんきゅうする	言及する	
-5217	4370	shintousuru	しんとうする	浸透する	
+5217	4369	genkyuu	げんきゅう	言及	 reference, allusion
+5217	4370	shintou	しんとう	浸透	penetration (e.g. market), pervasion (e.g. thought, ideology) | permeation, soaking, osmosis
 5217	4371	mikiwameru	みきわめる	見極める	 to ascertain, to make sure of, to determine, to probe, to get to the bottom (of something)
 5222	4372	kangamiru	かんがみる	鑑みる	 to take into account, to bear in mind, to consider, to learn from, to take warning from
 5222	4373	saitei	さいてい	最低	least, lowest, minimum | worst | awful, horrible, nasty, disgusting | at the very least
@@ -76,7 +76,7 @@
 5227	4376	shishin	ししん	指針	needle (compass, gauge, etc.), hand (clock), indicator, pointer, index | guiding principle, guideline, guide
 5227	4377	jinkenhi	じんけんひ	人件費	personnel expenses, labor cost, labour cost | indirect labour costs, indirect labor costs
 5227	4378	sokuza	そくざ	即座	 immediate, right there on the spot, impromptu, instant, instantaneous
-5227	4379	ninmeisuru	にんめいする	任命する	
+5227	4379	ninmei	にんめい	任命	 appointment, nomination, ordination, commission, designation
 5232	4380	saikin	さいきん	細菌	 bacterium, bacteria, germ
 5232	4381	soboku	そぼく	素朴	 simple, artless, naive, unsophisticated
 5232	4382	himeru	ひめる	秘める	 to hide, to keep to oneself

@@ -1,4 +1,4 @@
-23008	18701	sousasuru	そうさする	捜査する	
+23008	18701	sousa	そうさ	捜査	 search (esp. in criminal investigations), investigation, inquiry, enquiry
 23008	18702	soru	そる	剃る	 to shave
 23008	18703	taisou	たいそう	大層	very, extremely, exceedingly, greatly, terribly | extreme, excessive, great many, large number of | splendid, impressive, tremendous, immense | exaggerated
 23008	18704	dama	だま	玉	ball, sphere, globe, orb | bead (of sweat, dew, etc.), drop, droplet | ball (in sports) | pile (of noodles, etc.) | bullet | bulb (i.e. a light bulb) | lens (of glasses, etc.) | bead (of an abacus) | ball (i.e. a testicle) | gem, jewel (esp. spherical; sometimes used figuratively), pearl | female entertainer (e.g. a geisha) | person (when commenting on their nature), character | item, funds or person used as part of a plot | egg | coin | precious, beautiful, excellent, ぎょく (玉) precious stone (esp. jade) | egg (sometimes esp. as a sushi topping) | stock or security being traded, product being bought or sold | position (in finance, the amount of a security either owned or owed by an investor or dealer) | geisha | time charge for a geisha | king (of the junior player)
@@ -18,12 +18,12 @@
 23008	18718	hatakeyama	はたけやま	畠山	
 23008	18719	hanahiraku	はなひらく	花開く	 to blossom, to flower, to bloom
 23008	18720	haraimodoshi	はらいもどし	払い戻し	 repayment, refund, payback
-23008	18721	baikaisuru	ばいかいする	媒介する	
+23008	18721	baikai	ばいかい	媒介	mediation, agency, serving as a medium, acting as an intermediary, acting as a go-between | carrying (germs, diseases, etc.), transmission | mediation
 23008	18722	baba	ばば	婆	old woman | joker (card) | hag, bitch
 23008	18723	panya	ぱんや	パン屋	 bakery, baker, pastry shop
 23008	18724	hitorimusume	ひとりむすめ	一人娘	 only daughter
 23008	18725	himesama	ひめさま	姫様	 princess, daughter of a nobleman
-23008	18726	hyousuru	ひょうする	表する	 to express, to show
+23008	18726	hyou	ひょう	表	surface | face (i.e. the visible side of an object) | front (of a building, etc.), obverse side (i.e. "head") of a coin | outside, exterior | appearance | public | first half (of an inning), top (of an inning) | cover (for tatami mats, etc.) | foreground, ひょう (表) table, chart, list | memorial to an emperor
 23008	18727	hyoumenjou	ひょうめんじょう	表面上	 on the surface, ostensibly, superficially, apparently
 23008	18728	peejisuu	ぺーじすう	ページ数	 number of pages
 23008	18729	bouryaku	ぼうりゃく	謀略	 strategy, stratagem, trick, scheme, plot
@@ -33,12 +33,12 @@
 23008	18733	mokuromi	もくろみ	目論見	 plan, scheme, plot, design, project, intention, aim
 23008	18734	mojiru	もじる	捩る	to screw, to twist | to distort, to parody, to make a pun | to torture, to wrest
 23008	18735	yakeato	やけあと	焼け跡	 ruins of a fire, fire-devastated area
-23008	18736	yayusuru	やゆする	揶揄する	
+23008	18736	yayu	やゆ	揶揄	 banter, raillery, ridicule, teasing, making fun of
 23008	18737	yoi	よい	宵	 evening, early night hours
 23008	18738	youkaigo	ようかいご	要介護	 requiring nursing care
 23008	18739	ritsuko	りつこ	律子	
 23008	18740	ryougan	りょうがん	両岸	 both banks (of a river)
-23008	18741	rekkasuru	れっかする	劣化する	
+23008	18741	rekka	れっか	劣化	deterioration, degradation, drop in quality | becoming unattractive (because of aging)
 23122	18742	aitechiimu	あいてちーむ	相手チーム	
 23122	18743	amata	あまた	数多	 many, a lot, much, multitude
 23122	18744	iguchi	いぐち	井口	
@@ -52,7 +52,7 @@
 23122	18752	okamoto	おかもと	岡本	
 23122	18753	osaki	おさき	御先	ahead, before | the future, みさき (御先) leader of a nobleman's cavalcade | animal messenger of the gods (i.e. a fox)
 23122	18754	ohitoyoshi	おひとよし	御人良し	
-23122	18755	kaisuru	かいする	会する	to meet, to assemble, to gather | to encounter, to run into
+23122	18755	kai	かい	会	 gathering (esp. Buddhist, festive, etc.), かい (会) meeting, assembly, party, gathering, conference, athletic meet | society, association, club
 23122	18756	kagiri	かぎり	限り	limit, limits, bounds | degree, extent, scope | the end, the last | as long as ..., as far as ..., as much as ..., to the limits of ..., all of ... | unless ... | (not) included in ..., (not) part of ... | ... only (e.g. "one time only", "today only") | end of one's life, final moments, death | funeral, burial, きり (切り) end, finish, stop | bounds, limits | delivery date (of a futures contract) | finale (of a noh song), end of an act (in jōruri or kabuki), final performance of the day (in vaudeville) | counter for slices (esp. thick slices), counter for cuts (e.g. fish, meat) | only, just | since, after | remaining (in a particular state)
 23122	18757	kakuchiku	かくちく	各地区	
 23122	18758	katoku	かとく	家督	heir, successor | family estate, family fortune, inheritance | headship of a family
@@ -69,7 +69,7 @@
 23122	18769	kusami	くさみ	臭み	bad smell | affectation, fulsomeness
 23122	18770	keieikankyou	けいえいかんきょう	経営環境	
 23122	18771	keiji	けいじ	掲示	 notice, bulletin, post, posting, placard
-23122	18772	keizokusuru	けいぞくする	係属する	
+23122	18772	keizoku	けいぞく	係属	relationship, connection, affiliation | pending (e.g. legal case), pendency
 23122	18773	kezuritoru	けずりとる	削り取る	 to shave off, to scrape off
 23122	18774	kenzen'ikusei	けんぜんいくせい	健全育成	
 23122	18775	koukendekiru	こうけんできる	貢献出来る	
@@ -84,7 +84,7 @@
 23122	18784	shinkeishou	しんけいしょう	神経症	 nervous disorder, neurosis
 23122	18785	jieitaiin	じえいたいいん	自衛隊員	 Self-Defense Forces personnel
 23122	18786	juusou	じゅうそう	重曹	 baking soda, sodium bicarbonate
-23122	18787	jukkaisuru	じゅっかいする	述懐する	
+23122	18787	jukkai	じゅっかい	述懐	 speaking about (one's thoughts, memories, etc.), relating (one's feelings, reminiscences, etc.), recollection, reminiscence
 23122	18788	jougekankei	じょうげかんけい	上下関係	 pecking order, hierarchical relationship, vertical relationship, hyponymy
 23122	18789	sutoresukaishou	すとれすかいしょう	ストレス解消	 stress reduction
 23122	18790	zuchuu	ずちゅう	図中	

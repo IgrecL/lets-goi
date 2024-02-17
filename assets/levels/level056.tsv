@@ -1,4 +1,4 @@
-6598	5501	shigotosuru	しごとする	仕事する	
+6598	5501	shigoto	しごと	仕事	work, job, labor, labour, business, task, assignment, occupation, employment | work
 6598	5502	chiba	ちば	千葉	 Chiba (city, prefecture)
 6598	5503	hoshou	ほしょう	補償	 compensation, reparation
 6598	5504	yuigon	ゆいごん	遺言	 will, testament, last request
@@ -9,9 +9,9 @@
 6605	5509	tsubomi	つぼみ	蕾	(flower) bud | promising young person, budding beauty
 6605	5510	niou	におう	匂う	to be fragrant, to smell (good) | to stink, to smell (bad) | to glow, to be bright | to smack of, to show hints of
 6605	5511	nipponkokunai	にっぽんこくない	日本国内	 Japanese domestic
-6605	5512	bunpusuru	ぶんぷする	分布する	
+6605	5512	bunpu	ぶんぷ	分布	 distribution, allocation
 6616	5513	utsushidasu	うつしだす	映し出す	to project, to show | to portray, to depict, to describe, to reflect
-6616	5514	enryosuru	えんりょする	遠慮する	
+6616	5514	enryo	えんりょ	遠慮	reserve, constraint, restraint, modesty, diffidence, hesitation, holding back, discretion, tact, thoughtfulness | declining, refraining | forethought, foresight
 6616	5515	ougon	おうごん	黄金	gold (Au) | golden, prosperous, excellent, superb | money (esp. ōban coin), cash, こがね (黄金) gold | gold coin | gold colour (color)
 6616	5516	kaisan	かいさん	解散	breaking up (e.g. meeting), dispersing (e.g. crowd) | dissolving (company, organization, etc.), liquidating, disbanding | dissolving (diet, parliament, etc.)
 6616	5517	sanchi	さんち	産地	 producing area
@@ -20,7 +20,7 @@
 6624	5520	kaji	かじ	火事	 fire, conflagration
 6624	5521	gyakutai	ぎゃくたい	虐待	 abuse, ill-treatment, maltreatment, mistreatment, cruelty
 6624	5522	taion	たいおん	体温	 temperature, body temperature (human, animal)
-6624	5523	chousetsusuru	ちょうせつする	調節する	
+6624	5523	chousetsu	ちょうせつ	調節	 regulation, adjustment, control
 6624	5524	hyakuman'en	ひゃくまんえん	百万円	
 6624	5525	makkura	まっくら	真っ暗	total darkness, pitch dark | bleak future, poor prospects
 6632	5526	amasa	あまさ	甘さ	
@@ -39,7 +39,7 @@
 6646	5539	chousakekka	ちょうさけっか	調査結果	 results (of a study)
 6650	5540	kin'iro	きんいろ	金色	 golden (colour, color)
 6650	5541	goto	ごと	毎	 each, every, まい (毎)  every (usu. with events, e.g. every weekend), each
-6650	5542	sekkeisuru	せっけいする	設計する	
+6650	5542	sekkei	せっけい	設計	 plan, design, layout
 6650	5543	soukai	そうかい	総会	 general meeting
 6657	5544	oomune	おおむね	概ね	in general, generally, mostly, roughly, largely, mainly, on the whole, by and large | gist, point, main idea
 6657	5545	kaishou	かいしょう	解消	 cancellation, liquidation, resolution, reduction (e.g. of stress)
@@ -50,7 +50,7 @@
 6667	5550	umare	うまれ	生まれ	birth, birthplace | born in (country, month, imperial era, zodiac year, etc.)
 6667	5551	onkei	おんけい	恩恵	 grace, favor, favour, blessing, benefit
 6667	5552	kiraku	きらく	気楽	carefree, comfortable, at ease | easygoing, happy-go-lucky
-6667	5553	kenensuru	けねんする	懸念する	
+6667	5553	kenen	けねん	懸念	 worry, fear, anxiety, concern
 6667	5554	nipponkigyou	にっぽんきぎょう	日本企業	 Japanese company (business, firm)
 6667	5555	fushizen	ふしぜん	不自然	 unnatural, artificial, affected, strained
 6667	5556	mikan	みかん	蜜柑	mandarin (esp. the satsuma mandarin (Citrus unshiu)), mandarin orange, tangerine, clementine, satsuma | citrus (Citrus spp.)
@@ -67,14 +67,14 @@
 6682	5567	kotachi	こたち	子達	 children
 6682	5568	shiru	しる	汁	juice, sap | soup, broth | (dipping) sauce
 6682	5569	chuutohanpa	ちゅうとはんぱ	中途半端	 halfway, half measures, unfinished, incomplete, by halves, half-baked, half-cocked, half-hearted, half-arsed, half-assed
-6682	5570	tokuteisuru	とくていする	特定する	
+6682	5570	tokutei	とくてい	特定	specific, particular, designated, special | specifying, designating, identifying, pinpointing
 6682	5571	wariateru	わりあてる	割り当てる	 to assign, to allot, to allocate, to divide among, to distribute, to prorate, to apportion
-6691	5572	keishousuru	けいしょうする	継承する	
-6691	5573	saibaisuru	さいばいする	栽培する	
+6691	5572	keishou	けいしょう	継承	inheritance, succession, accession | share-alike
+6691	5573	saibai	さいばい	栽培	 cultivation
 6691	5574	chousho	ちょうしょ	長所	 strong point, merit, virtue, advantage
 6691	5575	makasu	まかす	任す	 to entrust, to leave to a person
 6695	5576	aijin	あいじん	愛人	 lover, mistress
-6695	5577	attousuru	あっとうする	圧倒する	
+6695	5577	attou	あっとう	圧倒	to overwhelm (e.g. an opponent), to overpower, to crush, to defeat completely | to overwhelm (someone with emotion), to move, to impress, to fill with emotion | to intimidate, to frighten, to threaten
 6695	5578	ikou	いこう	移行	 switching over to, migration, transition
 6695	5579	insatsu	いんさつ	印刷	 printing
 6695	5580	inyou	いんよう	引用	 quotation, citation, reference
@@ -83,7 +83,7 @@
 6705	5583	itoko	いとこ	従兄弟	 cousin (male)
 6705	5584	keshouhin	けしょうひん	化粧品	 cosmetics, toilet articles
 6705	5585	kowabaru	こわばる	強張る	 to stiffen, to become stiff
-6705	5586	soshisuru	そしする	阻止する	
+6705	5586	soshi	そし	阻止	 obstruction, check, hindrance, prevention, impediment, interdiction, preemption, blocking
 6705	5587	chou	ちょう	腸	 guts, bowels, intestines
 6705	5588	choukoku	ちょうこく	彫刻	 carving, engraving, sculpture
 6705	5589	hodo	ほど	程	extent, degree, measure | limit, bounds | (span of) time | (a) distance | the state of, the status of, the condition of | about, around, approximately, or so | as much as ..., to the extent of ..., like ... | the more ... the more ...

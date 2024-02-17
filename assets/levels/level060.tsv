@@ -17,10 +17,10 @@
 7107	5917	kuri	くり	栗	 Japanese chestnut (Castanea crenata)
 7107	5918	kokkaigiin	こっかいぎいん	国会議員	 member of the Diet, Diet member, member of parliament, MP
 7107	5919	shinpan	しんぱん	審判	 refereeing, trial, judgement, judgment, umpire, referee
-7107	5920	souchakusuru	そうちゃくする	装着する	
+7107	5920	souchaku	そうちゃく	装着	 equipping, installing, fitting, mounting, putting on
 7107	5921	choueki	ちょうえき	懲役	 penal servitude, imprisonment with hard labor (hard labour)
 7107	5922	touitsu	とういつ	統一	 unity, consolidation, uniformity, unification, compatible
-7116	5923	koujosuru	こうじょする	控除する	
+7116	5923	koujo	こうじょ	控除	 subtraction, deduction (e.g. tax), subsidy
 7116	5924	sumasu	すます	澄ます	to clear, to make clear | to be unruffled, to look unconcerned, to feign indifference | to look demure, to look prim, to put on airs | to strain (one's ears), to listen carefully
 7116	5925	taka	たか	高	 quantity, amount, volume, number, amount of money, こう (高) high | high school
 7116	5926	chinamu	ちなむ	因む	 to be associated (with), to be connected (with)
@@ -31,8 +31,8 @@
 7123	5931	komiageru	こみあげる	込み上げる	to well up (of tears, anger, joy, etc.), to surge up (within oneself), to rise, to fill one's heart, to overcome one | to feel nauseated, to feel sick
 7123	5932	saku	さく	柵	fence, paling, railing | fortress, しがらみ (柵) weir | bonds, fetters, ties of obligation, き (柵)  fortress (surrounded by a wall, moat, etc.)
 7123	5933	shinraikankei	しんらいかんけい	信頼関係	 relationship of mutual trust, fiduciary relation
-7123	5934	joutosuru	じょうとする	譲渡する	
-7123	5935	doukousuru	どうこうする	同行する	
+7123	5934	jouto	じょうと	譲渡	 transfer, assignment, conveyance
+7123	5935	doukou	どうこう	同行	 fellow pilgrim, fellow practicer of austerities, どうこう (同行) accompanying, travelling together, traveling together | same bank
 7123	5936	ritsu	りつ	率	 rate, ratio, proportion, percentage
 7132	5937	ashidori	あしどり	足取り	gait, walk, stride, pace, step, manner of walking | trace (e.g. of route taken by hunted criminal), track, trail, movements, あしとり (足取り)  downing an opponent by grabbing his leg
 7132	5938	kouen	こうえん	公演	public performance | exhibition in a foreign country
@@ -40,18 +40,18 @@
 7135	5940	ueni	うえに	上に	
 7135	5941	kansetsu	かんせつ	関節	 joint (knee, elbow, etc.)
 7135	5942	getsuyou	げつよう	月曜	 Monday
-7135	5943	shussansuru	しゅっさんする	出産する	
+7135	5943	shussan	しゅっさん	出産	childbirth, (giving) birth, delivery, parturition, confinement | production (of goods)
 7135	5944	suika	すいか	西瓜	 watermelon (Citrullus lanatus)
 7135	5945	tsukitomeru	つきとめる	突き止める	to determine (esp. a culprit or underlying cause), to pin down, to ascertain, to locate, to identify | to stab to death
 7135	5946	nangenai	なんげない	何気無い	 casual, unconcerned, nonchalant
 7135	5947	fu	ふ	負	 negative, minus, おい (笈)  wooden box carried on one's back to store items for a pilgrimage
 7135	5948	muchi	むち	鞭	whip, lash, scourge | stick, cane, rod, pointer
 7135	5949	yawarageru	やわらげる	和らげる	 to soften, to moderate, to relieve
-7135	5950	rensousuru	れんそうする	連想する	
+7135	5950	rensou	れんそう	連想	 association (of ideas), being reminded (of something), suggestion
 7147	5951	komono	こもの	小物	accessories, small articles | minor character, small fry, weak one
 7147	5952	sadamaru	さだまる	定まる	 to become settled, to be fixed
 7147	5953	sayou	さよう	然様	so, like that | that's right, indeed | let me see...
-7147	5954	jushousuru	じゅしょうする	受賞する	
+7147	5954	jushou	じゅしょう	受賞	 winning (a prize)
 7147	5955	jintai	じんたい	人体	 human body, じんてい (人体)  personal appearance, looks
 7154	5956	sabishisa	さびしさ	寂しさ	 (feeling of) loneliness, desolation
 7154	5957	sanchou	さんちょう	山頂	 summit (of a mountain)
@@ -60,8 +60,8 @@
 7154	5960	heitai	へいたい	兵隊	 soldier, sailor
 7154	5961	yogosu	よごす	汚す	to pollute, to contaminate, to soil, to make dirty, to stain | to disgrace, to dishonour, to dishonor, to defile
 7160	5962	otsukaresama	おつかれさま	御疲れ様	thank you for your hard work, good work | see you, goodbye, goodnight
-7160	5963	santeisuru	さんていする	算定する	
-7160	5964	jisshousuru	じっしょうする	実証する	
+7160	5963	santei	さんてい	算定	 calculation, estimation, computation
+7160	5964	jisshou	じっしょう	実証	 demonstration, verification, substantiation, actual proof
 7160	5965	songen	そんげん	尊厳	 dignity, majesty, sanctity
 7160	5966	toshiyori	としより	年寄り	old person, elderly person, senior citizen | trustee of the Japan Sumo Association, retired high-ranking wrestler who is licensed to coach and receives retirement pay | senior statesman (of the Tokugawa shogunate) | important local official (under the Tokugawa Shogunate)
 7160	5967	dodai	どだい	土台	foundation, base, basis | from the beginning, from the outset, by nature
@@ -88,8 +88,8 @@
 7192	5988	ajitsuke	あじつけ	味付け	 seasoning, flavour, flavor
 7192	5989	ippo	いっぽ	一歩	(a) step, one step | level, stage, step | small degree, small amount
 7192	5990	kimetsukeru	きめつける	決め付ける	to fix upon (one-sidedly), to (ignore somebody's position and) arbitrarily decide something is the case | to scold, to take (a person) to task
-7192	5991	kenkasuru	けんかする	喧嘩する	
-7192	5992	sesshusuru	せっしゅする	摂取する	
+7192	5991	kenka	けんか	喧嘩	 quarrel, brawl, fight, squabble, scuffle, argument
+7192	5992	sesshu	せっしゅ	摂取	intake (e.g. of salt), ingestion | absorption (e.g. of new knowledge), adoption (e.g. of foreign culture), assimilation | reception and protection
 7192	5993	daizai	だいざい	題材	 subject, theme
 7192	5994	togireru	とぎれる	途切れる	 to break off, to come to an end, to be interrupted, to be cut short, to pause
 7192	5995	rinkaku	りんかく	輪郭	contour, outline, border, silhouette | summary, outline, sketch | looks, features, appearance

@@ -1,5 +1,5 @@
 2390	2001	dame	だめ	駄目	no good, not serving its purpose, useless, broken | hopeless, wasted, in vain, purposeless | cannot, must not, not allowed | neutral point (in go), intersection owned by neither player at the end of a game
-2392	2002	tantousuru	たんとうする	担当する	
+2392	2002	tantou	たんとう	担当	 being in charge (of an area of responsibility), being responsible (for a work role, etc.)
 2392	2003	risou	りそう	理想	 ideal, ideals
 2394	2004	busshitsu	ぶっしつ	物質	material, substance | matter
 2395	2005	genki	げんき	元気	lively, full of spirit, energetic, vigorous, vital, spirited | healthy, well, fit, in good health
@@ -7,7 +7,7 @@
 2398	2007	shitai	したい	死体	 dead body, corpse, cadaver, carcass
 2400	2008	oyoso	およそ	凡そ	about, roughly, approximately | generally, on the whole, as a rule | completely, quite, entirely, altogether, totally, not at all (with neg. verb) | outline, gist, およそ (凡そ) about, roughly, approximately | generally, on the whole, as a rule | completely, quite, entirely, altogether, totally, not at all (with neg. verb) | outline, gist
 2400	2009	seifuiin	せいふいいん	政府委員	 ministerial aide, government delegate
-2402	2010	itchisuru	いっちする	一致する	
+2402	2010	itchi	いっち	一致	coincidence, agreement, union, match | conformity, consistency | cooperation
 2402	2011	kisei	きせい	規制	 regulation, (traffic) policing, control, restriction
 2404	2012	zen	ぜん	前	point, tip, end, nozzle | head (of a line), front | first, before, ahead (of) | (the way) ahead, beyond | future | previous, prior, former, recent, last | destination | rest (e.g. of a story), continuation, remaining part | the other party, ぜん (前) last (i.e. immediately preceding), previous, ex-, former | pre- (e.g. premodern) | before | before, earlier, まえ (前) in front (of), before (e.g. a building) | before, earlier, previously, prior, ago, (minutes) to (the hour) | (the) front, frontal part, fore, head (e.g. of a line) | forward, ahead | (in the) presence (of), in front (of someone) | previous (e.g. page), prior (e.g. engagement), first (e.g. half), former (e.g. example) | portion, helping | front (of one's body or clothing), breast (of a coat, kimono, etc.) | privates, private parts | criminal record, previous conviction, (a) prior
 2406	2013	shu	しゅ	主	chief, main, principal, important | main secondary or supporting role (in kyogen), しゅ (主) (one's) master | Lord | the main thing, the majority, the primary concern, ぬし (主) head (of a household, etc.), leader, master | owner, proprietor, proprietress | subject (of a rumour, etc.), doer (of a deed) | guardian spirit (e.g. long-resident beast, usu. with mystical powers), long-time resident (or employee, etc.) | husband | you, しゅじん (主人) head (of a household), proprietor (of a store), proprietress, landlord, landlady | one's husband | (one's) employer, (one's) master | host, hostess, にし (主)  you, す (主)  honorific (or familiar) suffix used after a name, あるじ (主) head (of a household), proprietor (of a store), proprietress, landlord, landlady, master (of a servant) | entertaining someone as one's guest
@@ -22,7 +22,7 @@
 2416	2022	naka	なか	仲	 relation, relationship, すあい (牙婆)  broker, brokerage, brokerage fee
 2416	2023	ne	ね	根	root (of a plant) | root (of a tooth, hair, etc.), center (of a pimple, etc.) | root (of all evil, etc.), source, origin, cause, basis | one's true nature | (fishing) reef, こん (根) stick-to-itiveness, perseverance, persistence | radical (esp. one that tends to ionize easily) | root | indriya (faculty of the body having a specific function, i.e. the sensory organs)
 2418	2024	tsuide	ついで	序で	opportunity, occasion, chance | order, sequence | successor
-2419	2025	denwasuru	でんわする	電話する	
+2419	2025	denwa	でんわ	電話	telephone call, phone call | telephone (device), phone
 2420	2026	tahou	たほう	他方	one (esp. of two), the other, one way, the other way, one direction, the other direction, one side, the other side, one party, the other party | on the other hand
 2420	2027	hashira	はしら	柱	pillar, post | support, prop, mainstay | counter for buddhas, gods, nobles, etc., ちゅう (柱) bridge (of a koto, etc.) | cylinder, prism, じゅう (柱)  fret (of a biwa)
 2422	2028	kabu	かぶ	株	stock, share | stump | (clump of) roots, plant with attached roots or stem | strain (of bacteria, etc.) | stock company, corporation, kabushiki kaisha, KK | goodwill (of a business), privilege (that comes with a role) | reputation, standing, popularity | one's forte, くい (杭) stake, post, pile, picket | stump, しゅ (株) stump | counter for trees, くいぜ (株)  stump, かぶた (株) stump | useless item
@@ -66,7 +66,7 @@
 2465	2066	dentou	でんとう	伝統	 tradition, convention
 2465	2067	michibiku	みちびく	導く	to guide, to lead, to show the way, to conduct | to derive, to deduce
 2468	2068	kitachousen	きたちょうせん	北朝鮮	 North Korea
-2468	2069	hakkousuru	はっこうする	発行する	
+2468	2069	hakkou	はっこう	発行	publication, issue (of journal, newspaper, etc.) | issue (of banknotes, bonds, passport, etc.) | raising an event (software)
 2470	2070	hassei	はっせい	発生	outbreak, spring forth, occurrence, incidence | generation (e.g. of power or heat), genesis, origin | ontogeny, development of complex multicellular structures from cell(s) in a simple state
 2471	2071	oretachi	おれたち	俺達	 we, us
 2472	2072	toushi	とうし	投資	 investment
@@ -77,7 +77,7 @@
 2477	2077	utsuru	うつる	映る	 to be reflected, to harmonize with (harmonise), to come out (photo), to be projected, to be displayed (on a screen)
 2478	2078	sanshou	さんしょう	参照	 reference, bibliographical reference, consultation, browsing (e.g. when selecting a file to upload on a computer), checking out
 2478	2079	shousai	しょうさい	詳細	details, particulars, specifics | detailed, specific, minute | close-up view (of a digitally displayed map), zoomed-in view
-2478	2080	hantaisuru	はんたいする	反対する	
+2478	2080	hantai	はんたい	反対	opposition, resistance, antagonism, hostility, objection, dissent | reverse, opposite, inverse, contrary
 2481	2081	tousho	とうしょ	当初	beginning, start, outset | at first, at the beginning, initially, originally
 2482	2082	soroeru	そろえる	揃える	to collect, to gather, to get together, to complete (a collection) | to arrange, to put in order, to prepare, to get ready | to make uniform, to make even, to match
 2483	2083	enjo	えんじょ	援助	 assistance, aid, support
@@ -86,9 +86,9 @@
 2486	2086	donata	どなた	何方	which way, which direction, where | which one (esp. of two alternatives) | who, どなた (何方)  who
 2486	2087	yoru	よる	夜	evening, night | dinner, や (夜)  counter for nights
 2488	2088	musubitsuku	むすびつく	結び付く	to be related, to be connected, to be joined together | to result in, to lead to, to bring about
-2489	2089	touchakusuru	とうちゃくする	到着する	
+2489	2089	touchaku	とうちゃく	到着	 arrival
 2489	2090	honjitsu	ほんじつ	本日	 today, this day
-2491	2091	setsuritsusuru	せつりつする	設立する	
+2491	2091	setsuritsu	せつりつ	設立	establishment, founding | incorporation (of a business)
 2492	2092	eda	えだ	枝	 branch, bow, bough, twig, limb, し (枝)  counter for long, thin things (i.e. swords)
 2493	2093	konya	こんや	今夜	 this evening, tonight
 2494	2094	hakaru	はかる	測る	to measure, to weigh, to survey, to time (sound, gauge, estimate) | to conjecture, to infer, to surmise

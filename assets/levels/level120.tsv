@@ -3,7 +3,7 @@
 14488	11903	yougi	ようぎ	容疑	 suspicion, charge
 14488	11904	reisen	れいせん	冷戦	 cold war
 14527	11905	abe	あべ	阿部	
-14527	11906	ichidanrakusuru	いちだんらくする	一段落する	
+14527	11906	ichidanraku	いちだんらく	一段落	reaching a stopping place, settling down (before the next stage), getting to a point where one can rest, completing the first stage (of the work) | one paragraph
 14527	11907	ichinichime	いちにちめ	一日目	 first day (e.g. at work, school), day one
 14527	11908	ushiromuki	うしろむき	後ろ向き	back-facing, backwards | backward-looking, retrogressive, reactionary, retrospective, negative
 14527	11909	ojousama	おじょうさま	御嬢様	(another's) daughter | young lady (of pampered upbringing), woman who has never known hardship, naive woman
@@ -16,13 +16,13 @@
 14527	11916	kodakai	こだかい	小高い	 slightly elevated
 14527	11917	zainin	ざいにん	罪人	 criminal, lawbreaker, wrongdoer, offender, つみびと (罪人)  sinner, evildoer, wrongdoer
 14527	11918	shigekiteki	しげきてき	刺激的	 stimulating, exciting, provocative
-14527	11919	shinkokukasuru	しんこくかする	深刻化する	
+14527	11919	shinkokuka	しんこくか	深刻化	 becoming more serious or severe, aggravation, intensification
 14527	11920	shinpi	しんぴ	神秘	 mystery, mysteriousness, secret
 14527	11921	jikko	じっこ	十個	
 14527	11922	jissenchimeetoru	じっせんちめーとる	十センチメートル	
 14527	11923	juumai	じゅうまい	十枚	
 14527	11924	jukensei	じゅけんせい	受験生	 student preparing for or taking examinations (usu. entrance exams), test-taker
-14527	11925	juyosuru	じゅよする	授与する	
+14527	11925	juyo	じゅよ	授与	 awarding, conferment, granting, presentation
 14527	11926	jouhougen	じょうほうげん	情報源	source of information, intelligence source | message source
 14527	11927	zensaku	ぜんさく	前作	previous work, preceding work | first crop grown in a double-cropped field, preceding crop
 14527	11928	sougorikai	そうごりかい	相互理解	 mutual understanding
@@ -31,7 +31,7 @@
 14527	11931	nochihodo	のちほど	後程	 later on, eventually, afterwards
 14527	11932	hasseikensuu	はっせいけんすう	発生件数	
 14527	11933	hanshoku	はんしょく	繁殖	 breeding, multiplication, increase, propagation, reproduction
-14527	11934	hanshokusuru	はんしょくする	繁殖する	
+14527	11934	hanshoku	はんしょく	繁殖	 breeding, multiplication, increase, propagation, reproduction
 14527	11935	hitsuyoukeihi	ひつようけいひ	必要経費	 necessary expense
 14527	11936	biwako	びわこ	琵琶湖	 Lake Biwa
 14527	11937	fujinka	ふじんか	婦人科	gynecology department | gynecology
@@ -65,18 +65,18 @@
 14576	11965	gochisousama	ごちそうさま	御馳走様	thank you (for the meal), that was a delicious meal | thank you (for displaying lovey-dovey behaviour)
 14576	11966	sakasa	さかさ	逆さ	 inverted, upside down, reversed, back to front
 14576	11967	shitaji	したじ	下地	groundwork, foundation | inclination, aptitude, elementary knowledge (of), grounding (in) | undercoat, first coat | soy sauce
-14576	11968	shoukakusuru	しょうかくする	昇格する	
+14576	11968	shoukaku	しょうかく	昇格	 promotion, raising of status
 14576	11969	shouchou	しょうちょう	省庁	 ministries and government offices, the authorities
-14576	11970	shoumousuru	しょうもうする	消耗する	
+14576	11970	shoumou	しょうもう	消耗	 exhaustion, consumption, using up, dissipation, waste
 14576	11971	tamekomu	ためこむ	溜め込む	 to save up, to stockpile, to stash away, to hoard, to amass, to salt away
 14576	11972	chihouzei	ちほうぜい	地方税	 local tax, council tax
 14576	11973	nochi	のち	後	behind, rear | after, later | remainder, the rest | more (e.g. five more minutes), left | also, in addition | descendant, successor, heir | after one's death | past, previous, のち (後) later, afterwards | future | after one's death | descendant, うしろ (後ろ)  back, behind, rear, しり (尻) buttocks, behind, rump, bottom, hips | undersurface, bottom | last place, end | consequence, ご (後)  after
 14576	11974	fujiwara	ふじわら	藤原	
-14576	11975	henshinsuru	へんしんする	返信する	
+14576	11975	henshin	へんしん	返信	 reply (e.g. email, fax, letter), answer
 14576	11976	ma	ま	魔	demon, devil, evil spirit, evil influence | -crazed person, -obsessed person, fiend
 14576	11977	miseinensha	みせいねんしゃ	未成年者	 minor, person under age
 14576	11978	mochibun	もちぶん	持分	 share (of expenses), equity (in company), holdings, interest (in company)
-14576	11979	ryoushousuru	りょうしょうする	了承する	
+14576	11979	ryoushou	りょうしょう	了承	 acknowledgement, acknowledgment, understanding (e.g. "please be understanding of the mess during our renovation"), noting, acceptance
 14576	11980	reiichinen	れいいちねん	零一年	
 14576	11981	reikon	れいこん	霊魂	 soul, spirit
 14576	11982	renzokuteki	れんぞくてき	連続的	 consecutive, continuous, successive
@@ -85,7 +85,7 @@
 14623	11985	itashikata	いたしかた	致し方	 way, method, means, resource, course
 14623	11986	ichigyou	いちぎょう	一行	 (one) line, (one) row, いっこう (一行) party, group, troop, company | one act, one action, one deed
 14623	11987	ichijihan	いちじはん	一時半	
-14623	11988	enkisuru	えんきする	延期する	
+14623	11988	enki	えんき	延期	 postponement, deferment, adjournment
 14623	11989	ouchou	おうちょう	王朝	 dynasty
 14623	11990	okangaeru	おかんがえる	御考える	
 14623	11991	kaitaku	かいたく	開拓	reclamation (e.g. wasteland), cultivation, development | pioneering, opening up (e.g. new market), breaking new ground, trailblazing
@@ -97,4 +97,4 @@
 14623	11997	shisugiru	しすぎる	し過ぎる	 to overdo, to do too much
 14623	11998	juujitsukyouka	じゅうじつきょうか	充実強化	
 14623	11999	jukyou	じゅきょう	儒教	 Confucianism
-14623	12000	joutatsusuru	じょうたつする	上達する	
+14623	12000	joutatsu	じょうたつ	上達	improvement (e.g. in skill, ability), advance, progress | communication of opinions of the general populace to those of high rank

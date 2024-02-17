@@ -1,6 +1,6 @@
-13676	11201	kaikakusuru	かいかくする	改革する	
+13676	11201	kaikaku	かいかく	改革	 reform, reformation, reorganization
 13676	11202	kanshou	かんしょう	鑑賞	 appreciation (of art, music, poetry, etc.)
-13676	11203	kanshousuru	かんしょうする	干渉する	
+13676	11203	kanshou	かんしょう	干渉	 interference, intervention, meddling
 13676	11204	kandai	かんだい	寛大	 tolerant, generous, lenient, broad-minded, magnanimous
 13676	11205	kyoufushin	きょうふしん	恐怖心	 fear, terror
 13676	11206	kinyuuseisaku	きんゆうせいさく	金融政策	 monetary policy
@@ -11,11 +11,11 @@
 13676	11211	saitou	さいとう	斎藤	
 13676	11212	zaiseijoukyou	ざいせいじょうきょう	財政状況	
 13676	11213	shadou	しゃどう	車道	 roadway
-13676	11214	shukkasuru	しゅっかする	出荷する	
+13676	11214	shukka	しゅっか	出荷	 shipping, shipment, forwarding
 13676	11215	shouken	しょうけん	証券	 bond, bill, certificate, security
 13676	11216	shoumikigen	しょうみきげん	賞味期限	 "best before" date (food), sell-by date
 13676	11217	jichihou	じちほう	自治法	
-13676	11218	jukusuru	じゅくする	熟する	to ripen, to mature | to be ready for action, to be the right time (to act) | to be in common use, to come to sound natural | to become skilled
+13676	11218	juku	じゅく	熟	deeply, keenly, severely, completely, utterly | intently, carefully, closely, attentively
 13676	11219	seisankatsudou	せいさんかつどう	生産活動	
 13676	11220	tan'itsu	たんいつ	単一	 single, simple, sole, individual, unitary, たんいち (単１)  D battery, D cell
 13676	11221	daimondai	だいもんだい	大問題	 big problem
@@ -25,7 +25,7 @@
 13676	11225	hakensaki	はけんさき	派遣先	
 13676	11226	hiyu	ひゆ	比喩	 simile, metaphor, allegory, parable
 13676	11227	hekiga	へきが	壁画	 fresco, mural, wall painting
-13676	11228	henbousuru	へんぼうする	変貌する	
+13676	11228	henbou	へんぼう	変貌	 transfiguration, transformation, change of appearance
 13676	11229	memagurushii	めまぐるしい	目まぐるしい	 hectic, bewildering, bustling, dizzy
 13676	11230	momen	もめん	木綿	cotton (material) | red silk-cotton tree (Bombax ceiba), ゆう (木綿)  string made of cut steamed, soaked mulberry bark fibers
 13676	11231	yabu	やぶ	藪	thicket, bush, grove, scrub | (medical) quack
@@ -33,7 +33,7 @@
 13716	11233	iwanamishoten	いわなみしょてん	岩波書店	
 13716	11234	uraguchi	うらぐち	裏口	backdoor, rear entrance | unauthorized, illicit, illegal
 13716	11235	oboegaki	おぼえがき	覚え書き	memo, memorandum, note | (diplomatic) memorandum
-13716	11236	kamisuru	かみする	加味する	
+13716	11236	kami	かみ	加味	seasoning, flavoring, flavouring | addition, inclusion, taking into account
 13716	11237	gasshou	がっしょう	合唱	 chorus, singing in a chorus
 13716	11238	kuishibaru	くいしばる	食い縛る	 to set one's teeth, to clench one's teeth, to grit one's teeth
 13716	11239	kuchigomoru	くちごもる	口籠もる	 to hesitate to say, to mumble, to hem and haw, to falter
@@ -41,17 +41,17 @@
 13716	11241	kenkoukanri	けんこうかんり	健康管理	 health management, health maintenance, health care
 13716	11242	koizumisan	こいずみさん	小泉さん	
 13716	11243	koutai	こうたい	後退	retreat, falling back, moving backwards, reversing, retrogression, retraction | recession, waning | backspace (key)
-13716	11244	kouchokusuru	こうちょくする	硬直する	
-13716	11245	saikakuninsuru	さいかくにんする	再確認する	
-13716	11246	shikousuru	しこうする	志向する	
-13716	11247	shitsubousuru	しつぼうする	失望する	
+13716	11244	kouchoku	こうちょく	硬直	 stiffening, rigidity, rigor, stiffness, ossification, petrification
+13716	11245	saikakunin	さいかくにん	再確認	 reaffirmation, reconfirmation, revalidation
+13716	11246	shikou	しこう	志向	 intention, aim, preference (for), orientation (towards a goal)
+13716	11247	shitsubou	しつぼう	失望	 disappointment, despair
 13716	11248	shinku	しんく	深紅	 deep crimson
 13716	11249	jidouhanbaiki	じどうはんばいき	自動販売機	 vending machine
 13716	11250	jouren	じょうれん	常連	regular customer, regular patron, frequenter | constant companion
 13716	11251	seihoukei	せいほうけい	正方形	 square
 13716	11252	tanso	たんそ	炭素	 carbon (C)
 13716	11253	chuuoubu	ちゅうおうぶ	中央部	 centre, center, middle
-13716	11254	tentousuru	てんとうする	点灯する	
+13716	11254	tentou	てんとう	点灯	 lighting (a lamp), turning on a light
 13716	11255	nichijou	にちじょう	日常	 everyday, daily, ordinary, usual, routine, regular
 13716	11256	habatsu	はばつ	派閥	 clique, faction
 13716	11257	harusaki	はるさき	春先	 beginning of spring
@@ -64,14 +64,14 @@
 13716	11264	yubune	ゆぶね	湯船	bathtub | boat with a bathtub rented to customers (Edo period)
 13716	11265	waribiki	わりびき	割り引き	discount, reduction, rebate | tenths discounted, tenths reduced
 13756	11266	ishidatami	いしだたみ	石畳	stone paving, cobble paving, sett, flagstone | stone steps | check (pattern) | pavé, rectangular dessert (usu. made from chocolate or several layers of sponge cake)
-13756	11267	kaiwasuru	かいわする	会話する	
+13756	11267	kaiwa	かいわ	会話	 conversation
 13756	11268	kagoubutsu	かごうぶつ	化合物	 compound
 13756	11269	kasaneawaseru	かさねあわせる	重ね合わせる	 to overlap
 13756	11270	kamiau	かみあう	噛み合う	to gear (engage) with, to be in gear (mesh) | to bite each other
-13756	11271	kyoyousuru	きょようする	許容する	
+13756	11271	kyoyou	きょよう	許容	 permission, allowance, acceptance, tolerance, pardon
 13756	11272	kugizuke	くぎづけ	釘付け	nailing on, nailing down, nailing shut, being glued (to), being unable to take one's eyes (from) | being stationary, being rooted to the spot, halting, freezing | (price) pegging
 13756	11273	kouon	こうおん	高温	 high temperature
-13756	11274	shiikusuru	しいくする	飼育する	
+13756	11274	shiiku	しいく	飼育	 breeding, raising, rearing
 13756	11275	shokken	しょっけん	職権	 one's (official) authority, power
 13756	11276	jikkousei	じっこうせい	実効性	 effectiveness
 13756	11277	jittaichousa	じったいちょうさ	実態調査	 fact-finding investigation, investigation into actual conditions, fact-finding survey
@@ -93,7 +93,7 @@
 13786	11293	odoshi	おどし	脅し	threat | bird-scaring device (scarecrow, gun, etc.)
 13786	11294	kaijouhoanchou	かいじょうほあんちょう	海上保安庁	 Japan Coast Guard (formerly Maritime Safety Agency)
 13786	11295	kaobure	かおぶれ	顔触れ	personnel, members, lineup (of a team), roster, cast (of a play) | announcement of next day's match-ups
-13786	11296	kakujuusuru	かくじゅうする	拡充する	
+13786	11296	kakujuu	かくじゅう	拡充	 expansion
 13786	11297	katappashi	かたっぱし	片っ端	 one edge, one end, one side
 13786	11298	kensatsuchou	けんさつちょう	検察庁	 Public Prosecutor's Office
 13786	11299	gekitsuu	げきつう	激痛	 sharp pain, acute pain, intense pain

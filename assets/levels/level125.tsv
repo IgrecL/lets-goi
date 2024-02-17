@@ -1,5 +1,5 @@
 15125	12401	shireikan	しれいかん	司令官	 commandant, commanding officer, general
-15125	12402	joueisuru	じょうえいする	上映する	
+15125	12402	jouei	じょうえい	上映	screening (a movie), showing | to screen a movie
 15125	12403	jindai	じんだい	甚大	 very great, enormous, serious
 15125	12404	senryakuteki	せんりゃくてき	戦略的	 strategic
 15125	12405	tenki	てんき	転機	 turning point
@@ -7,9 +7,9 @@
 15125	12407	doutokuteki	どうとくてき	道徳的	 ethical, moral
 15125	12408	nagisa	なぎさ	渚	 water's edge, beach, shore, みぎわ (汀)  water's edge, shore, waterside
 15125	12409	nochinochi	のちのち	後々	 future, distant future, のちのち (後々)  future, distant future
-15125	12410	hakkousuru	はっこうする	発酵する	
+15125	12410	hakkou	はっこう	発酵	 fermentation, zymosis
 15125	12411	hanbaikakaku	はんばいかかく	販売価格	 selling price
-15125	12412	hyoushousuru	ひょうしょうする	表彰する	
+15125	12412	hyoushou	ひょうしょう	表彰	 public acknowledgment, public acknowledgement, public recognition, commendation, awarding
 15125	12413	houi	ほうい	方位	 bearing, heading, point of the compass
 15125	12414	houshanou	ほうしゃのう	放射能	 radioactivity
 15125	12415	makiokosu	まきおこす	巻き起こす	 to create (a sensation), to give rise to (controversy)
@@ -17,7 +17,7 @@
 15125	12417	mokutekibutsu	もくてきぶつ	目的物	 object, objective, aim
 15125	12418	yakusou	やくそう	薬草	 medicinal herb
 15125	12419	yuukoukikan	ゆうこうきかん	有効期間	 term of validity, period for which something is valid (e.g. ticket)
-15125	12420	rikkouhosuru	りっこうほする	立候補する	
+15125	12420	rikkouho	りっこうほ	立候補	 candidacy, standing as a candidate, bidding (to host an event, e.g. the Olympics)
 15125	12421	renge	れんげ	蓮華	lotus flower | Chinese milk vetch (Astragalus sinicus) | china spoon | lotus-shaped pedestal for a gravestone
 15125	12422	waridaka	わりだか	割高	 comparatively high, fairly expensive
 15187	12423	ihankoui	いはんこうい	違反行為	
@@ -51,7 +51,7 @@
 15187	12451	chihouzaisei	ちほうざいせい	地方財政	 local government finance
 15187	12452	chihoubunken	ちほうぶんけん	地方分権	 decentralization of power, decentralisation of power
 15187	12453	nomihajimeru	のみはじめる	飲み始める	 to begin to drink
-15187	12454	hakusuru	はくする	博する	to win, to gain, to earn | to spread (one's name, etc.)
+15187	12454	haku	はく	博	doctor, PhD | exposition, fair, exhibition
 15187	12455	hatarakikata	はたらきかた	働き方	 work style, way of working
 15187	12456	fukurahagi	ふくらはぎ	膨脛	
 15187	12457	hokenshi	ほけんし	保健師	 public health nurse
@@ -68,11 +68,11 @@
 15238	12468	kaiyaku	かいやく	解約	 cancellation of a contract
 15238	12469	kairou	かいろう	回廊	 corridor, gallery, hallway, cloister (i.e. covered walk typically circling a building or garden, esp. in a palace or place of worship)
 15238	12470	kazokuzen'in	かぞくぜんいん	家族全員	
-15238	12471	kanshousuru	かんしょうする	鑑賞する	
+15238	12471	kanshou	かんしょう	鑑賞	 appreciation (of art, music, poetry, etc.)
 15238	12472	kanshinji	かんしんじ	関心事	 matter of concern and interest
 15238	12473	kihin	きひん	気品	elegance, refinement, grace, dignity | aroma
 15238	12474	giryou	ぎりょう	技量	 ability, competency, talent, skill, capacity
-15238	12475	keijisuru	けいじする	掲示する	
+15238	12475	keiji	けいじ	掲示	 notice, bulletin, post, posting, placard
 15238	12476	kozeni	こぜに	小銭	small change, coins | small sum of money
 15238	12477	saikoro	さいころ	賽子	 dice, die
 15238	12478	sanmon	さんもん	山門	main temple gate | temple
@@ -80,7 +80,7 @@
 15238	12480	shiboridasu	しぼりだす	絞り出す	 to squeeze out, to wring out
 15238	12481	suubyou	すうびょう	数秒	 several seconds
 15238	12482	seisanryoku	せいさんりょく	生産力	 productivity
-15238	12483	zengosuru	ぜんごする	前後する	
+15238	12483	zengo	ぜんご	前後	front and rear, front and back, before and behind, back and forth | before and after | around, about, approximately | order, context | consequences | just when, around the time of | inversion, reversion, getting out of order | co-occurring, happening at the same time, まえしりえ (前後)  front and rear, front and back, before and behind
 15238	12484	soumushourei	そうむしょうれい	総務省令	
 15238	12485	tansuikabutsu	たんすいかぶつ	炭水化物	 carbohydrate
 15238	12486	torisaru	とりさる	取り去る	 to remove, to eliminate

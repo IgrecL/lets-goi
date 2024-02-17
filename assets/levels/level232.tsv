@@ -8,7 +8,7 @@
 28477	23108	yuuya	ゆうや	祐也	
 28477	23109	youkaigojoutai	ようかいごじょうたい	要介護状態	
 28477	23110	rinshouteki	りんしょうてき	臨床的	
-28477	23111	rousuru	ろうする	弄する	to play with, to joke, to use (esp. trick, sophistry, etc.) | to deride, to scoff at, to make fun of
+28477	23111	rou	ろう	弄	
 28477	23112	ronsetsu	ろんせつ	論説	 editorial, dissertation
 28676	23113	aganau	あがなう	贖う	 to atone for, to expiate, to redeem, to make up for, to compensate for
 28676	23114	akeppanashi	あけっぱなし	開けっ放し	leaving open, leaving ajar | outspoken, frank
@@ -38,14 +38,14 @@
 28676	23138	kakyou	かきょう	華僑	 overseas Chinese
 28676	23139	katakoto	かたこと	片言	 prattle, broken language, halting language, baby talk, imperfect speech, smattering, へんげん (片言) brief remark, few words | one side (e.g. of an argument), ex-parte statement
 28676	23140	kachieru	かちえる	勝ち得る	 to achieve, to win, to gain, to attain
-28676	23141	katsuaisuru	かつあいする	割愛する	
+28676	23141	katsuai	かつあい	割愛	omitting, leaving out, sparing | giving something up reluctantly
 28676	23142	kanekashi	かねかし	金貸し	moneylending | moneylender
 28676	23143	karyoku	かりょく	火力	heating power, thermal power | firepower
 28676	23144	kansouki	かんそうき	乾燥機	 drying machine, dryer, desiccator
 28676	23145	kikai	きかい	器械	machine, mechanism | instrument, appliance, apparatus
 28676	23146	kijou	きじょう	気丈	 stout-hearted, firm, courageous, brave, tough
 28676	23147	kisetsugoto	きせつごと	季節毎	
-28676	23148	kitsumonsuru	きつもんする	詰問する	
+28676	23148	kitsumon	きつもん	詰問	 cross-examination, close questioning, demanding an explanation
 28676	23149	kiten	きてん	基点	 datum point, cardinal point, reference point, origin
 28676	23150	kyara	きゃら	伽羅	aloes wood (Taxus cuspidata var. nana) | aloes-wood perfume, aloes-wood incense
 28676	23151	kirikata	きりかた	切り方	 way of cutting, how to cut or slice
@@ -72,8 +72,8 @@
 28676	23172	sasoikomu	さそいこむ	誘い込む	 to entice, to tempt, to invite someone to join in
 28676	23173	sanyukoku	さんゆこく	産油国	 oil-producing countries (nations)
 28676	23174	zaigakuchuu	ざいがくちゅう	在学中	
-28676	23175	shikkyakusuru	しっきゃくする	失脚する	
-28676	23176	shuujukusuru	しゅうじゅくする	習熟する	
+28676	23175	shikkyaku	しっきゃく	失脚	 losing one's position, losing one's standing, downfall, fall (from power), being overthrown
+28676	23176	shuujuku	しゅうじゅく	習熟	 proficiency, mastery, becoming proficient (in)
 28676	23177	shutsujoudekiru	しゅつじょうできる	出場出来る	
 28676	23178	shotokusuijun	しょとくすいじゅん	所得水準	 income level
 28676	23179	shiryoku	しりょく	資力	 means, resources, wealth
@@ -96,5 +96,5 @@
 28676	23196	suukakan	すうかかん	数日間	 several day period
 28676	23197	suketto	すけっと	助っ人	helper, supporter, second, backer | foreign player (hired to strengthen a team)
 28676	23198	suzuri	すずり	硯	 inkstone
-28676	23199	seichousuru	せいちょうする	生長する	
+28676	23199	seichou	せいちょう	生長	 growth (of a plant)
 28676	23200	sekkyokusei	せっきょくせい	積極性	 assertiveness, positiveness, initiative, spirit of enterprise

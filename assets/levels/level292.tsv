@@ -1,11 +1,11 @@
 36418	29101	amerikateki	あめりかてき	アメリカ的	
 36418	29102	ayaushi	あやうし	危うし	
-36418	29103	anteikasuru	あんていかする	安定化する	
+36418	29103	anteika	あんていか	安定化	 stabilization, stabilisation
 36418	29104	annaiban	あんないばん	案内板	 information board, building directory
 36418	29105	anpan	あんぱん	餡パン	anpan, bread roll filled with red bean paste | paint thinner (as an inhalant)
 36418	29106	iioku	いいおく	言い置く	 to leave word, to leave a message
 36418	29107	isogashisugiru	いそがしすぎる	忙し過ぎる	
-36418	29108	ichininsuru	いちにんする	一任する	
+36418	29108	ichinin	いちにん	一任	 entrusting (everything to), leaving (a matter) entirely with
 36418	29109	itteiryou	いっていりょう	一定量	 fixed amount
 36418	29110	ippankokudou	いっぱんこくどう	一般国道	
 36418	29111	imamadedoori	いままでどおり	今まで通り	 in the same manner as before, the same as always
@@ -18,13 +18,13 @@
 36418	29118	okuruma	おくるま	御車	
 36418	29119	oshouyu	おしょうゆ	御醤油	
 36418	29120	osoto	おそと	御外	
-36418	29121	ochasuru	おちゃする	御茶する	
+36418	29121	ocha	おちゃ	御茶	tea (usu. green) | tea break (at work) | tea ceremony
 36418	29122	omusubi	おむすび	御結び	 rice ball
-36418	29123	omoisuru	おもいする	思いする	
+36418	29123	omoi	おもい	思い	thought | imagination, mind, heart | desire, wish, hope, expectation | love, affection | feelings, emotion, sentiment, experience
 36418	29124	oroshiurikourigyou	おろしうりこうりぎょう	卸売り・小売り業	
 36418	29125	onkai	おんかい	音階	 scale
 36418	29126	onnakodomo	おんなこども	女子供	 women and children
-36418	29127	kaizansuru	かいざんする	改竄する	
+36418	29127	kaizan	かいざん	改竄	 alteration, falsification, faking
 36418	29128	kaishuu	かいしゅう	会衆	 audience, congregation
 36418	29129	kakakuhakai	かかくはかい	価格破壊	 sudden, wide-spread drop in prices
 36418	29130	kakasu	かかす	書かす	
@@ -32,7 +32,7 @@
 36418	29132	kakiorosu	かきおろす	書き下ろす	 to write (a play, book, filmscript, etc.)
 36418	29133	kakitateru	かきたてる	書き立てる	 to write (a person) up (in a positive or negative light), to write something up so that it stands out, to write up in an exaggerated fashion, to detail, to list
 36418	29134	kakuseizaitorishimarihouihan	かくせいざいとりしまりほういはん	覚醒剤取り締まり法違反	
-36418	29135	kashisuru	かしする	下賜する	
+36418	29135	kashi	かし	下賜	 grant, bestowal, giving something to someone of low social standing (by a person of very high social standing)
 36418	29136	kazokuryokou	かぞくりょこう	家族旅行	 family vacation, family trip
 36418	29137	katsubou	かつぼう	渇望	 craving, longing, thirsting
 36418	29138	kamakiri	かまきり	蟷螂	 praying mantis (esp. the narrow-winged mantis, Tenodera angustipennis)
@@ -44,7 +44,7 @@
 36418	29144	kanna	かんな	鉋	 plane (for working with wood)
 36418	29145	gakushuukai	がくしゅうかい	学習会	
 36418	29146	kikan'ininjimu	きかんいにんじむ	機関委任事務	
-36418	29147	kikousuru	きこうする	寄港する	
+36418	29147	kikou	きこう	寄港	 stopping at a port
 36418	29148	kisetsu	きせつ	既設	 established, existing
 36418	29149	kichou	きちょう	几帳	 screen
 36418	29150	kidoudekiru	きどうできる	起動出来る	
@@ -63,8 +63,8 @@
 36418	29163	gyouseisoudan	ぎょうせいそうだん	行政相談	
 36418	29164	kuufukukan	くうふくかん	空腹感	 feeling of emptiness in the stomach, sensation of hunger
 36418	29165	kumomakukashukketsu	くもまくかしゅっけつ	蜘蛛膜下出血	 subarachnoid hemorrhage, subarachnoid haemorrhage
-36418	29166	gubisuru	ぐびする	具備する	
-36418	29167	keigaikasuru	けいがいかする	形骸化する	
+36418	29166	gubi	ぐび	具備	 possessing (what is required), having, fulfilling (conditions), satisfying (requisites), being endowed with
+36418	29167	keigaika	けいがいか	形骸化	 becoming a mere shell, becoming a dead letter, losing (one's) substance, being reduced to a formality
 36418	29168	keekiyasan	けーきやさん	ケーキ屋さん	
 36418	29169	geshunin	げしゅにん	下手人	 offender, criminal
 36418	29170	genzou	げんぞう	現像	 development (of film), photographic processing
@@ -86,15 +86,15 @@
 36418	29186	kobayashihideo	こばやしひでお	小林秀雄	
 36418	29187	konranki	こんらんき	混乱期	
 36418	29188	goikou	ごいこう	御意向	
-36418	29189	gohoukokusuru	ごほうこくする	御報告する	
+36418	29189	gohoukoku	ごほうこく	御報告	
 36418	29190	gondou	ごんどう	権藤	
 36418	29191	sairai	さいらい	再来	return, coming back | second coming (e.g. of Christ), second advent, reincarnation
 36418	29192	sakui	さくい	作為	artificiality, pretence, contrived act | commission (of a crime), feasance
-36418	29193	sasshousuru	さっしょうする	殺傷する	
+36418	29193	sasshou	さっしょう	殺傷	 killing and wounding, bloodshed
 36418	29194	sawan	さわん	左腕	left arm | left-handed (baseball pitcher)
 36418	29195	zaitsu	ざいつ	財津	
 36418	29196	zayaku	ざやく	座薬	 suppository
 36418	29197	shiiresaki	しいれさき	仕入れ先	 supplier
 36418	29198	shikou	しこう	試行	 making an attempt, trial run
-36418	29199	shishuusuru	ししゅうする	刺繍する	
+36418	29199	shishuu	ししゅう	刺繍	 embroidery
 36418	29200	shitei	してい	師弟	 teacher and student

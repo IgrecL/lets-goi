@@ -1,18 +1,18 @@
-21582	17601	tankyuusuru	たんきゅうする	探求する	
-21582	17602	dassousuru	だっそうする	脱走する	
+21582	17601	tankyuu	たんきゅう	探求	 search, quest, pursuit
+21582	17602	dassou	だっそう	脱走	 escape, flight, breakout, fleeing, desertion
 21582	17603	chiikigoto	ちいきごと	地域毎	
 21582	17604	chuushinshigaichi	ちゅうしんしがいち	中心市街地	 city centre (center), inner city, town centre
-21582	17605	tsuikyuusuru	ついきゅうする	追究する	
+21582	17605	tsuikyuu	ついきゅう	追究	 investigation (e.g. academically, of the unknown), close inquiry (enquiry)
 21582	17606	tsumitoru	つみとる	摘み取る	 to pluck, to pick, to nip off
 21582	17607	teko	てこ	梃子	lever | agent (causing something to happen), instrument, force | assistant, helper
 21582	17608	terebiasahi	てれびあさひ	テレビ朝日	
 21582	17609	tensen	てんせん	点線	 dotted line, perforated line
 21582	17610	hateshinai	はてしない	果てし無い	 endless, boundless, everlasting
 21582	17611	hayashi	はやし	早し	
-21582	17612	hiketsusuru	ひけつする	否決する	
+21582	17612	hiketsu	ひけつ	否決	 rejection, negation, voting down
 21582	17613	bungakutekisoyoubusoku	ぶんがくてきそようぶそく	文学的素養不足	
 21582	17614	bungei	ぶんげい	文芸	literature | the arts, art and literature, liberal arts
-21582	17615	hougansuru	ほうがんする	包含する	
+21582	17615	hougan	ほうがん	包含	 inclusion, comprehension, implication, containing, covering
 21582	17616	hotobashiru	ほとばしる	迸る	 to surge, to well up, to gush out
 21582	17617	mannin	まんにん	万人	all people, everybody | ten thousand people
 21582	17618	yamaaruki	やまあるき	山歩き	 mountain-walking, hiking
@@ -32,7 +32,7 @@
 21682	17632	odokeru	おどける	戯ける	 to jest, to joke, to play the fool, to act indecently, to be silly over, to talk foolishly
 21682	17633	omawarisan	おまわりさん	御巡りさん	 police officer
 21682	17634	oyarininaru	おやりになる	御遣りに成る	
-21682	17635	owabisuru	おわびする	御詫びする	
+21682	17635	owabi	おわび	御詫び	 apology
 21682	17636	kaikan	かいかん	開館	opening (for that day's business; of a library, museum, cinema, etc.) | opening (of a new library, museum, cinema, etc.)
 21682	17637	kageru	かげる	陰る	 to darken, to get dark, to be clouded, to be hidden (behind clouds)
 21682	17638	kateikyouiku	かていきょういく	家庭教育	 home education
@@ -50,9 +50,9 @@
 21682	17650	kinkyou	きんきょう	近況	 recent state, present state, present condition, current status, current circumstances
 21682	17651	giji	ぎじ	議事	 proceedings (e.g. parliament, congress), business (of the day)
 21682	17652	kunizentai	くにぜんたい	国全体	
-21682	17653	ketsujitsusuru	けつじつする	結実する	
+21682	17653	ketsujitsu	けつじつ	結実	fruition, fructification, bearing fruit | bearing fruit (of efforts, plans, etc.), coming to fruition, yielding success, paying off, realization, realisation, fruit (e.g. of hard work), result
 21682	17654	kenshutsu	けんしゅつ	検出	 detection, sense (e.g. sensor)
-21682	17655	kenseisuru	けんせいする	牽制する	
+21682	17655	kensei	けんせい	牽制	check, keeping in check, restraint, curbing, reining in, discouraging (from doing) | containment (of enemy forces), diversionary action, feint operation, show of force | pickoff throw, holding a runner on base
 21682	17656	kensetsuhi	けんせつひ	建設費	 construction (building) costs
 21682	17657	kenpoukaisei	けんぽうかいせい	憲法改正	 constitutional reform, constitutional amendment
 21682	17658	kodomojishin	こどもじしん	子供自身	
@@ -64,24 +64,24 @@
 21682	17664	shitasaki	したさき	舌先	 tip of tongue
 21682	17665	shikkaku	しっかく	失格	disqualification, elimination, incapacity | being unfit for one's role, being a failure
 21682	17666	shikkoukikan	しっこうきかん	執行機関	 executive committee or organ
-21682	17667	shuttensuru	しゅってんする	出店する	
+21682	17667	shutten	しゅってん	出店	food stand, food stall | branch store, しゅってん (出店) setting up a stall or booth (bazaar, festival) | opening a branch office, opening a store
 21682	17668	shouhiseikatsu	しょうひせいかつ	消費生活	 one's life as a consumer
 21682	17669	shouyo	しょうよ	賞与	bonus | reward, prize
 21682	17670	jikomanzoku	じこまんぞく	自己満足	 self-satisfaction, (self-)complacency, smugness
 21682	17671	jishukisei	じしゅきせい	自主規制	 voluntary restraints, self-limitation
-21682	17672	jukuseisuru	じゅくせいする	熟成する	
+21682	17672	jukusei	じゅくせい	熟成	 maturing, ripening, aging, ageing, curing, fermenting
 21682	17673	junyuu	じゅにゅう	授乳	 breast-feeding, suckling, nursing
 21682	17674	suishintou	すいしんとう	推進等	
 21682	17675	sutesaru	すてさる	捨て去る	 to abandon (ship)
 21682	17676	seishinbunseki	せいしんぶんせき	精神分析	 psychoanalysis
 21682	17677	seinenki	せいねんき	青年期	 adolescence
 21682	17678	seiyouigaku	せいよういがく	西洋医学	 Western medicine
-21682	17679	daibensuru	だいべんする	代弁する	
+21682	17679	daiben	だいべん	代弁	speaking by proxy, speaking for (someone else), acting as spokesman (for), representing (the views, feelings, etc. of) | payment by proxy, compensation by proxy, paying on behalf (of) | acting for (someone else), carrying out (on someone's behalf)
 21682	17680	chuugakuseiijou	ちゅうがくせいいじょう	中学生以上	
 21682	17681	chinshakuken	ちんしゃくけん	賃借権	 right to lease
 21682	17682	tsukaikomu	つかいこむ	使い込む	to embezzle, to misappropriate, to peculate | to accustom oneself to using, to use for a long time
-21682	17683	teiresuru	ていれする	手入れする	
-21682	17684	tetsuzukisuru	てつづきする	手続きする	
+21682	17683	teire	ていれ	手入れ	care, looking after, repair, maintenance, tending, trimming, grooming | (police) raid, crackdown
+21682	17684	tetsuzuki	てつづき	手続き	 procedure, process, proceedings, formalities
 21682	17685	denkikikai	でんききかい	電気機械	electric machine | electro mechanical
 21682	17686	toukyuu	とうきゅう	等級	grade, class, degree, rank, rating, order, points | magnitude
 21682	17687	tokedasu	とけだす	溶け出す	 to begin to dissolve
@@ -89,7 +89,7 @@
 21682	17689	toyoda	とよだ	豊田	
 21682	17690	dounin	どうにん	同人	same person | said person, the person in question | coterie, clique, fraternity, kindred spirits, comrade, colleague | dōjin, doujin, Japanese fans or hobbyists who produce their owns magazines, manga, software, etc.
 21682	17691	douninshi	どうにんし	同人誌	 dōjinshi, magazine published by like-minded people, fanzine, zine
-21682	17692	namidasuru	なみだする	涙する	 to cry, to shed tears, to be moved to tears
+21682	17692	namida	なみだ	涙	tear, tears, lachrymal secretion | sympathy
 21682	17693	negao	ねがお	寝顔	 sleeping face
 21682	17694	nekotachi	ねこたち	猫達	
 21682	17695	hantaiiken	はんたいいけん	反対意見	 dissenting opinion, opposite viewpoint, contraview

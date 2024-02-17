@@ -20,9 +20,9 @@
 14783	12120	shirowain	しろわいん	白ワイン	 white wine
 14783	12121	juumei	じゅうめい	十名	
 14783	12122	setaisuu	せたいすう	世帯数	 number of households
-14783	12123	sokuisuru	そくいする	即位する	
+14783	12123	sokui	そくい	即位	 accession to the throne, enthronement
 14783	12124	zougaku	ぞうがく	増額	 increase (in an amount of money)
-14783	12125	zokushutsusuru	ぞくしゅつする	続出する	
+14783	12125	zokushutsu	ぞくしゅつ	続出	 appearing one after another, cropping up one after another, occurring in succession
 14783	12126	taemanai	たえまない	絶え間無い	 incessant, constant, continuous, perpetual, everlasting
 14783	12127	tachisukumu	たちすくむ	立ち竦む	 to be petrified, to be unable to move, to be paralyzed (with horror), to be stupefied (with amazement)
 14783	12128	chikyuukibo	ちきゅうきぼ	地球規模	 global scale
@@ -66,7 +66,7 @@
 14827	12166	torikimeru	とりきめる	取り決める	 to agree, to decide upon, to enter into (a contract)
 14827	12167	torikowasu	とりこわす	取り壊す	 to demolish, to tear down, to pull down
 14827	12168	nagareochiru	ながれおちる	流れ落ちる	 to run off (fluid), to run down, to flow down
-14827	12169	nyuukaisuru	にゅうかいする	入会する	
+14827	12169	nyuukai	にゅうかい	入会	 admission, joining, enrollment, enrolment, いりあい (入会)  common (e.g. fishery or hunting ground), commonage
 14827	12170	fukugen	ふくげん	復元	 restoration (to original state or location), reconstruction, reversion
 14827	12171	ho	ほ	帆	 sail
 14827	12172	hokubei	ほくべい	北米	 North America
@@ -78,8 +78,8 @@
 14827	12178	men'ekiryoku	めんえきりょく	免疫力	 immune strength, immunity
 14827	12179	yasumono	やすもの	安物	 cheap article, poor quality article
 14827	12180	yuuseimin'eika	ゆうせいみんえいか	郵政民営化	 postal privatisation (privatisation of Japan Post)
-14827	12181	yogensuru	よげんする	予言する	
-14827	12182	renkousuru	れんこうする	連行する	
+14827	12181	yogen	よげん	予言	 prediction, prophecy, prognostication, かねごと (予言)  promise, prediction
+14827	12182	renkou	れんこう	連行	 taking (a suspect to the police), dragging (someone) away
 14877	12183	ankoku	あんこく	暗黒	 darkness
 14877	12184	anteikan	あんていかん	安定感	 sense of stability
 14877	12185	isshou	いっしょう	一勝	 one win, one victory
@@ -87,7 +87,7 @@
 14877	12187	one	おね	尾根	 (mountain) ridge
 14877	12188	onshi	おんし	恩師	 teacher (to whom one owes a debt of gratitude), mentor, one's former teacher
 14877	12189	onshitsu	おんしつ	音質	 tone quality, sound quality
-14877	12190	kaigosuru	かいごする	介護する	
+14877	12190	kaigo	かいご	介護	 nursing, care, caregiving, caring
 14877	12191	kaimaku	かいまく	開幕	raising the curtain | opening (of an event), start of a season
 14877	12192	kakekin	かけきん	掛け金	 installment, instalment, premium, bill, かけがね (掛け金) latch, lock, sneck | joint of the jaw
 14877	12193	kangaetsuku	かんがえつく	考え付く	 to think of, to come up with

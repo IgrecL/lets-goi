@@ -11,10 +11,10 @@
 7336	6111	yurui	ゆるい	緩い	lukewarm, tepid | lenient | slow, stupid, ゆるい (緩い) loose | lenient, lax | gentle (curve, slope, etc.) | slow, weak | soft, not firm | difficult, hard
 7343	6112	abareru	あばれる	暴れる	 to act violently, to rage, to struggle, to be riotous
 7343	6113	ayamachi	あやまち	過ち	 fault, error, indiscretion, faux pas
-7343	6114	oubosuru	おうぼする	応募する	
+7343	6114	oubo	おうぼ	応募	 application, subscription, entry (competition, raffle, etc.), enlistment
 7343	6115	kinmu	きんむ	勤務	 service, duty, work
 7343	6116	shika	しか	鹿	 deer (esp. the sika deer, Cervus nippon), cervid, しし (獣) beast (esp. one used for its meat, such as a boar or a deer) | hunting (of animals such as boar, deer, etc.), かのしし (鹿) deer meat | deer
-7343	6117	seisakusuru	せいさくする	制作する	
+7343	6117	seisaku	せいさく	制作	work (film, book) | production, creation, turning (something) out, development
 7343	6118	senpou	せんぽう	先方	other party, other side | ahead, in front | destination, さきがた (先方)  a short while ago
 7343	6119	sousou	そうそう	早々	as soon as..., just after..., immediately after... | hurriedly, in haste, quickly, promptly, early, はやはや (早々)  quickly, はやばや (早々)  early, quickly, promptly
 7343	6120	daijuuichijou	だいじゅういちじょう	第十一条	
@@ -30,10 +30,10 @@
 7357	6130	bai	ばい	倍	twice, double | times, -fold | 1-nth, 1 to n, 1 in n
 7357	6131	bochi	ぼち	墓地	 cemetery, graveyard
 7357	6132	memai	めまい	目眩	 dizziness, giddiness, vertigo
-7370	6133	ikuseisuru	いくせいする	育成する	
+7370	6133	ikusei	いくせい	育成	 rearing, training, nurture, cultivation, promotion
 7370	6134	imiai	いみあい	意味合い	 implication, nuance, shade of meaning, connotation
 7370	6135	kamen	かめん	仮面	mask | disguise, guise, mask
-7370	6136	keiyusuru	けいゆする	経由する	
+7370	6136	keiyu	けいゆ	経由	 going through, going via, going by way of
 7370	6137	genji	げんじ	源氏	Genji (the character in the Genji Monogatari) | the Minamoto family
 7370	6138	saibai	さいばい	栽培	 cultivation
 7370	6139	zokuzoku	ぞくぞく	続々	 successively, one after another
@@ -45,27 +45,27 @@
 7386	6145	kashitsu	かしつ	過失	accident (caused by negligence), error, blunder | fault, defect
 7386	6146	kou	こう	甲	 armor, armour, かぶと (兜)  helmet (of a warrior), headpiece, こう (甲) carapace, shell | 1st in rank, grade A | instep, back of hand | the A party (e.g. in a contract), the first party, plaintiff (label in legal documents), かん (甲)  treble range (in Japanese music), high note, きのえ (甲)  first sign of the Chinese calendar
 7386	6147	saku	さく	作	work (e.g. of art), production | harvest, cultivation, farming, crop, yield | technique
-7386	6148	chuushutsusuru	ちゅうしゅつする	抽出する	
+7386	6148	chuushutsu	ちゅうしゅつ	抽出	extraction, abstraction | selection (from a group), sampling
 7386	6149	tsukaiwakeru	つかいわける	使い分ける	 to use properly, to use (different things) for different purposes
 7386	6150	nyuujouryou	にゅうじょうりょう	入場料	 entrance fee, admission fee, admission, entrance charge, admission charge
 7386	6151	bakudan	ばくだん	爆弾	bomb | alcohol with liquor added (esp. wine-based shōchū highball, also beer with whiskey)
 7386	6152	yomikata	よみかた	読み方	pronunciation, reading (e.g. of a kanji) | way of reading (out loud) | interpretation (e.g. of a text), reading
-7400	6153	kessuru	けっする	決する	 to decide, to determine
+7400	6153	ketsu	けっ	決	 decision, vote
 7400	6154	shoudou	しょうどう	衝動	 impulse, impetus, urge
 7400	6155	jiisan	じいさん	爺さん	grandfather (may be used after name as honorific) | male senior-citizen (may be used after name as honorific)
 7400	6156	mokutekichi	もくてきち	目的地	 place of destination
 7400	6157	yosu	よす	止す	 to cease, to desist, to cut it out, to lay off (an activity), to drop (a subject) to abolish, to resign, to give up, さす (止す)  to stop in the midst of, to leave undone
-7409	6158	kyouseisuru	きょうせいする	強制する	
+7409	6158	kyousei	きょうせい	強制	 compulsion, coercion, forcing (to do), enforcement
 7409	6159	sen'i	せんい	繊維	 fibre, fiber, textile
 7409	6160	narigachi	なりがち	成り勝ち	
 7409	6161	nimono	にもの	煮物	 nimono, food cooked by boiling or stewing
-7409	6162	fukkisuru	ふっきする	復帰する	
+7409	6162	fukki	ふっき	復帰	return, comeback, reinstatement | carriage return, CR
 7409	6163	horobiru	ほろびる	滅びる	 to go to ruin, to go under, to fall, to be destroyed, to die out, to become extinct, to perish
-7409	6164	mitchakusuru	みっちゃくする	密着する	
+7409	6164	mitchaku	みっちゃく	密着	close adhesion, sticking firmly to, being glued to | relating closely to, having relevance to | contact printing
 7417	6165	irodoru	いろどる	彩る	to colour, to color, to paint | to apply make-up | to decorate, to garnish, to adorn, to add flair
 7417	6166	uketamawaru	うけたまわる	承る	to hear, to be told, to know | to receive (order), to undertake, to comply, to take (a reservation, etc.)
 7417	6167	umami	うまみ	旨み	good flavor (flavour), good taste, deliciousness | umami (fifth category of taste in food) | skill, cleverness, charm, attractiveness | profit, gain, benefit, advantage
-7417	6168	enjosuru	えんじょする	援助する	
+7417	6168	enjo	えんじょ	援助	 assistance, aid, support
 7417	6169	sousuu	そうすう	総数	 total (number), count
 7417	6170	rojou	ろじょう	路上	on the road, on the street, in the street | on the way
 7428	6171	unagi	うなぎ	鰻	 eel (esp. the Japanese eel, Anguilla japonica), うな (鰻)  eel (esp. the Japanese eel, Anguilla japonica)
@@ -85,9 +85,9 @@
 7439	6185	fusei	ふせい	不正	 injustice, unfairness, wrongdoing, iniquity, impropriety, irregularity, dishonesty, illegality, fraud
 7446	6186	oshidasu	おしだす	押し出す	to crowd out, to push out, to squeeze out | to start together, to set out en masse | to highlight, to draw attention to
 7446	6187	kachi	かち	勝ち	 win, victory, がち (勝ち) apt to (do), liable to, prone to, inclined to, tend to | predominantly, mostly, having lots of | ... reaps the rewards, ... takes the prize, ... wins
-7446	6188	shitsureisuru	しつれいする	失礼する	
+7446	6188	shitsurei	しつれい	失礼	discourtesy, impoliteness | excuse me, goodbye | to leave | to be rude
 7446	6189	shimai	しまい	姉妹	 sisters
-7446	6190	jokyosuru	じょきょする	除去する	
+7446	6190	jokyo	じょきょ	除去	 removal, getting rid of
 7446	6191	zenkai	ぜんかい	前回	 previous time, last time, previous installment, previous instalment, previous session
 7446	6192	nakamatachi	なかまたち	仲間達	
 7446	6193	nori	のり	乗り	riding, ride | spread (of paints) | -seater (e.g. two-seater) | (getting into the) mood, (entering into the) spirit, energy, enthusiasm, rhythm, feeling

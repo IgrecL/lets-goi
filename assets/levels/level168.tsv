@@ -6,8 +6,8 @@
 20444	16706	fumishimeru	ふみしめる	踏み締める	 to step firmly, to harden by treading
 20444	16707	fuyuko	ふゆこ	冬子	
 20444	16708	heikou	へいこう	平行	parallelism, running parallel (to, with) | running concurrently, occurring at the same time, keeping pace with | not reaching an agreement (e.g. of a debate)
-20444	16709	hetasuru	へたする	下手する	
-20444	16710	houshasuru	ほうしゃする	放射する	
+20444	16709	heta	へた	下手	humble position, inferior | underarm grip on opponent's belt, しもて (下手) lower part, foot, lower direction | left part of the stage (audience's or camera's POV), stage right (actor's POV), へた (下手) unskillful, poor, awkward | imprudent, untactful
+20444	16710	housha	ほうしゃ	放射	 radiation, emission
 20444	16711	hoshu	ほしゅ	保守	maintenance | conservatism, conservativeness, conservation
 20444	16712	bougen	ぼうげん	暴言	 abusive language, violent language, wild words
 20444	16713	magoko	まごこ	孫子	 children and grandchildren, posterity, descendants, そんし (孫子) Sun Tzu (Chinese military strategist, 544?-496 BCE) | The Art of War (military text by Sun Tzu, 512 BC) | Sun Bin Bing Fa (military text by Sun Bin)
@@ -25,8 +25,8 @@
 20538	16725	iisugi	いいすぎ	言い過ぎ	 exaggeration, overstatement
 20538	16726	ibitsu	いびつ	歪	distorted, crooked, irregular, warped | oval, elliptical shape | round, wooden container for cooked rice | oval coin
 20538	16727	irakusensou	いらくせんそう	イラク戦争	 Iraq War (2003-2011)
-20538	16728	usetsusuru	うせつする	右折する	
-20538	16729	oukousuru	おうこうする	横行する	
+20538	16728	usetsu	うせつ	右折	 turning to the right, right turn
+20538	16729	oukou	おうこう	横行	walking sideways, staggering, striding | being rampant, being widespread, being prevalent
 20538	16730	otozure	おとずれ	訪れ	visit, call | arrival (e.g. of spring), advent, coming, appearance | news, tidings, word
 20538	16731	onabe	おなべ	御鍋	pot | typical name for a female servant in the Edo-period | working at night | female with symptoms of gender identity disorder (e.g. a transvestite)
 20538	16732	omeate	おめあて	御目当て	
@@ -40,11 +40,11 @@
 20538	16740	kikin	ききん	飢饉	famine, crop failure | chronic shortage (e.g. of water)
 20538	16741	kikenbutsu	きけんぶつ	危険物	 hazardous materials, dangerous goods, explosives, combustibles
 20538	16742	kimae	きまえ	気前	 generosity
-20538	16743	kyuusuru	きゅうする	窮する	to be hard pressed, to be at a loss | to become poor, to be reduced to poverty
-20538	16744	kyouchousuru	きょうちょうする	協調する	
+20538	16743	kyuu	きゅう	窮	
+20538	16744	kyouchou	きょうちょう	協調	 cooperation, conciliation, harmony, coordination
 20538	16745	keisandekiru	けいさんできる	計算出来る	
 20538	16746	keizaisangyoushou	けいざいさんぎょうしょう	経済産業省	 Ministry of Economy, Trade and Industry, METI
-20538	16747	kousaisuru	こうさいする	交際する	
+20538	16747	kousai	こうさい	交際	 company, friendship, association, society, acquaintance
 20538	16748	koutei	こうてい	高低	 high and low, rise and fall
 20538	16749	koufukin	こうふきん	交付金	 subsidy, grant, bounty
 20538	16750	kokuryoku	こくりょく	国力	 national power
@@ -54,21 +54,21 @@
 20538	16754	sagashiateru	さがしあてる	捜し当てる	 to find out, to discover, to detect
 20538	16755	shitsugyouhoken	しつぎょうほけん	失業保険	 unemployment insurance
 20538	16756	shuukyoudantai	しゅうきょうだんたい	宗教団体	 religious group
-20538	16757	shougousuru	しょうごうする	照合する	
+20538	16757	shougou	しょうごう	照合	 collation, comparison
 20538	16758	shojouken	しょじょうけん	諸条件	 terms and conditions
 20538	16759	shiraishi	しらいし	白石	white stone | white (go pieces)
 20538	16760	shiritsudaigaku	しりつだいがく	私立大学	 private university
 20538	16761	jissenchi	じっせんち	十センチ	
 20538	16762	jougi	じょうぎ	定規	 (measuring) ruler
 20538	16763	zukan	ずかん	図鑑	 pictorial book, picture book, illustrated reference book, identification manual, field guide
-20538	16764	senkousuru	せんこうする	専攻する	
+20538	16764	senkou	せんこう	専攻	 major subject, special study
 20538	16765	sengoku	せんごく	戦国	country in civil war, country disarrayed by war | Warring States period (Japan, China) | competiton in which there are several evenly-matched participants, hotly-contested game (match, market, etc.), anybody's game
 20538	16766	zekkyou	ぜっきょう	絶叫	 scream, shriek, shout, exclamation
 20538	16767	zenkokutaikai	ぜんこくたいかい	全国大会	 national convention, national competition, national athletic meet
 20538	16768	sousakan	そうさかん	捜査官	 police investigator, investigator
 20538	16769	tayoreru	たよれる	頼れる	
 20538	16770	daichou	だいちょう	大腸	 large intestine, large bowel, colon
-20538	16771	chakuchisuru	ちゃくちする	着地する	
+20538	16771	chakuchi	ちゃくち	着地	 landing
 20538	16772	chintsuuzai	ちんつうざい	鎮痛剤	 analgesic, painkiller, sedative, tranquilizer, tranquiliser
 20538	16773	tsukaikonaseru	つかいこなせる	使い熟せる	
 20538	16774	tsukaihatasu	つかいはたす	使い果たす	 to use up, to squander
@@ -84,7 +84,7 @@
 20538	16784	hitowari	ひとわり	一割	 ten percent
 20538	16785	himotoku	ひもとく	紐解く	to read (a book), to open (a book) to read | to unravel (e.g. a mystery), to discover (the truth)
 20538	16786	furuitatsu	ふるいたつ	奮い立つ	 to cheer up, to be encouraged (by), to be in high spirits
-20538	16787	henshitsusuru	へんしつする	変質する	
+20538	16787	henshitsu	へんしつ	変質	 alteration (of character or essence), change in quality, transformation, deterioration, degeneration, transmutation
 20538	16788	hosome	ほそめ	細目	 particulars, details, specified items, ほそめ (細目) narrow eyes | fine texture, ほそめ (細め)  thinnish, somewhat narrow
 20538	16789	hori	ほり	彫り	carving, engraving | chiselled features
 20538	16790	maguchi	まぐち	間口	frontage, width (of a building, plot of land, etc.) | breadth (e.g. of one's knowledge), scope (e.g. of one's work), range

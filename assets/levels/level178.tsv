@@ -3,7 +3,7 @@
 21682	17703	buro	ぶろ	風呂	bath, bathing, bathtub, bathroom | bathhouse, public bath | room for drying lacquerware | base (wooden joint connecting the blade of a hoe, spade, etc., to the handle)
 21682	17704	bunkohon	ぶんこほん	文庫本	 small-format paperback book, pocket paperback
 21682	17705	hougai	ほうがい	法外	 exorbitant, outrageous, ridiculous, absurd, excessive, inordinate, extravagant, immoderate
-21682	17706	hoshousuru	ほしょうする	補償する	
+21682	17706	hoshou	ほしょう	補償	 compensation, reparation
 21682	17707	honyuubin	ほにゅうびん	哺乳瓶	 baby bottle
 21682	17708	bousaikunren	ぼうさいくんれん	防災訓練	 disaster prevention practice
 21682	17709	masumi	ますみ	真澄	
@@ -24,9 +24,9 @@
 21811	17724	osomatsu	おそまつ	御粗末	 poor, lame, ill-prepared
 21811	17725	odai	おだい	御題	 theme chosen for an imperial poetry contest
 21811	17726	omosugiru	おもすぎる	重過ぎる	
-21811	17727	kaisousuru	かいそうする	改装する	
+21811	17727	kaisou	かいそう	改装	 remodelling, remodeling, reorganization, reorganisation
 21811	17728	kakiutsusu	かきうつす	書き写す	 to transcribe, to copy
-21811	17729	kakusakusuru	かくさくする	画策する	
+21811	17729	kakusaku	かくさく	画策	 planning, scheming, maneuvering, manoeuvring
 21811	17730	kasa	かさ	笠	conical hat (East-Asian style), coolie hat | something shaped like a conical hat or an umbrella, shade (of a lamp), mushroom cap, pileus
 21811	17731	kasou	かそう	下層	lower layer, layer beneath | lower strata (classes)
 21811	17732	kazokuminna	かぞくみんな	家族皆	
@@ -34,11 +34,11 @@
 21811	17734	kangaesugiru	かんがえすぎる	考え過ぎる	 to think too much, to be over-concerned
 21811	17735	gaishikei	がいしけい	外資系	 foreign capital group, foreign company
 21811	17736	kinousei	きのうせい	機能性	 functionality
-21811	17737	kyuumeisuru	きゅうめいする	究明する	
+21811	17737	kyuumei	きゅうめい	究明	 investigation (esp. in academic and scientific contexts)
 21811	17738	kyounen	きょうねん	享年	 one's age at death
 21811	17739	kyoboku	きょぼく	巨木	 big tree
 21811	17740	kusen	くせん	苦戦	 hard fight, close game, struggle, tight contest
-21811	17741	koushinsuru	こうしんする	行進する	
+21811	17741	koushin	こうしん	行進	 march, parade
 21811	17742	kouchikubutsu	こうちくぶつ	構築物	 structure
 21811	17743	kounaien	こうないえん	口内炎	 mouth ulcer, stomatitis
 21811	17744	kouno	こうの	河野	
@@ -51,7 +51,7 @@
 21811	17751	shikijou	しきじょう	式場	 ceremonial hall (e.g. wedding, funeral), hall for ceremonies, place of ceremony
 21811	17752	shimada	しまだ	島田	 pompadour-like hair style, popular for unmarried women in the Edo period, shimada coiffure
 21811	17753	shashu	しゃしゅ	社主	 owner of a company, head of a company
-21811	17754	shuuchisuru	しゅうちする	周知する	
+21811	17754	shuuchi	しゅうち	周知	 common knowledge, being well-known, making (something) well-known
 21811	17755	shougakuseiika	しょうがくせいいか	小学生以下	
 21811	17756	shounen'in	しょうねんいん	少年院	 reform school, reformatory, youth detention center (centre)
 21811	17757	shounenhou	しょうねんほう	少年法	 Juvenile Act
@@ -63,9 +63,9 @@
 21811	17763	joujou	じょうじょう	上々	 the very best, excellent, superb
 21811	17764	jouba	じょうば	乗馬	horse riding, mounting a horse | mount, riding horse, saddle horse, horse one is riding
 21811	17765	seishitsubetsuuchiwake	せいしつべつうちわけ	性質別内訳	
-21811	17766	seppakusuru	せっぱくする	切迫する	
+21811	17766	seppaku	せっぱく	切迫	 pressure, urgency, tension, imminence, acuteness
 21811	17767	sen	せん	箋	slip (of paper) | tag (usu. bamboo, wood, ivory, etc.), label
-21811	17768	sendousuru	せんどうする	先導する	
+21811	17768	sendou	せんどう	先導	 guidance, leadership, leading the way
 21811	17769	senbetsu	せんべつ	選別	 selection, classification, sorting, screening, triage
 21811	17770	zenmen	ぜんめん	全面	 whole surface, entire
 21811	17771	takanaru	たかなる	高鳴る	 to throb, to beat fast
@@ -78,7 +78,7 @@
 21811	17778	chakai	ちゃかい	茶会	tea party, get-together | tea ceremony
 21811	17779	choukokuka	ちょうこくか	彫刻家	 engraver, carver, sculptor
 21811	17780	tenmongaku	てんもんがく	天文学	 astronomy
-21811	17781	denshousuru	でんしょうする	伝承する	
+21811	17781	denshou	でんしょう	伝承	 handing down (information), legend, tradition, folklore, transmission
 21811	17782	tokuhitsusu	とくひつす	特筆す	
 21811	17783	douseiai	どうせいあい	同性愛	 homosexual love
 21811	17784	douyou	どうよう	童謡	 children's song, nursery rhyme

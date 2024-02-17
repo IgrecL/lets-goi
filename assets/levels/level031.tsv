@@ -6,14 +6,14 @@
 3560	3006	wazato	わざと	態と	 on purpose, deliberately, intentionally
 3562	3007	hiroba	ひろば	広場	public square, square, plaza, piazza, forum | open space, clearing
 3563	3008	yatsura	やつら	奴等	 they, those guys
-3564	3009	izonsuru	いぞんする	依存する	
+3564	3009	izon	いぞん	依存	 dependence, reliance
 3565	3010	kyuujitsu	きゅうじつ	休日	 holiday, day off
-3565	3011	haijosuru	はいじょする	排除する	
+3565	3011	haijo	はいじょ	排除	 exclusion, removal, rejection, elimination, abatement, lifting (sanctions, etc.)
 3567	3012	oni	おに	鬼	ogre, demon, oni | spirit of a deceased person | ogre-like person (i.e. fierce, relentless, merciless, etc.) | it (in a game of tag, hide-and-seek, etc.) | Chinese "ghost" constellation (one of the 28 mansions) | very, extremely, super-, しこ (醜) ugly, repulsive, detestable, contemptible | unworthy, insignificant, humble | strong and frightening thing
 3567	3013	omosa	おもさ	重さ	 weight
 3567	3014	tsuku	つく	吐く	to breathe out, to breathe | to tell (a lie), to use (foul language) | to vomit, to throw up, to spit up, はく (吐く) to vomit, to throw up, to spit up | to emit, to send forth, to breathe out | to give (an opinion), to make (a comment), to express, to tell | to confess
 3571	3015	kaki	かき	下記	 the following
-3571	3016	kanshinsuru	かんしんする	感心する	
+3571	3016	kanshin	かんしん	感心	admiration, being impressed | admirable, praiseworthy | astonishment, being appalled
 3571	3017	junban	じゅんばん	順番	 turn (in line), order of things, sequential order
 3571	3018	yochi	よち	余地	 place, room, margin, scope
 3576	3019	ichidai	いちだい	一台	 one machine, one vehicle
@@ -23,7 +23,7 @@
 3578	3023	chijin	ちじん	知人	 friend, acquaintance
 3581	3024	moru	もる	盛る	to prosper, to flourish | to copulate (animals), もる (盛る) to serve (in a bowl, on a plate, etc.), to dish out, to dish up, to fill (a bowl) with | to pile up, to heap up, to fill up, to stack up | to administer (medicine, poison), to dose out, to prescribe | to put into (e.g. information in a report, meaning in a statement) | to mark out (e.g. scale), to graduate (e.g. thermometer) | to exaggerate, to apply heavy makeup
 3583	3025	kenzen	けんぜん	健全	 healthy, sound, wholesome
-3583	3026	chuumonsuru	ちゅうもんする	注文する	
+3583	3026	chuumon	ちゅうもん	注文	order (for an item) | request, demand, condition, ちゅうぶん (注文)  annotation, explanatory note
 3583	3027	mochinushi	もちぬし	持ち主	 owner, proprietor, possessor (e.g. of talent, beauty, etc.)
 3587	3028	kiiro	きいろ	黄色	 yellow, amber
 3587	3029	toho	とほ	徒歩	 walking, going on foot, かち (徒) foot soldier (Edo period), samurai on foot | going on foot, walking
@@ -46,14 +46,14 @@
 3607	3046	kiiroi	きいろい	黄色い	yellow | high-pitched (voice), shrill
 3607	3047	sakanoboru	さかのぼる	遡る	to go upstream | to go back (in time, to origin), to date back to, to trace back to, to make retroactive
 3611	3048	juureirei	じゅうれいれい	十：零零	
-3611	3049	seigensuru	せいげんする	制限する	
-3616	3050	kinousuru	きのうする	機能する	
-3617	3051	shisuru	しする	資する	to contribute, to play a part in, to have a hand in, to be conducive to, to be instrumental in | to finance
-3617	3052	junbisuru	じゅんびする	準備する	
+3611	3049	seigen	せいげん	制限	 restriction, restraint, limitation, limit
+3616	3050	kinou	きのう	機能	 function, facility, faculty, feature
+3617	3051	shi	し	資	funds, capital | material, basis | character, qualities, disposition
+3617	3052	junbi	じゅんび	準備	 preparation, arrangements, getting ready, provision, setup, reserving
 3617	3053	chuugokujin	ちゅうごくじん	中国人	 Chinese person
 3617	3054	hadaka	はだか	裸	nakedness, nudity | bareness, nakedness, baldness, being uncovered | being penniless | concealing nothing, openness
 3622	3055	jinsoku	じんそく	迅速	 quick, fast, rapid, swift, prompt, streamlined, expedited, expeditious
-3622	3056	chousensuru	ちょうせんする	挑戦する	
+3622	3056	chousen	ちょうせん	挑戦	 challenge, defiance, dare, attempt, try
 3625	3057	juu	じゅう	銃	 gun, rifle, small arms
 3626	3058	orei	おれい	御礼	thanks, gratitude | manners, etiquette | bow | reward, gift | ceremony, ritual
 3627	3059	kuzusu	くずす	崩す	to destroy, to demolish, to pull down, to tear down, to level | to disturb, to put into disorder, to throw off balance, to make shaky | to relax (one's pose), to make oneself at ease | to break (a bill), to change, to make change | to write in cursive style, to write in running style | to break into a smile, to let off a smile | to lower (a price)
@@ -62,11 +62,11 @@
 3629	3062	tanpakushitsu	たんぱくしつ	蛋白質	 protein
 3629	3063	hokori	ほこり	誇り	 pride, boast, credit (to)
 3633	3064	kuruu	くるう	狂う	to go mad, to lose one's mind, to go crazy, to go insane | to get out of order, to go amiss, to malfunction, to become imprecise | to go wrong (of a plan or expectation, etc.), to fall through, to get mixed up | to go crazy (over someone or something), to get enthusiastic, to go wild
-3633	3065	kouchikusuru	こうちくする	構築する	
+3633	3065	kouchiku	こうちく	構築	 construction, building, putting up, erecting, creation, formulation, architecture (systems, agreement, etc.)
 3633	3066	nagoya	なごや	名古屋	 Nagoya (city)
 3633	3067	honkon	ほんこん	香港	 Hong Kong, Hongkong
 3637	3068	bungaku	ぶんがく	文学	 literature
-3637	3069	hoyuusuru	ほゆうする	保有する	
+3637	3069	hoyuu	ほゆう	保有	 possession, retention, maintenance
 3640	3070	kuukou	くうこう	空港	 airport
 3640	3071	kurushimi	くるしみ	苦しみ	 pain, anguish, distress, suffering, hardship
 3642	3072	senryaku	せんりゃく	戦略	 strategy, tactics
@@ -75,7 +75,7 @@
 3646	3075	hajimari	はじまり	始まり	 origin, beginning
 3646	3076	furuku	ふるく	古く	anciently, formerly | old times, a long time ago
 3648	3077	ikimono	いきもの	生き物	 living thing, living creature, animal, life
-3648	3078	untensuru	うんてんする	運転する	
+3648	3078	unten	うんてん	運転	operation (of a machine, etc.), operating, running, run | driving | working (capital, etc.)
 3648	3079	shikou	しこう	思考	 thought, consideration, thinking
 3648	3080	tairitsu	たいりつ	対立	 confrontation, opposition, antagonism
 3654	3081	oji	おじ	伯父	 uncle, えおじ (伯父)  uncle (one's father's older brother)
@@ -85,16 +85,16 @@
 3659	3085	saido	さいど	再度	 twice, again, second time
 3659	3086	shihon	しほん	資本	 funds, capital
 3659	3087	hitorihitori	ひとりひとり	一人一人	 each (person), individually, one by one, one at a time, in turn
-3662	3088	kandousuru	かんどうする	感動する	
+3662	3088	kandou	かんどう	感動	 being deeply moved emotionally, excitement, passion, inspiration, deep emotion, strong impression
 3662	3089	nomikomu	のみこむ	飲み込む	to gulp down, to swallow deeply | to understand, to take in, to catch on to, to learn, to digest | to engulf, to swallow up | to be filled with (people), to be crowded | to hold back from saying something, to swallow (one's words)
 3664	3090	goya	ごや	小屋	hut, cabin, shed, (animal) pen | small theatre (theater), temporary playhouse, circus tent, booth | one's own house
 3664	3091	saichuu	さいちゅう	最中	 (in) the middle of, (in) the midst of, (in) the course of, (at) the height of, もなか (最中) wafer cake filled with bean jam | (in) the middle of, (in) the midst of, (in) the course of, (at) the height of
 3666	3092	shoshinsha	しょしんしゃ	初心者	 beginner
 3666	3093	yoyaku	よやく	予約	reservation, appointment, booking, advance order | contract, subscription, pledge | programming (e.g. a device), setting (e.g. a timer)
 3669	3094	kaku	かく	欠く	to chip, to nick, to break, to crack | to lack
-3670	3095	shoyuusuru	しょゆうする	所有する	
-3670	3096	seiteisuru	せいていする	制定する	
-3670	3097	hyoumeisuru	ひょうめいする	表明する	
+3670	3095	shoyuu	しょゆう	所有	 one's possessions, ownership
+3670	3096	seitei	せいてい	制定	 enactment, establishment, creation
+3670	3097	hyoumei	ひょうめい	表明	 declaration, indication, representation, manifestation, demonstration, expression, announcement, assertion
 3670	3098	yubisasu	ゆびさす	指差す	 to point at
 3674	3099	kakeru	かける	書ける	
 3675	3100	kansei	かんせい	完成	complete, completion | perfection, accomplishment
